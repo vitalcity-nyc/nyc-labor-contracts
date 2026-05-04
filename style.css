@@ -84,6 +84,60 @@ a:hover { color: var(--vc-accent); text-decoration-thickness: 2px; }
 
 main { padding: 28px 0 80px; }
 
+/* ---------- Page-level nav CTA ---------- */
+.page-nav {
+  margin-top: 18px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 18px;
+}
+.page-nav-cta {
+  display: inline-flex; flex-direction: column; gap: 2px;
+  background: var(--vc-black); color: var(--vc-white) !important;
+  padding: 12px 18px; text-decoration: none !important;
+  border: 1px solid var(--vc-black);
+}
+.page-nav-cta:hover { background: var(--vc-accent); border-color: var(--vc-accent); }
+.page-nav-cta:hover .page-nav-cta-sub { color: var(--vc-black); }
+.page-nav-cta-label {
+  font-weight: 700; font-size: 0.92rem;
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+.page-nav-cta-sub {
+  font-size: 0.78rem; color: var(--vc-chartreuse);
+  letter-spacing: 0.04em;
+}
+.page-nav-link {
+  font-size: 0.92rem; color: var(--vc-text);
+  text-decoration: underline; text-underline-offset: 4px;
+}
+.page-nav-link:hover { color: var(--vc-accent); }
+
+/* ---------- Why tooltip ---------- */
+.why-tip-trigger {
+  background: none; border: 1px solid var(--vc-rule);
+  padding: 1px 8px; cursor: help;
+  font: 700 0.7rem var(--vc-font-sans);
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--vc-text); margin-left: 4px;
+  position: relative;
+}
+.why-tip-trigger:hover { background: var(--vc-black); color: var(--vc-white); }
+.why-tip {
+  position: absolute; bottom: calc(100% + 8px); right: 0; z-index: 30;
+  width: 360px; max-width: calc(100vw - 60px);
+  background: var(--vc-black); color: var(--vc-white);
+  border: 1px solid var(--vc-black); padding: 14px 16px;
+  font: 300 0.85rem/1.5 var(--vc-font-sans);
+  letter-spacing: 0; text-transform: none; text-align: left;
+  opacity: 0; pointer-events: none; transform: translateY(4px);
+  transition: opacity 130ms, transform 130ms;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+  white-space: normal;
+}
+.why-tip-trigger:hover .why-tip,
+.why-tip-trigger:focus .why-tip {
+  opacity: 1; pointer-events: auto; transform: translateY(0);
+}
+
 /* ---------- Controls ---------- */
 .controls {
   border: 1px solid var(--vc-border);

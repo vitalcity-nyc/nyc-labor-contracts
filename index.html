@@ -12,7 +12,14 @@
   <div class="wrap">
     <p class="kicker">Public records / Labor</p>
     <h1>NYC municipal labor contracts</h1>
-    <p class="lede">Every collective bargaining agreement published by the New York City Office of Labor Relations, in one searchable place. Many of these contracts are published only as scanned image PDFs — the text isn't selectable, you can't even Ctrl-F inside them. This site OCRs every page so the full text of every agreement is searchable, taggable by topic, and quotable with a stable link to the source clause. <a href="methodology.html">Methodology &amp; sources</a></p>
+    <p class="lede">Every collective bargaining agreement published by the New York City Office of Labor Relations, in one searchable place. Many of these contracts are published only as scanned image PDFs — the text isn't selectable, you can't even Ctrl-F inside them. This site OCRs every page so the full text of every agreement is searchable, taggable by topic, and quotable with a stable link to the source clause.</p>
+    <nav class="page-nav">
+      <a class="page-nav-cta" href="units.html">
+        <span class="page-nav-cta-label">Browse bargaining units</span>
+        <span class="page-nav-cta-sub">94 units · who's covered, by union and sector</span>
+      </a>
+      <a class="page-nav-link" href="methodology.html">Methodology &amp; sources</a>
+    </nav>
   </div>
 </header>
 
@@ -28,7 +35,6 @@
       <label>View <select id="view-mode">
         <option value="results">Search results</option>
         <option value="topic-pivot">Topic pivot — clauses across all contracts</option>
-        <option value="units">Bargaining units — who's covered</option>
         <option value="compare">Compare contracts side-by-side</option>
         <option value="contracts">Contracts directory</option>
         <option value="expirations">Expirations</option>
@@ -36,7 +42,7 @@
     </div>
     <div class="meta-row">
       <span id="result-count" class="result-count"></span>
-      <span class="legend"><span class="dot dot-ocr"></span> OCR'd page (lower confidence)</span>
+      <span class="legend"><span class="dot dot-ocr"></span> OCR'd page (lower confidence) <button type="button" class="why-tip-trigger" aria-label="Why is OCR lower confidence?">why?<span class="why-tip" role="tooltip">Many contracts are published as scanned images — pixels, not text — so we run optical character recognition (OCR) to read them. macOS Vision OCR is roughly 95–98% accurate on clean modern documents, but it can confuse visually similar characters (I / l / 1, "rn" vs "m"), miss faded ink, and occasionally interleave text from adjacent table columns. Native text PDFs have actual character data baked in, so they're 100% accurate. The OCR badge means: verify against the source PDF before quoting. Click "View in source PDF" on any clause to compare.</span></button></span>
     </div>
   </section>
 

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bargaining units — NYC municipal labor contracts</title>
+<link rel="stylesheet" href="https://use.typekit.net/qqk2vto.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <p class="kicker">NYC municipal labor contracts</p>
+    <h1>Bargaining units</h1>
+    <p class="lede">Who's covered by each of the 94 collective bargaining agreements in force for NYC municipal employees. Sectors, union names, employer agencies, summaries, and headcounts where a public source is available. <a href="index.html">← Back to clause search</a></p>
+  </div>
+</header>
+
+<main class="wrap" id="app">
+  <section class="controls">
+    <div class="filters">
+      <label>Sector <select id="sector-filter"><option value="">All sectors</option></select></label>
+      <label>Sort <select id="sort-mode">
+        <option value="size">Largest headcount first</option>
+        <option value="alpha">A → Z</option>
+        <option value="term">Term end date</option>
+      </select></label>
+      <label>Search <input type="search" id="q" placeholder="Filter by union, title, or agency…"></label>
+    </div>
+    <div class="meta-row">
+      <span id="result-count" class="result-count"></span>
+      <span class="legend">Headcounts shown for the 12 largest unions where a public source is available; smaller units flagged "being sourced".</span>
+    </div>
+  </section>
+
+  <section id="units"></section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Independent project. Not affiliated with the City of New York. Source PDFs hosted by NYC OLR. Code: <a href="https://github.com/vitalcity-nyc/nyc-labor-contracts">github.com/vitalcity-nyc/nyc-labor-contracts</a></p>
+    <p><a href="index.html">Clause search</a> · <a href="methodology.html">Methodology</a></p>
+  </div>
+</footer>
+
+<script src="units.js"></script>
+</body>
+</html>
