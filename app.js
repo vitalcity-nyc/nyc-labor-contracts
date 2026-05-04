@@ -544,20 +544,84 @@
 
   function renderContractDetail(cid) {
     const c = state.contractById[cid];
+    const unit = state.unitByContract[cid];
     const root = $("#results");
     root.innerHTML = "";
     if (!c) { root.innerHTML = `<p>Contract not found.</p>`; return; }
-    const head = document.createElement("div");
-    head.className = "topic-pivot-header";
-    const term = (c.term_start && c.term_end) ? `${c.term_start}–${c.term_end}` : "term n/a";
-    head.innerHTML = `
-      <h2>${escapeHtml(window.expandContractLabel ? window.expandContractLabel(c.label) : c.label)}</h2>
-      <p>${term} · <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">View source PDF</a> · <a href="#">← back to all clauses</a></p>
-      ${c.summary ? `<p><strong>Workforce:</strong> ${escapeHtml(c.summary)}</p>` : ""}
-    `;
-    root.appendChild(head);
     const items = state.clauses.filter(cl => cl.contract_id === cid);
-    items.forEach(cl => root.appendChild(clauseCard(cl, "")));
+    const term = (c.term_start && c.term_end) ? `${c.term_start}–${c.term_end}` : "term n/a";
+    const expandedLabel = window.expandContractLabel ? window.expandContractLabel(c.label) : c.label;
+    const ocrPages = new Set(items.filter(it => it.ocr).map(it => it.page));
+    const totalPages = items.length ? Math.max(...items.map(it => it.page || 1)) : 0;
+
+    const wrap = document.createElement("article");
+    wrap.className = "doc-view";
+    wrap.innerHTML = `
+      <header class="doc-view-header">
+        <p class="doc-view-back"><a href="#">← Back to all contracts</a></p>
+        ${unit?.sector ? `<p class="doc-view-kicker">${SECTOR_LABELS[unit.sector] || unit.sector}${unit.headcount ? " · ~" + unit.headcount.toLocaleString() + " covered" : ""}</p>` : ""}
+        <h2 class="doc-view-title">${escapeHtml(expandedLabel)}</h2>
+        ${unit?.summary ? `<p class="doc-view-summary">${escapeHtml(unit.summary)}</p>` : ""}
+        <div class="doc-view-meta">
+          <span><strong>Term</strong> ${term}</span>
+          <span><strong>Pages</strong> ${totalPages}${ocrPages.size ? ` (${ocrPages.size} OCR'd)` : ""}</span>
+          <span><strong>Sections</strong> ${items.length}</span>
+          <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener" class="doc-view-pdf">View source PDF →</a>
+        </div>
+      </header>
+
+      <div class="doc-view-body">
+        <aside class="doc-view-toc" aria-label="Contents">
+          <h3>Contents</h3>
+          <ol id="doc-toc"></ol>
+        </aside>
+        <div class="doc-view-content" id="doc-content"></div>
+      </div>
+    `;
+    root.appendChild(wrap);
+
+    const toc = wrap.querySelector("#doc-toc");
+    const content = wrap.querySelector("#doc-content");
+    items.forEach((cl, idx) => {
+      const anchor = `sec-${idx}`;
+      // TOC entry
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="#${anchor}">${escapeHtml(cl.heading || "Untitled")}</a>`;
+      toc.appendChild(li);
+
+      // Section block
+      const sec = document.createElement("section");
+      sec.className = "doc-section";
+      sec.id = anchor;
+      const pdfUrl = `${c.url}#page=${cl.page}`;
+      const tags = (cl.topics || []).map(t =>
+        `<span class="tag" data-topic="${t}">${TOPIC_LABELS[t] || t}</span>`).join("");
+      sec.innerHTML = `
+        <div class="doc-section-meta">
+          <span class="doc-section-page">Page ${cl.page}</span>
+          ${cl.ocr ? `<span class="ocr-flag" title="This page was reconstructed via optical character recognition; verify against the source PDF">OCR</span>` : ""}
+          <a class="doc-section-pdf" href="${escapeHtml(pdfUrl)}" target="_blank" rel="noopener">Open p.${cl.page} in PDF →</a>
+          <a class="doc-section-permalink" href="#/clause/${encodeURIComponent(cl.id)}" title="Permalink to this section">¶ permalink</a>
+        </div>
+        <h3 class="doc-section-heading">${escapeHtml(cl.heading || "Untitled")}</h3>
+        ${tags ? `<div class="tags">${tags}</div>` : ""}
+        <pre class="doc-section-body">${escapeHtml(cl.text)}</pre>
+      `;
+      sec.querySelectorAll(".tag").forEach(el => el.addEventListener("click", (ev) => {
+        ev.stopPropagation();
+        state.topic = el.dataset.topic;
+        state.view = "topic-pivot";
+        $("#topic-filter").value = state.topic;
+        $("#view-mode").value = "topic-pivot";
+        location.hash = `view=topic-pivot&topic=${encodeURIComponent(state.topic)}`;
+      }));
+      content.appendChild(sec);
+    });
+
+    wrap.querySelector(".doc-view-back a").addEventListener("click", (ev) => {
+      ev.preventDefault();
+      clearAll();
+    });
   }
 
   function renderSingleClause(id) {

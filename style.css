@@ -484,7 +484,114 @@ mark { background: var(--vc-chartreuse); padding: 0 2px; color: var(--vc-black);
 .expirations ul { margin: 0; padding-left: 1.2em; }
 .expirations li { margin: 4px 0; }
 
+/* ---------- Single-contract reading view ---------- */
+.doc-view {
+  background: var(--vc-bg);
+  border: 1px solid var(--vc-rule);
+  padding: 0;
+}
+.doc-view-header {
+  background: var(--vc-bg-alt);
+  border-bottom: 1px solid var(--vc-rule);
+  padding: 22px 28px 24px;
+}
+.doc-view-back { margin: 0 0 14px; font-size: 0.85rem; }
+.doc-view-back a { font-weight: 700; letter-spacing: 0.04em; text-decoration: none; border-bottom: 1px solid var(--vc-rule); padding-bottom: 1px; }
+.doc-view-back a:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
+.doc-view-kicker {
+  font-size: 0.78rem; letter-spacing: 0.1em;
+  text-transform: uppercase; font-weight: 700;
+  color: var(--vc-accent); margin: 0 0 6px;
+}
+.doc-view-title {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: clamp(1.5rem, 3vw, 2.2rem); line-height: 1.12; letter-spacing: -0.012em;
+  margin: 0 0 12px; color: var(--vc-black);
+}
+.doc-view-summary { font-size: 0.95rem; color: var(--vc-text); margin: 0 0 14px; max-width: 75ch; }
+.doc-view-meta {
+  display: flex; flex-wrap: wrap; gap: 18px; align-items: baseline;
+  font-size: 0.85rem; color: var(--vc-text-muted);
+  border-top: 1px dashed var(--vc-border); padding-top: 12px;
+}
+.doc-view-meta strong { color: var(--vc-text); font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.72rem; margin-right: 4px; }
+.doc-view-pdf {
+  margin-left: auto; font-weight: 700; font-size: 0.85rem;
+  text-decoration: none; border-bottom: 1px solid var(--vc-rule);
+}
+.doc-view-pdf:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
+
+.doc-view-body {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 0;
+  align-items: start;
+}
+.doc-view-toc {
+  background: var(--vc-bg-alt);
+  border-right: 1px solid var(--vc-border);
+  padding: 22px 18px;
+  position: sticky; top: 0;
+  max-height: 100vh; overflow-y: auto;
+}
+.doc-view-toc h3 {
+  font-size: 0.74rem; letter-spacing: 0.1em; text-transform: uppercase;
+  font-weight: 700; color: var(--vc-text-muted);
+  margin: 0 0 10px;
+}
+.doc-view-toc ol {
+  list-style: decimal; padding-left: 20px; margin: 0;
+  font-size: 0.85rem; line-height: 1.4;
+}
+.doc-view-toc li { margin-bottom: 4px; }
+.doc-view-toc a { color: var(--vc-text); text-decoration: none; }
+.doc-view-toc a:hover { color: var(--vc-accent); text-decoration: underline; }
+
+.doc-view-content { padding: 24px 28px 32px; }
+
+.doc-section {
+  margin-bottom: 28px; padding-bottom: 24px;
+  border-bottom: 1px solid var(--vc-border);
+}
+.doc-section:last-child { border-bottom: none; }
+.doc-section-meta {
+  display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+  font-size: 0.78rem; color: var(--vc-text-muted); margin-bottom: 6px;
+  letter-spacing: 0.04em;
+}
+.doc-section-page {
+  font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.72rem;
+}
+.doc-section-pdf, .doc-section-permalink {
+  text-decoration: none; color: var(--vc-text-muted); font-size: 0.78rem;
+  border-bottom: 1px dashed var(--vc-border);
+}
+.doc-section-pdf:hover, .doc-section-permalink:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
+.doc-section-permalink { margin-left: auto; }
+.doc-section-heading {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: 1.45rem; line-height: 1.15; letter-spacing: -0.005em;
+  margin: 4px 0 10px;
+}
+.doc-section-body {
+  white-space: pre-wrap;
+  font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, monospace;
+  font-size: 0.88rem; line-height: 1.55;
+  background: var(--vc-bg-alt);
+  padding: 14px 16px; border: 1px solid var(--vc-border);
+  margin: 4px 0 0;
+  overflow-x: auto;
+}
+
+@media (max-width: 800px) {
+  .doc-view-body { grid-template-columns: 1fr; }
+  .doc-view-toc { position: static; border-right: none; border-bottom: 1px solid var(--vc-border); max-height: 240px; }
+}
+
 /* ---------- Bargaining units ---------- */
+.units-search-hint {
+  margin: 8px 0 0; font-size: 0.82rem; color: var(--vc-text-muted);
+}
 .sector-bar {
   background: var(--vc-bg); border: 1px solid var(--vc-border);
   padding: 12px 16px; margin-bottom: 14px;

@@ -12,12 +12,16 @@
   <div class="wrap">
     <p class="kicker">NYC municipal labor contracts</p>
     <h1>Bargaining units</h1>
-    <p class="lede">Who's covered by each of the 94 collective bargaining agreements in force for NYC municipal employees. Sectors, union names, employer agencies, summaries, and headcounts where a public source is available. <a href="index.html">← Back to clause search</a></p>
+    <p class="lede">Who's covered by each of the 94 collective bargaining agreements in force for NYC municipal employees. <a href="index.html">← Back to clause search</a></p>
   </div>
 </header>
 
 <main class="wrap" id="app">
   <section class="controls">
+    <div class="search-row">
+      <input type="search" id="q" placeholder="Type a job — 'teacher', 'police officer', 'sanitation worker', 'social worker', 'firefighter'…" autocomplete="off" autofocus>
+    </div>
+    <p class="units-search-hint">Search by job title or keyword to find which union represents that worker. The search looks across titles, union names, employers, and summary descriptions.</p>
     <div class="filters">
       <label>Sector <select id="sector-filter"><option value="">All sectors</option></select></label>
       <label>Sort <select id="sort-mode">
@@ -25,7 +29,6 @@
         <option value="alpha">A → Z</option>
         <option value="term">Term end date</option>
       </select></label>
-      <label>Search <input type="search" id="q" placeholder="Filter by union, title, or agency…"></label>
     </div>
     <div class="meta-row">
       <span id="result-count" class="result-count"></span>

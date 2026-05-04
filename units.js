@@ -65,9 +65,80 @@
     let units = state.units.slice();
     if (state.sector) units = units.filter(u => u.sector === state.sector);
     if (state.query) {
+      const q = state.query.toLowerCase();
+      // Synonym map: common-language job terms → arrays of matching contract IDs.
+      // Lets people type "cop" and find PBA, "firefighter" and find UFA, etc.
+      const SYNONYMS = {
+        "cop": ["pba-mou-2017-2025", "sba-unit-agreement-2021-2026", "dea-unit-agreement-2022-2027", "lba-10-5-2023-unit-bargaining-agreement", "cea-unit-agreement-2022-2027"],
+        "police": ["pba-mou-2017-2025", "sba-unit-agreement-2021-2026", "dea-unit-agreement-2022-2027", "lba-10-5-2023-unit-bargaining-agreement", "cea-unit-agreement-2022-2027", "soa-unit-agreement-2023-2028", "dia-moa-2023-2028"],
+        "police officer": ["pba-mou-2017-2025"],
+        "patrolman": ["pba-mou-2017-2025"],
+        "patrolwoman": ["pba-mou-2017-2025"],
+        "detective": ["dea-unit-agreement-2022-2027"],
+        "sergeant": ["sba-unit-agreement-2021-2026"],
+        "lieutenant": ["lba-10-5-2023-unit-bargaining-agreement"],
+        "captain": ["cea-unit-agreement-2022-2027"],
+        "firefighter": ["uniformed-coalition-economic-agreement-2022-2027"],
+        "fireman": ["uniformed-coalition-economic-agreement-2022-2027"],
+        "fire officer": ["uniformed-coalition-economic-agreement-2022-2027"],
+        "ems": ["uniformed-coalition-economic-agreement-2022-2027"],
+        "emt": ["uniformed-coalition-economic-agreement-2022-2027"],
+        "paramedic": ["uniformed-coalition-economic-agreement-2022-2027"],
+        "sanitation": ["usa-executed-contract-2022-2028", "usca-unit-agreement-2022-2027"],
+        "sanitation worker": ["usa-executed-contract-2022-2028"],
+        "garbage": ["usa-executed-contract-2022-2028"],
+        "trash": ["usa-executed-contract-2022-2028"],
+        "correction": ["coba-unit-agreement-2022-2027", "adwa-unit-agreement-2023-2028"],
+        "correction officer": ["coba-unit-agreement-2022-2027"],
+        "warden": ["adwa-unit-agreement-2023-2028"],
+        "teacher": ["uft-moa-2022-2027"],
+        "paraprofessional": ["uft-moa-2022-2027"],
+        "school secretary": ["uft-moa-2022-2027"],
+        "guidance counselor": ["uft-moa-2022-2027"],
+        "social worker": ["uft-moa-2022-2027", "dc37-moa-2021-2026"],
+        "school psychologist": ["uft-moa-2022-2027"],
+        "principal": ["csa-moa-2023-2028-amended-appendix-a"],
+        "assistant principal": ["csa-moa-2023-2028-amended-appendix-a"],
+        "school supervisor": ["csa-moa-2023-2028-amended-appendix-a"],
+        "school custodian": ["local-891-school-custodians"],
+        "custodian": ["local-891-school-custodians"],
+        "school safety": ["ibt-l237-moa-2022-2027"],
+        "school safety agent": ["ibt-l237-moa-2022-2027"],
+        "special officer": ["ibt-l237-moa-2022-2027"],
+        "doctor": ["doctors-council-moa-2021-2026"],
+        "physician": ["doctors-council-moa-2021-2026"],
+        "dentist": ["doctors-council-moa-2021-2026"],
+        "intern": ["cir-executed-contract-2021-2027"],
+        "resident": ["cir-executed-contract-2021-2027"],
+        "nurse": ["l1199-moa-2022-2027"],
+        "patient care": ["l1199-moa-2022-2027"],
+        "hospital": ["l1199-moa-2022-2027", "doctors-council-moa-2021-2026", "cir-executed-contract-2021-2027"],
+        "h+h": ["l1199-moa-2022-2027", "doctors-council-moa-2021-2026", "cir-executed-contract-2021-2027"],
+        "clerical": ["dc37-moa-2021-2026", "cwa-1180-moa-2021-2026"],
+        "office aide": ["dc37-moa-2021-2026"],
+        "caseworker": ["dc37-moa-2021-2026"],
+        "eligibility": ["dc37-moa-2021-2026"],
+        "accountant": ["dc37-moa-2021-2026"],
+        "administrative manager": ["cwa-1180-moa-2021-2026"],
+        "administrative associate": ["cwa-1180-moa-2021-2026"],
+        "staff analyst": ["osa-moa-2021-2027"],
+        "supervisor": ["cwa-1180-moa-2021-2026", "osa-moa-2021-2027", "csa-moa-2023-2028-amended-appendix-a"],
+        "lawyer": ["ale-executed-contract-2021-2027", "csba-moa-2021-2026"],
+        "attorney": ["ale-executed-contract-2021-2027", "csba-moa-2021-2026"],
+        "traffic enforcement": ["dc37-l983-traffic-enforcement-agent-level-iii-and-iv-moa-2021-2027", "school-security-traffic-moa-fully-executed"],
+        "park ranger": ["dc37-l983-urban-park-rangers-moa-2021-2027"],
+        "park": ["dc37-l983-urban-park-rangers-moa-2021-2027"],
+        "housing": ["ibt-l237-moa-2022-2027"],
+        "nycha": ["ibt-l237-moa-2022-2027", "dc37-moa-2021-2026"],
+      };
+      let synMatches = new Set();
+      for (const term in SYNONYMS) {
+        if (q.includes(term)) SYNONYMS[term].forEach(id => synMatches.add(id));
+      }
       units = units.filter(u => {
+        if (synMatches.has(u.contract_id)) return true;
         const blob = [u.contract_label, u.union_full, u.local, u.employer, u.summary, (u.titles || []).join(" ")].join(" ").toLowerCase();
-        return blob.includes(state.query);
+        return blob.includes(q);
       });
     }
     if (state.sort === "size") {
