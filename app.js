@@ -121,7 +121,7 @@
     const cf = $("#contract-filter");
     state.contracts.slice().sort((a,b) => a.label.localeCompare(b.label)).forEach(c => {
       const o = document.createElement("option");
-      o.value = c.id; o.textContent = c.label;
+      o.value = c.id; o.textContent = window.expandContractLabel ? window.expandContractLabel(c.label) : c.label;
       cf.appendChild(o);
     });
   }
@@ -277,7 +277,7 @@
         ${headcount}
         <div class="unit-body">
           <p class="unit-sector">${SECTOR_LABELS[u.sector] || u.sector}</p>
-          <h3><a href="#/contract/${encodeURIComponent(u.contract_id)}">${escapeHtml(u.contract_label)}</a></h3>
+          <h3><a href="#/contract/${encodeURIComponent(u.contract_id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(u.contract_label) : u.contract_label)}</a></h3>
           ${u.union_full ? `<p class="unit-union"><strong>${escapeHtml(u.union_full)}</strong>${u.local && u.local !== u.union_full ? " — " + escapeHtml(u.local) : ""}</p>` : ""}
           ${u.employer ? `<p class="unit-employer"><strong>Employer:</strong> ${escapeHtml(u.employer)}</p>` : ""}
           <p class="unit-summary">${escapeHtml(u.summary)}</p>
@@ -292,13 +292,17 @@
   }
 
   function renderResults(root) {
+    // Empty default: no query, no topic, no contract filter → show contract tile grid.
+    if (!state.query && !state.topic && !state.contractFilter) {
+      return renderContractTiles(root);
+    }
     let clauses = searchHits();
     if (!clauses) clauses = state.clauses.slice();
     clauses = applyFilters(clauses);
     const contractCount = new Set(clauses.map(c => c.contract_id)).size;
     $("#result-count").textContent = state.query
       ? `${clauses.length} clauses across ${contractCount} contracts matching "${state.query}"`
-      : `${clauses.length} clauses (no search)`;
+      : `${clauses.length} clauses${state.topic ? " on " + (TOPIC_LABELS[state.topic] || state.topic) : ""}${state.contractFilter ? " in " + (state.contractById[state.contractFilter]?.label || state.contractFilter) : ""}`;
     if (clauses.length === 0) {
       root.innerHTML = `<div class="clause"><p>No clauses match. Try a broader search, or use the topic pivot view to browse all clauses on a single topic across every contract.</p></div>`;
       return;
@@ -327,6 +331,46 @@
     }
   }
 
+  function renderContractTiles(root) {
+    const contracts = state.contracts.slice().sort((a, b) => {
+      const ua = state.unitByContract[a.id]?.headcount || 0;
+      const ub = state.unitByContract[b.id]?.headcount || 0;
+      if (ua !== ub) return ub - ua;
+      return a.label.localeCompare(b.label);
+    });
+    $("#result-count").textContent = `${contracts.length} agreements · click any tile to read`;
+    const intro = document.createElement("div");
+    intro.className = "tiles-intro";
+    intro.innerHTML = `<p>Type in the search box above to find clauses across all 94 agreements at once. Or click into any single contract below to read its full text, browse its articles, and link out to the source PDF.</p>`;
+    root.appendChild(intro);
+    const grid = document.createElement("div");
+    grid.className = "contract-tile-grid";
+    contracts.forEach(c => grid.appendChild(contractTile(c)));
+    root.appendChild(grid);
+  }
+
+  function contractTile(contract) {
+    const tile = document.createElement("a");
+    tile.className = "contract-tile";
+    tile.href = `#/contract/${encodeURIComponent(contract.id)}`;
+    const unit = state.unitByContract[contract.id];
+    const term = (contract.term_start && contract.term_end) ? `${contract.term_start}–${contract.term_end}` : "term n/a";
+    const clauseCount = state.clauses.filter(cl => cl.contract_id === contract.id).length;
+    const sector = unit?.sector ? (SECTOR_LABELS[unit.sector] || unit.sector) : "";
+    const headcountBadge = unit?.headcount
+      ? `<span class="contract-tile-headcount">${unit.headcount.toLocaleString()} covered</span>`
+      : "";
+    tile.innerHTML = `
+      <div class="contract-tile-kicker">${escapeHtml(sector)}${headcountBadge ? " · " + headcountBadge : ""}</div>
+      <h3 class="contract-tile-name">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(contract.label) : contract.label)}</h3>
+      <div class="contract-tile-meta">
+        <span class="contract-tile-term">${term}</span>
+        <span class="contract-tile-clauses">${clauseCount} clause${clauseCount === 1 ? "" : "s"}</span>
+      </div>
+    `;
+    return tile;
+  }
+
   function contractGroup(contractId, items, totalInGroup, query) {
     const wrap = document.createElement("section");
     wrap.className = "contract-group";
@@ -341,7 +385,7 @@
     wrap.innerHTML = `
       <header class="contract-group-header">
         <a class="contract-group-title" href="#/contract/${encodeURIComponent(contractId)}">
-          <span class="contract-group-name">${escapeHtml(contract?.label || contractId)}</span>
+          <span class="contract-group-name">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(contract?.label || contractId) : (contract?.label || contractId))}</span>
           ${term ? `<span class="contract-group-term">${term}</span>` : ""}
         </a>
         <div class="contract-group-meta">
@@ -422,7 +466,7 @@
     const sel = ctrl.querySelector("#cmp-add");
     state.contracts.slice().sort((a,b)=>a.label.localeCompare(b.label)).forEach(c => {
       if (state.compareSet.has(c.id)) return;
-      const o = document.createElement("option"); o.value = c.id; o.textContent = c.label;
+      const o = document.createElement("option"); o.value = c.id; o.textContent = window.expandContractLabel ? window.expandContractLabel(c.label) : c.label;
       sel.appendChild(o);
     });
     sel.addEventListener("change", () => {
@@ -457,7 +501,7 @@
       const term = (c.term_start && c.term_end) ? `${c.term_start}–${c.term_end}` : "term n/a";
       card.innerHTML = `
         <div>
-          <h3><a href="#/contract/${encodeURIComponent(c.id)}">${escapeHtml(c.label)}</a></h3>
+          <h3><a href="#/contract/${encodeURIComponent(c.id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(c.label) : c.label)}</a></h3>
           <div class="term">${term} · <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">source PDF</a></div>
         </div>
         <div class="stats">${clauseCount} clauses</div>
@@ -491,7 +535,7 @@
       items.forEach(c => {
         const row = document.createElement("div");
         row.style.padding = "4px 0";
-        row.innerHTML = `<a href="#/contract/${encodeURIComponent(c.id)}">${escapeHtml(c.label)}</a> <span style="color:var(--muted)">${c.term_start||"?"}–${c.term_end||"?"}</span>`;
+        row.innerHTML = `<a href="#/contract/${encodeURIComponent(c.id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(c.label) : c.label)}</a> <span style="color:var(--muted)">${c.term_start||"?"}–${c.term_end||"?"}</span>`;
         sec.appendChild(row);
       });
       root.appendChild(sec);
@@ -507,7 +551,7 @@
     head.className = "topic-pivot-header";
     const term = (c.term_start && c.term_end) ? `${c.term_start}–${c.term_end}` : "term n/a";
     head.innerHTML = `
-      <h2>${escapeHtml(c.label)}</h2>
+      <h2>${escapeHtml(window.expandContractLabel ? window.expandContractLabel(c.label) : c.label)}</h2>
       <p>${term} · <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">View source PDF</a> · <a href="#">← back to all clauses</a></p>
       ${c.summary ? `<p><strong>Workforce:</strong> ${escapeHtml(c.summary)}</p>` : ""}
     `;
@@ -580,7 +624,7 @@
     const badgeBlock = compact ? "" : `
       <span class="contract-badge-wrap">
         <a class="contract-badge" href="#/contract/${encodeURIComponent(c.contract_id)}">
-          <span class="contract-badge-name">${escapeHtml(contractLabel)}</span>
+          <span class="contract-badge-name">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(contractLabel) : contractLabel)}</span>
           ${term ? `<span class="contract-badge-term">${term}</span>` : ""}
         </a>
         ${tip}

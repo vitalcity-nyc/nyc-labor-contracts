@@ -106,7 +106,7 @@
       ${headcount}
       <div class="unit-body">
         <p class="unit-sector">${SECTOR_LABELS[u.sector] || u.sector}</p>
-        <h3><a href="index.html#/contract/${encodeURIComponent(u.contract_id)}">${escapeHtml(u.contract_label)}</a></h3>
+        <h3><a href="index.html#/contract/${encodeURIComponent(u.contract_id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(u.contract_label) : u.contract_label)}</a></h3>
         ${u.union_full ? `<p class="unit-union"><strong>${escapeHtml(u.union_full)}</strong>${u.local && u.local !== u.union_full ? " — " + escapeHtml(u.local) : ""}</p>` : ""}
         ${u.employer ? `<p class="unit-employer"><strong>Employer:</strong> ${escapeHtml(u.employer)}</p>` : ""}
         <p class="unit-summary">${escapeHtml(u.summary)}</p>

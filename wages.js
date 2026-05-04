@@ -91,7 +91,7 @@
       `).join("");
       div.innerHTML = `
         <div class="wage-header">
-          <h3><a href="index.html#/contract/${encodeURIComponent(w.contract_id)}">${escapeHtml(w.contract_label)}</a></h3>
+          <h3><a href="index.html#/contract/${encodeURIComponent(w.contract_id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(w.contract_label) : w.contract_label)}</a></h3>
           <div class="wage-cumulative">
             <span class="wage-cumulative-num">${w.cumulative_pct.toFixed(2)}%</span>
             <span class="wage-cumulative-label">compounded over ${w.increases.length} steps</span>
@@ -107,7 +107,7 @@
       div.classList.add("wage-card-uncurated");
       div.innerHTML = `
         <div class="wage-header">
-          <h3><a href="index.html#/contract/${encodeURIComponent(w.contract_id)}">${escapeHtml(w.contract_label)}</a></h3>
+          <h3><a href="index.html#/contract/${encodeURIComponent(w.contract_id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(w.contract_label) : w.contract_label)}</a></h3>
           <div class="wage-cumulative wage-cumulative-pending">
             <span class="wage-cumulative-num">—</span>
             <span class="wage-cumulative-label">not yet curated</span>

@@ -187,6 +187,66 @@ main { padding: 28px 0 80px; }
 .dot-ocr { background: var(--vc-magenta); }
 .result-count { font-weight: 700; color: var(--vc-text); }
 
+/* ---------- Contract tile grid (default no-search view) ---------- */
+.tiles-intro {
+  background: var(--vc-bg-alt);
+  border: 1px solid var(--vc-border);
+  border-left: 4px solid var(--vc-accent);
+  padding: 14px 18px;
+  margin-bottom: 18px;
+  font-size: 0.95rem;
+  color: var(--vc-text);
+}
+.tiles-intro p { margin: 0; }
+
+.contract-tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 12px;
+}
+.contract-tile {
+  display: flex; flex-direction: column; gap: 6px;
+  background: var(--vc-bg);
+  border: 1px solid var(--vc-rule);
+  border-left: 4px solid var(--vc-rule);
+  padding: 14px 18px 16px;
+  text-decoration: none !important;
+  color: var(--vc-text) !important;
+  transition: border-left-color 120ms, background 120ms;
+}
+.contract-tile:hover {
+  border-left-color: var(--vc-accent);
+  background: var(--vc-bg-alt);
+}
+.contract-tile-kicker {
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--vc-accent);
+  min-height: 1em;
+}
+.contract-tile-headcount { color: var(--vc-text); font-weight: 700; }
+.contract-tile-name {
+  font-family: var(--vc-font-serif);
+  font-weight: 200;
+  font-synthesis: none;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  letter-spacing: -0.005em;
+  margin: 0;
+  color: var(--vc-text);
+  flex: 1;
+}
+.contract-tile-meta {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin-top: 4px;
+  font-size: 0.78rem;
+  color: var(--vc-text-muted);
+  letter-spacing: 0.04em;
+}
+.contract-tile-clauses { font-weight: 700; }
+
 /* ---------- Cards & clauses ---------- */
 .contract-group {
   background: var(--vc-bg);
