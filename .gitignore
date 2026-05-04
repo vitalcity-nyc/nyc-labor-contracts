@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/_cache_*.html
+data/olr-index.html
+data/olr-past.html
+data/pdfs/
+data/text/
+.DS_Store

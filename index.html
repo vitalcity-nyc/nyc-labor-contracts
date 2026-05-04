@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NYC municipal labor contracts — searchable database</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <h1>NYC municipal labor contracts</h1>
+    <p class="lede">Every collective bargaining agreement published by the New York City Office of Labor Relations, in one searchable place. Many of these contracts are published only as scanned image PDFs — the text isn't selectable, you can't even Ctrl-F inside them. This site OCRs every page so the full text of every agreement is searchable, taggable by topic, and quotable with a stable link to the source clause. <a href="methodology.html">Methodology &amp; sources</a></p>
+  </div>
+</header>
+
+<main class="wrap" id="app">
+  <section class="controls">
+    <div class="search-row">
+      <input type="search" id="q" placeholder="Search clause text — e.g. 'just cause', 'shift differential', 'parental leave'…" autocomplete="off" autofocus>
+      <button id="random-btn" type="button" title="Show me a random clause">🎲 Random clause</button>
+    </div>
+    <div class="filters">
+      <label>Topic <select id="topic-filter"><option value="">All topics</option></select></label>
+      <label>Contract <select id="contract-filter"><option value="">All contracts</option></select></label>
+      <label>View <select id="view-mode">
+        <option value="results">Search results</option>
+        <option value="topic-pivot">Topic pivot — clauses across all contracts</option>
+        <option value="compare">Compare contracts side-by-side</option>
+        <option value="contracts">Contracts directory</option>
+        <option value="expirations">Expirations</option>
+      </select></label>
+    </div>
+    <div class="meta-row">
+      <span id="result-count" class="result-count"></span>
+      <span class="legend"><span class="dot dot-ocr"></span> OCR'd page (lower confidence)</span>
+    </div>
+  </section>
+
+  <section id="results"></section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Independent project. Not affiliated with the City of New York. Source PDFs hosted by NYC OLR. Code: <a href="https://github.com/vitalcity-nyc/nyc-labor-contracts">github.com/vitalcity-nyc/nyc-labor-contracts</a></p>
+    <p id="data-stamp"></p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.43/dist/flexsearch.bundle.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
