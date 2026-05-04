@@ -295,20 +295,65 @@
     let clauses = searchHits();
     if (!clauses) clauses = state.clauses.slice();
     clauses = applyFilters(clauses);
+    const contractCount = new Set(clauses.map(c => c.contract_id)).size;
     $("#result-count").textContent = state.query
-      ? `${clauses.length} clauses matching "${state.query}"`
+      ? `${clauses.length} clauses across ${contractCount} contracts matching "${state.query}"`
       : `${clauses.length} clauses (no search)`;
     if (clauses.length === 0) {
       root.innerHTML = `<div class="clause"><p>No clauses match. Try a broader search, or use the topic pivot view to browse all clauses on a single topic across every contract.</p></div>`;
       return;
     }
-    clauses.slice(0, 200).forEach(c => root.appendChild(clauseCard(c, state.query)));
+
+    // Group by contract, preserving original clause order within each group.
+    const groups = new Map();
+    clauses.forEach(c => {
+      if (!groups.has(c.contract_id)) groups.set(c.contract_id, []);
+      groups.get(c.contract_id).push(c);
+    });
+
+    let totalCards = 0;
+    for (const [cid, items] of groups.entries()) {
+      if (totalCards >= 200) break;
+      const remaining = 200 - totalCards;
+      const visible = items.slice(0, Math.min(items.length, remaining));
+      root.appendChild(contractGroup(cid, visible, items.length, state.query));
+      totalCards += visible.length;
+    }
     if (clauses.length > 200) {
       const more = document.createElement("div");
       more.className = "clause";
-      more.innerHTML = `<p style="color:var(--muted)">Showing first 200 of ${clauses.length}. Narrow your search or filter to see more.</p>`;
+      more.innerHTML = `<p style="color:var(--vc-text-muted)">Showing first 200 clauses. Narrow your search or filter to see more.</p>`;
       root.appendChild(more);
     }
+  }
+
+  function contractGroup(contractId, items, totalInGroup, query) {
+    const wrap = document.createElement("section");
+    wrap.className = "contract-group";
+    const contract = state.contractById[contractId];
+    const unit = state.unitByContract[contractId];
+    const term = (contract?.term_start && contract?.term_end) ? `${contract.term_start}–${contract.term_end}` : "";
+    const headcount = unit?.headcount ? ` · ~${unit.headcount.toLocaleString()} covered` : "";
+    const sector = unit?.sector ? `<span class="contract-group-sector">${SECTOR_LABELS[unit.sector] || unit.sector}${headcount}</span>` : "";
+    const moreNote = items.length < totalInGroup
+      ? `<span class="contract-group-more">Showing ${items.length} of ${totalInGroup} matches</span>`
+      : `<span class="contract-group-count">${totalInGroup} match${totalInGroup === 1 ? "" : "es"}</span>`;
+    wrap.innerHTML = `
+      <header class="contract-group-header">
+        <a class="contract-group-title" href="#/contract/${encodeURIComponent(contractId)}">
+          <span class="contract-group-name">${escapeHtml(contract?.label || contractId)}</span>
+          ${term ? `<span class="contract-group-term">${term}</span>` : ""}
+        </a>
+        <div class="contract-group-meta">
+          ${sector}
+          ${moreNote}
+        </div>
+      </header>
+      <div class="contract-group-clauses"></div>
+    `;
+    const slot = wrap.querySelector(".contract-group-clauses");
+    items.forEach(c => slot.appendChild(clauseCard(c, query, true)));
+    return wrap;
   }
 
   function renderTopicPivot(root) {
@@ -532,14 +577,16 @@
         <p class="badge-tip-summary">${escapeHtml(unit.summary)}</p>
         <p class="badge-tip-cta">Click to see all clauses · <a href="#view=units&sector=${encodeURIComponent(unit.sector)}">browse this sector</a></p>
       </div>` : "";
-    wrap.innerHTML = `
+    const badgeBlock = compact ? "" : `
       <span class="contract-badge-wrap">
         <a class="contract-badge" href="#/contract/${encodeURIComponent(c.contract_id)}">
           <span class="contract-badge-name">${escapeHtml(contractLabel)}</span>
           ${term ? `<span class="contract-badge-term">${term}</span>` : ""}
         </a>
         ${tip}
-      </span>
+      </span>`;
+    wrap.innerHTML = `
+      ${badgeBlock}
       <div class="clause-meta">
         <span>Page ${c.page}</span>
         ${c.ocr ? `<span class="ocr-flag" title="This page was reconstructed via optical character recognition; spelling may have minor errors">OCR</span>` : ""}
