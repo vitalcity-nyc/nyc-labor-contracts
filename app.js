@@ -41,12 +41,33 @@
     contracts: [],
     contractById: {},
     clauses: [],
+    units: [],
+    unitByContract: {},
     index: null,
     view: "results",
     query: "",
     topic: "",
     contractFilter: "",
+    sectorFilter: "",
     compareSet: new Set(),
+  };
+
+  const SECTOR_LABELS = {
+    "uniformed-police": "Uniformed — Police",
+    "uniformed-fire": "Uniformed — Fire",
+    "uniformed-sanitation": "Uniformed — Sanitation",
+    "uniformed-correction": "Uniformed — Correction",
+    "uniformed-pattern": "Uniformed — Coalition / pattern",
+    "education": "Education",
+    "education-management": "Education — Supervisors",
+    "health": "Health (non-physician)",
+    "health-professional": "Health — Physicians",
+    "clerical-and-professional": "Clerical & professional",
+    "clerical-and-special-officer": "Clerical & special officer",
+    "supervisory-clerical": "Supervisory clerical",
+    "skilled-trades": "Skilled trades",
+    "professional": "Professional",
+    "other": "Other / specialty",
   };
 
   /* ---------- Loading ---------- */
@@ -64,6 +85,10 @@
     state.contracts = await loadJSON("data/contracts.json");
     state.contractById = Object.fromEntries(state.contracts.map(c => [c.id, c]));
     state.clauses = await loadJSON("data/clauses.json");
+    try {
+      state.units = await loadJSON("data/units.json");
+      state.unitByContract = Object.fromEntries(state.units.map(u => [u.contract_id, u]));
+    } catch (e) { state.units = []; }
 
     // Build FlexSearch document index
     state.index = new FlexSearch.Document({
@@ -135,6 +160,7 @@
     if (state.topic) params.set("topic", state.topic);
     if (state.contractFilter) params.set("contract", state.contractFilter);
     if (state.compareSet.size) params.set("compare", Array.from(state.compareSet).join(","));
+    if (state.sectorFilter) params.set("sector", state.sectorFilter);
     const h = params.toString();
     history.replaceState(null, "", h ? "#" + h : "#");
   }
@@ -147,6 +173,7 @@
     state.contractFilter = params.get("contract") || "";
     const cmp = params.get("compare");
     state.compareSet = new Set(cmp ? cmp.split(",").filter(Boolean) : []);
+    state.sectorFilter = params.get("sector") || "";
     $("#q").value = state.query;
     $("#topic-filter").value = state.topic;
     $("#contract-filter").value = state.contractFilter;
@@ -191,8 +218,77 @@
       case "compare":     return renderCompare(root);
       case "contracts":   return renderContracts(root);
       case "expirations": return renderExpirations(root);
+      case "units":       return renderUnits(root);
       default:            return renderResults(root);
     }
+  }
+
+  function renderUnits(root) {
+    const header = document.createElement("div");
+    header.className = "topic-pivot-header";
+    const totalCovered = state.units.reduce((s, u) => s + (u.headcount || 0), 0);
+    const curated = state.units.filter(u => u.curated).length;
+    header.innerHTML = `
+      <h2>Bargaining units — who's covered</h2>
+      <p>${state.units.length} bargaining units across NYC government. Headcounts shown for the ${curated} largest (totaling ~${totalCovered.toLocaleString()} covered employees) where a public source is available; smaller units' headcounts are still being sourced.</p>
+    `;
+    root.appendChild(header);
+
+    // Sector filter
+    const sectorBar = document.createElement("div");
+    sectorBar.className = "sector-bar";
+    const sectorCounts = {};
+    state.units.forEach(u => sectorCounts[u.sector] = (sectorCounts[u.sector] || 0) + 1);
+    const sectorOptions = ['<option value="">All sectors</option>']
+      .concat(Object.keys(sectorCounts).sort().map(s =>
+        `<option value="${s}"${state.sectorFilter===s?" selected":""}>${SECTOR_LABELS[s]||s} (${sectorCounts[s]})</option>`));
+    sectorBar.innerHTML = `
+      <label style="font-weight:700;font-size:0.78rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--vc-text-muted);margin-right:8px">Sector</label>
+      <select id="sector-filter">${sectorOptions.join("")}</select>
+      <span style="margin-left:14px;font-size:0.85rem;color:var(--vc-text-muted)">Sorted: largest known headcount first, then alphabetically.</span>
+    `;
+    root.appendChild(sectorBar);
+    sectorBar.querySelector("#sector-filter").addEventListener("change", (e) => {
+      state.sectorFilter = e.target.value;
+      writeHash(); render();
+    });
+
+    // List
+    let units = state.units.slice();
+    if (state.sectorFilter) units = units.filter(u => u.sector === state.sectorFilter);
+    units.sort((a, b) => {
+      const ha = a.headcount || 0, hb = b.headcount || 0;
+      if (ha !== hb) return hb - ha;
+      return a.contract_label.localeCompare(b.contract_label);
+    });
+
+    units.forEach(u => {
+      const card = document.createElement("div");
+      card.className = "unit-card";
+      const headcount = u.headcount
+        ? `<div class="unit-headcount"><span class="unit-headcount-num">${u.headcount.toLocaleString()}</span><span class="unit-headcount-label">covered employees${u.curated ? "" : " (estimate)"}</span></div>`
+        : `<div class="unit-headcount unit-headcount-tbd"><span class="unit-headcount-num">—</span><span class="unit-headcount-label">headcount being sourced</span></div>`;
+      const titles = (u.titles && u.titles.length)
+        ? `<p class="unit-titles"><strong>Titles:</strong> ${u.titles.map(escapeHtml).join(" · ")}</p>` : "";
+      const term = (u.term_start && u.term_end) ? `${u.term_start}–${u.term_end}` : "term n/a";
+      const headNote = u.headcount_note
+        ? `<p class="unit-headcount-note">${escapeHtml(u.headcount_note)}</p>` : "";
+      card.innerHTML = `
+        ${headcount}
+        <div class="unit-body">
+          <p class="unit-sector">${SECTOR_LABELS[u.sector] || u.sector}</p>
+          <h3><a href="#/contract/${encodeURIComponent(u.contract_id)}">${escapeHtml(u.contract_label)}</a></h3>
+          ${u.union_full ? `<p class="unit-union"><strong>${escapeHtml(u.union_full)}</strong>${u.local && u.local !== u.union_full ? " — " + escapeHtml(u.local) : ""}</p>` : ""}
+          ${u.employer ? `<p class="unit-employer"><strong>Employer:</strong> ${escapeHtml(u.employer)}</p>` : ""}
+          <p class="unit-summary">${escapeHtml(u.summary)}</p>
+          ${titles}
+          ${headNote}
+          <p class="unit-term">Current agreement: ${term} · <a href="#/contract/${encodeURIComponent(u.contract_id)}">browse clauses</a></p>
+        </div>
+      `;
+      root.appendChild(card);
+    });
+    $("#result-count").textContent = `${units.length} bargaining units${state.sectorFilter ? ` in ${SECTOR_LABELS[state.sectorFilter]||state.sectorFilter}` : ""}`;
   }
 
   function renderResults(root) {
@@ -428,11 +524,22 @@
     const heading = c.heading || contractLabel;
     const tags = (c.topics || []).map(t =>
       `<span class="tag" data-topic="${t}">${TOPIC_LABELS[t] || t}</span>`).join("");
+    const unit = state.unitByContract[c.contract_id];
+    const tip = unit ? `
+      <div class="badge-tip" role="tooltip">
+        <p class="badge-tip-sector">${SECTOR_LABELS[unit.sector] || unit.sector}${unit.headcount ? ` · ~${unit.headcount.toLocaleString()} covered` : ""}</p>
+        ${unit.union_full ? `<p class="badge-tip-union">${escapeHtml(unit.union_full)}</p>` : ""}
+        <p class="badge-tip-summary">${escapeHtml(unit.summary)}</p>
+        <p class="badge-tip-cta">Click to see all clauses · <a href="#view=units&sector=${encodeURIComponent(unit.sector)}">browse this sector</a></p>
+      </div>` : "";
     wrap.innerHTML = `
-      <a class="contract-badge" href="#/contract/${encodeURIComponent(c.contract_id)}" title="View all clauses in ${escapeHtml(contractLabel)}">
-        <span class="contract-badge-name">${escapeHtml(contractLabel)}</span>
-        ${term ? `<span class="contract-badge-term">${term}</span>` : ""}
-      </a>
+      <span class="contract-badge-wrap">
+        <a class="contract-badge" href="#/contract/${encodeURIComponent(c.contract_id)}">
+          <span class="contract-badge-name">${escapeHtml(contractLabel)}</span>
+          ${term ? `<span class="contract-badge-term">${term}</span>` : ""}
+        </a>
+        ${tip}
+      </span>
       <div class="clause-meta">
         <span>Page ${c.page}</span>
         ${c.ocr ? `<span class="ocr-flag" title="This page was reconstructed via optical character recognition; spelling may have minor errors">OCR</span>` : ""}

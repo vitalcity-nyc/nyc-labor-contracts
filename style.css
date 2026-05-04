@@ -319,6 +319,99 @@ mark { background: var(--vc-chartreuse); padding: 0 2px; color: var(--vc-black);
 .expirations ul { margin: 0; padding-left: 1.2em; }
 .expirations li { margin: 4px 0; }
 
+/* ---------- Bargaining units ---------- */
+.sector-bar {
+  background: var(--vc-bg); border: 1px solid var(--vc-border);
+  padding: 12px 16px; margin-bottom: 14px;
+  display: flex; align-items: center; flex-wrap: wrap; gap: 6px;
+}
+.sector-bar select {
+  padding: 6px 10px; border: 1px solid var(--vc-rule);
+  font: 300 0.9rem var(--vc-font-sans); background: var(--vc-bg);
+}
+
+.unit-card {
+  background: var(--vc-bg); border: 1px solid var(--vc-rule);
+  display: grid; grid-template-columns: 200px 1fr; gap: 0;
+  margin-bottom: 14px;
+}
+.unit-headcount {
+  background: var(--vc-black); color: var(--vc-white);
+  padding: 22px 18px;
+  display: flex; flex-direction: column; justify-content: center;
+}
+.unit-headcount-num {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: 2.6rem; line-height: 1; letter-spacing: -0.012em;
+  color: var(--vc-chartreuse);
+}
+.unit-headcount-label {
+  font-size: 0.72rem; letter-spacing: 0.08em;
+  text-transform: uppercase; font-weight: 700; margin-top: 6px;
+  color: var(--vc-white);
+}
+.unit-headcount-tbd { background: var(--vc-charcoal); }
+.unit-headcount-tbd .unit-headcount-num { color: var(--vc-white); font-size: 1.6rem; }
+
+.unit-body { padding: 18px 22px; }
+.unit-body h3 {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: 1.35rem; line-height: 1.15; margin: 4px 0 8px;
+}
+.unit-body h3 a { text-decoration: none; }
+.unit-body h3 a:hover { color: var(--vc-accent); }
+.unit-sector {
+  font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  font-weight: 700; color: var(--vc-accent); margin: 0 0 4px;
+}
+.unit-union, .unit-employer, .unit-summary, .unit-titles, .unit-headcount-note, .unit-term {
+  margin: 6px 0; font-size: 0.92rem; line-height: 1.5;
+}
+.unit-headcount-note {
+  font-size: 0.78rem; color: var(--vc-text-muted);
+  border-left: 2px solid var(--vc-border); padding-left: 10px; margin-top: 10px;
+}
+.unit-term {
+  font-size: 0.82rem; color: var(--vc-text-muted);
+  border-top: 1px dashed var(--vc-border); padding-top: 10px; margin-top: 12px;
+}
+
+/* ---------- Contract badge tooltip ---------- */
+.contract-badge-wrap { position: relative; display: inline-block; }
+.badge-tip {
+  position: absolute; top: calc(100% + 6px); left: 0; z-index: 20;
+  width: 360px; max-width: calc(100vw - 60px);
+  background: var(--vc-black); color: var(--vc-white);
+  border: 1px solid var(--vc-black); padding: 14px 16px;
+  font-size: 0.85rem; line-height: 1.5;
+  opacity: 0; pointer-events: none; transform: translateY(-4px);
+  transition: opacity 130ms, transform 130ms;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+}
+.contract-badge-wrap:hover .badge-tip,
+.contract-badge:focus + .badge-tip {
+  opacity: 1; pointer-events: auto; transform: translateY(0);
+}
+.badge-tip p { margin: 4px 0; }
+.badge-tip-sector {
+  font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase;
+  font-weight: 700; color: var(--vc-chartreuse);
+}
+.badge-tip-union { font-weight: 700; }
+.badge-tip-summary { color: var(--vc-cloud); font-size: 0.85rem; }
+.badge-tip-cta {
+  font-size: 0.74rem; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--vc-cloud); border-top: 1px solid var(--vc-charcoal);
+  padding-top: 8px; margin-top: 8px;
+}
+.badge-tip-cta a { color: var(--vc-orange); }
+
+@media (max-width: 720px) {
+  .unit-card { grid-template-columns: 1fr; }
+  .unit-headcount { padding: 14px 18px; }
+  .badge-tip { width: 280px; }
+}
+
 /* ---------- Footer ---------- */
 .site-footer {
   border-top: 2px solid var(--vc-rule);
