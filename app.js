@@ -380,7 +380,33 @@
     const root = $("#results");
     root.innerHTML = "";
     if (!c) { root.innerHTML = `<p>Clause not found.</p>`; return; }
+    const back = document.createElement("div");
+    back.className = "single-clause-nav";
+    back.innerHTML = `
+      <a href="#" data-action="clear">← Back to all clauses</a>
+      <button type="button" data-action="another">🎲 Show another random clause</button>
+    `;
+    back.querySelector('[data-action="clear"]').addEventListener("click", (e) => {
+      e.preventDefault();
+      clearAll();
+    });
+    back.querySelector('[data-action="another"]').addEventListener("click", showRandomClause);
+    root.appendChild(back);
     root.appendChild(clauseCard(c, "", false, true));
+  }
+
+  function clearAll() {
+    state.query = "";
+    state.topic = "";
+    state.contractFilter = "";
+    state.view = "results";
+    state.compareSet = new Set();
+    $("#q").value = "";
+    $("#topic-filter").value = "";
+    $("#contract-filter").value = "";
+    $("#view-mode").value = "results";
+    history.replaceState(null, "", location.pathname);
+    render();
   }
 
   /* ---------- Random clause ---------- */
@@ -396,14 +422,19 @@
     const wrap = document.createElement("div");
     wrap.className = "clause";
     const contract = state.contractById[c.contract_id];
+    const contractLabel = contract?.label || c.contract_id;
+    const term = (contract?.term_start && contract?.term_end) ? `${contract.term_start}–${contract.term_end}` : "";
     const pdfUrl = contract ? `${contract.url}#page=${c.page}` : "#";
-    const heading = c.heading || `${contract?.label || c.contract_id}`;
+    const heading = c.heading || contractLabel;
     const tags = (c.topics || []).map(t =>
       `<span class="tag" data-topic="${t}">${TOPIC_LABELS[t] || t}</span>`).join("");
     wrap.innerHTML = `
+      <a class="contract-badge" href="#/contract/${encodeURIComponent(c.contract_id)}" title="View all clauses in ${escapeHtml(contractLabel)}">
+        <span class="contract-badge-name">${escapeHtml(contractLabel)}</span>
+        ${term ? `<span class="contract-badge-term">${term}</span>` : ""}
+      </a>
       <div class="clause-meta">
-        ${compact ? "" : `<span class="contract">${escapeHtml(contract?.label || c.contract_id)}</span>`}
-        <span>p. ${c.page}</span>
+        <span>Page ${c.page}</span>
         ${c.ocr ? `<span class="ocr-flag" title="This page was reconstructed via optical character recognition; spelling may have minor errors">OCR</span>` : ""}
         <a class="pdf-link" href="${escapeHtml(pdfUrl)}" target="_blank" rel="noopener">View in source PDF →</a>
       </div>

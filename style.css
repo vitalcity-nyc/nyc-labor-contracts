@@ -144,16 +144,50 @@ main { padding: 28px 0 80px; }
   transition: border-left-color 120ms;
 }
 .clause:hover { border-left-color: var(--vc-accent); }
+
+.contract-badge {
+  display: inline-flex; align-items: baseline; gap: 10px;
+  background: var(--vc-black); color: var(--vc-white) !important;
+  padding: 4px 10px 5px;
+  margin-bottom: 10px;
+  text-decoration: none !important;
+  border: 1px solid var(--vc-black);
+}
+.contract-badge:hover { background: var(--vc-accent); border-color: var(--vc-accent); }
+.contract-badge:hover .contract-badge-term { color: var(--vc-black); }
+.contract-badge-name {
+  font-weight: 700; font-size: 0.82rem;
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+.contract-badge-term {
+  font-weight: 300; font-size: 0.78rem;
+  color: var(--vc-chartreuse); letter-spacing: 0.04em;
+}
+
 .clause-meta {
   font-size: 0.78rem; color: var(--vc-text-muted);
   display: flex; gap: 14px; flex-wrap: wrap; align-items: center;
   margin-bottom: 8px; letter-spacing: 0.04em;
 }
-.clause-meta .contract {
-  color: var(--vc-text); font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.06em; font-size: 0.78rem;
-}
 .clause-meta .pdf-link { margin-left: auto; }
+
+.single-clause-nav {
+  display: flex; gap: 16px; align-items: center; margin-bottom: 14px;
+  padding-bottom: 14px; border-bottom: 1px solid var(--vc-border);
+}
+.single-clause-nav a {
+  font-weight: 700; font-size: 0.85rem; letter-spacing: 0.04em;
+  text-decoration: none; color: var(--vc-text);
+  border-bottom: 1px solid var(--vc-rule);
+}
+.single-clause-nav a:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
+.single-clause-nav button {
+  background: var(--vc-black); color: var(--vc-white);
+  border: 1px solid var(--vc-rule); padding: 8px 14px;
+  font: 700 0.78rem var(--vc-font-sans); letter-spacing: 0.06em; text-transform: uppercase;
+  cursor: pointer;
+}
+.single-clause-nav button:hover { background: var(--vc-accent); color: var(--vc-black); }
 .clause-heading {
   font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
   font-size: 1.35rem; line-height: 1.2; letter-spacing: -0.005em;
