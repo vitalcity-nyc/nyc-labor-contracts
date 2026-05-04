@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Wage pattern tracker — NYC municipal labor contracts</title>
+<link rel="stylesheet" href="https://use.typekit.net/qqk2vto.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <p class="kicker">NYC municipal labor contracts</p>
+    <h1>Wage pattern tracker</h1>
+    <p class="lede">How New York City's collective bargaining agreements stack up on general wage increases. The City negotiates "patterns" — first the civilian pattern (set by DC 37 in this round), then the uniformed pattern (typically richer at the back end). Other unions settle in line. <a href="index.html">← Back to clause search</a></p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="wages-overview" id="overview"></section>
+
+  <section class="controls" style="margin-top:24px">
+    <div class="filters">
+      <label>Sort <select id="sort">
+        <option value="cumulative">Largest cumulative increase first</option>
+        <option value="alpha">A → Z</option>
+        <option value="bargained">By round (term start)</option>
+      </select></label>
+      <label>Show <select id="show">
+        <option value="curated">Curated 12 major unions</option>
+        <option value="all">All 94 contracts (mostly auto-extracted)</option>
+      </select></label>
+    </div>
+  </section>
+
+  <section id="wages"></section>
+
+  <section class="wages-methodology" style="margin-top:32px">
+    <div class="topic-pivot-header" style="background: var(--vc-bg); border-left-color: var(--vc-charcoal);">
+      <h2 style="font-size: 1.3rem">A note on these numbers</h2>
+      <p>
+        Curated entries have been verified against the first page of each agreement and reflect <strong>compounded</strong> general wage increases — the standard NYC bargaining convention. They do not include longevity differentials, recurring increment payments (RIPs), assignment differentials, or title-specific equity adjustments, which can add several percentage points to total compensation growth for some titles.
+      </p>
+      <p>
+        Lump-sum ratification bonuses ($3,000 in this round) are counted separately because they don't roll into base salary. They're typically pensionable and pro-rated for part-time employees.
+      </p>
+      <p>
+        The 82 non-curated contracts show only what regex extraction picked up from the first ~8,000 characters of OCR'd text. Treat those as candidates, not facts.
+      </p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Independent project. Not affiliated with the City of New York.</p>
+    <p><a href="index.html">Clause search</a> · <a href="units.html">Bargaining units</a> · <a href="methodology.html">Methodology</a></p>
+  </div>
+</footer>
+
+<script src="wages.js"></script>
+</body>
+</html>

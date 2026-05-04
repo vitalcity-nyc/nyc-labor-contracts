@@ -466,6 +466,100 @@ mark { background: var(--vc-chartreuse); padding: 0 2px; color: var(--vc-black);
   .badge-tip { width: 280px; }
 }
 
+/* ---------- Wage tracker ---------- */
+.wages-stat-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 14px;
+}
+.wages-stat {
+  background: var(--vc-black); color: var(--vc-white);
+  padding: 22px 22px 26px;
+  border: 1px solid var(--vc-black);
+}
+.wages-stat-num {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: 3.2rem; line-height: 1; letter-spacing: -0.014em;
+  color: var(--vc-chartreuse);
+}
+.wages-stat-unit { font-size: 0.55em; margin-left: 4px; opacity: 0.85; }
+.wages-stat-label {
+  margin-top: 12px; font-size: 0.78rem;
+  letter-spacing: 0.08em; text-transform: uppercase; font-weight: 700;
+}
+.wages-stat-sub {
+  margin-top: 4px; font-size: 0.78rem; color: var(--vc-cloud);
+}
+
+.wage-card {
+  background: var(--vc-bg); border: 1px solid var(--vc-rule);
+  padding: 18px 22px; margin-bottom: 14px;
+}
+.wage-card-uncurated { border-color: var(--vc-border); border-left: 4px solid var(--vc-charcoal); }
+.wage-header {
+  display: flex; justify-content: space-between; align-items: baseline; gap: 18px; flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.wage-header h3 {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: 1.25rem; line-height: 1.15; margin: 0;
+}
+.wage-header h3 a { text-decoration: none; }
+.wage-header h3 a:hover { color: var(--vc-accent); }
+.wage-cumulative { text-align: right; }
+.wage-cumulative-num {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: 1.9rem; letter-spacing: -0.012em; color: var(--vc-accent);
+  display: inline-block;
+}
+.wage-cumulative-label {
+  display: block; font-size: 0.74rem; letter-spacing: 0.06em;
+  text-transform: uppercase; font-weight: 700; color: var(--vc-text-muted);
+}
+.wage-cumulative-pending .wage-cumulative-num { color: var(--vc-charcoal); }
+
+.wage-steps { display: grid; gap: 6px; }
+.wage-step {
+  display: grid; grid-template-columns: 1fr auto;
+  align-items: center; gap: 14px;
+}
+.wage-step-bar {
+  height: 28px; background: var(--vc-orange);
+  border-right: 2px solid var(--vc-black);
+  min-width: 14px;
+  transition: background 120ms;
+}
+.wage-step:hover .wage-step-bar { background: var(--vc-magenta); }
+.wage-step-meta {
+  font-size: 0.85rem; color: var(--vc-text);
+  white-space: nowrap;
+  display: flex; gap: 12px; align-items: baseline;
+}
+.wage-step-pct { font-weight: 700; min-width: 5ch; text-align: right; }
+.wage-step-date { color: var(--vc-text-muted); font-size: 0.82rem; }
+
+.wage-bonuses {
+  margin-top: 12px; padding-top: 12px;
+  border-top: 1px dashed var(--vc-border);
+}
+.wage-bonus {
+  font-size: 0.88rem; color: var(--vc-text);
+  font-weight: 700;
+}
+.wage-source {
+  margin-top: 12px; padding-top: 10px;
+  border-top: 1px dashed var(--vc-border);
+  font-size: 0.78rem; color: var(--vc-text-muted);
+}
+.wage-auto {
+  font-size: 0.85rem; color: var(--vc-text-muted);
+  margin: 6px 0;
+}
+
+@media (max-width: 600px) {
+  .wage-header { flex-direction: column; align-items: flex-start; }
+  .wage-cumulative { text-align: left; }
+}
+
 /* ---------- Footer ---------- */
 .site-footer {
   border-top: 2px solid var(--vc-rule);
