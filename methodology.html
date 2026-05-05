@@ -55,6 +55,16 @@
       <li><strong>Index.</strong> The frontend loads <code>data/clauses.json</code> and builds a FlexSearch full-text index in the browser. No server-side query — everything runs client-side.</li>
     </ol>
 
+    <h2 id="gaps">Known coverage gaps</h2>
+    <p>This corpus is built from OLR's "Recent Agreements" page, which is the authoritative list of contracts where the City of New York is the direct employer (mayoral agencies, with some H+H, CUNY, NYCHA inclusion). Several major NYC public-sector unions whose contracts are <strong>not</strong> on OLR are accordingly not in this corpus:</p>
+    <ul>
+      <li><strong>UFA — Uniformed Firefighters Association</strong> (~9,500 FDNY firefighters). Contract published on <a href="https://www.ufanyc.org/" target="_blank" rel="noopener">ufanyc.org</a>. UFA contracts in NYC have historically come out of impasse arbitration rather than direct OLR negotiation.</li>
+      <li><strong>UFOA — Uniformed Fire Officers Association</strong> (~2,500 FDNY captains, lieutenants, battalion chiefs). Contract on <a href="https://www.ufoa.org/" target="_blank" rel="noopener">ufoa.org</a>.</li>
+      <li><strong>NYSNA — New York State Nurses Association</strong> (~8,000–9,000 registered nurses at NYC Health + Hospitals). Contract on <a href="https://www.nysna.org/" target="_blank" rel="noopener">nysna.org</a>. H+H is a public benefit corporation that bargains directly with NYSNA.</li>
+      <li><strong>PSC — Professional Staff Congress</strong> (~30,000 faculty and professional staff at the City University of New York). Contract on <a href="https://psc-cuny.org/contract/" target="_blank" rel="noopener">psc-cuny.org</a>. Bargains with CUNY (a state-affiliated entity), not directly with the City.</li>
+    </ul>
+    <p>Combined, these four contracts cover roughly <strong>50,000 NYC public-sector unionized employees</strong> who don't appear in this database. They could be added in a follow-up by ingesting from the union websites instead of OLR; flagged here so users can seek those contracts directly until that's done.</p>
+
     <h2>Limitations</h2>
     <ul>
       <li><strong>OCR is not perfect.</strong> Scanned pages may have spelling errors that would not appear in a clean text PDF. The <span class="ocr-flag">OCR</span> flag tells you when to be cautious. Always verify by clicking through to the source PDF.</li>
