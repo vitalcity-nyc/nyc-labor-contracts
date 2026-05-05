@@ -360,12 +360,18 @@
     const headcountBadge = unit?.headcount
       ? `<span class="contract-tile-headcount">${unit.headcount.toLocaleString()} covered</span>`
       : "";
+    const qualityBadge = contract.ocr_quality === "poor"
+      ? `<span class="contract-tile-ocr poor" title="This contract had a high density of OCR errors. Many have been corrected, but more may remain — verify quotes against the source PDF.">⚠ heavy OCR errors</span>`
+      : contract.ocr_quality === "fair"
+      ? `<span class="contract-tile-ocr fair" title="This contract had some OCR errors. Most have been corrected; verify quotes against the source PDF.">some OCR errors</span>`
+      : "";
     tile.innerHTML = `
       <div class="contract-tile-kicker">${escapeHtml(sector)}${headcountBadge ? " · " + headcountBadge : ""}</div>
       <h3 class="contract-tile-name">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(contract.label) : contract.label)}</h3>
       <div class="contract-tile-meta">
         <span class="contract-tile-term">${term}</span>
         <span class="contract-tile-clauses">${clauseCount} clause${clauseCount === 1 ? "" : "s"}</span>
+        ${qualityBadge}
       </div>
     `;
     return tile;

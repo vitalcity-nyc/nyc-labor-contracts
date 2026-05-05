@@ -6044,8 +6044,8 @@ advantage through his or her service to the college. Special consideration shall
 be given to those applicants who have not had a sabbatical leave or fellowship in
 fourteen (14) or more years.
 Application may be for one of three types of fellowship leaves:
-• a full year leave at 80% of the bi-weekly salary rate
-a one-half year leave at 80% of the bi-weekly salary rate
+• a full year leave at 80% of the biweekly salary rate
+a one-half year leave at 80% of the biweekly salary rate
 a one-half year leave at full pay
 There is an expectation that there will be a minimum of one half-year leave at full-
 pay every other year at each college.
@@ -6056,8 +6056,7 @@ leave during the period of the fellowship leave.
 94
 
 
-Members of the unit who receive a full-year fellowship leave at 80% of the bi-
-weekly salary rate may, at their option, upon written notice to the President no
+Members of the unit who receive a full-year fellowship leave at 80% of the biweekly salary rate may, at their option, upon written notice to the President no
 later than October 30 or March 30, whichever is applicable, terminate the
 fellowship leave after one-half year.
 Where fellowships are terminated upon request under Section 25.3 (b) 5, such
@@ -9251,7 +9250,7 @@ he/she may not decide to retire later. Regardless of the length of the phasing p
 for faculty members will begin on the first day of the Fall semester of the appropriate year; that
 is, on the third day, excluding Saturdays and Sundays, before August 30. An eligible employee
 26 If the employee's Travia Leave extends up to the annual leave period, then one (1) month of the annual leave period will
-be paid at 100% of the bi-weekly salary rate and one (1) month will be paid at 50% of the biweekly salary rate.
+be paid at 100% of the biweekly salary rate and one (1) month will be paid at 50% of the biweekly salary rate.
 159
 
 
@@ -9380,7 +9379,7 @@ retirement program will be identical to the annual leave period for the full-tim
 during the annual leave period for teaching faculty and faculty counselors who take their annual
 leave over the summer will continue to be paid at 50% of the full-time salary, except following
 any period of Travia Leave, in which case one (1) month will be paid at 100% of the biweekly
-salary rate and one (1) month will be paid at 50% of the bi-weekly salary rate during the annual
+salary rate and one (1) month will be paid at 50% of the biweekly salary rate during the annual
 leave period, if the employee's Travia Leave extends up to that period.
 162
 

@@ -2155,8 +2155,7 @@ N.Y.C. Department of Sanitation
 ew York, N.Y. 1001:
 Dear Commissioner Garcia,
 GasCard Program Letter
-This letter will confirm our understanding regarding the EJ Ward/WEX Gascard Program and the issu-
-ance of Gascurd PIN nunbers to Sanitation Workers. The use of Gascard PIN numbers shall be limited
+This letter will confirm our understanding regarding the EJ Ward/WEX Gascard Program and the issuance of Gascurd PIN nunbers to Sanitation Workers. The use of Gascard PIN numbers shall be limited
 as follows:
 (1) Gascard PIN numbers shall be utilized solely for purposes of the EJWard/WEX Gascure
 Program;
@@ -2168,14 +2167,12 @@ responsible for fueling vehicles in the gurages;
 (5) a Sanitation Worker assigned to duties other than Gas and Oil or Garage Utility posts shall
 only be required to fuel a vehicle when no gas and Oil or Garage Utility personnel are available (for
 cion era in night shits, or wien such as and Oil or Carage Willy personnel are fully engaged in
-(6) except in extraordinary circumstances, Sanitation Workers shall not be ordered lo luel ve-
-hicles in the field at other than Department of Sanitution facilities, and with the exception of feling at
+(6) except in extraordinary circumstances, Sanitation Workers shall not be ordered lo luel vehicles in the field at other than Department of Sanitution facilities, and with the exception of feling at
 established CNG locations.
 Il is further understood that current staffing levels of Gas and Oil and/or Garage Utility posts shall be
 maintained and the fueling procedures and requirements of the EJWard Fuel/WEX Gascard Progran
 will in no way reduce those numbers.
-This letter shall constitute part of the agreement entered into between the parties for all purposes, in-
-cluding without limitation, the grievance procedure.
+This letter shall constitute part of the agreement entered into between the parties for all purposes, including without limitation, the grievance procedure.
 Sincerely,
 Kashra Garcia
 Katherine Garcia

@@ -368,7 +368,7 @@ extent practicable, be equalized among employees in rank. Specifically, aUocatio
 shall be governed by PA/ID 5-75 as amended. This Order is incorporated by reference hereto and
 shall not be modified, except by mutual consent, during the term of this Agreement. The
 Department will provide the Union with the number and location ofp ost coverage assignments on
-a bi-weekly basis.
+a biweekly basis.
 Section 9.
 Notwithstanding anything herein appearing to the contrary, overtime shalJ continue to be
 calculated on the basis of 2088 hours per year.

@@ -251,13 +251,23 @@ main { padding: 28px 0 80px; }
   flex: 1;
 }
 .contract-tile-meta {
-  display: flex; justify-content: space-between; align-items: baseline;
+  display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px;
   margin-top: 4px;
   font-size: 0.78rem;
   color: var(--vc-text-muted);
   letter-spacing: 0.04em;
 }
 .contract-tile-clauses { font-weight: 700; }
+.contract-tile-ocr {
+  flex-basis: 100%;
+  margin-top: 6px; padding: 3px 7px;
+  font: 700 0.68rem/1 var(--vc-font-sans);
+  letter-spacing: 0.06em; text-transform: uppercase;
+  border: 1px solid currentColor;
+  display: inline-block; align-self: flex-start;
+}
+.contract-tile-ocr.poor { color: var(--vc-magenta, #c71585); background: rgba(199, 21, 133, 0.08); }
+.contract-tile-ocr.fair { color: #8a6500; background: rgba(217, 147, 0, 0.10); }
 
 /* ---------- Cards & clauses ---------- */
 .contract-group {

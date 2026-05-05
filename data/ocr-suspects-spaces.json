@@ -1,0 +1,45 @@
+{
+  "kind": "spaces",
+  "total": 2,
+  "unique": 2,
+  "top": [
+    [
+      "GasCard",
+      1
+    ],
+    [
+      "ofTeamsters",
+      1
+    ]
+  ],
+  "suspects": [
+    {
+      "kind": "missing-space",
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "original": "GasCard",
+      "suggestions": [
+        {
+          "candidate": "Gas Card",
+          "rule": "split"
+        }
+      ],
+      "context": "…itation 125 Worth Stree ew York, N.Y. 1001: Dear Commissioner Garcia, GasCard Program Letter This letter will confirm our understanding regarding t…"
+    },
+    {
+      "kind": "missing-space",
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__5",
+      "page": 3,
+      "original": "ofTeamsters",
+      "suggestions": [
+        {
+          "candidate": "of Teamsters",
+          "rule": "split"
+        }
+      ],
+      "context": "…n filed by City Employees Union, Local 237, International Brotherhood ofTeamsters, representing employees of the City of New York, ct al., in the above…"
+    }
+  ]
+}

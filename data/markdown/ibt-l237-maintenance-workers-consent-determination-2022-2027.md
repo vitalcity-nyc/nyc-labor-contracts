@@ -166,7 +166,7 @@ et seg.
 _Page 3_ · _OCR-reconstructed_ · _Topics: wages_
 
 A Complaint under Section 220 of the Now York State Labor Law, having been filed by
-City Employees Union, Local 237, International Brotherhood ofTeamsters, representing employees
+City Employees Union, Local 237, International Brotherhood of Teamsters, representing employees
 of the City of New York, ct al., in the above referenced titles ("omployees"), and this Consent
 Determination having been agreed to between the Mayor's Office of Labor Relations ("OLR") on
 behalf of the City of New York, ct al., and the Complainant, compromising and settling certain

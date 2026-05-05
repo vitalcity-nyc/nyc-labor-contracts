@@ -1,0 +1,493 @@
+{
+  "kind": "fragments",
+  "total": 32,
+  "unique": 9,
+  "top": [
+    [
+      "be paid",
+      23
+    ],
+    [
+      "the IRS",
+      2
+    ],
+    [
+      "Ru BY",
+      1
+    ],
+    [
+      "for hoo",
+      1
+    ],
+    [
+      "issu ance",
+      1
+    ],
+    [
+      "ve hicles",
+      1
+    ],
+    [
+      "in cluding",
+      1
+    ],
+    [
+      "SC at",
+      1
+    ],
+    [
+      "bi weekly",
+      1
+    ]
+  ],
+  "suspects": [
+    {
+      "kind": "fragment",
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__36",
+      "page": 11,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…loyee will be given an option to select a lump- sum payout of time or be paid out that time on consecutive Council paydays at the employee's last r…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__55",
+      "page": 6,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "… a. A one-time lump sum payment of one-thousand ($1,000) dollars will be paid to each active Resident hired on or about July 1, 2023 and May 16, 20…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "coba-unit-agreement-2022-2027",
+      "clause_id": "coba-unit-agreement-2022-2027__whole",
+      "page": 1,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…ve April 30, 2027, the following one-time lump sum cash bonuses shall be paid to employees who have completed the years of service as Correction Of…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "ibt-l237-moa-2022-2027",
+      "clause_id": "ibt-l237-moa-2022-2027__0",
+      "page": 1,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "… step of the salary schedule shall be eliminated, and employees shall be paid the top step salary after 5 years of service in title. Prohibition of…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "local-300-seiu-moa-2022-2027",
+      "clause_id": "local-300-seiu-moa-2022-2027__whole",
+      "page": 1,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…I and the NYC HtH Senior Mortuary Technician. This differential shall be paid consistent with the terms of Article III, Section 8 of the 2009-2011 …"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__1",
+      "page": 1,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…e date due under this 2017-2025 PBA MOU, such payment when made shall be paid retroactive to such date due. Section 7. Conditions of Payment The ge…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__10",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…or services rendered and to be rendered, as follows: Sunday Work - to be paid for at double time (2x) the respective pro-rated daily rate. This pro…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "carpenters-consent-determination-2021-2027",
+      "clause_id": "carpenters-consent-determination-2021-2027__19",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…s of work. With regard to overtime rates, Saturdays shall continue to be paid at time and one-half in cash or may be paid in compensatory time.' Su…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-glaziers-consent-determination-2021-2026__6",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…five (35) hours worked. Annuity Fund The following contributions will be paid per employee for each day actually worked, by the City of New York, e…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__7",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…native work schedule at the New York City   3 Housing Authority shall be paid as follows: Overtime after eight (8) hour and 45-minutes worked and o…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…rformed in excess of the regularly scheduled seven (7) hour day shall be paid for in cash, or compensatory time, at the rate of double (2x) the str…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__25",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "… rate that is in effect on that date. Saturday and Sunday rates shall be paid for days worked on a Saturday or Sunday when such day is part of the …"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025__whole",
+      "page": 1,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…d increases pursuant to Section 5.a., 5.b. and 5.c. of this MOA shall be paid consistent with the Annuity Fund language in the 2016-2020 Wage Inden…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "l3-electricians-consent-determination-20232028",
+      "clause_id": "l3-electricians-consent-determination-20232028__5",
+      "page": 3,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…ng this time period With regard to the overtime rate, employees shall be paid in cash or compensatory time at the rate of one and one-half times (1…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "l3-stationary-engineer-electric-moa-20202025",
+      "clause_id": "l3-stationary-engineer-electric-moa-20202025__2",
+      "page": 3,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…is letter serves to confirm the parties' agreement regarding wages to be paid to Senior Stationary Engineers (Electric) (\"SSEEs\"). During the perio…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021",
+      "clause_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021__4",
+      "page": 5,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…ave accrual Paid Holidays 3. The parties negotiated the wage rates to be paid to each title covered by this agreement, based on the following formu…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__0",
+      "page": 1,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…acceptance of certain annual or daily rates of pay and perquisites to be paid to employees represented by a signatory Second Party both retroactive…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__23",
+      "page": 21,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…ave accrual Paid Holidays 3. The parties negotiated the wage rates to be paid to each title covered by this agreement, based on the following fonnu…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "local-40-bridge-repairer-consent-determination-2022-2025",
+      "clause_id": "local-40-bridge-repairer-consent-determination-2022-2025__12",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…Effective July 1, 2022, a Welfare Fund contribution shall continue to be paid at the rate of $1,475 per employee per annum. The annual contribution…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "local-246-carriage-upholsterer-consent-determination-2021-2026",
+      "clause_id": "local-246-carriage-upholsterer-consent-determination-2021-2026__8",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "….74 Overtime after forty (40) hours actually worked shall continue to be paid at the rate of time and one-half (1-1/2x), in cash. Dr. Martin Luther…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__17",
+      "page": 4,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "… scheduled (7) hour day, or on Saturdays, Sundays, and Holidays shall be paid for in cash at the aforesaid overtime rates. For the purpose of this …"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__3",
+      "page": 1,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…2026 - 3.5% compounded Retroactive wages: Retroactive increases shall be paid as soon as practicable to all active employees and retirees for each …"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__77",
+      "page": 38,
+      "original": "be paid",
+      "suggestions": [
+        {
+          "candidate": "bepaid",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…paid for office hours in the amounts designated below. Adjuncts shall be paid for these hours at their full hourly rate. These hours are to be spen…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__92",
+      "page": 29,
+      "original": "the IRS",
+      "suggestions": [
+        {
+          "candidate": "theIRS",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…care spending account shall be established pursuant to Section 125 of the IRS code after July 1993. Those employees eligible for New York City heal…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__13",
+      "page": 10,
+      "original": "the IRS",
+      "suggestions": [
+        {
+          "candidate": "theIRS",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…count shall be established after July 1993 pursuant to Section 125 of the IRS Code. Those Employees eligible for New York City health plan coverage…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "cwa-1180-moa-2021-2026",
+      "clause_id": "cwa-1180-moa-2021-2026__3",
+      "page": 4,
+      "original": "Ru BY",
+      "suggestions": [
+        {
+          "candidate": "RuBY",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "Ru BY: Commissioner Labor Relations"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__86",
+      "page": 54,
+      "original": "SC at",
+      "suggestions": [
+        {
+          "candidate": "SCat",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…e grievance. In the event the Step I decision was not received by the SC at least fifteen (15) calendar days prior to the scheduled Step 2 meetin…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__133",
+      "page": 96,
+      "original": "bi weekly",
+      "suggestions": [
+        {
+          "candidate": "biweekly",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…rs of the unit who receive a full-year fellowship leave at 80% of the bi- weekly salary rate may, at their option, upon written notice to the Presiden…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "for hoo",
+      "suggestions": [
+        {
+          "candidate": "forhoo",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…ert Linn Commissioner Agreed and Accepted on Behalf of Local 831, IBT for hoo 25003   Uniformed Sanitationmen's Association"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "original": "in cluding",
+      "suggestions": [
+        {
+          "candidate": "including",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…t of the agreement entered into between the parties for all purposes, in- cluding without limitation, the grievance procedure. Sincerely, Kashra Garcia…"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "original": "issu ance",
+      "suggestions": [
+        {
+          "candidate": "issuance",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…m our understanding regarding the EJ Ward/WEX Gascard Program and the issu- ance of Gascurd PIN nunbers to Sanitation Workers. The use of Gascard PIN …"
+    },
+    {
+      "kind": "fragment",
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "original": "ve hicles",
+      "suggestions": [
+        {
+          "candidate": "vehicles",
+          "rule": "rejoin"
+        }
+      ],
+      "context": "…dinary circumstances, Sanitation Workers shall not be ordered lo luel ve- hicles in the field at other than Department of Sanitution facilities, and w…"
+    }
+  ]
+}
