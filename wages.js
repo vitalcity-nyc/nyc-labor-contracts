@@ -18,10 +18,10 @@
   }
 
   function renderOverview() {
-    const curated = state.wages.filter(w => w.curated);
-    const civilian = curated.filter(w => w.cumulative_pct && w.cumulative_pct < 18);
-    const uniformed = curated.filter(w => w.cumulative_pct && w.cumulative_pct >= 18 && w.cumulative_pct < 22);
-    const pba = curated.filter(w => w.contract_id === "pba-mou-2017-2025")[0];
+    const curated = state.wages.filter(w => w.curated && w.cumulative_pct);
+    const civilian = curated.filter(w => w.cumulative_pct < 18);
+    const uniformed = curated.filter(w => w.cumulative_pct >= 18 && w.cumulative_pct < 25);
+    const pba = state.wages.find(w => w.contract_id === "pba-mou-2017-2025");
 
     const civAvg = civilian.length ? (civilian.reduce((s, w) => s + w.cumulative_pct, 0) / civilian.length).toFixed(2) : "—";
     const uniAvg = uniformed.length ? (uniformed.reduce((s, w) => s + w.cumulative_pct, 0) / uniformed.length).toFixed(2) : "—";
@@ -31,22 +31,22 @@
         <div class="wages-stat">
           <div class="wages-stat-num">${civAvg}<span class="wages-stat-unit">%</span></div>
           <div class="wages-stat-label">Civilian-pattern compounded GWI</div>
-          <div class="wages-stat-sub">${civilian.length} unions, 2021-2026 round (5 steps)</div>
+          <div class="wages-stat-sub">5 steps of 3.00/3.00/3.00/3.00/3.25%, plus $3,000 ratification bonus.</div>
         </div>
         <div class="wages-stat">
           <div class="wages-stat-num">${uniAvg}<span class="wages-stat-unit">%</span></div>
-          <div class="wages-stat-label">Uniformed-pattern compounded GWI</div>
-          <div class="wages-stat-sub">${uniformed.length} unions, 2022-2027 round (5 steps)</div>
+          <div class="wages-stat-label">Uniformed Coalition compounded GWI</div>
+          <div class="wages-stat-sub">5 steps of 3.25/3.25/3.50/3.50/4.00% at months 1, 13, 25, 37, 49 of each unit's successor agreement. No standard ratification bonus in the coalition agreement.</div>
         </div>
         <div class="wages-stat">
-          <div class="wages-stat-num">${pba ? pba.cumulative_pct : "—"}<span class="wages-stat-unit">%</span></div>
-          <div class="wages-stat-label">PBA back-loaded longer term</div>
-          <div class="wages-stat-sub">7 steps over an 8-year term, 2017-2025</div>
+          <div class="wages-stat-num">${pba ? pba.cumulative_pct.toFixed(2) : "—"}<span class="wages-stat-unit">%</span></div>
+          <div class="wages-stat-label">PBA, prior round</div>
+          <div class="wages-stat-sub">8 annual steps Aug 1, 2017 through Aug 1, 2024. 2.25 → 4.00% per year. No $3,000 bonus; settlement included separate retroactive-pay provisions.</div>
         </div>
         <div class="wages-stat">
           <div class="wages-stat-num">$3,000</div>
-          <div class="wages-stat-label">Ratification bonus, every contract</div>
-          <div class="wages-stat-sub">One-time lump sum, pensionable, pro-rated</div>
+          <div class="wages-stat-label">Ratification bonus (civilian round)</div>
+          <div class="wages-stat-sub">Pensionable lump sum, pro-rated, paid to DC 37, UFT, CSA, CWA 1180, IBT 237, 1199 SEIU H+H, Doctors Council. Not present in the uniformed pattern.</div>
         </div>
       </div>
     `;
@@ -70,11 +70,24 @@
     }
   }
 
+  const VERIFICATION_LABELS = {
+    "full":     { text: "Verified against contract text", cls: "verified-full" },
+    "partial":  { text: "Partially verified · some dates inferred", cls: "verified-partial" },
+    "pattern":  { text: "Set by parent agreement (UOCEA)", cls: "verified-pattern" },
+    "appendix": { text: "GWI lives in PDF appendix · see source", cls: "verified-appendix" },
+  };
+
   function card(w) {
     const div = document.createElement("div");
     div.className = "wage-card";
+    const titleHtml = `<h3><a href="index.html#/contract/${encodeURIComponent(w.contract_id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(w.contract_label) : w.contract_label)}</a></h3>`;
+    const verBadge = w.verified && VERIFICATION_LABELS[w.verified]
+      ? `<span class="wage-verified ${VERIFICATION_LABELS[w.verified].cls}">${VERIFICATION_LABELS[w.verified].text}</span>` : "";
+    const bonusesHtml = (w.bonuses || []).map(b => `
+      <div class="wage-bonus">+ $${b.amount.toLocaleString()} ${escapeHtml(b.type)}${b.effective && b.effective !== "on-ratification" ? ` (${formatDate(b.effective)})` : ""}</div>
+    `).join("");
+
     if (w.curated && w.increases.length) {
-      // Find max pct across all curated for normalizing bar widths
       const allCurated = state.wages.filter(x => x.curated).flatMap(x => x.increases);
       const maxPct = Math.max(...allCurated.map(i => i.pct), 4);
       const stepsHtml = w.increases.map(inc => `
@@ -86,18 +99,31 @@
           </div>
         </div>
       `).join("");
-      const bonusesHtml = (w.bonuses || []).map(b => `
-        <div class="wage-bonus">+ $${b.amount.toLocaleString()} ${b.type} bonus</div>
-      `).join("");
       div.innerHTML = `
         <div class="wage-header">
-          <h3><a href="index.html#/contract/${encodeURIComponent(w.contract_id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(w.contract_label) : w.contract_label)}</a></h3>
+          ${titleHtml}
           <div class="wage-cumulative">
             <span class="wage-cumulative-num">${w.cumulative_pct.toFixed(2)}%</span>
             <span class="wage-cumulative-label">compounded over ${w.increases.length} steps</span>
           </div>
         </div>
+        ${verBadge}
         <div class="wage-steps">${stepsHtml}</div>
+        ${bonusesHtml ? `<div class="wage-bonuses">${bonusesHtml}</div>` : ""}
+        ${w.source_note ? `<p class="wage-source">${escapeHtml(w.source_note)}</p>` : ""}
+      `;
+    } else if (w.curated && w.verified === "appendix") {
+      // GWI not enumerable from text; show bonuses + source note.
+      div.classList.add("wage-card-appendix");
+      div.innerHTML = `
+        <div class="wage-header">
+          ${titleHtml}
+          <div class="wage-cumulative wage-cumulative-pending">
+            <span class="wage-cumulative-num">PDF</span>
+            <span class="wage-cumulative-label">see source for GWI</span>
+          </div>
+        </div>
+        ${verBadge}
         ${bonusesHtml ? `<div class="wage-bonuses">${bonusesHtml}</div>` : ""}
         ${w.source_note ? `<p class="wage-source">${escapeHtml(w.source_note)}</p>` : ""}
       `;
@@ -123,6 +149,12 @@
 
   function formatDate(s) {
     if (!s) return "";
+    if (s.startsWith("month-")) {
+      const n = parseInt(s.slice(6));
+      if (n === 1) return "Day 1 of unit agreement";
+      return `Month ${n}`;
+    }
+    if (s === "on-ratification") return "On ratification";
     if (s.startsWith("20") && s.length >= 7) {
       const [y, m, d] = s.split("-");
       const month = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][(parseInt(m)||1)-1];

@@ -713,6 +713,17 @@ mark { background: var(--vc-chartreuse); padding: 0 2px; color: var(--vc-black);
   padding: 18px 22px; margin-bottom: 14px;
 }
 .wage-card-uncurated { border-color: var(--vc-border); border-left: 4px solid var(--vc-charcoal); }
+.wage-card-appendix { border-left: 4px solid var(--vc-cerulean); }
+.wage-verified {
+  display: inline-block;
+  font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 700;
+  padding: 2px 8px; border: 1px solid currentColor; border-radius: 0;
+  margin-bottom: 12px;
+}
+.wage-verified.verified-full { color: #2d6a4f; border-color: #2d6a4f; background: #e8f5e9; }
+.wage-verified.verified-partial { color: var(--vc-accent); border-color: var(--vc-accent); background: var(--vc-orange-20); }
+.wage-verified.verified-pattern { color: var(--vc-cerulean); border-color: var(--vc-cerulean); background: var(--vc-cerulean-20); }
+.wage-verified.verified-appendix { color: var(--vc-magenta); border-color: var(--vc-magenta); background: var(--vc-magenta-20); }
 .wage-header {
   display: flex; justify-content: space-between; align-items: baseline; gap: 18px; flex-wrap: wrap;
   margin-bottom: 14px;

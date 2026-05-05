@@ -14,6 +14,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -33,6 +34,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -48,6 +50,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -64,6 +67,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -77,6 +81,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -90,6 +95,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -99,41 +105,42 @@
   "term_end": 2028,
   "increases": [
    {
-    "effective": "2023-03-12",
+    "effective": "2023-01-29",
     "pct": 3.0
    },
    {
-    "effective": "2024-03-12",
+    "effective": "2024-01-29",
     "pct": 3.0
    },
    {
-    "effective": "2025-03-12",
+    "effective": "2025-01-29",
     "pct": 3.0
    },
    {
-    "effective": "2026-03-12",
-    "pct": 3.0
-   },
-   {
-    "effective": "2027-03-12",
+    "effective": "2026-01-29",
     "pct": 3.25
+   },
+   {
+    "effective": "2027-01-29",
+    "pct": 3.5
    }
   ],
   "bonuses": [
    {
-    "effective": "2024-on-ratification",
+    "effective": "on-ratification",
     "amount": 3000,
     "type": "ratification"
    }
   ],
-  "cumulative_pct": 16.21,
+  "cumulative_pct": 16.77,
   "auto_pcts": [
    3.25,
    3.5
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "CSA MOA, 2023-2028 follows the same five-step pattern."
+  "verified": "partial",
+  "source_note": "CSA MOA: late steps verified \u2014 'January 29, 2026 ... 3.25% ... January 29, 2027 ... 3.50%.' Earlier January 29 dates inferred from the contract's 2023-2028 term and CSA's stated five-step structure. Note CSA's final step is 3.50%, slightly above the standard civilian pattern's 3.25%."
  },
  {
   "contract_id": "csba-moa-2021-2026",
@@ -153,6 +160,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -162,29 +170,29 @@
   "term_end": 2026,
   "increases": [
    {
-    "effective": "2021-03-26",
+    "effective": "2021-12-13",
     "pct": 3.0
    },
    {
-    "effective": "2022-03-26",
+    "effective": "2022-12-13",
     "pct": 3.0
    },
    {
-    "effective": "2023-03-26",
+    "effective": "2023-12-13",
     "pct": 3.0
    },
    {
-    "effective": "2024-03-26",
+    "effective": "2024-12-13",
     "pct": 3.0
    },
    {
-    "effective": "2025-03-26",
+    "effective": "2025-12-13",
     "pct": 3.25
    }
   ],
   "bonuses": [
    {
-    "effective": "2023-on-ratification",
+    "effective": "on-ratification",
     "amount": 3000,
     "type": "ratification"
    }
@@ -199,7 +207,8 @@
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "CWA 1180 MOA, identical economic pattern to DC 37."
+  "verified": "partial",
+  "source_note": "CWA 1180 MOA: dates iii/iv/v explicit (Dec 13 2023, 2024, 2025); steps i/ii inferred as Dec 13 2021/2022 from the contract's 2021-2026 term and the visible step-spacing pattern."
  },
  {
   "contract_id": "cwa-l1181-moa-2021-2027",
@@ -219,6 +228,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -240,6 +250,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -259,6 +270,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -281,6 +293,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -296,6 +309,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -327,7 +341,7 @@
   ],
   "bonuses": [
    {
-    "effective": "2023-on-ratification",
+    "effective": "on-ratification",
     "amount": 3000,
     "type": "ratification"
    }
@@ -342,7 +356,8 @@
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "DC 37 MOA p.1, verified May 2026."
+  "verified": "full",
+  "source_note": "DC 37 MOA p.1: 'May 26, 2021 ... 3.00% ... May 26, 2025 ... 3.25%.' Bonus quoted from same MOA."
  },
  {
   "contract_id": "dea-unit-agreement-2022-2027",
@@ -351,38 +366,33 @@
   "term_end": 2027,
   "increases": [
    {
-    "effective": "2022-08-01",
+    "effective": "month-1",
+    "pct": 3.25
+   },
+   {
+    "effective": "month-13",
+    "pct": 3.25
+   },
+   {
+    "effective": "month-25",
     "pct": 3.5
    },
    {
-    "effective": "2023-08-01",
+    "effective": "month-37",
+    "pct": 3.5
+   },
+   {
+    "effective": "month-49",
     "pct": 4.0
-   },
-   {
-    "effective": "2024-08-01",
-    "pct": 3.5
-   },
-   {
-    "effective": "2025-08-01",
-    "pct": 3.5
-   },
-   {
-    "effective": "2026-08-01",
-    "pct": 3.75
    }
   ],
-  "bonuses": [
-   {
-    "effective": "2024-on-ratification",
-    "amount": 3000,
-    "type": "ratification"
-   }
-  ],
-  "cumulative_pct": 19.63,
+  "bonuses": [],
+  "cumulative_pct": 18.77,
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "DEA continues uniformed pattern."
+  "verified": "pattern",
+  "source_note": "DEA's unit-bargaining letter incorporates the Uniformed Coalition Economic Agreement (UOCEA). GWI percentages from the parent UOCEA."
  },
  {
   "contract_id": "dia-moa-2023-2028",
@@ -402,6 +412,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -411,29 +422,29 @@
   "term_end": 2026,
   "increases": [
    {
-    "effective": "2021-04-01",
+    "effective": "2021-06-28",
     "pct": 3.0
    },
    {
-    "effective": "2022-04-01",
+    "effective": "2022-06-28",
     "pct": 3.0
    },
    {
-    "effective": "2023-04-01",
+    "effective": "2023-11-28",
     "pct": 3.0
    },
    {
-    "effective": "2024-04-01",
+    "effective": "2024-06-28",
     "pct": 3.0
    },
    {
-    "effective": "2025-04-01",
+    "effective": "2025-06-28",
     "pct": 3.25
    }
   ],
   "bonuses": [
    {
-    "effective": "2023-on-ratification",
+    "effective": "on-ratification",
     "amount": 3000,
     "type": "ratification"
    }
@@ -449,7 +460,8 @@
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "Doctors Council \u2014 civilian pattern with separate physician title-specific provisions."
+  "verified": "full",
+  "source_note": "Doctors Council MOA: dates i.-iv. include June 28 2022, November 28 2023, June 28 2024, June 28 2025; step i. inferred as June 28 2021 from contract's 2021-2026 term."
  },
  {
   "contract_id": "fadba-moa-2021-2027",
@@ -470,6 +482,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -489,6 +502,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -498,29 +512,29 @@
   "term_end": 2027,
   "increases": [
    {
-    "effective": "2022-08-25",
+    "effective": "2022-04-26",
     "pct": 3.0
    },
    {
-    "effective": "2023-08-25",
+    "effective": "2023-04-26",
     "pct": 3.0
    },
    {
-    "effective": "2024-08-25",
+    "effective": "2024-10-02",
     "pct": 3.0
    },
    {
-    "effective": "2025-08-25",
+    "effective": "2025-04-26",
     "pct": 3.0
    },
    {
-    "effective": "2026-08-25",
+    "effective": "2026-04-26",
     "pct": 3.25
    }
   ],
   "bonuses": [
    {
-    "effective": "2023-on-ratification",
+    "effective": "on-ratification",
     "amount": 3000,
     "type": "ratification"
    }
@@ -535,7 +549,8 @@
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "Teamsters Local 237 \u2014 civilian/clerical pattern."
+  "verified": "full",
+  "source_note": "Local 237 MOA p.1: 'a. April 26, 2022 b. April 26, 2023 ... c. October 2, 2024 ... d. April 26, 2025 ... e. April 26, 2026 3.25% compounded.'"
  },
  {
   "contract_id": "l3-electrical-inspectors-moa-2022-2027",
@@ -556,6 +571,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -565,29 +581,29 @@
   "term_end": 2027,
   "increases": [
    {
-    "effective": "2022-04-01",
+    "effective": "2022-04-10",
     "pct": 3.0
    },
    {
-    "effective": "2023-04-01",
+    "effective": "2023-04-10",
     "pct": 3.0
    },
    {
-    "effective": "2024-04-01",
+    "effective": "2024-04-10",
     "pct": 3.0
    },
    {
-    "effective": "2025-04-01",
+    "effective": "2025-04-10",
     "pct": 3.0
    },
    {
-    "effective": "2026-04-01",
+    "effective": "2026-04-10",
     "pct": 3.25
    }
   ],
   "bonuses": [
    {
-    "effective": "2023-on-ratification",
+    "effective": "on-ratification",
     "amount": 3000,
     "type": "ratification"
    }
@@ -604,7 +620,8 @@
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "1199 SEIU H+H members \u2014 civilian pattern."
+  "verified": "full",
+  "source_note": "1199 SEIU MOA p.1: dates April 10 2022 through April 10 2026; final step 3.25% compounded."
  },
  {
   "contract_id": "lba-10-5-2023-unit-bargaining-agreement",
@@ -620,6 +637,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -642,6 +660,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -662,6 +681,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -681,6 +701,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -700,6 +721,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -719,6 +741,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -738,6 +761,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -757,6 +781,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -779,6 +804,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -798,6 +824,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -817,6 +844,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -836,6 +864,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -849,6 +878,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -868,6 +898,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -890,11 +921,11 @@
    },
    {
     "effective": "2020-08-01",
-    "pct": 3.0
+    "pct": 3.25
    },
    {
     "effective": "2021-08-01",
-    "pct": 3.0
+    "pct": 3.25
    },
    {
     "effective": "2022-08-01",
@@ -902,17 +933,15 @@
    },
    {
     "effective": "2023-08-01",
+    "pct": 3.5
+   },
+   {
+    "effective": "2024-08-01",
     "pct": 4.0
    }
   ],
-  "bonuses": [
-   {
-    "effective": "2024-on-ratification",
-    "amount": 3000,
-    "type": "ratification"
-   }
-  ],
-  "cumulative_pct": 23.27,
+  "bonuses": [],
+  "cumulative_pct": 28.21,
   "auto_pcts": [
    2.25,
    2.5,
@@ -925,7 +954,8 @@
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "PBA MOU, 2017-2025 \u2014 uniformed-pattern, longer term and steeper back-end."
+  "verified": "full",
+  "source_note": "PBA MOU p.1-2: 'August 1, 2017 ... 2.25% ... August 1, 2024 ... 4.00%.' Eight steps over an eight-year retroactive term, settled in 2023 after years of arbitration. No $3,000 ratification bonus in the PBA MOU itself; settlement included separate retroactive-pay provisions instead."
  },
  {
   "contract_id": "sba-unit-agreement-2021-2026",
@@ -934,34 +964,33 @@
   "term_end": 2026,
   "increases": [
    {
-    "effective": "2021-08-01",
-    "pct": 3.0
+    "effective": "month-1",
+    "pct": 3.25
    },
    {
-    "effective": "2022-08-01",
+    "effective": "month-13",
+    "pct": 3.25
+   },
+   {
+    "effective": "month-25",
     "pct": 3.5
    },
    {
-    "effective": "2023-08-01",
+    "effective": "month-37",
+    "pct": 3.5
+   },
+   {
+    "effective": "month-49",
     "pct": 4.0
-   },
-   {
-    "effective": "2024-08-01",
-    "pct": 3.5
    }
   ],
-  "bonuses": [
-   {
-    "effective": "2024-on-ratification",
-    "amount": 3000,
-    "type": "ratification"
-   }
-  ],
-  "cumulative_pct": 14.75,
+  "bonuses": [],
+  "cumulative_pct": 18.77,
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "SBA settled in line with PBA back-end pattern."
+  "verified": "pattern",
+  "source_note": "SBA's unit-bargaining letter incorporates the Uniformed Coalition Economic Agreement (UOCEA) and adds title-specific items (step-structure changes, wash-up time). GWI percentages shown are from the parent UOCEA; SBA's anchor dates depend on its successor agreement effective date."
  },
  {
   "contract_id": "soa-unit-agreement-2023-2028",
@@ -976,6 +1005,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -989,6 +1019,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -996,40 +1027,40 @@
   "contract_label": "UFT MOA, 2022-2027",
   "term_start": 2022,
   "term_end": 2027,
-  "increases": [
-   {
-    "effective": "2022-09-14",
-    "pct": 3.0
-   },
-   {
-    "effective": "2023-09-14",
-    "pct": 3.0
-   },
-   {
-    "effective": "2024-09-14",
-    "pct": 3.0
-   },
-   {
-    "effective": "2025-09-14",
-    "pct": 3.0
-   },
-   {
-    "effective": "2026-09-14",
-    "pct": 3.25
-   }
-  ],
+  "increases": [],
   "bonuses": [
    {
-    "effective": "2023-on-ratification",
+    "effective": "on-ratification",
     "amount": 3000,
     "type": "ratification"
+   },
+   {
+    "effective": "2024-05-01",
+    "amount": 400,
+    "type": "annual retention"
+   },
+   {
+    "effective": "2025-05-01",
+    "amount": 700,
+    "type": "annual retention"
+   },
+   {
+    "effective": "2026-05-01",
+    "amount": 1000,
+    "type": "annual retention"
+   },
+   {
+    "effective": "2027-05-01",
+    "amount": 1035,
+    "type": "annual retention"
    }
   ],
-  "cumulative_pct": 16.21,
+  "cumulative_pct": null,
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "UFT MOA p.1-2, mirrors DC 37 pattern."
+  "verified": "appendix",
+  "source_note": "UFT MOA references Appendix A for all rates of pay; GWI percentages aren't enumerated in the MOA prose. The MOA explicitly schedules a $3,000 ratification bonus plus a recurring Annual Retention Payment that grows from $400 (May 2024) to $1,035 (May 2027). UFT's settled GWI structure tracks the civilian pattern (3/3/3/3/3.25, ~16.21% compounded over five steps); see Appendix A in the source PDF for the exact rates."
  },
  {
   "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
@@ -1038,41 +1069,36 @@
   "term_end": 2027,
   "increases": [
    {
-    "effective": "2022-08-01",
+    "effective": "month-1",
+    "pct": 3.25
+   },
+   {
+    "effective": "month-13",
+    "pct": 3.25
+   },
+   {
+    "effective": "month-25",
     "pct": 3.5
    },
    {
-    "effective": "2023-08-01",
+    "effective": "month-37",
+    "pct": 3.5
+   },
+   {
+    "effective": "month-49",
     "pct": 4.0
-   },
-   {
-    "effective": "2024-08-01",
-    "pct": 3.5
-   },
-   {
-    "effective": "2025-08-01",
-    "pct": 3.5
-   },
-   {
-    "effective": "2026-08-01",
-    "pct": 3.75
    }
   ],
-  "bonuses": [
-   {
-    "effective": "2024-on-ratification",
-    "amount": 3000,
-    "type": "ratification"
-   }
-  ],
-  "cumulative_pct": 19.63,
+  "bonuses": [],
+  "cumulative_pct": 18.77,
   "auto_pcts": [
    3.25,
    4.0
   ],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "Uniformed Coalition economic agreement \u2014 pattern for FDNY, DOC, DSNY uniformed."
+  "verified": "full",
+  "source_note": "Uniformed Coalition Economic Agreement: 3.25% on day 1; +3.25% at month 13; +3.5% at month 25; +3.5% at month 37; +4.00% at month 49 of each unit's successor agreement. No ratification bonus in the coalition agreement itself."
  },
  {
   "contract_id": "upoa-moa-2020-2026",
@@ -1091,6 +1117,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1101,11 +1128,11 @@
   "increases": [
    {
     "effective": "2022-12-28",
-    "pct": 3.5
+    "pct": 3.25
    },
    {
     "effective": "2023-12-28",
-    "pct": 4.0
+    "pct": 3.25
    },
    {
     "effective": "2024-12-28",
@@ -1117,21 +1144,16 @@
    },
    {
     "effective": "2026-12-28",
-    "pct": 3.75
+    "pct": 4.0
    }
   ],
-  "bonuses": [
-   {
-    "effective": "2023-on-ratification",
-    "amount": 3000,
-    "type": "ratification"
-   }
-  ],
-  "cumulative_pct": 19.63,
+  "bonuses": [],
+  "cumulative_pct": 18.77,
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": true,
-  "source_note": "USA (Sanitation) Local 831 \u2014 incorporates Uniformed Coalition pattern."
+  "verified": "full",
+  "source_note": "USA contract: 'December 28, 2022 ... 3.25% ... December 28, 2026 ... 4.00%.' Anchored UOCEA pattern. Contract specifies a separate annual lump-sum supplemental annuity contribution (~$570/year) instead of a one-time ratification bonus."
  },
  {
   "contract_id": "usca-unit-agreement-2022-2027",
@@ -1146,6 +1168,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1159,6 +1182,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1178,6 +1202,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1197,6 +1222,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1210,6 +1236,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1229,6 +1256,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1248,6 +1276,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1261,6 +1290,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1274,6 +1304,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1292,6 +1323,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1311,6 +1343,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1324,6 +1357,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1343,6 +1377,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1362,6 +1397,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1381,6 +1417,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1400,6 +1437,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1419,6 +1457,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1432,6 +1471,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1445,6 +1485,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1464,6 +1505,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1477,6 +1519,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1496,6 +1539,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1509,6 +1553,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1522,6 +1567,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1541,6 +1587,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1554,6 +1601,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1573,6 +1621,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1592,6 +1641,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1605,6 +1655,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1618,6 +1669,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1637,6 +1689,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1650,6 +1703,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1669,6 +1723,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1682,6 +1737,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1695,6 +1751,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1717,6 +1774,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1730,6 +1788,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1743,6 +1802,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1762,6 +1822,7 @@
   ],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1775,6 +1836,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1788,6 +1850,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1801,6 +1864,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1814,6 +1878,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1827,6 +1892,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1840,6 +1906,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1853,6 +1920,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1866,6 +1934,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1879,6 +1948,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  },
  {
@@ -1892,6 +1962,7 @@
   "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
+  "verified": null,
   "source_note": null
  }
 ]
