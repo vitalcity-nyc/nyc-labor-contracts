@@ -515,11 +515,12 @@ mark { background: var(--vc-chartreuse); padding: 0 2px; color: var(--vc-black);
   border-top: 1px dashed var(--vc-border); padding-top: 12px;
 }
 .doc-view-meta strong { color: var(--vc-text); font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.72rem; margin-right: 4px; }
-.doc-view-pdf {
-  margin-left: auto; font-weight: 700; font-size: 0.85rem;
+.doc-view-pdf, .doc-view-md {
+  font-weight: 700; font-size: 0.85rem;
   text-decoration: none; border-bottom: 1px solid var(--vc-rule);
 }
-.doc-view-pdf:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
+.doc-view-md { margin-left: auto; }
+.doc-view-pdf:hover, .doc-view-md:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
 
 .doc-view-body {
   display: grid;

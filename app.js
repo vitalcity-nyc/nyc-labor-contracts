@@ -566,6 +566,7 @@
           <span><strong>Term</strong> ${term}</span>
           <span><strong>Pages</strong> ${totalPages}${ocrPages.size ? ` (${ocrPages.size} OCR'd)` : ""}</span>
           <span><strong>Sections</strong> ${items.length}</span>
+          <a href="data/markdown/${encodeURIComponent(c.id)}.md" download class="doc-view-md">Download as Markdown ↓</a>
           <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener" class="doc-view-pdf">View source PDF →</a>
         </div>
       </header>
