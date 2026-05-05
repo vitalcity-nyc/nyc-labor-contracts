@@ -97,6 +97,17 @@ main { padding: 28px 0 80px; }
 }
 .page-nav-cta:hover { background: var(--vc-accent); border-color: var(--vc-accent); }
 .page-nav-cta:hover .page-nav-cta-sub { color: var(--vc-black); }
+
+/* AI Q&A CTA — magenta accent so it visually reads as a different category */
+.page-nav-cta-ai {
+  background: var(--vc-magenta);
+  color: var(--vc-white) !important;
+  border-color: var(--vc-magenta);
+}
+.page-nav-cta-ai .page-nav-cta-sub { color: var(--vc-white); opacity: 0.92; }
+.page-nav-cta-ai:hover { background: var(--vc-black); border-color: var(--vc-black); }
+.page-nav-cta-ai:hover .page-nav-cta-sub { color: var(--vc-magenta); opacity: 1; }
+.page-nav-cta-ai .page-nav-cta-label::before { content: "✨ "; }
 .page-nav-cta-label {
   font-weight: 700; font-size: 0.92rem;
   letter-spacing: 0.06em; text-transform: uppercase;
@@ -515,11 +526,16 @@ mark { background: var(--vc-chartreuse); padding: 0 2px; color: var(--vc-black);
   border-top: 1px dashed var(--vc-border); padding-top: 12px;
 }
 .doc-view-meta strong { color: var(--vc-text); font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.72rem; margin-right: 4px; }
-.doc-view-pdf, .doc-view-md {
+.doc-view-pdf, .doc-view-md, .doc-view-ai {
   font-weight: 700; font-size: 0.85rem;
   text-decoration: none; border-bottom: 1px solid var(--vc-rule);
 }
-.doc-view-md { margin-left: auto; }
+.doc-view-ai {
+  margin-left: auto;
+  color: var(--vc-magenta) !important;
+  border-bottom-color: var(--vc-magenta);
+}
+.doc-view-ai:hover { color: var(--vc-black) !important; border-bottom-color: var(--vc-black); }
 .doc-view-pdf:hover, .doc-view-md:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
 
 .doc-view-body {

@@ -566,6 +566,7 @@
           <span><strong>Term</strong> ${term}</span>
           <span><strong>Pages</strong> ${totalPages}${ocrPages.size ? ` (${ocrPages.size} OCR'd)` : ""}</span>
           <span><strong>Sections</strong> ${items.length}</span>
+          <a href="https://notebooklm.google.com/notebook/33d25d10-f1c1-4317-bcbd-ddce0f3e77cb" target="_blank" rel="noopener" class="doc-view-ai">✨ Ask in NotebookLM →</a>
           <a href="data/markdown/${encodeURIComponent(c.id)}.md" download class="doc-view-md">Download as Markdown ↓</a>
           <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener" class="doc-view-pdf">View source PDF →</a>
         </div>

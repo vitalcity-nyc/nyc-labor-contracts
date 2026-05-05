@@ -76,6 +76,10 @@
     </ul>
     <p>The $3,000 ratification bonus appears only in the civilian-pattern contracts; the uniformed pattern doesn't include it. PBA's prior 2017-2025 settlement also has no $3,000 bonus.</p>
 
+    <h2>Natural-language Q&amp;A</h2>
+    <p>For natural-language questions across the corpus — "compare the discipline procedures for sanitation workers and teachers," "which contracts have parental leave," "what's the longest grievance timeline" — use the companion <a href="https://notebooklm.google.com/notebook/33d25d10-f1c1-4317-bcbd-ddce0f3e77cb" target="_blank" rel="noopener">NotebookLM notebook</a>, which has been loaded with the same Markdown corpus this site is built from. NotebookLM provides citations back to the source documents and runs on Google's infrastructure (free for users with a Google account).</p>
+    <p>This site itself is search-only by design — it doesn't call any LLM API at query time, so it stays free to host and free to use. The two tools complement each other: use the search/topic-pivot here for keyword-precise lookups and citations, use NotebookLM for cross-document synthesis questions.</p>
+
     <h2>Markdown export</h2>
     <p>Every contract is also published as a standalone Markdown file under <code>/data/markdown/&lt;contract-id&gt;.md</code>, with YAML frontmatter for metadata, page numbers and OCR flags inline, and tables preserved as pipe-delimited rows. A <a href="data/nyc-labor-contracts-markdown.zip" download>single ZIP bundle</a> of all 94 contracts (~750 KB) is also available, plus a per-contract download button on every contract detail page. Built by <code>scripts/export_markdown.py</code> from the same source data the search index uses.</p>
 
