@@ -48,7 +48,7 @@ CURATED = {
     },
 
     "cwa-1180-moa-2021-2026": {
-        "verified": "partial",
+        "verified": "full",
         "increases": [
             {"effective": "2021-12-13", "pct": 3.00},
             {"effective": "2022-12-13", "pct": 3.00},
@@ -57,7 +57,7 @@ CURATED = {
             {"effective": "2025-12-13", "pct": 3.25},
         ],
         "bonuses": [{"effective": "on-ratification", "amount": 3000, "type": "ratification"}],
-        "source_note": "CWA 1180 MOA: dates iii/iv/v explicit (Dec 13 2023, 2024, 2025); steps i/ii inferred as Dec 13 2021/2022 from the contract's 2021-2026 term and the visible step-spacing pattern.",
+        "source_note": "CWA 1180 MOA: all five Dec 13 anchor dates (2021 through 2025) verified against the GWI block in the source contract.",
     },
 
     "ibt-l237-moa-2022-2027": {
@@ -76,14 +76,14 @@ CURATED = {
     "l1199-moa-2022-2027": {
         "verified": "full",
         "increases": [
-            {"effective": "2022-04-10", "pct": 3.00},
+            {"effective": "2022-09-06", "pct": 3.00},
             {"effective": "2023-04-10", "pct": 3.00},
             {"effective": "2024-04-10", "pct": 3.00},
             {"effective": "2025-04-10", "pct": 3.00},
             {"effective": "2026-04-10", "pct": 3.25},
         ],
         "bonuses": [{"effective": "on-ratification", "amount": 3000, "type": "ratification"}],
-        "source_note": "1199 SEIU MOA p.1: dates April 10 2022 through April 10 2026; final step 3.25% compounded.",
+        "source_note": "1199 SEIU MOA: 'i. September 6, 2022 ... ii. April 10, 2023 ... v. April 10, 2026 ... 3.25% compounded.' First step anchors to the contract's effective start; subsequent steps anchor to April 10.",
     },
 
     "doctors-council-moa-2021-2026": {
@@ -96,20 +96,20 @@ CURATED = {
             {"effective": "2025-06-28", "pct": 3.25},
         ],
         "bonuses": [{"effective": "on-ratification", "amount": 3000, "type": "ratification"}],
-        "source_note": "Doctors Council MOA: dates i.-iv. include June 28 2022, November 28 2023, June 28 2024, June 28 2025; step i. inferred as June 28 2021 from contract's 2021-2026 term.",
+        "source_note": "Doctors Council MOA: 'i. June 28, 2021 ... ii. June 28, 2022 ... iii. November 28, 2023 ... iv. June 28, 2024 ... v. June 28, 2025 ... 3.25% compounded.' All five dates verified against the GWI block.",
     },
 
     "csa-moa-2023-2028-amended-appendix-a": {
-        "verified": "partial",
+        "verified": "full",
         "increases": [
             {"effective": "2023-01-29", "pct": 3.00},
-            {"effective": "2024-01-29", "pct": 3.00},
+            {"effective": "2024-06-29", "pct": 3.00},
             {"effective": "2025-01-29", "pct": 3.00},
             {"effective": "2026-01-29", "pct": 3.25},
             {"effective": "2027-01-29", "pct": 3.50},
         ],
         "bonuses": [{"effective": "on-ratification", "amount": 3000, "type": "ratification"}],
-        "source_note": "CSA MOA: late steps verified — 'January 29, 2026 ... 3.25% ... January 29, 2027 ... 3.50%.' Earlier January 29 dates inferred from the contract's 2023-2028 term and CSA's stated five-step structure. Note CSA's final step is 3.50%, slightly above the standard civilian pattern's 3.25%.",
+        "source_note": "CSA MOA: 'i. January 29, 2023 ... ii. June 29, 2024 ... iii. January 29, 2025 ... iv. January 29, 2026 (3.25%) ... v. January 29, 2027 (3.50%).' Note step ii is June 29 (not January 29) and the final step is 3.50%, slightly above the standard civilian pattern's 3.25%.",
     },
 
     # ---------- UNIFORMED COALITION PATTERN (3.25 / 3.25 / 3.50 / 3.50 / 4.00) ----------
