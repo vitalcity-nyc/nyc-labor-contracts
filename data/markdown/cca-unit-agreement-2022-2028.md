@@ -55,7 +55,7 @@ Correction Captains Association
 Brooklyn, NY 11232
 RE: 2022-2027 Uniform Officers Coalition Economic Agreement ("UOCEA")
 Dear Mr. Ferraiuolo:
-This is to confirm the parties' mutual understanding and agreement conceming additional
+This is to confirm the parties' mutual understanding and agreement concerning additional
 economic items negotiated by the parties pursuant to Section 4 of the OCEA ("Unit
 Bargaining").
 1. The tenn of the agreement set forth in Section 1 of the OCEA shall be extended by 2
@@ -69,7 +69,7 @@ retirees.
 c. Effective November 30, 2025, $25 per annum on behalf of active employees and
 retirees.
 d. Effective November 30, 2026, $56 per annum on behalf of active employees and
-retirees. The total coutribution rate as of this date shall be $1,656 per annun on
+retirees. The total contribution rate as of this date shall be $1,656 per annun on
 behalf of active employees and retirees, exclusive of any contributions due
 pursuant to agreements between the City and Municipal Labor Committee.
 
@@ -134,7 +134,7 @@ Dear Mr. Ferraiuolo:
 This is to confirm the parties' mutual understanding and agreement that, should the
 Department launch any extended tour pilot, the parties will discuss participation of Captains in
 the pilot upon the request of either party.
-If the above couforms to your understanding, please execute the signature line below.
+If the above conforms to your understanding, please execute the signature line below.
 Sincerely,
 Reg
 Renee Campion

@@ -6626,7 +6626,7 @@ Adjunct Professional Development Fund
 Effective August 25, 2016, CUNY will provide the sum of $160,000 annually to the Adjunct
 Professional Development Fund
 Effective January 1, 2020, the University will provide the sum of $660,000 annually to the
-Adjunet Professional Development Fund. If the funds provided in any fiscal year are not fully
+Adjunct Professional Development Fund. If the funds provided in any fiscal year are not fully
 expended in the fiscal year, they may be rolled over into the next fiscal year. Guidelines for the
 implementation of this provision are contained in Appendix B.
 33.7 This Article shall not be subject to Article 20.

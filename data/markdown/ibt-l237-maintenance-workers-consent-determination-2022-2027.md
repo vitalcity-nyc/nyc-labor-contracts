@@ -165,12 +165,12 @@ et seg.
 ### CONSENT DETERMINATION
 _Page 3_ · _OCR-reconstructed_ · _Topics: wages_
 
-A Complaint under Section 220 of the Now York Statc Labor Law, having been filed by
+A Complaint under Section 220 of the Now York State Labor Law, having been filed by
 City Employees Union, Local 237, International Brotherhood ofTeamsters, representing employees
 of the City of New York, ct al., in the above referenced titles ("omployees"), and this Consent
-Determination having been agreed to between the Mayor's Office of Labor Rclations ("OLR") on
-bchalf of the City of New York, ct al., and the Complainant, compromising and settling certain
-disputes of basic rates of wages, supplemental bencfits and jurisdiction on all issucs of law and fact
+Determination having been agreed to between the Mayor's Office of Labor Relations ("OLR") on
+behalf of the City of New York, ct al., and the Complainant, compromising and settling certain
+disputes of basic rates of wages, supplemental benefits and jurisdiction on all issues of law and fact
 as to the titles set forth in the caption,
 NOW, THEREFORE, IT IS HEREBY DETERMINED BY CONSENT that:
 The compromised basic rate of wages and supplemental benefits agreed upon are and have
@@ -314,19 +314,19 @@ $50.73
 
 
 Work performed in excess of the regularly scheduled forty (40) hours shall be paid for in
-cash at the aforesaid overtime ratc. For the purposes of this paragraph, paid holidays shall be
+cash at the aforesaid overtime rate. For the purposes of this paragraph, paid holidays shall be
 considered as time actually worked. Hours in pay status shall include paid holidays and all paid
 Icavc, such as annual leave or sick Icavc.
 In addition to the above rates, a shift differential of $5.00 per shift shall be paid for scheduled
 work actually performed between the hours of 8:00 P.M. and 8:00 A.M. Such differential shall be
-paid in addition to the rates set forth hercin above for work performed for any day of the week
+paid in addition to the rates set forth herein above for work performed for any day of the week
 including Saturdays, Sundays and holidays. Such differential shall be paid if one (1) or more hour of
 the scheduled shift falls within the period of 8:00 P.M. to 8:00 A.M.
 Appendix A is modified to provide for:
 Annual Leave:
 Effective January 2, 2022:
 The annual leave allowance for Employees who were hired on or after December 15, 1985
-shall accruc as follows:
+shall accrue as follows:
 Years In Service
 At the beginning of the employee's Ist year
 Allowance
@@ -380,38 +380,38 @@ It is the intention of the parties that work actually performed on a holiday sha
 holiday rate in addition to the paid holiday.
 In the event that subsequent to the date of this determination, and prior to the entry of the
 next determination, additional paid holidays are granted to the City employees covered under the
-Carcer and Salary Plan, then in that event such additional holidays shall be deemed to be included in
+Career and Salary Plan, then in that event such additional holidays shall be deemed to be included in
 the List of Holidays for which holiday premium rates are to be paid.
 Leave Reg. Days:
 Effective January 2, 2022, the Icave benefits set forth in Article III, Sections
-(1)(a) -(f) of Appendix A annexed hereto shall continuc to apply.
+(1)(a) -(f) of Appendix A annexed hereto shall continue to apply.
 Welfare Fund
-A Welfare Fund contribution shall continuc to be paid effective January 2, 2022 at the rate of
+A Welfare Fund contribution shall continue to be paid effective January 2, 2022 at the rate of
 $1,855 pcr annum active employee and at the rate of $2,055 pcr annum per retired cmploycc.
 Effective January 2, 2026, there shall be an increase of $31.25 per employee per annum, for a rate of
 4
 
 
 $1,886.25 per annum per active employee and $2,086.25 pcr annum per retiree. Effective January 2,
-2027, there shall be an increase of $168.75 per employce per annum, for a rate of $2,055 pcr annum
-per active employce and $2,255 pcr annum per retirce.
+2027, there shall be an increase of $168.75 per employee per annum, for a rate of $2,055 pcr annum
+per active employee and $2,255 pcr annum per retirce.
 The annual contributions shall be paid per complainant by the City of New York to the
-Wolfare Fund, Local 237 International Brotherhood ofTcamsters, 216 Wcst 14th Strect, New York,
+Wolfare Fund, Local 237 International Brotherhood ofTcamsters, 216 West 14th Street, New York,
 N.Y.
-Employees who have been separated from service subsequent to Junc 30, 1970 and who were
+Employees who have been separated from service subsequent to June 30, 1970 and who were
 covered by a Welfare Fund at the time of such separation pursuant to a separate agreement between
-the City of New York and the Certified union representing such employees, shall continuc to be so
-covered subject to the provisions hercof, on the same contributory basis as incumbent employees.
-Contributions shall be made only for such time as said individuals remain primary beneficiarics of
+the City of New York and the Certified union representing such employees, shall continue to be so
+covered subject to the provisions hereof, on the same contributory basis as incumbent employees.
+Contributions shall be made only for such time as said individuals remain primary beneficiaries of
 the Now York City Health Insurance Program and are entitled to benefits paid for by the City
 through such program; or are retirees of the New York City Employees Retirement System who have
-completed five (5) years of full in time scrvice with the City of New York, except that contributions
+completed five (5) years of full in time service with the City of New York, except that contributions
 for those employees hired after December 27, 2001 shall be governed by the provisions of §12-126
 of the Administrative Code of the City of New York, as amended.
 Annuity Fund
-Effective January 2, 2022 the City of New York, ct al., shall continuc to contribute to an
-annuity fund $6.19 for cach paid eight hour working day and $7.74 for cach ten hour working day up
-to a maximum of $1,615.59 pcr annum on bchalf of all full-time and full-time per diem employces.
+Effective January 2, 2022 the City of New York, ct al., shall continue to contribute to an
+annuity fund $6.19 for each paid eight hour working day and $7.74 for each ten hour working day up
+to a maximum of $1,615.59 pcr annum on behalf of all full-time and full-time per diem employees.
 For part-time employees who work less than eight hours a day, the amount paid shall be based on a
 prorated amount, which is calculated against an eight hour day, up to a maximum of $1,615.59 per
 5
@@ -421,76 +421,76 @@ annum. For the purposes of these payments, excluded from paid working days are a
 days off, all days in non-pay status, and all paid overtime.
 This annuity fund will be subject to a separate agreement between the City of New York, ct
 al., and the Complainant. The liability of the City of New York, ct al., shall in no event exceed the
-amounts hercinabove set forth for cach effective day payablc, irrespective of any taxes, liens,
+amounts hereinabove set forth for each effective day payable, irrespective of any taxes, liens,
 attorneys' fees or otherwise, and provided further that the amount of contributions by the City of
 New York, ct al., shall be limited to the payments as provided herein.
-The City Health Bencfit (Insurancc) program shall continuc. The parties agree that the May
+The City Health Benefit (Insurance) program shall continue. The parties agree that the May
 5, 2014 letter between the City and the MLC is incorporated as if fully set forth herein.
 The provisions of this Consent Determination shall be consistent with the applicable
 provisions of the New York State Financial Emergency Act for the City of New York, as amended.
 The Complainant agrees to execute a full release to the City of New York ct al., for
-the period embraced herein, such relcase being set forth in the Gencral Relcase and Waiver attached
+the period embraced herein, such release being set forth in the General Release and Waiver attached
 hereto as Exhibit "A".
 c)
 The Complainant agrees to waive any and all interest on all differentials of basic rates
-of wages and supplemental bencfits. It is expressly understood that such waiver, set forth in Exhibit
+of wages and supplemental benefits. It is expressly understood that such waiver, set forth in Exhibit
 "A" annexed hereto, shall include the waiver of any right to interest payments due pursuant to
 subdivision 8c of Section 220 of the Labor Law (L. 1967, c, 502, 1). However,
 (1)
 Interest on wage incrcascs shall accrue at the rate of three percent (3%) per annum
 from onc hundred twenty (120) days after the filing date of this Consent
 Determination, or one hundred twenty (120) days after the effective date of the
-increasc, whichever is later, to the date of actual payment,
+increase, whichever is later, to the date of actual payment,
 6
 
 
 (2)
-Interest on shift differentials, holiday and overtime pay shall accruc at the rate of
+Interest on shift differentials, holiday and overtime pay shall accrue at the rate of
 three percent (3%) per annum from one hundred twenty (120) days following their
-carning, or one hundred twenty (120) days after the filing date of this Consent
+earning, or one hundred twenty (120) days after the filing date of this Consent
 Determination, whichever is later, to the date of actual payment and
 (3)
 Interest accrued under (1) or (2) above shall be payable only if the amount of interest
 due to an individual Employee exceeds five dollars ($5.00).
 d)
-The Complainant hercin shall refrain from filing any Article 78 proceedings in whole
+The Complainant herein shall refrain from filing any Article 78 proceedings in whole
 or in part with respect to any provision made herein and for any additional benefits other than those
-contained hercin excepting that the right is reserved to bring any necessary proceedings for the
+contained herein excepting that the right is reserved to bring any necessary proceedings for the
 enforcement of the terms of the Consent Determination.
 The Complainant agrees to withdraw any and all objections in all of the periods
 embodied herein.
 The Complainant agrees to waive any and all supplemental benefits payable under
 subdivision 3 of Section 220 of the Labor Law of the State of New York, such waiver being set forth
-in Exhibit "A" annexed hereto, and accept in licu thercof the supplemental benefits set forth in this
-Consent Determination, and as set forth in Appendix A annexed hereto as modified hercin.
+in Exhibit "A" annexed hereto, and accept in lieu thereof the supplemental benefits set forth in this
+Consent Determination, and as set forth in Appendix A annexed hereto as modified herein.
 g)
 Any new Employee who may be hired by the City of New York, ct al., during the
 term of this settlement shall be required to comply with all of the terms and conditions herein upon
-the payment of the rates and supplemental bencfits hercin.
+the payment of the rates and supplemental benefits herein.
 h)
-Any legal claims of any naturc, including specifically, but not limited thereto,
+Any legal claims of any nature, including specifically, but not limited thereto,
 premium rates, holiday rates, shift rates, overtime rates or any other legal claims affecting rates and
 supplemental benefits of any kind whatsoever, are merged in this compromise and settlement for the
 7
 
 
-period of the compromise and settlement contained hercin.
+period of the compromise and settlement contained herein.
 1)
 The foregoing basic rates of wages and supplemental benefits are duc and payable to
-cach and every employee of the City of New York, ct al., serving in the above-referenced titles
-beginning as of the effective date of the complaint filed hercin, and shall be applicable to all
+each and every employee of the City of New York, ct al., serving in the above-referenced titles
+beginning as of the effective date of the complaint filed herein, and shall be applicable to all
 employees of the City of New York, ct al., serving in the above-referenced titles who are represented
 by the Complainant.
 j)
-The basic rates and supplemental bencfits herein are not to be construed as truc
-prevailing rates and supplemental bencfits but shall be considered rates and benefits in compromise
-and settlement of all issucs of law and fact.
+The basic rates and supplemental benefits herein are not to be construed as true
+prevailing rates and supplemental benefits but shall be considered rates and benefits in compromise
+and settlement of all issues of law and fact.
 k)
-It is further understood and agreed that in considcration of the compromisc and
+It is further understood and agreed that in consideration of the compromise and
 settlement reached herein, the complaint in this matter is hereby settled.
 The submission of any Labor Law complaint, effective on February 2, 2027 can be
-made at the Burcau of Labor Law, Office of the Comptroller on or after that datc.
-IN WITNESS WHEREOF, the partics have executed this Agreement on the day and year
+made at the Bureau of Labor Law, Office of the Comptroller on or after that date.
+IN WITNESS WHEREOF, the parties have executed this Agreement on the day and year
 first above written.
 CONSENTED TO:
 
@@ -515,12 +515,12 @@ Labor Relations
 _Page 10_ · _OCR-reconstructed_
 
 President
-City Employces Union,
+City Employees Union,
 Local 237, I.B.T.
 8
 
 
-The basic rates and supplemental bencfits agreed to herein between the parties are not to be
+The basic rates and supplemental benefits agreed to herein between the parties are not to be
 construed as true prevailing rates and supplemental benfits, but shall be deemed substitute rates and
 benefits in compromise and settlement of all issues of law and fact raised in the complaint filed
 herein pursuant to Labor Law Section 220.8-d.
@@ -557,9 +557,9 @@ hereby voluntarily and knowingly agrees to:
 3.
 4.
 Waive, withdraw, relinguish, and refrain from filing, pursuing or instituting any claim fo
-wages, supplements or other bencfits, or any right, remedy, action or proceeding, which the
+wages, supplements or other benefits, or any right, remedy, action or proceeding, which the
 Union has or may have under Section 220 of the Labor Law.
-Discontinuc any and all action or proceedings, if any, herctofore commenced by me or on
+Discontinue any and all action or proceedings, if any, heretofore commenced by me or on
 my behalf of the above mentioned titles under and pursuant to Section 220 of the Labor Law
 applicable to the period January 2, 2022 to February 1, 2027.
 Waive any and all interest on all differentials of basic rates of wages and supplemental
@@ -568,11 +568,11 @@ writing by the Union and the City. It is expressly understood that such waiver s
 the waiver of any right to interest payments pursuant to Subdivision 8c of Section 220 of the
 Labor Law (L. 1967,c. 502, Section 1).
 Release and forever discharge the City of New York from all manner of actions, cause and
-causes of actions, suits, debts, dues, sums of moncy, accounts, reckonings, bonds, bills,
+causes of actions, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills,
 specialties, covenants, contracts, controversies, agreements, promises, cariances, trespasses,
 damages, judgments, extents, executions, claims and demands whatsoever in law or in equity
-which the Union, on bchalf of employees in the above titles, shall or may have, by reason of
-any claim for wages or supplemental bencfits pursuant to Section 220 of the Labor Law from
+which the Union, on behalf of employees in the above titles, shall or may have, by reason of
+any claim for wages or supplemental benefits pursuant to Section 220 of the Labor Law from
 January 2, 2022 to February 1, 2027 excopt as expressly agreed upon in writing by the
 Union and the City for that period.
 LOCAL 237 L.B.T.
@@ -606,26 +606,26 @@ Director, Employee Benefits Program
 April 12, 2024
 Gregory Floyd
 President
-City Employces Union, Local 237, I.B.T.
-216 West 14 Strect, 5" Floor
+City Employees Union, Local 237, I.B.T.
+216 West 14 Street, 5" Floor
 New York, NY 10011
 RE: 2022-2027 Maintenance Worker Consent Determination $3,000 One-Time Lump Sum
 Ratification Bonus
 Dear Mr. Floyd:
-This is to confirm the understanding and agreement of the partics concerning the lump sum
-cash payment for the cmployees covered by the Maintenance Worker Consent Determination for the
+This is to confirm the understanding and agreement of the parties concerning the lump sum
+cash payment for the employees covered by the Maintenance Worker Consent Determination for the
 period January 2, 2022 through February 1, 2027.
 i.
 A lump sum cash payment in the amount of $3,000, pro-rated for other than full time
-employces, shall be payable as soon as practicable upon ratification of this
-Agreement to thosc bargaining unit members who were in active payroll status as of
+employees, shall be payable as soon as practicable upon ratification of this
+Agreement to those bargaining unit members who were in active payroll status as of
 February 26, 2024, the date of ratification. Active payroll status is de fined as being in
 active payroll status ("B Status"), military leave with pay ("K status"), or on paid
 family Icave.
 ii.
-Employces who were terminated for causc, resigned, retired, or otherwise sparated
-from service, for any other rcason, prior to the date of ratification of this Agrcement
-shall not be cligible for the lump sum cash payment.
+Employees who were terminated for cause, resigned, retired, or otherwise sparated
+from service, for any other reason, prior to the date of ratification of this Agreement
+shall not be eligible for the lump sum cash payment.
 In no event shall any employee receive greater than $3,000 in bonus payments
 pursuant to this agreement.
 iv.
@@ -635,12 +635,12 @@ The lump sum cash payment shall be pensionable, consistent with applicable law.
 
 V.
 vi.
-The lump sum cash payment shall not become part of the employce's basic salary
+The lump sum cash payment shall not become part of the employee's basic salary
 rate, nor will it be added to the employee's basic salary for the calculation of any
 salary-based benefits, including but not limited to the calculation of future collective
-bargaining increascs.
+bargaining increases.
 For circumstances not covered by this agreement, the First Deputy Commissioner of
-Labor Relations may clect to issuc, on a case-by-case basis, interpretations
+Labor Relations may elect to issue, on a case-by-case basis, interpretations
 concerning the payment of the lump sum ratification bonus. Such interpretations
 shall not be subject to any dispute resolution procedures.
 If the above accords with your understanding, please indicate your acceptance by signing
@@ -682,12 +682,12 @@ City Employees Union, Local 237, I.B.T.
 New York, NY 10011
 RE: Payroll Paper Pay Stubs
 Dear Mr. Floyd:
-This is to confirm the understanding and agreement of the partics concerning payroll and
+This is to confirm the understanding and agreement of the parties concerning payroll and
 paper pay stubs for the employees covered by the Maintenance Worker Consent Determination for
 the period January 2, 2022 through February 1, 2027.
 Effective as soon as practicable, following ratification of this agreement, all employees of
-Mayoral agencics, the Department of Education, and the New York City Housing Authority who
-reccive paychecks via direct deposit shall be opted out of recciving paper pay stubs. Employces may
+Mayoral agencies, the Department of Education, and the New York City Housing Authority who
+receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees may
 choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate
 method at employers not on NYCAPS.
 If the above accords with your understanding, please indicate your acceptance by signing
@@ -945,7 +945,7 @@ _Page 20_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
 In the discretion of the agency head, employees except provisional and temporary
 employees, who have exhausted all earned sick leave and annual leave balances due to personal
 illness may be permitted to use unearned sick leave allowance up to the amount earnable in one
-year of service, chargeable against future eamed sick leave.
+year of service, chargeable against future earned sick leave.
 
 <a id="section-6-p20"></a>
 ### Section 6
@@ -1278,7 +1278,7 @@ General Counsel
 ### SEORGETTE GESTEL
 _Page 28_ · _OCR-reconstructed_
 
-irector, Employce Benefits Progra
+irector, Employee Benefits Progra
 June 28, 2018
 Harry Nespoli, Chair
 Municipal Labor Committee

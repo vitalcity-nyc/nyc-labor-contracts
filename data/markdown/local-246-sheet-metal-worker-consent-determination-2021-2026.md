@@ -254,7 +254,7 @@ Dr. Martin Luther King, Jr's Birthday, the third Monday in January, shall contin
 regular holiday with pay. This holiday is in addition to those set forth in Article VIl of Appendix
 A annexed hereto.
 Effective May 17, 2022, Juneteenth shall be a regular holiday with pay for full-time
-employces. This holiday is in addition to those set forth in Appendix A Section VIl annexed hereto.
+employees. This holiday is in addition to those set forth in Appendix A Section VIl annexed hereto.
 Appendix A is further modified to provide for:
 Annual Leave:
 Years In Service
@@ -540,7 +540,7 @@ service, for any other reason, prior to the date of ratification of this Agreeme
 be eligible for the lump sum cash payment.
 iii. In no event shall any employee receive greater than $3,000 in bonus payments pursuant
 to this agreement.
-iv. The lump sum casb payment sball be pensionable, consistent with applicable law.
+iv. The lump sum cash payment shall be pensionable, consistent with applicable law.
 v. The lump sum cash payment shall not become part of the employee's basic salary rate,
 nor will it be added to the employee's basic salary for the calculation of any salary-based
 benefits, including but not limited to the calculation of future collective bargaining
@@ -896,7 +896,7 @@ V.
 _Page 21_ · _OCR-reconstructed_
 
 Daily time records shall be maintained showing the actual hours worked by each
-employec.
+employee.
 
 <a id="section-2-p21"></a>
 ### Section 2
@@ -974,7 +974,7 @@ another, and
 
 
 9
-The injured employce undergoes such medical examinations as are requested by
+The injured employee undergoes such medical examinations as are requested by
 the Workmen's Compensation Division of the Law Department and his agency; and when found
 fie for duty by said physicians, returns to his employment.
 2. To take annual leave and receive full pay and Workmen's Compensation medical

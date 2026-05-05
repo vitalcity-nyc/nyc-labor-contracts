@@ -107,7 +107,7 @@ Successor Separate Unit Agreement,
 The increases in Section 3a, (ill) shall be based upon the base rates
 (which shall include salary or incremental schedules) of the
 applicable titles in effet on the last day of the 24' month of the
-applicable Successor Separate Unit Agrcement,
+applicable Successor Separate Unit Agreement,
 (iv)
 The increases in Section 3a, (iv) shall be based upon the base rates
 (which shall inolude salary or incremental schedules)
@@ -131,7 +131,7 @@ n the separate Unit Agreement (other than basio maximum salary)
 Section 4, " Unit Bargalning.
 A. Iffective on the first day of the 37th month of the applicable Successor
 Separate Unit Agreement, each union shall have 0.21% available to spend
-on mutually agrecable items that will help improve salary compressio
+on mutually agreeable items that will help improve salary compressio
 and/or recruitment/retention Issues. Each member of the Uniforme
 Officers' Coalition and each employing agency shall have a committee to
 discuss each individual unit's unique issues (both employer and employee)
@@ -148,7 +148,7 @@ to binding interest arbitration upon mutual consent. Any dispute about
 . whether a demand has an economto cost may be submitted to impartial
 arbitration by either party under the rules of the Office of Collective
 Bargaining. In such case, the arbitration must be resolvod before any
-interest arbitration panel is cstablished,
+interest arbitration panel is established,
 C. The parties agree to commence Unit Bargaining as soon as practicable after
 the execution of this VOCIA,
 Section 6.

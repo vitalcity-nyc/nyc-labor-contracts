@@ -1753,7 +1753,7 @@ constant for the length of the successor unit agreements, including the $65 fund
 Stabilization Fund pursuant to the 2005 Health Benefits Agreement between the City of New
 York and the Municipal Labor Committee.
 Effective July 1, 2014, the Stabilization Fund shall convey Sl Billion to the City of New
-York to be used to support wage increases and other cconomic items for the current round of
+York to be used to support wage increases and other economic items for the current round of
 collective bargaining (for the period up to and including fiscal year 2018). Up to an additional
 total amount of $150 million will be available over the four year period from the Stabilization
 Fund for the welfare funds, the allocation of which shall be determined by the paries. Thereafter,
@@ -1771,7 +1771,7 @@ to develop an accounting system to measure and calculate savings.
 
 
 The MLC agrees to generate cumulative healthcare savings of S3.4 billion over the
-course of Fiscal Years 2015 through 2018, said savings to be exelusive of the monies referenced
+course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced
 Fiscal Year 2015: (i) $700 million in Fiscal Year 2016; (iii) S1 billion in Fiscal Yeas 2017; (iv)
 $1.3 billion in Fiscal Year 2018; and (v) for every fiscal year thereafter, the savings on a
 citywide basis in health care costs shall continue on a recurring basis. At the conclusion of Fiscal
@@ -1781,8 +1781,8 @@ during the four-year period, as determined by the jointly selected healthcare ac
 first $365 million of such additional savings shall be credited proportionately to each union as a
 one-rime lump sum pensionable bonus payment for its members. Should the union desire to use
 these funds for other purposes, the parties shall negotiate in good faith to attempt to agree on an
-appropriate alterative use. Any additional savings gencrated for the four-year period beyond the
-first 5365 million will be sbared equally with the City and the MILC for the same purposes and
+appropriate alterative use. Any additional savings generated for the four-year period beyond the
+first 5365 million will be shared equally with the City and the MILC for the same purposes and
 subject to the same procedure as the first $365 million. Additional savings beyond $1.3 billion in
 FY 2018 that carry over into FY 2019 shall be subject to negotiations between the parties.
 6.
@@ -1873,7 +1873,7 @@ i. S200 million in Fiscal Year 2019;
 $300 million in Fiscal Year 2020;
 iii. S600 million in Fiscal Year 2021, and
 iv. For every fiscal year thereafter, the S600 million per year savings on a
-citywide basis in healtheare costs shall continue on a recurring basis.
+citywide basis in healthcare costs shall continue on a recurring basis.
 b.
 Savings will be measured against the projected FY 2019-FY 2022 City Financial
 Plan (adopted on June 15, 2018) which incorporates projected City health care cost
@@ -2017,7 +2017,7 @@ Georgeile Gestaly
 Direcior, Employee Benefits Progrom
 Earl Mathurin
 Associate Director
-Commitice of Intems and Resideals
+Commitice of Interns and Resideals
 10-27 46tb Aveaue, Suite 300-2
 Long Island City, NY 11101
 Re: Pald Family Leave
@@ -2025,7 +2025,7 @@ Dear Mr. Mathur:
 This is to confirm the understanding and agreement of the parties concering paid family
 leave for employees represented by the Committee of Interns and Residents and covared under
 the City of New York/Health + Hospitals/CIR collective bargaining agreemens.
-The partics agree to "opt in" to the New York State Paid Family Leave Program, as
+The parties agree to "opt in" to the New York State Paid Family Leave Program, as
 implemenied by the City of New York, as soon as practicable and agree to take the necessary
 steps to implemeat, subject to ratification by the membership
 If the above accords with your understanding, kindly execute the signature line provided
@@ -2237,7 +2237,7 @@ Committee of Interns and Residents
 Long Island City, New York 11101
 Dear Mr. Mathurin:
 A Security Issues Committee shall be established at each NYC Health + Hospitals facility to consider
-security issues which relate to the personal security of hospital employces. The Security Issues
+security issues which relate to the personal security of hospital employees. The Security Issues
 Committee will include a representative of the Committee of Inters and Residents (CIR), and will
 be chaired by the institution's Director of Security, or the designee of the institution's Executive
 Director. The chairperson of the committee will make a report and recommendation to the Executive
@@ -2290,11 +2290,11 @@ _Page 48_ · _OCR-reconstructed_
 Mr. Earl Mathurin
 Associate Director
 Committee of Interns and Residents
-10-27 46 Avenuc, Suite 300-2
-Long Islaud City, New York 11101
+10-27 46 Avenue, Suite 300-2
+Long Island City, New York 11101
 Dear Mr. Mathurin:
 The parties to this agreement recognize that the timely completion of charts is in the best interests of
-NYC H+H, the patients whom it serves, and its employees. Nevertbeless, the duties of House Staff
+NYC H+H, the patients whom it serves, and its employees. Nevertheless, the duties of House Staff
 Officers often result in delaying the completion of charts. It is therefore agreed that a committee will
 investigate and study the reasons for delaying the completion of charts and propose solutions
 therefor.
@@ -2460,9 +2460,9 @@ HEALTH +
 _Page 52_ · _OCR-reconstructed_
 
 Andrea G. Cahen
-Gencral Counsel
+General Counsel
 Sarior Vice President, Lapal Affairs
-and Labor Rclations
+and Labor Relations
 NYC Health + Hospitals
 125 Worth Stree, Suito 527
 New York, NY 10013
@@ -2477,7 +2477,7 @@ Associate Director
 Committee of Interns and Residents
 10-27 46" Avenue, Suite 300-2
 Long Island City, New York 11101
-Dear Mr. Matburin:
+Dear Mr. Mathurin:
 Please be advised that all House Staff Officers in NYC HtH facilities shall be permitted to
 participate in any existing facility day care programs on the sare basis as NYC H+H employees.
 Please keep NYC H+H's Office of Labor Relations informed of any recurring problems in House

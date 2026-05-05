@@ -60,7 +60,7 @@ Georgette Gestely
 Director, Employee Benefits Program
 William Lynn
 Business Manager
-International Union of Opcrating Engineers - Local 30
+International Union of Operating Engineers - Local 30
 115-06 Myrtle Avenue
 Richmond Hill, NY 11418
 Thomas Callahan
@@ -205,7 +205,7 @@ all parties will be released from any and all of the obligations with regard to 
 2., 3., and 4. of this agreement. The parties will mutually agree on how to spend the funding
 associated with 3.b.iv. that was funded by Local 30 and Local 15 as part of the March 1,
 2021 through March 31, 2026 agreement.
-8. The partics mutually agree that this agreement satisfies both parties obligation to bargain
+8. The parties mutually agree that this agreement satisfies both parties obligation to bargain
 pursuant to the separate side-letter agreement dated January 13, 2020 related to the
 restructuring of the plant classifications, appended to the July 1, 2017 through February
 28, 2021 Local 30 and Local 15 Oilers et.al Consent Determination.

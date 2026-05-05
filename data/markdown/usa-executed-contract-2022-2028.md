@@ -1696,12 +1696,12 @@ Mr. Harry Nespoi
 President
 Uniformed Sanitationmen's Association
 Local 831, IBT
-23-25 Cliff Strect
+23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
 This is to confirm that the Ciry of New York, as employer of the bargaining unit Sanitation Workers (she
 "Employer"), agrees. in accordance with applicable law, that any conversion of the functions) of the Department of
-Sanilation to any public authority established by or at the request of the Mayor, City Council or other Govemmental body.
+Sanilation to any public authority established by or at the request of the Mayor, City Council or other Governmental body.
 insofar as such functions pertain to that bargaining unit, shall be conditioned upon the public authority's acceptance of (i)
 its obligation to recognize and bargain with the Uniformed Sanitationmen's Association, Local 831, IB] (the "Union") and
 (ii) the terms of the then existing collective bargaining agreement berween the Employer and the Union for the remainder of
@@ -1727,7 +1727,7 @@ Mr Harry Nespoli
 President
 Uniformed Sanitationmen's Association
 Local 831, IBT
-23-25 Cliff Strect
+23-25 Cliff Street
 New York, NY 10038
 Dear Mr Nespoli
 This is to confum vur mutual understanding and agreement regarding the legislasion enacted providing
@@ -1745,7 +1745,7 @@ adjudged to be invalid or unconstitutional by a Court of competent jurisdiction,
 lunç and the parties shall be required to negotiate a new agreement
 It is further agreed and understood that this legislation shall also apply to Uniformed Sanitation employees
 ourside the bargaining unit
-Il' the above accords with your understanding, pleast execute the signature line provided helow
+Il' the above accords with your understanding, pleast execute the signature line provided below
 Very ensly yours.
 /James F. Hanl
 Conimission
@@ -1791,10 +1791,10 @@ Interacional Brotherhood of Teamsters, Local 831
 25 Cliff Street
 New York, New York 10038
 Dear Mr. Nespoli:
-Thig letter is to memorialize what was discussed at the February 11, 2011 mecting with respect to the
+Thig letter is to memorialize what was discussed at the February 11, 2011 meeting with respect to the
 Work Experience Program ("WEP") paricipans al the City of New York, Department of Sanitation
 ("DSNY").
-The City of New York shall convert all full-lime cquivalent (FTE) WEP positions at DSNY (currently
+The City of New York shall convert all full-lime equivalent (FTE) WEP positions at DSNY (currently
 250 FTEg) 10 the tille of Job Training Participant (Per Diem) ("JP"), Tille Code No. 80633, pursuant 1o the
 side lelter ugreement with District Council 37, dated February 16, 2016.
 No more than the 250 FTE WET positions will be converted to JP positions, and there will be no bi.
@@ -1858,7 +1858,7 @@ eligible Sanitation Workers.
 without any cost to the City.
 The Committee will analyze the actual costs and additional contribution rates required to provide this benefit
 Upon mutual acceptance of the Committee's recommendations, including plan design and costs. the parties agree
-to jointlv support the levislation necessary to implement the benelit changes.
+to jointly support the levislation necessary to implement the benelit changes.
 If' the above accords with your understanding, please exocute the signature line below.
 Very truly yours,
 Agreed and Accepled on Behalf
@@ -1951,7 +1951,7 @@ Uniformed Sanitationmen's Association
 Local 831, IBT
 23-25 Cliff Street
 New York, NY 10038
-Re Agrecment covering the period from March 2. 2007 through September 20, 2011
+Re Agreement covering the period from March 2. 2007 through September 20, 2011
 Dear Mr. Nespoli
 If another uniformed collective bargaining unit has an adjustment made to their salary schedule through the collective
 bargaining or arbitration process or otherwise during the tire period covering March 2, 2007 through September 20. 2011,
@@ -2164,7 +2164,7 @@ Program;
 Oil or Garage Utility Posts, prior to being assigned to Sanitation Workers in other assignments;
 (3) All Sanitation Workers issued a Gascard PIN shall be instructed in proper usage of them;
 (4) Sanitation Workers assigned to Gas and Oil or Garage Utility posts shall continue to be
-responsible for fueling vchicles in the gurages;
+responsible for fueling vehicles in the gurages;
 (5) a Sanitation Worker assigned to duties other than Gas and Oil or Garage Utility posts shall
 only be required to fuel a vehicle when no gas and Oil or Garage Utility personnel are available (for
 cion era in night shits, or wien such as and Oil or Carage Willy personnel are fully engaged in
@@ -2785,15 +2785,15 @@ The Uniformed Sanitationmen's Association. Local 831, IBT ("the Union") and the 
 the Uniformed Sanitationmen's Association Compensation Accrual Fund, and the new productivity differentials are funded.
 in part, through savings to be achieved through increased productivity and other cost-savings mechanisms including the
 new salary schedule for new hires.
-The Parties mutually agrec thas should the productivity initiatives ser forth in the new 10.7 tons refuse and 6 2 tons
+The Parties mutually agree thas should the productivity initiatives ser forth in the new 10.7 tons refuse and 6 2 tons
 recycling Tons Per Truck Shift Program and/or the Dumping-on-Shifl Program and/or the One-Worker Roll-on/Roll-of
 Program fail to achieve the savings agreed upon herein to fund the 1.3% waye increases in this and subsequent collective
 baryaining agreements, the Parties agree to meet and confer to evaluate whether or not operational changes may be made to
-facilitate achieving the agreed-upon savings Should such savings not be able to be realized, the Partics agree to consider
+facilitate achieving the agreed-upon savings Should such savings not be able to be realized, the Parties agree to consider
 new or alternative funding mechanisms to address any shorfalls) in projected savings. In the event that the pares are
 unable to agree, the matter shall be submitted to the Tripartite Dispure Resolution Panel formed pursuant to the Kelly
 Imposse Award dated December 10, 1980 (the "Tripartite Panel") for resolution.
-The Parties agree that the program will be reviced periodically after implementation and thercafter excluding the
+The Parties agree that the program will be reviced periodically after implementation and thereafter excluding the
 four (4) monsh break-in period. The Parties will meet to discuss chunges in productivity standards and/or shift differentials
 or other forns of compensation, if the agreed upon standards are exceeded or are not met. Any disagreements. not
 Otherwise precluded by the parties" collective bargaining agreement and/or by prior decision or law, will be determined by
@@ -2816,7 +2816,7 @@ recognize that there are now iwo components of the collection productivity ditfe
 worker truck" program as indicated in the Two-Worker Truck Agreement Paragraphs 1A. through F). and one for the new
 107 lons per truck shift for refuse collection and the 6.2 tons per truck shift for recycling collection targuts that combines
 the payment provided under Paragraph G with the supplemental payment to the Uniformed Sanitationmen's Association
-Compensation Accrual Fund. Il is sherefore possible for a Sanitation Worker to reccive neither component, only the "iwo-
+Compensation Accrual Fund. Il is sherefore possible for a Sanitation Worker to receive neither component, only the "iwo-
 worker truck" component, or both the "two-worker truck" component and the new 10.7i6.2 "combined" componens.
 The docking trigger for the 10.7:6 2 combined component is 10 7/6 2, and the docking trigger for the "iwo-worker
 truck" component, is 10.1/60
@@ -2826,8 +2826,8 @@ dumping-on-shift programs
 It is agreed that the Citywide bank for refuse and recycling will be used to address unexpected circumstances and
 ¡emporary difficulties in a district If the district 2%% bank is frequently exceded, then the Department and the Union shall
 meet promptly to resolve the truck shift issue in the affected district while maintaining the Citywide 10.7 and 6 2 tons per
-truck shifi taryets. The numher uf trucks assigned on a holiday shall have no effect on the bank for that week
-The partics agret to review the adequacy of the "banks" on a district-by-district basis
+truck shifi taryets. The number uf trucks assigned on a holiday shall have no effect on the bank for that week
+The parties agret to review the adequacy of the "banks" on a district-by-district basis
 The Parties have mutually agreed that the combined differential for the 10.7 and 62 collection targets consists of
 the component indicated in Paragraph I. G of the Two-Worker Truck Agreement and a separate contribution in the flat
 amount of $2.00 per qualifying shift to be paid to the Uniformed Sanitationmen's Association Compensation Accrual Fund
@@ -2840,7 +2840,7 @@ If the rons per truck shift targets for a given District are unmet, the combined
 that she it trict has met its targeted number of truck shills and the new routes, designed to achieve a Citywide average of
 in apons: truck shift for refuse and 6 2 tons per truck shift for recycling, have been completed
 The Supplemental Payment shall not be paid to any member subject to the established docking procedure unless
-and until the employee appeals such decision and such appcal is upheld
+and until the employee appeals such decision and such appeal is upheld
 "Refuse and Recycling" collection vehicles
 when engaged in regular collection operations
 under the 10. 7/6.2 TTS programs
@@ -2860,13 +2860,13 @@ savings to be derived from "dumping on shift" and to provide a differential paym
 performance standards.
 The Citywide and district targets and cut-off times will be adjusted through labor management committees as is
 the current practice. The productivity program assumes that a "dumping-on-shif" performance standard of at least 456%
-(combined standard for refuse and recycling) shall be maintained The Parties agree that payment will be made hased on a
+(combined standard for refuse and recycling) shall be maintained The Parties agree that payment will be made based on a
 weekly target of 45.6% of loads dumped on shill as long as a foor of 40% is attained Citywide. The floor of 40% is
 intended to address circumstances and difficulties thai may occur. When the 40% floor is not attained Cityride (excluding
 non-normai uperations, eg.. snow and transfer station issues), the differential payment will not be paid to any employee for
-that weck. The Union may appeal such a decision to the Tripartite Panel
+that week. The Union may appeal such a decision to the Tripartite Panel
 The Parties have mutually agreed that a new differential in the amount of $5 00 per qualifying shiff will he paid for
-cach dump made on shift (only one payment shall be made for a split-body truck) when the route is cleaned Eligibilisy for
+each dump made on shift (only one payment shall be made for a split-body truck) when the route is cleaned Eligibilisy for
 25003
 
 
@@ -2874,13 +2874,13 @@ payment will begin during the initial monitoring period of four (4) months. Duri
 Panies agree to a trial program in which supervisors in the district, after consultation with the designated shop steward.
 shall determine which sections and trucks will be sent to the dump site first if they have finished the route.
 The dumping-on-shif differential shalt not be paid if the route is incomplete except as otherwise provided below
-The "dump-on-shift" differential payment shall be paid in all cases where the employce is disparched to dump by assigned
+The "dump-on-shift" differential payment shall be paid in all cases where the employee is disparched to dump by assigned
 supervision. Payment shall not be made for exigencies such as, but not limited to, longer term operational issues such as a
 facility being closed for an extended period of time and/or going off-line in which case the program shall be suspended in
 the affected location(s)
 Any Sanitation Worker who has been denied the "dump-on-shift" differential pursuant to this Agreement shall
 have the right to appeal the denial to a review committee consisting of the First Deputy Commissioner or designee(s) and
-the President of Local 831, IBT, or designce(s) If the matter is still unresolved, the Union may appeal the Employer's
+the President of Local 831, IBT, or designee(s) If the matter is still unresolved, the Union may appeal the Employer's
 determinarion to the Tripartite Panel for a hearing to be held within forty-eight (48) to seventy-swo (72) hours of the
 Department's notification to the Sanitation Worker pursuant to the provisions of Article VII of the collective bargaining
 agreement berween the City of New York and the Uniformed Sanitationmen's Association, Local 831. IBT, covering the
@@ -2890,7 +2890,7 @@ program to determine whether or not the agreed upon targets are continuing to be
 make any necessary adjustments to ensure continuing savings are being attained
 The "dumping-on-shift" differential shall not become part of the employee's basic salary rate nur be added to the
 the District beyins the new program
-This agrcement shall not supersede the provisions of Amicle VIL, Sections 1 (a), 2 (a) and 3 ol the Collective
+This agreement shall not supersede the provisions of Article VIL, Sections 1 (a), 2 (a) and 3 ol the Collective
 Bargaining Agreement.
 "Dumping-on-Shift" when enguged in
 regular collection and recycling operations
@@ -2910,7 +2910,7 @@ Current assigned locations shail remain the same unless changed through the Labo
 The Parties have mutually agreed that a new differential in the amount of 580 00 per qualifying shift will be paid
 in the same manner as other differentials Current productivity standards shall be maintained
 The "Roll-on/Roll-olf" differential shall not become par of the employee's basic salary rate nor be added to the
-Employce's basic salary for the calculation of any salary-based benefits. The differemial shall be adjusted by future across-
+Employee's basic salary for the calculation of any salary-based benefits. The differemial shall be adjusted by future across-
 the-board collective bargaining increases, if any, and shall be subject to any premium payments The differential shall be
 pensionable consistent with applicable law. Eligibility for the "Roll-on/Roll-of" differential will begin in a District once
 the District begins the new program

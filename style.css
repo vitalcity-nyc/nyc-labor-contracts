@@ -175,14 +175,15 @@ main { padding: 28px 0 80px; }
 }
 .search-row button:hover { background: var(--vc-accent); color: var(--vc-black); }
 
-.filters { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 14px; align-items: center; }
+.filters { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px 18px; margin-top: 14px; align-items: end; }
 .filters label {
-  font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase;
+  font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
   color: var(--vc-text-muted); font-weight: 700;
-  display: flex; align-items: center; gap: 8px;
+  display: flex; flex-direction: column; align-items: stretch; gap: 6px;
 }
 .filters select {
-  padding: 7px 10px;
+  width: 100%;
+  padding: 9px 10px;
   border: 1px solid var(--vc-rule); border-radius: 0;
   background: var(--vc-bg); font: 300 0.92rem var(--vc-font-sans);
   color: var(--vc-text); text-transform: none; letter-spacing: 0;

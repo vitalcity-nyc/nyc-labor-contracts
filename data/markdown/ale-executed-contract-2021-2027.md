@@ -1811,7 +1811,7 @@ Extended Military Benefits Program
 Employees who have exhausted their statutory entitlement and who have been called up for "ordered military duty" may be
 eligible for enrollment in the Extended Military Benefits Program (EMBP). To qualify, an employee must be performing
 "ordered military duty" in connection with a covered operation. Covered operations are those military operations designated
-by the federal govemment of the United States, in support of "Operation Enduring Freedom," "Operation Iraqi Freedom,"
+by the federal government of the United States, in support of "Operation Enduring Freedom," "Operation Iraqi Freedom,"
 "Operation Noble Eagle," or successors thereto, or operations specifically connected by federal designation, action or
 implication with homeland security. Employees who participate in the EMBP shall receive the difference between their
 Council salary and military pay where the military pay is less than the Council salary, during the period of coverage. An

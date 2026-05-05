@@ -1991,11 +1991,11 @@ they were assigned for the semester. To qualify for the exemption, the adjunct m
 self-identify to the college Human Resources Office and the department chair no later
 than the end of the second week of the Spring semester in which they would be
 " The following caregories of teaching adjuncts shall be treated as being subject to the eligibility requirements for
-successive 2-ycar appointments:
+successive 2-year appointments:
 a. Adjuncts previously eligible under the expired Appendix E pilot;
-b. Eligible adjuncts who are not appointed/rcappointed and are cligible for consideration for a 2-Year appointment
+b. Eligible adjuncts who are not appointed/reappointed and are eligible for consideration for a 2-Year appointment
 under Paragraph 8(a), and
-c. Eligible adjuncts who waived or declined a two-ycar appointment and eligible for consideration for a 2-ycar
+c. Eligible adjuncts who waived or declined a two-year appointment and eligible for consideration for a 2-year
 appointment under Paragraph 8(b).
 4|1
 
@@ -2068,7 +2068,7 @@ department/discipline and its sub-areas that require particular expertise to tea
 and succeeding semesters vis-à-vis the numbers offered in prior semesters; (3) courses that
 have been or are slated to be eliminated in the adjunct's depatient/discipline: the adjunct's experience and
 qualifications to teach the courses that are being offered; (4) the need to give priority to full-time faculty,
-graduate assistants and adjuncts in the middle of 2-ycar appointments under the new pilot program or 3-
+graduate assistants and adjuncts in the middle of 2-year appointments under the new pilot program or 3-
 year appointments under the expired Appendix E pilot program in the scheduling of courses, including the
 need to assign courses to full-time faculty retuning from leave and to newly-hired full-time faculty; (5) the
 requirements with regard to the ability to teach co-requisite courses; (6) material modification of a

@@ -921,7 +921,7 @@ annual leave allowance before it is earned, not exceeding two weeks.
 _Page 23_ · _OCR-reconstructed_ · _Topics: holidays, vacation_
 
 Where certification of eligible lists permits, provisional and temporary employees shail
-have the same annual leave benefits as regular employces except that they may not be permitted
+have the same annual leave benefits as regular employees except that they may not be permitted
 to use annual leave allowances for other than religious holidays until they have completed four
 months of service.
 
@@ -1029,7 +1029,7 @@ II. OTHER AUTHORIZED ABSENCES WITH PAY
 ### Section 1
 _Page 25_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave, other-leave, promotion_
 
-Absence of permanent employees, provisional employees and temporary employces for
+Absence of permanent employees, provisional employees and temporary employees for
 the reasons indicated below, shall be excusable in the discretion of the agency head without
 charge to sick leave or annual leave balances, upon submittal of evidence satisfactory to the
 Absence not to exceed four work-days in the case of death in the immediate
@@ -1153,14 +1153,14 @@ of such absence, and shall be credited upon the employee's return to duty.
 _Page 28_ · _OCR-reconstructed_ · _Topics: wages_
 
 The agency head is empowered to grant leave of absence with pay for the first week's
-absence of an employce covered by Workmen's Compensation who is physically disabled in the
+absence of an employee covered by Workmen's Compensation who is physically disabled in the
 performance of official duties.
 
 <a id="section-3-p28"></a>
 ### Section 3
 _Page 28_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, pension, safety_
 
-An employce physically disabled in the performance of his official duties who has
+An employee physically disabled in the performance of his official duties who has
 accrued sick and/or annual leave or has been advanced credits in accordance with the
 Comptroller's Leave Regulations may elect one of the following, in addition to the benefits to
 which he is entitled under the Workmen's Compensation Law, such election to be made within

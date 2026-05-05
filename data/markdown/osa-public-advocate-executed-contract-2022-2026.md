@@ -248,7 +248,7 @@ Office Assistant (Public Advocate) (94507)
 Part-Time
 Special Assistant (Public Advocate) (94512)
 Part-Time
-c. Effective Mav 24. 2024. the following salarv ranges shall apply:
+c. Effective Mav 24. 2024. the following salary ranges shall apply:
 i. Minimum
 $54,636
 $21,855
@@ -331,7 +331,7 @@ payment shall be pensionable, consistent with applicable law.
 All full time per annum and full time per diem employees who were in active status on the
 date of the ratification are entitled to receive the lump sum cash payment of $3,000.
 Employees who were terminated for cause, resigned, retired, or otherwise separated from
-service prior to the date of ratification of this Agreement shall not be cligible for the lump sum
+service prior to the date of ratification of this Agreement shall not be eligible for the lump sum
 cash payment. Part-time Employees shall receive a pro-rata lump sum cash payment the
 computation of which shall be based on their regularly scheduled hours between September
 1, 2023 and August 31, 2024.

@@ -916,7 +916,7 @@ _Page 23_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
 In the discretion of the agency head, employees except provisional and temporary
 employees, who have exhausted all earned sick leave and annual leave balances due to personal
 illness may be permitted to use unearned sick leave allowance up to the amount earnable in one
-year of service, chargeable against future eamed sick leave.
+year of service, chargeable against future earned sick leave.
 
 <a id="section-6-p23"></a>
 ### Section 6
@@ -1249,7 +1249,7 @@ General Counsel
 ### SEORGETTE GESTEL
 _Page 31_ · _OCR-reconstructed_
 
-irector, Employce Benefits Progra
+irector, Employee Benefits Progra
 June 28, 2018
 Harry Nespoli, Chair
 Municipal Labor Committee

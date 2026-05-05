@@ -1,0 +1,1118 @@
+[
+  {
+    "original": "employce",
+    "replacement": "employee",
+    "rule": "c\u2192e",
+    "count": 16,
+    "contracts": [
+      "carpenters-consent-determination-2021-2027",
+      "crane-operator-2021-2026",
+      "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "dc9-l1969-painters-consent-determination-2021-2026",
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "l1-plumbers-consent-determination-2022-2027",
+      "l3-electricians-consent-determination-20232028",
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "local-246-auto-mechanics-consent-determination-2021-2026",
+      "local-246-carriage-upholsterer-consent-determination-2021-2026",
+      "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "local-40-bridge-repairer-consent-determination-2022-2025",
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "employec",
+    "replacement": "employee",
+    "rule": "c\u2192e",
+    "count": 11,
+    "contracts": [
+      "carpenters-consent-determination-2021-2027",
+      "crane-operator-2021-2026",
+      "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "l1-plumbers-consent-determination-2022-2027",
+      "l3-electricians-consent-determination-20232028",
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "local-246-auto-mechanics-consent-determination-2021-2026",
+      "local-246-carriage-upholsterer-consent-determination-2021-2026",
+      "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "local-40-bridge-repairer-consent-determination-2022-2025"
+    ]
+  },
+  {
+    "original": "employces",
+    "replacement": "employees",
+    "rule": "c\u2192e",
+    "count": 7,
+    "contracts": [
+      "cir-executed-contract-2021-2027",
+      "dc9-l1969-painters-consent-determination-2021-2026",
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "l3-electricians-consent-determination-20232028",
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "local-246-sheet-metal-worker-consent-determination-2021-2026"
+    ]
+  },
+  {
+    "original": "Gencral",
+    "replacement": "General",
+    "rule": "c\u2192e",
+    "count": 3,
+    "contracts": [
+      "cir-executed-contract-2021-2027",
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Strect",
+    "replacement": "Street",
+    "rule": "c\u2192e",
+    "count": 3,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "cach",
+    "replacement": "each",
+    "rule": "c\u2192e",
+    "count": 3,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "cligible",
+    "replacement": "eligible",
+    "rule": "c\u2192e",
+    "count": 3,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "osa-public-advocate-executed-contract-2022-2026",
+      "psc-cuny-moa-2023-2027"
+    ]
+  },
+  {
+    "original": "reccive",
+    "replacement": "receive",
+    "rule": "c\u2192e",
+    "count": 3,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "Agrcement",
+    "replacement": "Agreement",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "uniformed-coalition-economic-agreement-2022-2027"
+    ]
+  },
+  {
+    "original": "Burcau",
+    "replacement": "Bureau",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Employce",
+    "replacement": "Employee",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Employces",
+    "replacement": "Employees",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Rclations",
+    "replacement": "Relations",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "cir-executed-contract-2021-2027",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "accred",
+    "replacement": "acered",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "accruc",
+    "replacement": "accrue",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "bencfits",
+    "replacement": "benefits",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "clected",
+    "replacement": "elected",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "considcration",
+    "replacement": "consideration",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "continuc",
+    "replacement": "continue",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "employce's",
+    "replacement": "employee's",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "hercin",
+    "replacement": "herein",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "hercinabove",
+    "replacement": "hereinabove",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "hercof",
+    "replacement": "hereof",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "increasc",
+    "replacement": "increase",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "issuc",
+    "replacement": "issue",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "ratc",
+    "replacement": "rate",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "rcason",
+    "replacement": "reason",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "thercof",
+    "replacement": "thereof",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "truc",
+    "replacement": "true",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "ycar",
+    "replacement": "year",
+    "rule": "c\u2192e",
+    "count": 2,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "psc-cuny-moa-2023-2027"
+    ]
+  },
+  {
+    "original": "Adjunet",
+    "replacement": "Adjunct",
+    "rule": "e\u2192c",
+    "count": 1,
+    "contracts": [
+      "psc-cuny-agreement-2017-2023"
+    ]
+  },
+  {
+    "original": "Agrecment",
+    "replacement": "Agreement",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "Avenuc",
+    "replacement": "Avenue",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "Bencfit",
+    "replacement": "Benefit",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Bencfits",
+    "replacement": "Benefits",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "Carcer",
+    "replacement": "Career",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Committec",
+    "replacement": "Committee",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "Discasc",
+    "replacement": "Discase",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "Discontinuc",
+    "replacement": "Discontinue",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Employce's",
+    "replacement": "Employee's",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "Employecs",
+    "replacement": "Employees",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "Insurancc",
+    "replacement": "Insurance",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Islaud",
+    "replacement": "Island",
+    "rule": "u\u2192n",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "Junc",
+    "replacement": "June",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Matburin",
+    "replacement": "Mathurin",
+    "rule": "b\u2192h",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "Nevertbeless",
+    "replacement": "Nevertheless",
+    "rule": "b\u2192h",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "Opcrating",
+    "replacement": "Operating",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021"
+    ]
+  },
+  {
+    "original": "Partics",
+    "replacement": "Parties",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "Planncr",
+    "replacement": "Planner",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "osa-moa-2021-2027"
+    ]
+  },
+  {
+    "original": "Relcase",
+    "replacement": "Release",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Statc",
+    "replacement": "State",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Tcamsters",
+    "replacement": "Teamsters",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "Wcst",
+    "replacement": "West",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "Ycar",
+    "replacement": "Year",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "agencics",
+    "replacement": "agencies",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "agrcement",
+    "replacement": "agreement",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "agrec",
+    "replacement": "agree",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "agrecable",
+    "replacement": "agreeable",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "uniformed-coalition-economic-agreement-2022-2027"
+    ]
+  },
+  {
+    "original": "agrecs",
+    "replacement": "agrees",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "anual",
+    "replacement": "annal",
+    "rule": "u\u2192n",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "appcal",
+    "replacement": "appeal",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "attorncys'",
+    "replacement": "attorneys'",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "bchalf",
+    "replacement": "behalf",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "behal",
+    "replacement": "belial",
+    "rule": "h\u2192li",
+    "count": 1,
+    "contracts": [
+      "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025"
+    ]
+  },
+  {
+    "original": "bencfit",
+    "replacement": "benefit",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "beneficiarics",
+    "replacement": "beneficiaries",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "berein",
+    "replacement": "herein",
+    "rule": "b\u2192h",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "casb",
+    "replacement": "cash",
+    "rule": "b\u2192h",
+    "count": 1,
+    "contracts": [
+      "local-246-sheet-metal-worker-consent-determination-2021-2026"
+    ]
+  },
+  {
+    "original": "causc",
+    "replacement": "cause",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "cconomic",
+    "replacement": "economic",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "clect",
+    "replacement": "elect",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "cmployee",
+    "replacement": "employee",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "cmployees",
+    "replacement": "employees",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "compromisc",
+    "replacement": "compromise",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "couforms",
+    "replacement": "conforms",
+    "rule": "u\u2192n",
+    "count": 1,
+    "contracts": [
+      "cca-unit-agreement-2022-2028"
+    ]
+  },
+  {
+    "original": "coutribution",
+    "replacement": "contribution",
+    "rule": "u\u2192n",
+    "count": 1,
+    "contracts": [
+      "cca-unit-agreement-2022-2028"
+    ]
+  },
+  {
+    "original": "cquivalent",
+    "replacement": "equivalent",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "cstablished",
+    "replacement": "established",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "uniformed-coalition-economic-agreement-2022-2027"
+    ]
+  },
+  {
+    "original": "datc",
+    "replacement": "date",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "disputc",
+    "replacement": "dispute",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "employecs",
+    "replacement": "employees",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "excced",
+    "replacement": "exceed",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "exelusive",
+    "replacement": "exclusive",
+    "rule": "e\u2192c",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "gencrated",
+    "replacement": "generated",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "hased",
+    "replacement": "based",
+    "rule": "h\u2192b",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "healtheare",
+    "replacement": "healthcare",
+    "rule": "e\u2192c",
+    "count": 1,
+    "contracts": [
+      "cir-executed-contract-2021-2027"
+    ]
+  },
+  {
+    "original": "helow",
+    "replacement": "below",
+    "rule": "h\u2192b",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "hercinafter",
+    "replacement": "hereinafter",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "hercto",
+    "replacement": "hereto",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "herctofore",
+    "replacement": "heretofore",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "increascs",
+    "replacement": "increases",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "inerease",
+    "replacement": "increase",
+    "rule": "e\u2192c",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "issucs",
+    "replacement": "issues",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "licu",
+    "replacement": "lieu",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "mecting",
+    "replacement": "meeting",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "moncy",
+    "replacement": "money",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "naturc",
+    "replacement": "nature",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "nced",
+    "replacement": "need",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "l3-electricians-consent-determination-20232028"
+    ]
+  },
+  {
+    "original": "numher",
+    "replacement": "number",
+    "rule": "h\u2192b",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "otherwisc",
+    "replacement": "otherwise",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "payablc",
+    "replacement": "payable",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "pcriod",
+    "replacement": "period",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "recciving",
+    "replacement": "receiving",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "relcase",
+    "replacement": "release",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "relied",
+    "replacement": "rehed",
+    "rule": "li\u2192h",
+    "count": 1,
+    "contracts": [
+      "psc-cuny-agreement-2017-2023"
+    ]
+  },
+  {
+    "original": "rescrved",
+    "replacement": "reserved",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "scrvice",
+    "replacement": "service",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "scttlement",
+    "replacement": "settlement",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "therc",
+    "replacement": "there",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "thercafter",
+    "replacement": "thereafter",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "thercto",
+    "replacement": "thereto",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "thosc",
+    "replacement": "those",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-maintenance-workers-consent-determination-2022-2027"
+    ]
+  },
+  {
+    "original": "threc",
+    "replacement": "three",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "ibt-l237-cement-masons-consent-determination-2020-2025"
+    ]
+  },
+  {
+    "original": "througb",
+    "replacement": "through",
+    "rule": "b\u2192h",
+    "count": 1,
+    "contracts": [
+      "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026"
+    ]
+  },
+  {
+    "original": "upber",
+    "replacement": "upher",
+    "rule": "b\u2192h",
+    "count": 1,
+    "contracts": [
+      "carpenters-consent-determination-2021-2027"
+    ]
+  },
+  {
+    "original": "vchicles",
+    "replacement": "vehicles",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  },
+  {
+    "original": "weck",
+    "replacement": "week",
+    "rule": "c\u2192e",
+    "count": 1,
+    "contracts": [
+      "usa-executed-contract-2022-2028"
+    ]
+  }
+]

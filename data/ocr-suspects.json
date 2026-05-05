@@ -1,0 +1,3525 @@
+{
+  "generated_at": "2026-05-05T21:19:10.316109Z",
+  "total": 244,
+  "unique_originals": 155,
+  "top_patterns": [
+    [
+      "MC's",
+      18
+    ],
+    [
+      "employce",
+      16
+    ],
+    [
+      "employec",
+      11
+    ],
+    [
+      "employces",
+      7
+    ],
+    [
+      "partics",
+      4
+    ],
+    [
+      "Gencral",
+      3
+    ],
+    [
+      "cligible",
+      3
+    ],
+    [
+      "cluding",
+      3
+    ],
+    [
+      "Strect",
+      3
+    ],
+    [
+      "reccive",
+      3
+    ],
+    [
+      "cach",
+      3
+    ],
+    [
+      "Rclations",
+      2
+    ],
+    [
+      "Agrcement",
+      2
+    ],
+    [
+      "accred",
+      2
+    ],
+    [
+      "Employce",
+      2
+    ],
+    [
+      "starus",
+      2
+    ],
+    [
+      "continuc",
+      2
+    ],
+    [
+      "hercof",
+      2
+    ],
+    [
+      "bencfits",
+      2
+    ],
+    [
+      "hercinabove",
+      2
+    ]
+  ],
+  "suspects": [
+    {
+      "contract_id": "carpenters-consent-determination-2021-2027",
+      "clause_id": "carpenters-consent-determination-2021-2027__81",
+      "page": 35,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…eas of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. e. The parties agree that recurring savings over S1.3 bill…"
+    },
+    {
+      "contract_id": "crane-operator-2021-2026",
+      "clause_id": "crane-operator-2021-2026__49",
+      "page": 23,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__61",
+      "page": 26,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. Once the amount is finalized, that amount shall be applied…"
+    },
+    {
+      "contract_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027",
+      "clause_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027__60",
+      "page": 31,
+      "heading": "SEORGETTE GESTEL",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. Once the amount is finalized, that amount shall be applied…"
+    },
+    {
+      "contract_id": "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-glaziers-consent-determination-2021-2026__58",
+      "page": 26,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__59",
+      "page": 33,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…orize the quarterly provision of the following data to the City's and MC's actuaries on an ongoing quarterly basis: (1) detailed claim-level hea…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__63",
+      "page": 26,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. Once the amount is finalized, that amount shall be applied…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__93",
+      "page": 28,
+      "heading": "SEORGETTE GESTEL",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. Once the amount is finalized, that amount shall be applied…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__59",
+      "page": 29,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "l3-electricians-consent-determination-20232028",
+      "clause_id": "l3-electricians-consent-determination-20232028__58",
+      "page": 34,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "heading": "ORGETTE GESTEI",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings shall be utilized as follows: The …"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__72",
+      "page": 38,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "local-246-auto-mechanics-consent-determination-2021-2026",
+      "clause_id": "local-246-auto-mechanics-consent-determination-2021-2026__58",
+      "page": 30,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "local-246-carriage-upholsterer-consent-determination-2021-2026",
+      "clause_id": "local-246-carriage-upholsterer-consent-determination-2021-2026__59",
+      "page": 27,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__68",
+      "page": 27,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "local-40-bridge-repairer-consent-determination-2022-2025",
+      "clause_id": "local-40-bridge-repairer-consent-determination-2022-2025__63",
+      "page": 27,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ear of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries. The parties agree that recurring savings over $1.3 billion…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__86",
+      "page": 52,
+      "heading": "GEORGETTE GESTELY",
+      "original": "MC's",
+      "suggestions": [
+        {
+          "candidate": "Me's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings shall be utilized as follows: The …"
+    },
+    {
+      "contract_id": "carpenters-consent-determination-2021-2027",
+      "clause_id": "carpenters-consent-determination-2021-2027__73",
+      "page": 30,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "crane-operator-2021-2026",
+      "clause_id": "crane-operator-2021-2026__41",
+      "page": 18,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__29",
+      "page": 15,
+      "heading": "Section 5",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ereafter known as a \"vacation year.\" All annual leave allowance of an employce to the employee's credit on April 30th and not used in the succeeding…"
+    },
+    {
+      "contract_id": "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-glaziers-consent-determination-2021-2026__50",
+      "page": 21,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__50",
+      "page": 28,
+      "heading": "Section 2",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…to grant leave of absence with pay for the first week's absence of an employce covered by Workmen's Compensation who is physically disabled in the p…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__29",
+      "page": 15,
+      "heading": "Section 5",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…that the Mayor or an elected official of any department calls upon an employce to forego his vacation or any part thereof in any year, that portion …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… Effective January 2, 2027, there shall be an increase of $168.75 per employce per annum, for a rate of $2,055 pcr annum per active employce and $2,…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__51",
+      "page": 24,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "l3-electricians-consent-determination-20232028",
+      "clause_id": "l3-electricians-consent-determination-20232028__50",
+      "page": 29,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "heading": "Section 4",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ereafter known as a \"vacation year.\" All annual leave allowance of an employce to the employee's credit on April 30th and not used in the succeeding…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__64",
+      "page": 33,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "local-246-auto-mechanics-consent-determination-2021-2026",
+      "clause_id": "local-246-auto-mechanics-consent-determination-2021-2026__50",
+      "page": 25,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "local-246-carriage-upholsterer-consent-determination-2021-2026",
+      "clause_id": "local-246-carriage-upholsterer-consent-determination-2021-2026__51",
+      "page": 22,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__60",
+      "page": 22,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "local-40-bridge-repairer-consent-determination-2022-2025",
+      "clause_id": "local-40-bridge-repairer-consent-determination-2022-2025__55",
+      "page": 22,
+      "heading": "Section 3",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng about injury or death upon himself or another, and   9 The injured employce undergoes such medical examinations as are requested by the Workmen's…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "employce",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…p-on-shift\" differential payment shall be paid in all cases where the employce is disparched to dump by assigned supervision. Payment shall not be m…"
+    },
+    {
+      "contract_id": "carpenters-consent-determination-2021-2027",
+      "clause_id": "carpenters-consent-determination-2021-2027__66",
+      "page": 29,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "crane-operator-2021-2026",
+      "clause_id": "crane-operator-2021-2026__34",
+      "page": 17,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-glaziers-consent-determination-2021-2026__43",
+      "page": 20,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__44",
+      "page": 23,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "l3-electricians-consent-determination-20232028",
+      "clause_id": "l3-electricians-consent-determination-20232028__43",
+      "page": 28,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__41",
+      "page": 22,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "employec."
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__57",
+      "page": 32,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "local-246-auto-mechanics-consent-determination-2021-2026",
+      "clause_id": "local-246-auto-mechanics-consent-determination-2021-2026__43",
+      "page": 24,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "local-246-carriage-upholsterer-consent-determination-2021-2026",
+      "clause_id": "local-246-carriage-upholsterer-consent-determination-2021-2026__44",
+      "page": 21,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__53",
+      "page": 21,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "local-40-bridge-repairer-consent-determination-2022-2025",
+      "clause_id": "local-40-bridge-repairer-consent-determination-2022-2025__48",
+      "page": 21,
+      "heading": "Section 1",
+      "original": "employec",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e records shall be maintained showing the actual hours worked by each employec."
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__141",
+      "page": 47,
+      "heading": "APPENDIX G",
+      "original": "employces",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…der security issues which relate to the personal security of hospital employces. The Security Issues Committee will include a representative of the C…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__27",
+      "page": 23,
+      "heading": "Section 8",
+      "original": "employces",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…porary employees shail have the same annual leave benefits as regular employces except that they may not be permitted to use annual leave allowances …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__6",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "employces",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…mental benefits agreed upon are and have been for the above-mentioned employces of the City of New York. et al.. as follows:"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "employces",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…$1,615.59 pcr annum on bchalf of all full-time and full-time per diem employces. For part-time employees who work less than eight hours a day, the am…"
+    },
+    {
+      "contract_id": "l3-electricians-consent-determination-20232028",
+      "clause_id": "l3-electricians-consent-determination-20232028__5",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "employces",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… year shall accrue as follows: Years In Service Ist yebegining of the employces: 5th year 8th year 15th year Annual Allowance 17 work days 22 work da…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "heading": "Section 4",
+      "original": "employces",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "There shall be a pro-rating of the above allowance for employces who work less than a For the earning of annual leave credits, the tim…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__17",
+      "page": 4,
+      "heading": "HOLIDAY",
+      "original": "employces",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…7, 2022, Juneteenth shall be a regular holiday with pay for full-time employces. This holiday is in addition to those set forth in Appendix A Section…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "heading": "GEORGETTE GESTELY",
+      "original": "partics",
+      "suggestions": [
+        {
+          "candidate": "parties",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… New York/Health + Hospitals/CIR collective bargaining agreemens. The partics agree to \"opt in\" to the New York State Paid Family Leave Program, as…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "partics",
+      "suggestions": [
+        {
+          "candidate": "parties",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ice of the Comptroller on or after that datc. IN WITNESS WHEREOF, the partics have executed this Agreement on the day and year first above written.…"
+    },
+    {
+      "contract_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021",
+      "clause_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021__5",
+      "page": 8,
+      "heading": "Section 220 — of the Labor Law for a determination of wages and benefits for the period",
+      "original": "partics",
+      "suggestions": [
+        {
+          "candidate": "parties",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…as part of the March 1, 2021 through March 31, 2026 agreement. 8. The partics mutually agree that this agreement satisfies both parties obligation …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "partics",
+      "suggestions": [
+        {
+          "candidate": "parties",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…igned on a holiday shall have no effect on the bank for that week The partics agret to review the adequacy of the \"banks\" on a district-by-district…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__151",
+      "page": 52,
+      "heading": "HOSPITALS",
+      "original": "Gencral",
+      "suggestions": [
+        {
+          "candidate": "General",
+          "rule": "c→e"
+        }
+      ],
+      "context": "Andrea G. Cahen Gencral Counsel Sarior Vice President, Lapal Affairs and Labor Rclations NYC …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "Gencral",
+      "suggestions": [
+        {
+          "candidate": "General",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…, for the period embraced herein, such release being set forth in the Gencral Release and Waiver attached hercto as Exhibit \"A\". c) The Complainant…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Gencral",
+      "suggestions": [
+        {
+          "candidate": "General",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…, for the period embraced herein, such relcase being set forth in the Gencral Relcase and Waiver attached hereto as Exhibit \"A\". c) The Complainant…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "Strect",
+      "suggestions": [
+        {
+          "candidate": "Street",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Fund, Local 237 International Brotherhood of Tcamsters, 216 West 14th Strect, New York, N.Y. Employees who have been separated from service subseq…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Strect",
+      "suggestions": [
+        {
+          "candidate": "Street",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… Fund, Local 237 International Brotherhood ofTcamsters, 216 Wcst 14th Strect, New York, N.Y. Employees who have been separated from service subseq…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__46",
+      "page": 32,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "Strect",
+      "suggestions": [
+        {
+          "candidate": "Street",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…dent Uniformed Sanitationmen's Association Local 831, IBT 23-25 Cliff Strect New York, NY 10038 Dear Mr. Nespoli: This is to confirm that the Ciry…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "cach",
+      "suggestions": [
+        {
+          "candidate": "each",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… compensation accrual fund payment shall continuc to be disbursed for cach day actually worked. Compensation Accrual Fund payments shall be as f…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "cach",
+      "suggestions": [
+        {
+          "candidate": "each",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…rk, ct al., shall continuc to contribute to an annuity fund $6.19 for cach paid eight hour working day and $7.74 for cach ten hour working day u…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "cach",
+      "suggestions": [
+        {
+          "candidate": "each",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…erential in the amount of $5 00 per qualifying shiff will he paid for cach dump made on shift (only one payment shall be made for a split-body t…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "cligible",
+      "suggestions": [
+        {
+          "candidate": "eligible",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…son, prior to the date of ratification of this Agrcement shall not be cligible for the lump sum cash payment. In no event shall any employee receive…"
+    },
+    {
+      "contract_id": "osa-public-advocate-executed-contract-2022-2026",
+      "clause_id": "osa-public-advocate-executed-contract-2022-2026__27",
+      "page": 6,
+      "heading": "Section 3 — Ratification Bonus",
+      "original": "cligible",
+      "suggestions": [
+        {
+          "candidate": "eligible",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…vice prior to the date of ratification of this Agreement shall not be cligible for the lump sum cash payment. Part-time Employees shall receive a pr…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__16",
+      "page": 41,
+      "heading": "JD 12/13/24",
+      "original": "cligible",
+      "suggestions": [
+        {
+          "candidate": "eligible",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…pilot; b. Eligible adjuncts who are not appointed/rcappointed and are cligible for consideration for a 2-Year appointment under Paragraph 8(a), and …"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__0",
+      "page": 1,
+      "heading": "WITNESSETH",
+      "original": "cluding",
+      "suggestions": [
+        {
+          "candidate": "duding",
+          "rule": "cl→d"
+        },
+        {
+          "candidate": "eluding",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…rsigned parties desire to enter into a collective bargaining agreemen cluding this 2017-2025 Police Benevolent Association Memorandum of Understand…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "heading": "WITNESSCTE",
+      "original": "cluding",
+      "suggestions": [
+        {
+          "candidate": "duding",
+          "rule": "cl→d"
+        },
+        {
+          "candidate": "eluding",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…parties may mutually agree to additional savings and/or credits neede cluding extending the term set forth in Seotion 1, to fund any addition econo…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "heading": "RONALD PRATTIS",
+      "original": "cluding",
+      "suggestions": [
+        {
+          "candidate": "duding",
+          "rule": "cl→d"
+        },
+        {
+          "candidate": "eluding",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… the agreement entered into between the parties for all purposes, in- cluding without limitation, the grievance procedure. Sincerely, Kashra Garcia…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "reccive",
+      "suggestions": [
+        {
+          "candidate": "receive",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…bsences with pay\". Effective 10/1/09: All employees shall continue to reccive twelve (12) sick Icave days per усаг. 8. Any annual Icave set forth i…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__44",
+      "page": 14,
+      "heading": "AGREED AND ACCEPTED ON BEHALF",
+      "original": "reccive",
+      "suggestions": [
+        {
+          "candidate": "receive",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… Department of Education, and the New York City Housing Authority who reccive paychecks via direct deposit shall be opted out of recciving paper pa…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "reccive",
+      "suggestions": [
+        {
+          "candidate": "receive",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ion Accrual Fund. Il is sherefore possible for a Sanitation Worker to reccive neither component, only the \"iwo- worker truck\" component, or both th…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "Agrcement",
+      "suggestions": [
+        {
+          "candidate": "Agreement",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…vice, for any other rcason, prior to the date of ratification of this Agrcement shall not be cligible for the lump sum cash payment. In no event shal…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "heading": "WITNESSCTE",
+      "original": "Agrcement",
+      "suggestions": [
+        {
+          "candidate": "Agreement",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e last day of the 24' month of the applicable Successor Separate Unit Agrcement, (iv) The increases in Section 3a, (iv) shall be based upon the base …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "Burcau",
+      "suggestions": [
+        {
+          "candidate": "Bureau",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…omplaint, effective on October 27, 2025, can be made at the Labor Law Burcau of the Office of the Comptroller on or after that date. IN WITNESS WH…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Burcau",
+      "suggestions": [
+        {
+          "candidate": "Bureau",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Labor Law complaint, effective on February 2, 2027 can be made at the Burcau of Labor Law, Office of the Comptroller on or after that datc. IN WIT…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__83",
+      "page": 47,
+      "heading": "PROFESSIONAL EVALUATION",
+      "original": "CLTs",
+      "suggestions": [
+        {
+          "candidate": "eLTs",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ence and (b) Members of the non-teaching staff, including Librarians, CLTs, Counselors, Student Personnel Services staff, Registrar series, HEO …"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__8",
+      "page": 19,
+      "heading": "Article 20 — of the PSC-CUNY collective bargaining agreement.",
+      "original": "CLTs",
+      "suggestions": [
+        {
+          "candidate": "eLTs",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…nd/or the advanced degree differential earned under Article 24.8 that CLTs and Assistant to HEOs were receiving prior to the promotion or reclas…"
+    },
+    {
+      "contract_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027",
+      "clause_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027__60",
+      "page": 31,
+      "heading": "SEORGETTE GESTEL",
+      "original": "Employce",
+      "suggestions": [
+        {
+          "candidate": "Employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "irector, Employce Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Co…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__93",
+      "page": 28,
+      "heading": "SEORGETTE GESTEL",
+      "original": "Employce",
+      "suggestions": [
+        {
+          "candidate": "Employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "irector, Employce Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Co…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__17",
+      "page": 10,
+      "heading": "GREGORY SLOYD",
+      "original": "Employces",
+      "suggestions": [
+        {
+          "candidate": "Employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "President City Employces Union, 8   The New York Renee Campion Commissioner Daniel Pollak Firs…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__39",
+      "page": 10,
+      "heading": "GREGORY &",
+      "original": "Employces",
+      "suggestions": [
+        {
+          "candidate": "Employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "President City Employces Union, Local 237, I.B.T. 8   The basic rates and supplemental bencfit…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__151",
+      "page": 52,
+      "heading": "HOSPITALS",
+      "original": "Rclations",
+      "suggestions": [
+        {
+          "candidate": "Relations",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… Cahen Gencral Counsel Sarior Vice President, Lapal Affairs and Labor Rclations NYC Health + Hospitals 125 Worth Stree, Suito 527 New York, NY 10013 …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__5",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "Rclations",
+      "suggestions": [
+        {
+          "candidate": "Relations",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…termination having been agreed to between the Mayor's Office of Labor Rclations (\"OLR\") on bchalf of the City of New York, ct al., and the Complainan…"
+    },
+    {
+      "contract_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027",
+      "clause_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027__52",
+      "page": 26,
+      "heading": "Section 3",
+      "original": "accred",
+      "suggestions": [
+        {
+          "candidate": "acered",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… charged for such absence, and The injured employee has the necessary accred annual leave balance. 3. To receive Workmen's Compensation benefits i…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__85",
+      "page": 23,
+      "heading": "Section 3",
+      "original": "accred",
+      "suggestions": [
+        {
+          "candidate": "acered",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… charged for such absence, and The injured employee has the necessary accred annual leave balance. 3. To receive Workmen's Compensation benefits i…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "accruc",
+      "suggestions": [
+        {
+          "candidate": "accrue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…f Cement Mason who works at least 250 days per year shall continuc to accruc at tho following ratc. Years of Service AnnualLeave At the beginning …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__25",
+      "page": 4,
+      "heading": "SUNDAY/ HOLIDAY",
+      "original": "accruc",
+      "suggestions": [
+        {
+          "candidate": "accrue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ance for Employees who were hired on or after December 15, 1985 shall accruc as follows: Years In Service At the beginning of the employee's Ist y…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "bencfits",
+      "suggestions": [
+        {
+          "candidate": "benefits",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ies of the New York City Health Insurance Program and are entitled to bencfits paid for by the City through such program; or are retirees of the New…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__5",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "bencfits",
+      "suggestions": [
+        {
+          "candidate": "benefits",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…g and settling certain disputes of basic rates of wages, supplemental bencfits and jurisdiction on all issucs of law and fact as to the titles set f…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__46",
+      "page": 19,
+      "heading": "Section 2",
+      "original": "clected",
+      "suggestions": [
+        {
+          "candidate": "elected",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…dditional period of one year. Further extensions may be granted by an clected official, in an agency headed by such official, of by the City Person…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "heading": "Section 4",
+      "original": "clected",
+      "suggestions": [
+        {
+          "candidate": "elected",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…cle I, Section 5 apply. b. In the evem, however, that the Mayor or an clected official of any department calls upon an employee to forego his vacat…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "considcration",
+      "suggestions": [
+        {
+          "candidate": "consideration",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…s of law and fact. 6   k) It is further understood and agreed that in considcration of the compromise and settlement reached herein, the complaint in thi…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "considcration",
+      "suggestions": [
+        {
+          "candidate": "consideration",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ssucs of law and fact. k) It is further understood and agreed that in considcration of the compromisc and settlement reached herein, the complaint in thi…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "continuc",
+      "suggestions": [
+        {
+          "candidate": "continue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…s: 1. Effective September 27, 2020, a Welfare Fund contribution shall continuc to be paid at the rate of $1,855 pcr annum per active employee and at…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "continuc",
+      "suggestions": [
+        {
+          "candidate": "continue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… Article III, Sections (1)(a) -(f) of Appendix A annexed hereto shall continuc to apply. Welfare Fund A Welfare Fund contribution shall continuc to …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "employce's",
+      "suggestions": [
+        {
+          "candidate": "employee's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… following ratc. Years of Service AnnualLeave At the beginning of the employce's 1\" Year At the beginning of the employce's 2d Year At the beginning o…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "employce's",
+      "suggestions": [
+        {
+          "candidate": "employee's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…w. 11   V. vi. The lump sum cash payment shall not become part of the employce's basic salary rate, nor will it be added to the employee's basic salar…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "hercin",
+      "suggestions": [
+        {
+          "candidate": "herein",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… individual Employee exceeds five dollars ($5.00). d) The Complainant hercin shall refrain from filing any Article 78 proceedings in whole or in p…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__25",
+      "page": 4,
+      "heading": "SUNDAY/ HOLIDAY",
+      "original": "hercin",
+      "suggestions": [
+        {
+          "candidate": "herein",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…M. Such differential shall be paid in addition to the rates set forth hercin above for work performed for any day of the week including Saturdays,…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "hercinabove",
+      "suggestions": [
+        {
+          "candidate": "hereinabove",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…liability of the City of New York shall in no event exceed the amount hercinabove set fott h for cach hour worked, irrespective of any upward modificat…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "hercinabove",
+      "suggestions": [
+        {
+          "candidate": "hereinabove",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…of the City of New York, ct al., shall in no event exceed the amounts hercinabove set forth for cach effective day payablc, irrespective of any taxes, …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "hercof",
+      "suggestions": [
+        {
+          "candidate": "hereof",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… employees, shall continue to be so covered subject to the provisions hercof, on the same contributory basis as incumbent employees. Contributions…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "hercof",
+      "suggestions": [
+        {
+          "candidate": "hereof",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… employees, shall continuc to be so covered subject to the provisions hercof, on the same contributory basis as incumbent employees. Contributions…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "increasc",
+      "suggestions": [
+        {
+          "candidate": "increase",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ion, or one hundred twenty (120) days after the effective date of the increasc, whichever is later, to the date of actual payment, (2) Interest on s…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "increasc",
+      "suggestions": [
+        {
+          "candidate": "increase",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ion, or one hundred twenty (120) days after the effective date of the increasc, whichever is later, to the date of actual payment, 6   (2) Interest …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__18",
+      "page": 11,
+      "heading": "AGREED AND ACCEPTED ON BEHALF",
+      "original": "issuc",
+      "suggestions": [
+        {
+          "candidate": "issue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…eement, the First Deputy Commissioner of Labor Relations may elect to issuc, on a casc-by-case basis, interpretations concerning the payment of t…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "issuc",
+      "suggestions": [
+        {
+          "candidate": "issue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…eement, the First Deputy Commissioner of Labor Relations may clect to issuc, on a case-by-case basis, interpretations concerning the payment of t…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "ratc",
+      "suggestions": [
+        {
+          "candidate": "rate",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… at least 250 days per year shall continuc to accruc at tho following ratc. Years of Service AnnualLeave At the beginning of the employce's 1\" Y…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__25",
+      "page": 4,
+      "heading": "SUNDAY/ HOLIDAY",
+      "original": "ratc",
+      "suggestions": [
+        {
+          "candidate": "rate",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… forty (40) hours shall be paid for in cash at the aforesaid overtime ratc. For the purposes of this paragraph, paid holidays shall be considere…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "rcason",
+      "suggestions": [
+        {
+          "candidate": "reason",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…tt h for cach hour worked, irrespective of any upward modification by rcason of imposition of any 3   tax, lien, attorncys' fee or otherwisc, and …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "rcason",
+      "suggestions": [
+        {
+          "candidate": "reason",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… resigned, retired, or otherwise sparated from service, for any other rcason, prior to the date of ratification of this Agrcement shall not be cli…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__47",
+      "page": 22,
+      "heading": "Section 1",
+      "original": "sball",
+      "suggestions": [
+        {
+          "candidate": "shall",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…e with pay not to exceed one calendar year. In such case the employee sball be required to execute an agreement, wherein it is stipulated that, i…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__22",
+      "page": 11,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "sball",
+      "suggestions": [
+        {
+          "candidate": "shall",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…us payments pursuant to this agreement. iv. The lump sum casb payment sball be pensionable, consistent with applicable law. v. The lump sum cash …"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__23",
+      "page": 21,
+      "heading": "Section 4",
+      "original": "starus",
+      "suggestions": [
+        {
+          "candidate": "starns",
+          "rule": "u→n"
+        }
+      ],
+      "context": "…es during said months a total of 30 or more calendar days in full pay starus, he shall be credited with the annual leave credits earnable in 1 mon…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "heading": "Section 4",
+      "original": "starus",
+      "suggestions": [
+        {
+          "candidate": "starns",
+          "rule": "u→n"
+        }
+      ],
+      "context": "…es during said months a total of 30 or more calendar days in full pay starus, he shail be credited with the annual leave credits earable in 1 mont…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "thercof",
+      "suggestions": [
+        {
+          "candidate": "thereof",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ver being set forth in Exhibit \"A\" annexed hereto, and accept in lieu thercof the supplemental benefits set forth in this Consent Determination, an…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "thercof",
+      "suggestions": [
+        {
+          "candidate": "thereof",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ver being set forth in Exhibit \"A\" annexed hereto, and accept in licu thercof the supplemental benefits set forth in this Consent Determination, an…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "truc",
+      "suggestions": [
+        {
+          "candidate": "true",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…sic rates and supplemental benefits herein are not to be construed as truc prevailing rates and supplemental bencfits but shall be considered ra…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "truc",
+      "suggestions": [
+        {
+          "candidate": "true",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…sic rates and supplemental bencfits herein are not to be construed as truc prevailing rates and supplemental bencfits but shall be considered ra…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__23",
+      "page": 21,
+      "heading": "LOCAL 30",
+      "original": "viii",
+      "suggestions": [
+        {
+          "candidate": "viti",
+          "rule": "ii→ti"
+        }
+      ],
+      "context": "…sification rate will be 4.40% of the Senior Stationary Engineer rate. viii. The \"D\" classification rate will be 7.15% of the Senior Stationary E…"
+    },
+    {
+      "contract_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021",
+      "clause_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021__4",
+      "page": 5,
+      "heading": "LOCAL 30",
+      "original": "viii",
+      "suggestions": [
+        {
+          "candidate": "viti",
+          "rule": "ii→ti"
+        }
+      ],
+      "context": "…t the benefit and wage formulas stated above in 2. and 3.a.i. through viii. were funded internally by Local 30 and Local 15 within the overall c…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "ycar",
+      "suggestions": [
+        {
+          "candidate": "year",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…NESS WHEREOF, the parties have executed this Agreement on the day and ycar first above written. CONSENTED TO:"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__16",
+      "page": 41,
+      "heading": "JD 12/13/24",
+      "original": "ycar",
+      "suggestions": [
+        {
+          "candidate": "year",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ted as being subject to the eligibility requirements for successive 2-ycar appointments: a. Adjuncts previously eligible under the expired Appen…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__151",
+      "page": 109,
+      "heading": "FACULTY AND STAFF DEVELOPMENT",
+      "original": "Adjunet",
+      "suggestions": [
+        {
+          "candidate": "Adjunct",
+          "rule": "e→c"
+        }
+      ],
+      "context": "…2020, the University will provide the sum of $660,000 annually to the Adjunet Professional Development Fund. If the funds provided in any fiscal ye…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__61",
+      "page": 38,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "Agrecment",
+      "suggestions": [
+        {
+          "candidate": "Agreement",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…s Association Local 831, IBT 23-25 Cliff Street New York, NY 10038 Re Agrecment covering the period from March 2. 2007 through September 20, 2011 Dea…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__14",
+      "page": 32,
+      "heading": "Article 9 — 10 Pilot",
+      "original": "Assc",
+      "suggestions": [
+        {
+          "candidate": "Asse",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…dent Date:_ 12/16/24      Attachment A Title Number Description 04024 Assc Professor 04008 Asst Professor 04017 Asst to HEO 04166 04167 CLIP Ins…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__144",
+      "page": 48,
+      "heading": "APPENDIX H",
+      "original": "Avenuc",
+      "suggestions": [
+        {
+          "candidate": "Avenue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…thurin Associate Director Committee of Interns and Residents 10-27 46 Avenuc, Suite 300-2 Long Islaud City, New York 11101 Dear Mr. Mathurin: The …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Bencfit",
+      "suggestions": [
+        {
+          "candidate": "Benefit",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… shall be limited to the payments as provided herein. The City Health Bencfit (Insurancc) program shall continuc. The parties agree that the May 5,…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__52",
+      "page": 25,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "Bencfits",
+      "suggestions": [
+        {
+          "candidate": "Benefits",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…he $65 funded from the Stabilization Fund pursuant to the 2005 Health Bencfits Agreement between the City of New York and the Municipal Labor Commit…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__147",
+      "page": 107,
+      "heading": "REHIRING OF PERSONS WHO ARE DISCONTINUED",
+      "original": "CCEs",
+      "suggestions": [
+        {
+          "candidate": "CeEs",
+          "rule": "c→e"
+        }
+      ],
+      "context": "Tenured Persons and Lecturers Holding CCEs The provisions of subdivision eight of section 6212 of the Education …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Carcer",
+      "suggestions": [
+        {
+          "candidate": "Career",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…nal paid holidays are granted to the City employees covered under the Carcer and Salary Plan, then in that event such additional holidays shall be…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "heading": "THOMAS CALLAHAN",
+      "original": "Clain",
+      "suggestions": [
+        {
+          "candidate": "dain",
+          "rule": "cl→d"
+        },
+        {
+          "candidate": "elain",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ions 22 CortlMdl Street, New York, NY 10007 nyc.gov/olr Renae Campion Clain, Levitt Comminionrr �puty Cammlss/onrr H�lth Carr Strotrgy Daniel Pol…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__58",
+      "page": 15,
+      "heading": "ERIC EICHENHOLTZ",
+      "original": "Claira",
+      "suggestions": [
+        {
+          "candidate": "daira",
+          "rule": "cl→d"
+        }
+      ],
+      "context": "…f Labor Relations 22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claira Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Dir…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__136",
+      "page": 45,
+      "heading": "APPENDIX E",
+      "original": "Clar",
+      "suggestions": [
+        {
+          "candidate": "dar",
+          "rule": "cl→d"
+        }
+      ],
+      "context": "… 2008-2010 Interns and Residents Agreement. Very caply yours, Roman a Clar"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "heading": "ORGETTE GESTEI",
+      "original": "Committec",
+      "suggestions": [
+        {
+          "candidate": "Committee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Committer (THIPC) and shall be independent of the existing \"Technical Committec.\" The \"Technical Committec\" will continue its work and will work in c…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "heading": "THOMAS CALLAHAN",
+      "original": "Coun",
+      "suggestions": [
+        {
+          "candidate": "Conn",
+          "rule": "u→n"
+        }
+      ],
+      "context": "…ammlnlonrr Dlrrctor, Employtt IJrnr/ltf Pn,grom Nicole Andrada Gmrn,I Coun•� March 20, 2024 Joseph Colangelo President SEIU Local 246 217 Broadw…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__137",
+      "page": 45,
+      "heading": "COMMITTEE OF INTERNS & RESIDENTS",
+      "original": "Couns",
+      "suggestions": [
+        {
+          "candidate": "Conns",
+          "rule": "u→n"
+        }
+      ],
+      "context": "…22 Cort dEnse, Nur York, NY 10007 Move H Lat Part Deputy Ducal Garand Couns East Muthoris Anita Dbactee Comman of lateras and Residiaos Long Ishe…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__14",
+      "page": 32,
+      "heading": "Article 9 — 10 Pilot",
+      "original": "Davis",
+      "suggestions": [
+        {
+          "candidate": "clavis",
+          "rule": "d→cl"
+        }
+      ],
+      "context": "… CUNY: ser Félix V. Matos Rodriguez Chancellor Date: 12/16 2014 James Davis President Date:_ 12/16/24      Attachment A Title Number Description …"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "heading": "ORGETTE GESTEI",
+      "original": "Discasc",
+      "suggestions": [
+        {
+          "candidate": "Discase",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…on of benefits, pre-65 disabled Medicare utilization, End Stage Renal Discasc, PICA, and Payroll Audit of Part Time Employees. f. Other areas- Cent…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__42",
+      "page": 12,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "Discontinuc",
+      "suggestions": [
+        {
+          "candidate": "Discontinue",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…, which the Union has or may have under Section 220 of the Labor Law. Discontinuc any and all action or proceedings, if any, herctofore commenced by me…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__124",
+      "page": 42,
+      "heading": "AGREED AND ACCEPTED ON BEHALF OF CIR",
+      "original": "Eart",
+      "suggestions": [
+        {
+          "candidate": "cart",
+          "rule": "e→c"
+        }
+      ],
+      "context": "Eart Mathurin Associale Director 25002   To be inserted as a new Appendix …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "Employce's",
+      "suggestions": [
+        {
+          "candidate": "Employee's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ot become par of the employee's basic salary rate nor be added to the Employce's basic salary for the calculation of any salary-based benefits. The di…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__21",
+      "page": 16,
+      "heading": "CATEGORY",
+      "original": "Employecs",
+      "suggestions": [
+        {
+          "candidate": "Employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "Employecs whå bayo complasad 15 years of service. Employoes who have completod …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__48",
+      "page": 33,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "Hanl",
+      "suggestions": [
+        {
+          "candidate": "Haul",
+          "rule": "n→u"
+        }
+      ],
+      "context": "…execute the signature line provided helow Very ensly yours. /James F. Hanl Conimission Hant Maley Agreed and Accepted on Behalf of Local 831, IB…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__75",
+      "page": 20,
+      "heading": "Article XVI — GRIEVANCE PROCEDURES",
+      "original": "HtH's",
+      "suggestions": [
+        {
+          "candidate": "litH's",
+          "rule": "h→li"
+        }
+      ],
+      "context": "…ten (10) working days of the receipt of the Step I determination. NYC HtH's Director of Labor Relations or his/her designated representative, if …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Insurancc",
+      "suggestions": [
+        {
+          "candidate": "Insurance",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… limited to the payments as provided herein. The City Health Bencfit (Insurancc) program shall continuc. The parties agree that the May 5, 2014 lette…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__144",
+      "page": 48,
+      "heading": "APPENDIX H",
+      "original": "Islaud",
+      "suggestions": [
+        {
+          "candidate": "Island",
+          "rule": "u→n"
+        }
+      ],
+      "context": "… Committee of Interns and Residents 10-27 46 Avenuc, Suite 300-2 Long Islaud City, New York 11101 Dear Mr. Mathurin: The parties to this agreement…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "heading": "WITNESSCTE",
+      "original": "JOCEd",
+      "suggestions": [
+        {
+          "candidate": "JOeEd",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…s, Scotion 9, Savings Clause. In the ayone that any provision of this JOCEd is found to bo invalld, such finding sholl not impalt the vallilly an…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Junc",
+      "suggestions": [
+        {
+          "candidate": "June",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…rk, N.Y. Employees who have been separated from service subsequent to Junc 30, 1970 and who were covered by a Welfare Fund at the time of such s…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "heading": "ORGETTE GESTEI",
+      "original": "MILC's",
+      "suggestions": [
+        {
+          "candidate": "MILe's",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…orize the quarterly provision of the following data to the City's and MILC's actuaries on an ongoing quarteriy basis: (1) detailed claim-level hen…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__61",
+      "page": 38,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "Mady",
+      "suggestions": [
+        {
+          "candidate": "Macly",
+          "rule": "d→cl"
+        }
+      ],
+      "context": "…ding, please crecure the signature line below Very truly yours. Penne Mady Agreed and Accepted on Behalf of Local 831, IBT Harry Nespt President…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__152",
+      "page": 52,
+      "heading": "APPENDIX K",
+      "original": "Matburin",
+      "suggestions": [
+        {
+          "candidate": "Mathurin",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…-27 46\" Avenue, Suite 300-2 Long Island City, New York 11101 Dear Mr. Matburin: Please be advised that all House Staff Officers in NYC HtH facilitie…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__63",
+      "page": 26,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "MiLC",
+      "suggestions": [
+        {
+          "candidate": "MiLe",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ny savings thereafter shall be split equally between the City and the MiLC and applied in a manner agreed to by the parties. 3. Beginning Januar…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__144",
+      "page": 48,
+      "heading": "APPENDIX H",
+      "original": "Nevertbeless",
+      "suggestions": [
+        {
+          "candidate": "Nevertheless",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…interests of NYC H+H, the patients whom it serves, and its employees. Nevertbeless, the duties of House Staff Officers often result in delaying the comp…"
+    },
+    {
+      "contract_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021",
+      "clause_id": "oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021__0",
+      "page": 3,
+      "heading": "FOR THE CITY OF NEW YORK",
+      "original": "Opcrating",
+      "suggestions": [
+        {
+          "candidate": "Operating",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Benefits Program William Lynn Business Manager International Union of Opcrating Engineers - Local 30 115-06 Myrtle Avenue Richmond Hill, NY 11418 Tho…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "Partics",
+      "suggestions": [
+        {
+          "candidate": "Parties",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…reed-upon savings Should such savings not be able to be realized, the Partics agree to consider new or alternative funding mechanisms to address an…"
+    },
+    {
+      "contract_id": "osa-moa-2021-2027",
+      "clause_id": "osa-moa-2021-2027__4",
+      "page": 3,
+      "heading": "RENEE CAMPION",
+      "original": "Planncr",
+      "suggestions": [
+        {
+          "candidate": "Planner",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…nner (DOT) Confidential Strategy Planner (DCAS) Confidential Strategy Planncr (Compt) Confidential Strategy Planner (ACS) Confidential Strategy Pla…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Relcase",
+      "suggestions": [
+        {
+          "candidate": "Release",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e period embraced herein, such relcase being set forth in the Gencral Relcase and Waiver attached hereto as Exhibit \"A\". c) The Complainant agrees …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__5",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "Statc",
+      "suggestions": [
+        {
+          "candidate": "State",
+          "rule": "c→e"
+        }
+      ],
+      "context": "A Complaint under Section 220 of the Now York Statc Labor Law, having been filed by City Employees Union, Local 237, Inte…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "Tcamsters",
+      "suggestions": [
+        {
+          "candidate": "Teamsters",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… New York to the Welfare Fund, Local 237 International Brotherhood of Tcamsters, 216 West 14th Strect, New York, N.Y. Employees who have been separat…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "Wcst",
+      "suggestions": [
+        {
+          "candidate": "West",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…he Wolfare Fund, Local 237 International Brotherhood ofTcamsters, 216 Wcst 14th Strect, New York, N.Y. Employees who have been separated from se…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "Ycar",
+      "suggestions": [
+        {
+          "candidate": "Year",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ing of the employce's 5' Y car At the beginning of the employee's 8'h Ycar At the beginning of the employee's 15\" Year Per Year 12 workdays 15 w…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__44",
+      "page": 14,
+      "heading": "AGREED AND ACCEPTED ON BEHALF",
+      "original": "agencics",
+      "suggestions": [
+        {
+          "candidate": "agencies",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…e, following ratification of this agreement, all employees of Mayoral agencics, the Department of Education, and the New York City Housing Authority…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "agrcement",
+      "suggestions": [
+        {
+          "candidate": "agreement",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ary rate nur be added to the the District beyins the new program This agrcement shall not supersede the provisions of Article VIL, Sections 1 (a), 2 …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "agrec",
+      "suggestions": [
+        {
+          "candidate": "agree",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…including the new salary schedule for new hires. The Parties mutually agrec thas should the productivity initiatives ser forth in the new 10.7 to…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "heading": "WITNESSCTE",
+      "original": "agrecable",
+      "suggestions": [
+        {
+          "candidate": "agreeable",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Agreement, each union shall have 0.21% available to spend on mutually agrecable items that will help improve salary compressio and/or recruitment/ret…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "agrecs",
+      "suggestions": [
+        {
+          "candidate": "agrees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Release and Waiver attached hercto as Exhibit \"A\". c) The Complainant agrecs to waive any and all interest on all differentials of basic rates of …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__140",
+      "page": 47,
+      "heading": "HOSPITALS",
+      "original": "andrca",
+      "suggestions": [
+        {
+          "candidate": "andrea",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Hospitals 125 Worth Street, Suile 527 New York, NY 10013 212-788-3304 andrca.cnlun@nychlc.m"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "heading": "Section 4",
+      "original": "anual",
+      "suggestions": [
+        {
+          "candidate": "annal",
+          "rule": "u→n"
+        }
+      ],
+      "context": "…be considered as time \"served\" by the employee. In the calculation of anual leave credits, a full month's credit shall be given to an   2 employo…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "appcal",
+      "suggestions": [
+        {
+          "candidate": "appeal",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…rocedure unless and until the employee appeals such decision and such appcal is upheld \"Refuse and Recycling\" collection vehicles when engaged in …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "attorncys'",
+      "suggestions": [
+        {
+          "candidate": "attorneys'",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…any upward modification by rcason of imposition of any 3   tax, lien, attorncys' fee or otherwisc, and provided further that the amount of contributio…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__5",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "bchalf",
+      "suggestions": [
+        {
+          "candidate": "behalf",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…en agreed to between the Mayor's Office of Labor Rclations (\"OLR\") on bchalf of the City of New York, ct al., and the Complainant, compromising an…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025__whole",
+      "page": 1,
+      "heading": "Joint Cert L246 and L15 Motor Grader Operators Wage Indenture, 2020-2025",
+      "original": "behal",
+      "suggestions": [
+        {
+          "candidate": "belial",
+          "rule": "h→li"
+        }
+      ],
+      "context": "….17 for each paid working day up to a maximum of 50.13.3. per anum on behal el il time and til in pris day bye balt paid shall be based on a pror…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "bencfit",
+      "suggestions": [
+        {
+          "candidate": "benefit",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…de of the City of New York, as amended. 2. An additional supplemental bencfit in the form of a compensation accrual fund payment shall continuc to …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "beneficiarics",
+      "suggestions": [
+        {
+          "candidate": "beneficiaries",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…s shall be made only for such time as said individuals remain primary beneficiarics of the Now York City Health Insurance Program and are entitled to ben…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__44",
+      "page": 22,
+      "heading": "Section 4",
+      "original": "berein",
+      "suggestions": [
+        {
+          "candidate": "herein",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…Sec. 8 above, the annual leave allowance and the sick leave allowance berein granzed shall be applicable to part-time employees on a pro-rated bas…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__22",
+      "page": 11,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "casb",
+      "suggestions": [
+        {
+          "candidate": "cash",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…$3,000 in bonus payments pursuant to this agreement. iv. The lump sum casb payment sball be pensionable, consistent with applicable law. v. The …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "causc",
+      "suggestions": [
+        {
+          "candidate": "cause",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…tus\"), or on paid family Icave. ii. Employces who were terminated for causc, resigned, retired, or otherwise sparated from service, for any other…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__119",
+      "page": 35,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "cconomic",
+      "suggestions": [
+        {
+          "candidate": "economic",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…o the City of New York to be used to support wage increases and other cconomic items for the current round of collective bargaining (for the period …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "clect",
+      "suggestions": [
+        {
+          "candidate": "elect",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… this agreement, the First Deputy Commissioner of Labor Relations may clect to issuc, on a case-by-case basis, interpretations concerning the pay…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "cmployee",
+      "suggestions": [
+        {
+          "candidate": "employee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… September 27, 2025, therc shall be a recurring $168.75 pcr annum per cmployee (active and retircc) increase to the welfare fund contribution. The p…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "cmployees",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…agreement of the partics concerning the lump sum cash payment for the cmployees covered by the Maintenance Worker Consent Determination for the perio…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "compromisc",
+      "suggestions": [
+        {
+          "candidate": "compromise",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…. k) It is further understood and agreed that in considcration of the compromisc and settlement reached herein, the complaint in this matter is hereby…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "heading": "CCA Unit Agreement, 2022-2028",
+      "original": "couforms",
+      "suggestions": [
+        {
+          "candidate": "conforms",
+          "rule": "u→n"
+        }
+      ],
+      "context": "… Captains in the pilot upon the request of either party. If the above couforms to your understanding, please execute the signature line below. Since…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "heading": "CCA Unit Agreement, 2022-2028",
+      "original": "coutribution",
+      "suggestions": [
+        {
+          "candidate": "contribution",
+          "rule": "u→n"
+        }
+      ],
+      "context": "…, $56 per annum on behalf of active employees and retirees. The total coutribution rate as of this date shall be $1,656 per annun on behalf of active em…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "cquivalent",
+      "suggestions": [
+        {
+          "candidate": "equivalent",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…Sanitation (\"DSNY\"). The City of New York shall convert all full-lime cquivalent (FTE) WEP positions at DSNY (currently 250 FTEg) 10 the tille of Job …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "heading": "WITNESSCTE",
+      "original": "cstablished",
+      "suggestions": [
+        {
+          "candidate": "established",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…arbitration must be resolvod before any interest arbitration panel is cstablished, C. The parties agree to commence Unit Bargaining as soon as practica…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "datc",
+      "suggestions": [
+        {
+          "candidate": "date",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…t the Burcau of Labor Law, Office of the Comptroller on or after that datc. IN WITNESS WHEREOF, the partics have executed this Agreement on the …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "designce",
+      "suggestions": [
+        {
+          "candidate": "designee",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…y Commissioner or designee(s) and the President of Local 831, IBT, or designce(s) If the matter is still unresolved, the Union may appeal the Employ…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__52",
+      "page": 25,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "disputc",
+      "suggestions": [
+        {
+          "candidate": "dispute",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… an attempt to resolve the dispute. If the parties cannot resolve the disputc, such dispute shall be referred to Arbitrator Martin F. Scheinman for…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__0",
+      "page": 1,
+      "heading": "WITNESSET H",
+      "original": "employecs",
+      "suggestions": [
+        {
+          "candidate": "employees",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…t between the City of New York and the Second Party representing such employecs, shall continue to be so covered subject to the provisions hereof on …"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__35",
+      "page": 20,
+      "heading": "Section 1",
+      "original": "excced",
+      "suggestions": [
+        {
+          "candidate": "exceed",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…mittal of evidence satisfactory to the agency head: a. Absence not to excced four work-days in the case of death in the immediate family. Family s…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__119",
+      "page": 35,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "exelusive",
+      "suggestions": [
+        {
+          "candidate": "exclusive",
+          "rule": "e→c"
+        }
+      ],
+      "context": "…over the course of Fiscal Years 2015 through 2018, said savings to be exelusive of the monies referenced Fiscal Year 2015: (i) $700 million in Fiscal…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__119",
+      "page": 35,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "gencrated",
+      "suggestions": [
+        {
+          "candidate": "generated",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…mpt to agree on an appropriate alterative use. Any additional savings gencrated for the four-year period beyond the first 5365 million will be sbared…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "hased",
+      "suggestions": [
+        {
+          "candidate": "based",
+          "rule": "h→b"
+        },
+        {
+          "candidate": "liased",
+          "rule": "h→li"
+        }
+      ],
+      "context": "…ling) shall be maintained The Parties agree that payment will be made hased on a weekly target of 45.6% of loads dumped on shill as long as a foo…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "heading": "GEORGETTE GESTELY",
+      "original": "healtheare",
+      "suggestions": [
+        {
+          "candidate": "healthcare",
+          "rule": "e→c"
+        }
+      ],
+      "context": "… thereafter, the S600 million per year savings on a citywide basis in healtheare costs shall continue on a recurring basis. b. Savings will be measure…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__48",
+      "page": 33,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "helow",
+      "suggestions": [
+        {
+          "candidate": "below",
+          "rule": "h→b"
+        }
+      ],
+      "context": "…s with your understanding, pleast execute the signature line provided helow Very ensly yours. /James F. Hanl Conimission Hant Maley Agreed and Ac…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__16",
+      "page": 10,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "hercinafter",
+      "suggestions": [
+        {
+          "candidate": "hereinafter",
+          "rule": "c→e"
+        }
+      ],
+      "context": "Local 237, 1.B.T. (hercinafter referred to as the \"Union\"), as the certific collective bargaining re…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "hercto",
+      "suggestions": [
+        {
+          "candidate": "hereto",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ch release being set forth in the Gencral Release and Waiver attached hercto as Exhibit \"A\". c) The Complainant agrecs to waive any and all intere…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__42",
+      "page": 12,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "herctofore",
+      "suggestions": [
+        {
+          "candidate": "heretofore",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…the Labor Law. Discontinuc any and all action or proceedings, if any, herctofore commenced by me or on my behalf of the above mentioned titles under a…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "heading": "RONALD PRATTIS",
+      "original": "hicles",
+      "suggestions": [
+        {
+          "candidate": "hides",
+          "rule": "cl→d"
+        }
+      ],
+      "context": "…ry circumstances, Sanitation Workers shall not be ordered lo luel ve- hicles in the field at other than Department of Sanitution facilities, and w…"
+    },
+    {
+      "contract_id": "l1199-moa-2022-2027",
+      "clause_id": "l1199-moa-2022-2027__3",
+      "page": 6,
+      "heading": "APPENDIX A",
+      "original": "incl",
+      "suggestions": [
+        {
+          "candidate": "ind",
+          "rule": "cl→d"
+        }
+      ],
+      "context": "…I, Clinical Laboratory Technologist Level III, IV, V, Microbiologist (incl. spec.) Senior Bacteriologist, Principal Microbiologist - Service Inc…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "incrcase",
+      "suggestions": [
+        {
+          "candidate": "increase",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…55 to $1,886.25. The per annum per employee retiree contribution will incrcase from $2,055 to $2,086.25. Effective September 27, 2025, therc shall b…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "increascs",
+      "suggestions": [
+        {
+          "candidate": "increases",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ng but not limited to the calculation of future collective bargaining increascs. For circumstances not covered by this agreement, the First Deputy Co…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "inerease",
+      "suggestions": [
+        {
+          "candidate": "increase",
+          "rule": "e→c"
+        }
+      ],
+      "context": "…886.25 to $2,055. The per annum per employee retire contribution will inerease from $2,086.25 to 2   $2,255. The contributions shall be paid per com…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__5",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "issucs",
+      "suggestions": [
+        {
+          "candidate": "issues",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…f basic rates of wages, supplemental bencfits and jurisdiction on all issucs of law and fact as to the titles set forth in the caption, NOW, THERE…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "licu",
+      "suggestions": [
+        {
+          "candidate": "lieu",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…h waiver being set forth in Exhibit \"A\" annexed hereto, and accept in licu thercof the supplemental benefits set forth in this Consent Determina…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__228",
+      "page": 164,
+      "heading": "Article 15 — 4 of the 2007-2010 Collective Bargaining Agreement (i.e., a phasing employee will",
+      "original": "liii",
+      "suggestions": [
+        {
+          "candidate": "lin",
+          "rule": "ii→n"
+        }
+      ],
+      "context": "…emester. Phasing faculty members remain subject to paragraphs 2.1i, 2.liii, 2.liv, and 2.1v of the Multiple Position Policy- pertaining to princ…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "lons",
+      "suggestions": [
+        {
+          "candidate": "lous",
+          "rule": "n→u"
+        }
+      ],
+      "context": "…er Truck Agreement Paragraphs 1A. through F). and one for the new 107 lons per truck shift for refuse collection and the 6.2 tons per truck shif…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "mecting",
+      "suggestions": [
+        {
+          "candidate": "meeting",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… letter is to memorialize what was discussed at the February 11, 2011 mecting with respect to the Work Experience Program (\"WEP\") paricipans al the…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__42",
+      "page": 12,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "moncy",
+      "suggestions": [
+        {
+          "candidate": "money",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… of actions, cause and causes of actions, suits, debts, dues, sums of moncy, accounts, reckonings, bonds, bills, specialties, covenants, contract…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "naturc",
+      "suggestions": [
+        {
+          "candidate": "nature",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…he rates and supplemental bencfits hercin. h) Any legal claims of any naturc, including specifically, but not limited thereto, premium rates, holi…"
+    },
+    {
+      "contract_id": "l3-electricians-consent-determination-20232028",
+      "clause_id": "l3-electricians-consent-determination-20232028__5",
+      "page": 3,
+      "heading": "CONSENT DETERMINATION",
+      "original": "nced",
+      "suggestions": [
+        {
+          "candidate": "need",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…n the above-referenced titles who are represented by the Complainant. nced titles beginning as of the effective date of the complaint filed here…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "numher",
+      "suggestions": [
+        {
+          "candidate": "number",
+          "rule": "h→b"
+        }
+      ],
+      "context": "…intaining the Citywide 10.7 and 6 2 tons per truck shifi taryets. The numher uf trucks assigned on a holiday shall have no effect on the bank for …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "otherwisc",
+      "suggestions": [
+        {
+          "candidate": "otherwise",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…ation by rcason of imposition of any 3   tax, lien, attorncys' fee or otherwisc, and provided further that the amount of contributions by the City sh…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "payablc",
+      "suggestions": [
+        {
+          "candidate": "payable",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…event exceed the amounts hercinabove set forth for cach effective day payablc, irrespective of any taxes, liens, attorneys' fees or otherwise, and …"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__16",
+      "page": 10,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "pcriod",
+      "suggestions": [
+        {
+          "candidate": "period",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…of New York as set forth in a collective bargaining agreement for the pcriod beginning September 27, 2020 and terminating October 26, 2025, a copy…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__10",
+      "page": 5,
+      "heading": "PAZRIOK PERRATTODO",
+      "original": "pran",
+      "suggestions": [
+        {
+          "candidate": "prau",
+          "rule": "n→u"
+        }
+      ],
+      "context": "•• BOR TH \"SANATON OBEICERE ARSOCIAȚION\" Mansion 2ras dca' pran...."
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__16",
+      "page": 41,
+      "heading": "JD 12/13/24",
+      "original": "rcappointed",
+      "suggestions": [
+        {
+          "candidate": "reappointed",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… expired Appendix E pilot; b. Eligible adjuncts who are not appointed/rcappointed and are cligible for consideration for a 2-Year appointment under Par…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__44",
+      "page": 14,
+      "heading": "AGREED AND ACCEPTED ON BEHALF",
+      "original": "recciving",
+      "suggestions": [
+        {
+          "candidate": "receiving",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…hority who reccive paychecks via direct deposit shall be opted out of recciving paper pay stubs. Employces may choose to opt-in and receive paper stu…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "relcase",
+      "suggestions": [
+        {
+          "candidate": "release",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… to the City of New York ct al., for the period embraced herein, such relcase being set forth in the Gencral Relcase and Waiver attached hereto as …"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__86",
+      "page": 54,
+      "heading": "Article 20",
+      "original": "relied",
+      "suggestions": [
+        {
+          "candidate": "rehed",
+          "rule": "li→h"
+        }
+      ],
+      "context": "…eement, the Section of the Bylaws, or the written policy of the Board relied upon, and the remedy requested. Step 1. Grievances shall be filed wit…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "rescrved",
+      "suggestions": [
+        {
+          "candidate": "reserved",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…its other than those 5   contained herein excopting that the right is rescrved to bring any necessary proceedings for the enforcement of the terms o…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "reviced",
+      "suggestions": [
+        {
+          "candidate": "revieed",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…te Panel\") for resolution. The Parties agree that the program will be reviced periodically after implementation and thercafter excluding the four (…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__119",
+      "page": 35,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "sbared",
+      "suggestions": [
+        {
+          "candidate": "shared",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…crated for the four-year period beyond the first 5365 million will be sbared equally with the City and the MILC for the same purposes and subject …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "heading": "CHRISTMAS DAY",
+      "original": "scrvice",
+      "suggestions": [
+        {
+          "candidate": "service",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…s Retirement System who have completed five (5) years of full in time scrvice with the City of New York, except that contributions for those employ…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "scttlement",
+      "suggestions": [
+        {
+          "candidate": "settlement",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…n this compromise and settlement for the period of the compromise and scttlement contained herein. i) The forgoing basic rates of wages and supplement…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__12",
+      "page": 7,
+      "heading": "Article IV — HEALTH AND WELFARE BENEFITS",
+      "original": "serie",
+      "suggestions": [
+        {
+          "candidate": "seric",
+          "rule": "e→c"
+        }
+      ],
+      "context": "… Unformed Sanitationer 3 Association (\"051), who have attained normal serie retiremen fer wenty 120) veers The parties agree that, effective Janu…"
+    },
+    {
+      "contract_id": "local-300-seiu-moa-2022-2027",
+      "clause_id": "local-300-seiu-moa-2022-2027__whole",
+      "page": 1,
+      "heading": "Local 300, SEIU MOA, 2022-2027",
+      "original": "shaU",
+      "suggestions": [
+        {
+          "candidate": "shan",
+          "rule": "u→n"
+        }
+      ],
+      "context": "… York City Housing Authority who receive paychecks via direct deposit shaU be opted out of receiving paper pay stubs. Employees may choose to op…"
+    },
+    {
+      "contract_id": "dea-unit-agreement-2022-2027",
+      "clause_id": "dea-unit-agreement-2022-2027__whole",
+      "page": 1,
+      "heading": "DEA Unit Agreement, 2022-2027",
+      "original": "tems",
+      "suggestions": [
+        {
+          "candidate": "terns",
+          "rule": "m→rn"
+        }
+      ],
+      "context": "…s' mutual understanding and agreement concerning additional Bargainic tems negoliated by the parties pursuant to Section 4 of the VOCEA (Unit 1.…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__67",
+      "page": 23,
+      "heading": "PARENTAL LEAVE",
+      "original": "thc-",
+      "suggestions": [
+        {
+          "candidate": "the-",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…volunteering, which can be found here: https://www1.nyc.gov/site/coib/thc- law/volunteering.page. The volunteer leave credit must be used within…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "therc",
+      "suggestions": [
+        {
+          "candidate": "there",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…will incrcase from $2,055 to $2,086.25. Effective September 27, 2025, therc shall be a recurring $168.75 pcr annum per cmployee (active and retir…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "thercafter",
+      "suggestions": [
+        {
+          "candidate": "thereafter",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…hat the program will be reviced periodically after implementation and thercafter excluding the four (4) monsh break-in period. The Parties will meet t…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "thercto",
+      "suggestions": [
+        {
+          "candidate": "thereto",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…y Iegal claims of any nature, including specifically, but not limited thercto, premium rates, holiday rates, shift rates, overtime rates or any oth…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__43",
+      "page": 12,
+      "heading": "GREGORS",
+      "original": "thosc",
+      "suggestions": [
+        {
+          "candidate": "those",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…payable as soon as practicable upon ratification of this Agreement to thosc bargaining unit members who were in active payroll status as of Febru…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "heading": "OVERTIME RATE",
+      "original": "threc",
+      "suggestions": [
+        {
+          "candidate": "three",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…. However, (1) Interest on wage increases shall accruc at the rate of threc percent (3%) per annum from one hundred twenty (120) days after the f…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__52",
+      "page": 25,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "througb",
+      "suggestions": [
+        {
+          "candidate": "through",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…althcare savings of $3.4 billion over the course of Fiscal Years 2015 througb 2018, said savings to be exclusive of the monies referenced in Paragr…"
+    },
+    {
+      "contract_id": "carpenters-consent-determination-2021-2027",
+      "clause_id": "carpenters-consent-determination-2021-2027__25",
+      "page": 12,
+      "heading": "GENERAL RELEASE AND WAIVER",
+      "original": "upber",
+      "suggestions": [
+        {
+          "candidate": "upher",
+          "rule": "b→h"
+        }
+      ],
+      "context": "…eed upon in writing by the Union and the City for that period. Mate A upber"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "heading": "RONALD PRATTIS",
+      "original": "vchicles",
+      "suggestions": [
+        {
+          "candidate": "vehicles",
+          "rule": "c→e"
+        }
+      ],
+      "context": "… or Garage Utility posts shall continue to be responsible for fueling vchicles in the gurages; (5) a Sanitation Worker assigned to duties other than…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__44",
+      "page": 27,
+      "heading": "CONTRACT",
+      "original": "vite",
+      "suggestions": [
+        {
+          "candidate": "yite",
+          "rule": "v→y"
+        }
+      ],
+      "context": "…o the applicable rates at follows: • Reuse and Bearing colorior chide vite 8. Effective Date Amount PTS program 12/28/22 $2.97 12/28/23 $3.07 12…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "heading": "OFFICE OF LABOR RELATIONS",
+      "original": "weck",
+      "suggestions": [
+        {
+          "candidate": "week",
+          "rule": "c→e"
+        }
+      ],
+      "context": "…), the differential payment will not be paid to any employee for that weck. The Union may appeal such a decision to the Tripartite Panel The Par…"
+    }
+  ]
+}

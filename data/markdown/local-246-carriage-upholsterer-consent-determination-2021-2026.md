@@ -835,7 +835,7 @@ V.
 _Page 21_ · _OCR-reconstructed_
 
 Daily time records shall be maintained showing the actual hours worked by each
-employec.
+employee.
 
 <a id="section-2-p21"></a>
 ### Section 2
@@ -913,7 +913,7 @@ another, and
 
 
 9
-The injured employce undergoes such medical examinations as are requested by
+The injured employee undergoes such medical examinations as are requested by
 the Workmen's Compensation Division of the Law Department and his agency; and when found
 fie for duty by said physicians, returns to his employment.
 2. To take annual leave and receive full pay and Workmen's Compensation medical

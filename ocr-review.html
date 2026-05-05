@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>OCR review queue — NYC labor contracts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<style>
+  .review-queue { max-width: 880px; margin: 0 auto; }
+  .review-intro {
+    border-left: 3px solid var(--vc-accent);
+    padding: 12px 16px; margin-bottom: 24px;
+    background: var(--vc-bg-soft, #f5f3ee);
+  }
+  .review-intro p { margin: 0 0 8px; font-size: 0.95rem; }
+  .review-intro p:last-child { margin-bottom: 0; }
+  .review-actions { display: flex; gap: 12px; margin: 16px 0 24px; flex-wrap: wrap; align-items: center; }
+  .review-actions button {
+    padding: 8px 14px; border: 1px solid var(--vc-rule); border-radius: 0;
+    background: var(--vc-black); color: var(--vc-white);
+    font: 700 0.82rem/1 var(--vc-font-sans); letter-spacing: 0.04em;
+    text-transform: uppercase; cursor: pointer;
+  }
+  .review-actions button.secondary { background: var(--vc-bg); color: var(--vc-text); }
+  .review-actions button:hover { background: var(--vc-accent); color: var(--vc-black); }
+  .review-actions .counter { margin-left: auto; font-size: 0.9rem; color: var(--vc-text-muted); }
+
+  .suspect {
+    border: 1px solid var(--vc-border); padding: 14px 16px; margin-bottom: 12px;
+    background: var(--vc-bg);
+  }
+  .suspect.decided { opacity: 0.45; }
+  .suspect-head {
+    display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap;
+    margin-bottom: 8px; font-size: 0.78rem; letter-spacing: 0.06em;
+    text-transform: uppercase; color: var(--vc-text-muted); font-weight: 700;
+  }
+  .suspect-head .contract-id { color: var(--vc-text); }
+  .suspect-head .page { color: var(--vc-text-muted); }
+  .suspect-context {
+    font: 400 0.98rem/1.55 var(--vc-font-serif, Georgia, serif);
+    margin: 6px 0 12px; color: var(--vc-text);
+  }
+  .suspect-context mark {
+    background: #ffe9b3; color: var(--vc-text); padding: 0 2px;
+    font-weight: 700; border-bottom: 2px solid #d99300;
+  }
+  .suggest-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .suggest-row .arrow { color: var(--vc-text-muted); }
+  .suggest-row input[type=text] {
+    padding: 6px 10px; border: 1px solid var(--vc-rule); border-radius: 0;
+    background: var(--vc-bg); font: 600 0.95rem var(--vc-font-mono, monospace);
+    min-width: 180px;
+  }
+  .suggest-row .rule {
+    font: 600 0.72rem var(--vc-font-mono, monospace);
+    color: var(--vc-text-muted); padding: 2px 6px; border: 1px solid var(--vc-border);
+  }
+  .decision-buttons { display: flex; gap: 6px; margin-top: 10px; }
+  .decision-buttons button {
+    padding: 6px 12px; border: 1px solid var(--vc-rule); border-radius: 0;
+    background: var(--vc-bg); font: 700 0.78rem/1 var(--vc-font-sans);
+    letter-spacing: 0.04em; text-transform: uppercase; cursor: pointer;
+  }
+  .decision-buttons button.approve { background: #1b5e20; color: white; border-color: #1b5e20; }
+  .decision-buttons button.skip { background: var(--vc-bg); color: var(--vc-text); }
+  .decision-buttons button.active { outline: 3px solid var(--vc-accent); outline-offset: -3px; }
+  .decision-buttons button:hover:not(.active) { background: var(--vc-accent); color: var(--vc-black); }
+  .decision-status { font-size: 0.8rem; color: var(--vc-text-muted); margin-left: 8px; }
+  .decision-status.approved { color: #1b5e20; font-weight: 700; }
+  .decision-status.skipped { color: var(--vc-text-muted); }
+</style>
+</head>
+<body>
+<header class="page-head">
+  <div class="wrap">
+    <p class="kicker"><a href="index.html">← Back to contracts</a></p>
+    <h1>OCR review queue</h1>
+  </div>
+</header>
+
+<main class="wrap review-queue" id="app">
+  <div class="review-intro">
+    <p><strong>What this is:</strong> a list of words in the OCR'd text that look like single-character OCR misreads (e.g.&nbsp;<code>Pavment</code>&nbsp;→&nbsp;<code>Payment</code>). Each candidate has a high-confidence suggestion, but nothing is changed automatically.</p>
+    <p><strong>How to use it:</strong> review each candidate against the source PDF (link in each card). Click <strong>Approve</strong> if the suggestion is correct, <strong>Skip</strong> if the original is right, or edit the box for a custom fix. Decisions are saved in your browser. When you're done, click <strong>Export corrections.json</strong> and run <code>python3 scripts/apply_corrections.py</code> to write the fixes into the data files.</p>
+  </div>
+
+  <div class="review-actions">
+    <button id="export-btn">Export corrections.json</button>
+    <button id="reset-btn" class="secondary">Reset all decisions</button>
+    <span class="counter" id="counter"></span>
+  </div>
+
+  <div id="suspect-list"></div>
+</main>
+
+<script>
+const STORAGE_KEY = 'ocr-review-decisions-v1';
+
+function loadDecisions() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+  catch { return {}; }
+}
+function saveDecisions(d) { localStorage.setItem(STORAGE_KEY, JSON.stringify(d)); }
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function highlightContext(context, original) {
+  const re = new RegExp('\\b' + original.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b');
+  return escapeHtml(context).replace(re, m => `<mark>${m}</mark>`);
+}
+
+function pdfLink(contractId, page) {
+  return `data/pdfs/${contractId}.pdf#page=${page || 1}`;
+}
+
+let SUSPECTS = [];
+let decisions = loadDecisions();
+
+function render() {
+  const list = document.getElementById('suspect-list');
+  list.innerHTML = '';
+  let approved = 0, skipped = 0;
+  SUSPECTS.forEach((s, i) => {
+    const key = s.clause_id + '|' + s.original;
+    const dec = decisions[key];
+    const suggested = (s.suggestions[0] && s.suggestions[0].candidate) || '';
+    const rule = (s.suggestions[0] && s.suggestions[0].rule) || '';
+    const card = document.createElement('div');
+    card.className = 'suspect' + (dec ? ' decided' : '');
+    card.innerHTML = `
+      <div class="suspect-head">
+        <span class="contract-id">${escapeHtml(s.contract_id)}</span>
+        <span class="page">page ${s.page || '?'}</span>
+        <a href="${pdfLink(s.contract_id, s.page)}" target="_blank" rel="noopener">View source PDF →</a>
+      </div>
+      <div class="suspect-context">${highlightContext(s.context, s.original)}</div>
+      <div class="suggest-row">
+        <code><strong>${escapeHtml(s.original)}</strong></code>
+        <span class="arrow">→</span>
+        <input type="text" data-i="${i}" value="${escapeHtml(dec?.replacement || suggested)}">
+        ${rule ? `<span class="rule">${escapeHtml(rule)}</span>` : ''}
+      </div>
+      <div class="decision-buttons">
+        <button class="approve ${dec?.action === 'approve' ? 'active' : ''}" data-i="${i}" data-action="approve">Approve fix</button>
+        <button class="skip ${dec?.action === 'skip' ? 'active' : ''}" data-i="${i}" data-action="skip">Skip — original is right</button>
+        <span class="decision-status ${dec ? dec.action === 'approve' ? 'approved' : 'skipped' : ''}">${dec ? (dec.action === 'approve' ? `→ ${dec.replacement}` : 'Skipped') : ''}</span>
+      </div>
+    `;
+    list.appendChild(card);
+    if (dec?.action === 'approve') approved++;
+    else if (dec?.action === 'skip') skipped++;
+  });
+  document.getElementById('counter').textContent =
+    `${approved} approved · ${skipped} skipped · ${SUSPECTS.length - approved - skipped} pending`;
+}
+
+document.addEventListener('click', e => {
+  const btn = e.target.closest('button[data-action]');
+  if (!btn) return;
+  const i = +btn.dataset.i;
+  const s = SUSPECTS[i];
+  const key = s.clause_id + '|' + s.original;
+  const action = btn.dataset.action;
+  if (action === 'skip') {
+    decisions[key] = { action: 'skip' };
+  } else {
+    const input = document.querySelector(`input[data-i="${i}"]`);
+    const replacement = input.value.trim();
+    if (!replacement || replacement === s.original) {
+      alert('Replacement must differ from the original.');
+      return;
+    }
+    decisions[key] = {
+      action: 'approve',
+      original: s.original,
+      replacement,
+      contract_id: s.contract_id,
+      clause_id: s.clause_id,
+      page: s.page,
+    };
+  }
+  saveDecisions(decisions);
+  render();
+});
+
+document.getElementById('export-btn').addEventListener('click', () => {
+  const approved = Object.values(decisions).filter(d => d.action === 'approve');
+  if (!approved.length) { alert('No approved corrections to export yet.'); return; }
+  const blob = new Blob([JSON.stringify({
+    generated_at: new Date().toISOString(),
+    count: approved.length,
+    corrections: approved,
+  }, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'corrections.json';
+  a.click();
+});
+
+document.getElementById('reset-btn').addEventListener('click', () => {
+  if (!confirm('Clear all decisions? This cannot be undone.')) return;
+  decisions = {};
+  saveDecisions(decisions);
+  render();
+});
+
+fetch('data/ocr-suspects.json')
+  .then(r => r.json())
+  .then(d => { SUSPECTS = d.suspects; render(); })
+  .catch(err => {
+    document.getElementById('suspect-list').innerHTML =
+      `<p style="color:#b00">Could not load suspects: ${err}</p>`;
+  });
+</script>
+</body>
+</html>

@@ -172,7 +172,7 @@ wages, supplemental benefits and jurisdiction on all issues of law and fact as t
 forth in the caption,
 NOW, THEREFORE, IT IS HEREBY DETERMINED BY CONSENT that:
 The compromised basic rate of wages and supplemental benefits agreed upon are and
-have been for the above-mentioned employces of the City of New York. et al.. as follows:
+have been for the above-mentioned employees of the City of New York. et al.. as follows:
 
 <a id="hourly-rate-p4"></a>
 ### HOURLY RATE
@@ -213,72 +213,72 @@ The total supplemental benefits package agreed upon by Local 237, International
 Brotherhood of Teamsters on behalf of the Complainants and the City of New York et al.
 as reflecting the prevailing supplements or their "equivalents" are as follows:
 1.
-Effective September 27, 2020, a Welfare Fund contribution shall continuc to be paid at the
+Effective September 27, 2020, a Welfare Fund contribution shall continue to be paid at the
 rate of $1,855 pcr annum per active employee and at the rate of $2,055 per annum per retired
 employee. Effective September 27, 2024, there shall be a recurring $31.25 per annum por
 employee (active and retire) increase to the welfare fund contribution. The per annum per
 employee active contribution will incrcasc from $1,855 to $1,886.25. The per annum per employee
-retiree contribution will incrcase from $2,055 to $2,086.25. Effective September 27, 2025, therc
-shall be a recurring $168.75 pcr annum per cmployee (active and retircc) increase to the welfare
+retiree contribution will increase from $2,055 to $2,086.25. Effective September 27, 2025, there
+shall be a recurring $168.75 pcr annum per employee (active and retircc) increase to the welfare
 fund contribution. The per annum por employee active contribution will incrcasc from $1,886.25
-to $2,055. The per annum per employee retire contribution will inerease from $2,086.25 to
+to $2,055. The per annum per employee retire contribution will increase from $2,086.25 to
 2
 
 
 $2,255. The contributions shall be paid per complainant by the City of New York to the Welfare
-Fund, Local 237 International Brotherhood of Tcamsters, 216 West 14th Strect, New York, N.Y.
+Fund, Local 237 International Brotherhood of Teamsters, 216 West 14th Street, New York, N.Y.
 Employees who have been separated from service subsequent to July 1, 1971, and who
 were covered by a Welfare Fund at the time of such separation pursuant to a separate
 agreement between the City of New York and the Certified union representing such
-employees, shall continue to be so covered subject to the provisions hercof, on the same
+employees, shall continue to be so covered subject to the provisions hereof, on the same
 contributory basis as incumbent employees. Contributions shall be made only for such time
 as said individuals remain primary beneficiaries of the New York City Health Insurance
-Program and are entitled to bencfits paid for by the City through such program; or are retirees
+Program and are entitled to benefits paid for by the City through such program; or are retirees
 of the New York City Employees Retirement System who have completed five (5) years of
 full in time service with the City of New York, except that contributions for those employees
 hired after December 27, 2001 shall be governed by the provisions of §12-126 of the
 Administrative Code of the City of New York, as amended.
-2. An additional supplemental bencfit in the form of a compensation accrual fund
-payment shall continuc to be disbursed for cach day actually worked. Compensation
+2. An additional supplemental benefit in the form of a compensation accrual fund
+payment shall continue to be disbursed for each day actually worked. Compensation
 Accrual Fund payments shall be as follows:
 Effective:
 Rate:
 9/27/20 through 10/26/25
 $5.61 pcr hour actually worked to a maximum of $39.27 per day.
-This additional supplemental bencfit in the form of a compensation accrual fund will
+This additional supplemental benefit in the form of a compensation accrual fund will
 be subject to a separate agreement between the City of New York and Local #237 I.B.T. The
-liability of the City of New York shall in no event exceed the amount hercinabove set fott h
-for cach hour worked, irrespective of any upward modification by rcason of imposition of any
+liability of the City of New York shall in no event exceed the amount hereinabove set fott h
+for each hour worked, irrespective of any upward modification by reason of imposition of any
 3
 
 
-tax, lien, attorncys' fee or otherwisc, and provided further that the amount of contributions by
+tax, lien, attorncys' fee or otherwise, and provided further that the amount of contributions by
 the City shall be limited solely to the payments as provided herein.
 Continuation of statutory pension benefits.
 Continuation of City Health Benefit (Insurance) program. The parties agree that the May
 5,2014 and June 28, 2018 letters between the City and the MLC are incorporated as if fully sct
 forth herein.
-Dr. Martin Luther King, Jr.'s Birthday, the third Monday in January, shall continuc to be
+Dr. Martin Luther King, Jr.'s Birthday, the third Monday in January, shall continue to be
 a regular holiday with pay. Effective April 25, 2022, Juneteenth shall be a regular holiday with
 pay. These holidays are in addition to those set forth in Appendix A of the Comptroller's Time
 and Leave Regulations.
 Continuation of Article II Sections (1) (a)-(f) of Appendix A: "Other Authorized
 absences with pay".
-Effective 10/1/09: All employees shall continue to reccive twelve (12) sick Icave days per
+Effective 10/1/09: All employees shall continue to receive twelve (12) sick Icave days per
 усаг.
 8.
 Any annual Icave set forth in Appendix A of the Comptroller's Time and Leave
 Regulations shall be modified to provide for the following:
 Effective 10/1/09 annual Icave allowance for employees in the title of Cement
-Mason who works at least 250 days per year shall continuc to accruc at tho
-following ratc.
+Mason who works at least 250 days per year shall continue to accrue at tho
+following rate.
 Years of Service
 AnnualLeave
-At the beginning of the employce's 1" Year
-At the beginning of the employce's 2d Year
+At the beginning of the employee's 1" Year
+At the beginning of the employee's 2d Year
 At the beginning of the employee's 4'h Year
-At the beginning of the employce's 5' Y car
-At the beginning of the employee's 8'h Ycar
+At the beginning of the employee's 5' Y car
+At the beginning of the employee's 8'h Year
 At the beginning of the employee's 15" Year
 Per Year
 12 workdays
@@ -301,60 +301,60 @@ a) The provisions of this Consent Determination shall be consistent with the app
 provisions of the New York State Financial Emergency Act for the City of New York, as
 amended
 b) The Complainant agrees to execute a full release to the City of New York et al., for the
-period embraced herein, such release being set forth in the Gencral Release and Waiver attached
-hercto as Exhibit "A".
-c) The Complainant agrecs to waive any and all interest on all differentials of basic rates of
-wages and supplemental bencfits. It is expressly understood that such waiver, sct forth in Exhibit
+period embraced herein, such release being set forth in the General Release and Waiver attached
+hereto as Exhibit "A".
+c) The Complainant agrees to waive any and all interest on all differentials of basic rates of
+wages and supplemental benefits. It is expressly understood that such waiver, sct forth in Exhibit
 "A" annexed hereto, shall include the waiver of any right to interest payments duc pursuant to
 subdivision 8c of Section 220 of the Labor Law (L. 1967, c, 502, I). However,
-(1) Interest on wage increases shall accruc at the rate of threc percent (3%) per annum from
+(1) Interest on wage increases shall accrue at the rate of three percent (3%) per annum from
 one hundred twenty (120) days after the filing date of this Consent Determination, or
-one hundred twenty (120) days after the effective date of the increasc, whichever is
+one hundred twenty (120) days after the effective date of the increase, whichever is
 later, to the date of actual payment,
-(2) Interest on shift differentials, holiday and overtime pay shall accruc at the rate of threc
-percent (3%) per annum from on hundred twenty (120) days following their carning,
+(2) Interest on shift differentials, holiday and overtime pay shall accrue at the rate of three
+percent (3%) per annum from on hundred twenty (120) days following their earning,
 or one hundred twenty (120) days after the filing date of this Consent Determination,
 whichever is later, to the date of actual payment and
 (3) Interest accrued under (1) or (2) above shall be payable only if the amount of interest
 due to an individual Employee exceeds five dollars ($5.00).
-d) The Complainant hercin shall refrain from filing any Article 78 proceedings in whole or in
-part with respect to any provision made herein and for any additional bencfits other than those
+d) The Complainant herein shall refrain from filing any Article 78 proceedings in whole or in
+part with respect to any provision made herein and for any additional benefits other than those
 5
 
 
-contained herein excopting that the right is rescrved to bring any necessary proceedings for the
+contained herein excopting that the right is reserved to bring any necessary proceedings for the
 enforcement of the terms of the Consent Determination.
 c) The Complainant agrees to withdraw any and all objections in all of the periods embodied
 herein
 f) The Complainant agrees to
-waive any and all supplemental bencfits payable under
+waive any and all supplemental benefits payable under
 subdivision 3 of Scetion 220 of the Labor Law of the State of New York, such waiver being set
-forth in Exhibit "A" annexed hereto, and accept in lieu thercof the supplemental benefits set forth
-in this Consent Determination, and as sct forth in Appendix A annexed hercto as modified hercin.
+forth in Exhibit "A" annexed hereto, and accept in lieu thereof the supplemental benefits set forth
+in this Consent Determination, and as sct forth in Appendix A annexed hereto as modified herein.
 g) Any now Employee who may be hired by the City of New York, ct al., during the term of
 this settlement shall be required to comply with all of the terms and conditions herein upon the
 payment of rates and supplemental benefits herein.
-h) Any Iegal claims of any nature, including specifically, but not limited thercto, premium
+h) Any Iegal claims of any nature, including specifically, but not limited thereto, premium
 rates, holiday rates, shift rates, overtime rates or any other legal claims affecting rates and
 supplemental benefits of any kind whatsoever, are merged in this compromise and settlement for
-the period of the compromise and scttlement contained herein.
+the period of the compromise and settlement contained herein.
 i)
-The forgoing basic rates of wages and supplemental benefits are due and payable to cach
+The forgoing basic rates of wages and supplemental benefits are due and payable to each
 and every employee of the City of Now York, ct al., serving in the above-referenced titles
 beginning as of the effective date of the complaint filed herein, and shall be applicable to all
-employces of the City of New York, et al., serving in the above-referenced titles who are
+employees of the City of New York, et al., serving in the above-referenced titles who are
 represented by the Complainant.
-j) The basic rates and supplemental benefits herein are not to be construed as truc prevailing
-rates and supplemental bencfits but shall be considered rates and bencfits in compromise and
+j) The basic rates and supplemental benefits herein are not to be construed as true prevailing
+rates and supplemental benefits but shall be considered rates and benefits in compromise and
 settlement of all issues of law and fact.
 6
 
 
-k) It is further understood and agreed that in considcration of the compromise and settlement
+k) It is further understood and agreed that in consideration of the compromise and settlement
 reached herein, the complaint in this matter is hereby settled.
 1) The submission of any Labor Law complaint, effective on October 27, 2025, can be made
-at the Labor Law Burcau of the Office of the Comptroller on or after that date.
-IN WITNESS WHEREOF, the parties have executed this Agreement on the day and ycar first
+at the Labor Law Bureau of the Office of the Comptroller on or after that date.
+IN WITNESS WHEREOF, the parties have executed this Agreement on the day and year first
 above written.
 CONSENTED TO:
 
@@ -383,8 +383,8 @@ _Page 9_ · _OCR-reconstructed_
 President
 City Employees Union,
 Local 237, I.B.T.
-The basic rates and supplemental bencfits agreed to hercin between the parties are not to
-be construed as truc prevailing rates and supplemental benefits, but shall be deemed substitute
+The basic rates and supplemental benefits agreed to herein between the parties are not to
+be construed as true prevailing rates and supplemental benefits, but shall be deemed substitute
 rates and benefits in compromise and settlement of all issues of law and fact raised in the complaint
 filed herein pursuant to Labor Law Section 220.8-d.
 
@@ -411,10 +411,10 @@ TERM: September 27, 2020 through October 26, 2025
 ### GENERAL RELEASE AND WAIVER
 _Page 10_ · _OCR-reconstructed_ · _Topics: wages, discipline_
 
-Local 237, 1.B.T. (hercinafter referred to as the "Union"), as the certific collective
+Local 237, 1.B.T. (hereinafter referred to as the "Union"), as the certific collective
 bargaining representative of employees in the title, CEMENT MASON for and in consideration of
-the wage rates and supplemental bencfit package negotiated and agreed upon by the Union and the
-City of New York as set forth in a collective bargaining agreement for the pcriod beginning
+the wage rates and supplemental benefit package negotiated and agreed upon by the Union and the
+City of New York as set forth in a collective bargaining agreement for the period beginning
 September 27, 2020 and terminating October 26, 2025, a copy of which has been made availablo
 to the Union, hereby voluntarily and knowingly agrees to:
 Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any
@@ -446,7 +446,7 @@ BY:
 _Page 10_ · _OCR-reconstructed_
 
 President
-City Employces Union,
+City Employees Union,
 8
 
 
@@ -547,7 +547,7 @@ rate, nor will it be added to the employee's basic salary for the calculation of
 salary-based benefits, including but not limited to the calculation of futur
 collective bargaining increases.
 For circumstances not covered by this agreement, the First Deputy Commissioner
-of Labor Relations may elect to issuc, on a casc-by-case basis, interpretations
+of Labor Relations may elect to issue, on a casc-by-case basis, interpretations
 concerning the payment of the lump sum ratification bonus. Such interpretations
 shall not be subject to any dispute resolution procedures.
 If the above accords with your understanding, please indicate your acceptance by signing
@@ -671,7 +671,7 @@ which exceeds 180 days shall be placed in the employees sick leave bank and shal
 credit, notwithstanding the provisions of Article II, Sec. 2.
 (3) After May 1, 1970, the full provisions of Article I, Section 5 apply.
 b. In the event, however, that the Mayor or an elected official of any department
-calls upon an employce to forego his vacation or any part thereof in any year, that portion
+calls upon an employee to forego his vacation or any part thereof in any year, that portion
 thereof shall be carried over as vacation even though the same exceeds the limits fixed in Article
 1, Sections 5 and 5 (a) above.
 
@@ -831,7 +831,7 @@ he endorses his check for jury duty to the City.
 For Court Attendance Under Subpoena or Court Order. Leave to attend court
 shall be granted when neither the employee nor anyone related to him has a personal interest in
 the case, and where said attendance at court is not related to any other employment of the
-employce.
+employee.
 d. Absence required because of Health Department ruling with respect to quarantine.
 
 
@@ -868,7 +868,7 @@ _Page 19_ · _OCR-reconstructed_ · _Topics: parental-leave_
 Maternity Leave. Existence of pregnancy shall be reported by the employee, in writing,
 to the head of agency not later than the completion of the fourth month of pregnancy. Maternity
 shall be granted for a period of twelve months, and upon application of the employee, may be
-this purpose shall not exceed 18 months. An employce on maternity leave may be required to
+this purpose shall not exceed 18 months. An employee on maternity leave may be required to
 
 <a id="section-2-p19"></a>
 ### Section 2
@@ -877,7 +877,7 @@ _Page 19_ · _OCR-reconstructed_
 Leaves of absence without pay for reasons not covered in the foregoing rules may be
 granted to permanent employees by the agency head not to exceed one year. Extension of such
 leave may be granted by an agency head not to exceed an additional period of one year. Further
-extensions may be granted by an clected official, in an agency headed by such official, of by the
+extensions may be granted by an elected official, in an agency headed by such official, of by the
 City Personnel Director for agencies headed by appointed officials.
 
 
@@ -937,7 +937,7 @@ or the agency concerned, as the case may be, from the proceeds of the recovery b
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form
 and manner prescribed by the Corporation Counsel or other duly empowered counsel. The
-Agency head may have the injured employce examined by a physician employed by the City in
+Agency head may have the injured employee examined by a physician employed by the City in
 order to determine the extent of the employee's disability and the approval of said physician from
 a medical viewpoint shall be required for the time granted with pay under this rule. The agency
 head may require periodic medical examinations of the disabled employee to ascertain the need
@@ -957,7 +957,7 @@ performance of official duties.
 ### Section 3
 _Page 21_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, pension, safety_
 
-An employce physically disabled in the performance of his official duties who has
+An employee physically disabled in the performance of his official duties who has
 accrued sick and/or annual leave or has been advanced credits in accordance with the
 Comptroller's Leave Regulations may elect one of the following, in addition to the benefits to
 which he is entitled under the Workmen's Compensation Law, such election to be made within
@@ -996,7 +996,7 @@ The injured employee has the necessary accrued annual leave balance.
 3.
 To receive Workmen's Compensation benefits in their entirety with no charge against sick
 leave and/or annual leave.
-b. During the period when an injured employce is receiving Workmen's
+b. During the period when an injured employee is receiving Workmen's
 Compensation and the differential to bring him to full pay, he will be carried on full-pay status
 and this time shall be counted for retirement benefits.
 

@@ -242,7 +242,7 @@ welfare fund as contained in the terms of a separate agreement entered into for 
 Employees represented by the Second Party who have been separated from service
 subsequent to July 1, 1984, and who are covered by a welfare fund at the time of such separation,
 pursuant to a separate agreement between the City of New York and the Second Party representing
-such employecs, shall continue to be so covered subject to the provisions hereof on the same
+such employees, shall continue to be so covered subject to the provisions hereof on the same
 contributory basis as incumbent employees. Contributions shall be made only for such time as said
 individuals remain primary beneficiaries of the New York City Health Insurance Program and are
 entitled to benefits paid for by the City of New York through such programs; or are retirees of the
@@ -299,7 +299,7 @@ increase, whichever is later, to the date of actual payment.
 (3)
 Interest on shift differentials, holiday and overtime pay, shall accrue at the
 rate of three percent (3%) per annum from one hundred-twenty (120) days
-following their eaming or one hundred-twenty (120) days after the filing
+following their earning or one hundred-twenty (120) days after the filing
 date of this Agreement, whichever is later, to the date of actual payment.
 Interest accrued under (1) or (2) above shall be payable only if the amount
 of interest due to an individual exceeds five dollars ($5).
@@ -713,7 +713,7 @@ Annual leave allowance shall be granted 1o permaneni employees who work at least
 ### CATEGORY
 _Page 16_ · _OCR-reconstructed_
 
-Employecs whå bayo
+Employees whå bayo
 complasad 15 years of
 service.
 Employoes who have
@@ -750,7 +750,7 @@ _Page 16_ · _OCR-reconstructed_
 ### Section 4
 _Page 16_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
 
-There shall be a pro-rating of the above allowance for employces who work less than a
+There shall be a pro-rating of the above allowance for employees who work less than a
 For the earning of annual leave credits, the time recorded on the payroll at the full rate
 of pay, and the first six months of absence while receiving Workmen's Compensation payments
 shall be considered as time "served" by the employee.
@@ -770,7 +770,7 @@ credits earable in 1 month for each 30 days of such full pay status.
 Section ≤
 Calculation of annual leave credits for vacation purposes shall be based on a year
 beginning May 1st, hereafter known as a "vacation year." All annual leave allowance of an
-employce to the employee's credit on April 30th and not used in the succeeding vacation year
+employee to the employee's credit on April 30th and not used in the succeeding vacation year
 may be carried over from said vacation year to the next succeeding vacation year only, with the
 approval of the agency head; and any such time not used within the prescribed period shall be
 added to the employee's sick leave balance.
@@ -787,7 +787,7 @@ which exceeds 180 days shall be placed in the employees sick leave bank and shal
 credit, notwithstanding the provisions of Article Il, Sec. 2.
 (3) After May 1, 1970, the full provisions of Article I, Section 5 apply.
 b.
-In the evem, however, that the Mayor or an clected official of any department
+In the evem, however, that the Mayor or an elected official of any department
 calls upon an employee to forego his vacation or any part thereof in any year, that portion
 thereof shall be carried over as vacation even though the same exceeds the limits fixed in Article
 1, Sections 5 and 5 (a) above.
@@ -927,7 +927,7 @@ the reasons indicated below, shall be excusable in the discretion of the agency 
 charge to sick leave or annual leave balances, upon submittal of evidence satisfactory to the
 agency head:
 a.
-Absence not to excced four work-days in the case of death in the immediate
+Absence not to exceed four work-days in the case of death in the immediate
 family. Family shall be defined for this purpose as spouse; natural, foster, step-parent, child,
 brother or sister, father-in-law or mother-in-law; or any relative residing in the household.
 For Jury Duty. Leave for jury duty shall be granted to the employee provided that
@@ -998,7 +998,7 @@ Y. MISCELLANEOUS PROVISIONS
 ### Section 1
 _Page 22_ · _OCR-reconstructed_
 
-employec.
+employee.
 
 <a id="section-2-p22"></a>
 ### Section 2
@@ -1021,7 +1021,7 @@ vacation balance at the time of resignation or layoff, shall be restored to his 
 _Page 22_ · _OCR-reconstructed_ · _Topics: vacation_
 
 Subject to limitations of Art. I, Sec. 8 above, the annual leave allowance and the sick
-leave allowance berein granzed shall be applicable to part-time employees on a pro-rated basis.
+leave allowance herein granzed shall be applicable to part-time employees on a pro-rated basis.
 
 <a id="section-1-p22"></a>
 ### Section 1
@@ -1030,7 +1030,7 @@ _Page 22_ · _OCR-reconstructed_ · _Topics: wages, sick-leave_
 Whenever an employee, not covered by Workmen's Compensation, is physically disabled
 in the performance of his official duties, the head of the agency is empowered to grant such
 employee a leave of absence with pay not to exceed one calendar year. In such case the
-employee sball be required to execute an agreement, wherein it is stipulated that, in the event
+employee shall be required to execute an agreement, wherein it is stipulated that, in the event
 that such employee makes any claim or instinutes any action against any party whatsoever in
 relation to such disabilisy, reimbursement in the amount of such pay shall be made to the City
 or the agency concered, as the case may be, from the proceeds of the recovery by such
@@ -1055,7 +1055,7 @@ performance of official duties.
 ### Section 3
 _Page 23_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, pension, safety_
 
-An employce physically disabled in the performance of his official duties who has
+An employee physically disabled in the performance of his official duties who has
 accrued sick and/or annual leave or has been advanced credits in accordance with the
 Comptroller's Leave Regulations may elect one of the following, in addition to the benefits to
 which he is entitled under the Workmen's Compensation Law, such election to be made within
@@ -1082,7 +1082,7 @@ another, and
 
 :
 9
-The injured employce undergoes such medical examinations as are requested by
+The injured employee undergoes such medical examinations as are requested by
 the Workmen's Compensation Division of the Law Department and his agency; and when found
 fit for duty by said physicians, returns to his employment.
 To take annual leave and receive full pay and Workmen's Compensation medical
@@ -1135,7 +1135,7 @@ Dear Mr. Nespoli:
 This is to confirm the parties' mutual understanding concerning the following issues:
 Unless otherwise agreed to by the parties, the Welfare Fund contribution will remain
 constant for the length of the successor unit agreements, including the $65 funded from the
-Stabilization Fund pursuant to the 2005 Health Bencfits Agreement between the City of New
+Stabilization Fund pursuant to the 2005 Health Benefits Agreement between the City of New
 York and the Municipal Labor Committee.
 2.
 Effective July 1, 2014, the Stabilization Fund shall convey S1 Billion to the City of New
@@ -1156,7 +1156,7 @@ to develop an accounting system to measure and calculate savings.
 
 S.
 The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the
-course of Fiscal Years 2015 througb 2018, said savings to be exclusive of the monies referenced
+course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced
 in Paragraph 2 above and generated in the individual fiscal years as follows: (i) $400 million in
 Fiscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) S1 billion in Fiscal Year 2017; (iv)
 $1.3 billion in Fiscal Year 2018; and (v) for every fiscal year thereafter, the savings on a
@@ -1178,7 +1178,7 @@ HIP HMO rate, the capping of the Senior Care rate, the equalization formula, mar
 Medicare Advantage, and the more effective delivery of health care.
 Dispute Resolution
 a. In the event of any dispute under this agreement, the parties shall meet and confer
-in an attempt to resolve the dispute. If the parties cannot resolve the disputc, such
+in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such
 dispute shall be referred to Arbitrator Martin F. Scheinman for resolution.
 b. Such dispute shall be resolved within 90 days.
 c. The arbitrator shall have the authority to impose interim relief that is consistent
@@ -1352,8 +1352,8 @@ Potential RFPs for all medical and hospital benefits.
 I Status of the Stabilization Fund.
 The Commitee will make recommendations to be considered by the MLC and the City.
 6. The joint committee shall be known as the Tripartite Health insurance Policy Committer
-(THIPC) and shall be independent of the existing "Technical Committec." The "Technical
-Committec" will continue its work and will work in conjunction with the THIPC as designated
+(THIPC) and shall be independent of the existing "Technical Committee." The "Technical
+Committee" will continue its work and will work in conjunction with the THIPC as designated
 above to address areas of health benefit changes. The Technical Committee will continue to be
 supported by separate actuaries for the City and the MLC. The City and the MLC will each be
 responsible for the costs of its actuary.

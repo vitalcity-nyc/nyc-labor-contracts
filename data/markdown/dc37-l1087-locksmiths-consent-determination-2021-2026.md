@@ -597,7 +597,7 @@ _Page 15_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
 
 Calculation of annual leave credits for vacation purposes shall be based on a year
 beginning May 1st, hereafter known as a "vacation year." All annual leave allowance of an
-employce to the employee's credit on April 30th and not used in the succeeding vacation year
+employee to the employee's credit on April 30th and not used in the succeeding vacation year
 may be carried over from said vacation year to the next succeeding vacation year only, with the
 approval of the agency head; and any such time not used within the prescribed period shall be
 added to the employee's sick leave balance.
@@ -737,7 +737,7 @@ Section S
 In the discretion of the agency head, employees except provisional and temporary
 employees, who have exhausted all earned sick leave and annual leave balances due to personal
 illness may be permitted to use unearned sick leave allowance up to the amount earnable in one
-year of service, chargeable against future eamed sick leave.
+year of service, chargeable against future earned sick leave.
 
 <a id="section-6-p18"></a>
 ### Section 6
@@ -805,7 +805,7 @@ to the head of agency not later than the completion of the fourth month of pregn
 leave of absence, commencing not later than the completion of the fifth month of pregnancy,
 shall be granted for a period of twelve months, and upon application of the employee, may be
 extended by the agency head for an additional period, not to exceed six months. Total leave for
-this purpose shall not exceed 18 months. An employce on maternity leave may be required to
+this purpose shall not exceed 18 months. An employee on maternity leave may be required to
 report for physical examination before resuming service.
 
 <a id="section-2-p19"></a>

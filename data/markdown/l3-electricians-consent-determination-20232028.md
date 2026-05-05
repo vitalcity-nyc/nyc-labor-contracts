@@ -331,10 +331,10 @@ B) Supervisor Electricians:
 Effective March 11, 2023, the annual leave allowance for employees in the title Supervisor
 Electrician who work at least a 249-day year shall accrue as follows:
 Years In Service
-Ist yebegining of the employces:
+Ist yebegining of the employees:
 5th year
 8th year
-15th vear
+15th year
 Annual Allowance
 17 work days
 22 work days
@@ -483,7 +483,7 @@ each and every Employee of the City of New York, et al., serving in the above-re
 beginning as of the effective date of the complaint filed herein, and shall be applicable to all
 Employees of the City of New York, et al., serving in the above-referenced titles who are
 represented by the Complainant.
-nced titles beginning as of the effective date of the complaint filed herein, and shall be
+need titles beginning as of the effective date of the complaint filed herein, and shall be
 applicable to all Employees of the City of New York, et al., serving in the above-referenced titles
 who are represented by the Complainant.
 j)
@@ -1166,7 +1166,7 @@ V.
 _Page 28_ · _OCR-reconstructed_
 
 Daily time records shall be maintained showing the actual hours worked by each
-employec.
+employee.
 
 <a id="section-2-p28"></a>
 ### Section 2
@@ -1244,7 +1244,7 @@ another, and
 
 
 9
-The injured employce undergoes such medical examinations as are requested by
+The injured employee undergoes such medical examinations as are requested by
 the Workmen's Compensation Division of the Law Department and his agency; and when found
 fie for duty by said physicians, returns to his employment.
 2. To take annual leave and receive full pay and Workmen's Compensation medical
