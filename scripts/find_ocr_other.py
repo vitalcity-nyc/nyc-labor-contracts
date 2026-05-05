@@ -31,6 +31,24 @@ def load_words():
     with DICT_PATH.open() as f:
         for line in f:
             words.add(line.strip().lower())
+    # Bootstrap a corpus-derived wordlist: any word in native-text clauses is
+    # 100% trustworthy, and any OCR'd word appearing >= 10 times across the
+    # corpus is almost certainly real.
+    try:
+        from collections import Counter
+        clauses = json.loads(CLAUSES.read_text())
+        word_re = re.compile(r"[A-Za-z][A-Za-z'-]{2,}")
+        ocr_counts = Counter()
+        for c in clauses:
+            for m in word_re.finditer(c.get("text", "") or ""):
+                w = m.group(0).lower().strip("'-")
+                if c.get("ocr"):
+                    ocr_counts[w] += 1
+                else:
+                    words.add(w)
+        words.update(w for w, n in ocr_counts.items() if n >= 10)
+    except Exception:
+        pass
     extras = {
         "held", "heard", "based", "categories", "category",
         "technologies", "technology", "specifies",

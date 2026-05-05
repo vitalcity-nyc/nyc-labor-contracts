@@ -126,13 +126,13 @@ July 30,2021 (UPOA; February 15, 2022 (LBA); December 31, 2022 (USCA); February 
 
 
 o, The increases provided in this Section 3 shall be applied to the base rates
-11d salary grades fixed for the applicable titles, except as may be modifie
+11d salary grades fixed for the applicable titles, except as may be modified
 n the separate Unit Agreement (other than basio maximum salary)
 Section 4, " Unit Bargalning.
 A. Iffective on the first day of the 37th month of the applicable Successor
 Separate Unit Agreement, each union shall have 0.21% available to spend
 on mutually agreeable items that will help improve salary compressio
-and/or recruitment/retention Issues. Each member of the Uniforme
+and/or recruitment/retention Issues. Each member of the Uniformed
 Officers' Coalition and each employing agency shall have a committee to
 discuss each individual unit's unique issues (both employer and employee)
 'he parties may mutually agree to additional savings and/or credits neede

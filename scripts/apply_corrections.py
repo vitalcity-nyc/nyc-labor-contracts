@@ -55,8 +55,9 @@ def apply_to_clauses():
 
 def apply_to_markdown():
     total = 0
+    all_md = sorted(MD_DIR.glob("*.md"))
     for original, replacement, scope in CORRECTIONS:
-        targets = [MD_DIR / f"{c}.md" for c in (scope or [])]
+        targets = [MD_DIR / f"{c}.md" for c in scope] if scope else all_md
         for path in targets:
             if not path.exists():
                 continue
@@ -70,23 +71,23 @@ def apply_to_markdown():
     return total
 
 
-def maybe_load_extra_corrections():
-    """Optionally load additional corrections from data/ocr-corrections-batch2.json."""
-    extra_path = ROOT / "data" / "ocr-corrections-batch2.json"
+def load_corrections_file(name):
+    extra_path = ROOT / "data" / name
     if not extra_path.exists():
         return
     items = json.loads(extra_path.read_text())
     for item in items:
         CORRECTIONS.append((item["original"], item["replacement"], item["contracts"]))
-    print(f"(loaded {len(items)} extra corrections from {extra_path.name})")
+    print(f"(loaded {len(items)} corrections from {name})")
 
 
 if __name__ == "__main__":
     import sys
-    if "--batch2" in sys.argv:
-        # Replace hardcoded list with batch 2 only
+    if "--batch" in sys.argv:
+        idx = sys.argv.index("--batch")
+        n = sys.argv[idx + 1]
         CORRECTIONS.clear()
-        maybe_load_extra_corrections()
+        load_corrections_file(f"ocr-corrections-batch{n}.json")
     print("=== clauses.json ===")
     n1 = apply_to_clauses()
     print(f"\n=== markdown/ ===")

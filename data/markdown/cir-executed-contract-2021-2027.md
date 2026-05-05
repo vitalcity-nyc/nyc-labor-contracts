@@ -347,8 +347,8 @@ responsibilities. To achieve and maintain a high level of effectiveness, the par
 the following:
 The Committee recognizes the City's right and NYC H+H's right under the New York City
 Collective Bargaining Law to establish and/or revise medical performance standards or norms
-otwithstanding the existence of prior medical levels, norms or standards consistent with accepter
-edical and training program practices and requirements. Such standards may be used to
+notwithstanding the existence of prior medical levels, norms or standards consistent with accepter
+medical and training program practices and requirements. Such standards may be used to
 determine acceptable performance levels and to measure the performance of each HSO.
 Section 2.
 Performance Compensation
@@ -1765,7 +1765,7 @@ savings and efficiencies are identified therefrom, there shall not be any reduct
 contributions.
 4.
 There shall be a joint committee formed thai will engage in a process to select an
-independent healthcare actuary, and any other mutually agreed upon additonal outside expertise,
+independent healthcare actuary, and any other mutually agreed upon additional outside expertise,
 to develop an accounting system to measure and calculate savings.
 25002
 
@@ -2058,7 +2058,7 @@ Committee of Interns and Residents
 Long Island City, NY 11101
 Re: Holiday Pay Pilot Program
 Dear Clarkson,
-This is to confirmn the understanding of the parties that effective upon ratification
+This is to confirm the understanding of the parties that effective upon ratification
 of the 2021-2027 Memorandum of Agreement (MOA) NYC H+H will make a one-time
 lump sum contribution of three-million three-hundred thousand ($3,300,000) doliars for
 the re-establishment of a Holiday Pay Pilot Program for Residents.
@@ -2182,7 +2182,7 @@ Part Deputy Ducal
 Garand Couns
 East Muthoris
 Anita Dbactee
-Comman of lateras and Residiaos
+Command of lateras and Residiaos
 Long Ishend Cry, NY 11101
 
 <a id="appendix-e-p46"></a>

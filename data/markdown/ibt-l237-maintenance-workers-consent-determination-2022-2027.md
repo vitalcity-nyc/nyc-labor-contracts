@@ -167,7 +167,7 @@ _Page 3_ · _OCR-reconstructed_ · _Topics: wages_
 
 A Complaint under Section 220 of the Now York State Labor Law, having been filed by
 City Employees Union, Local 237, International Brotherhood of Teamsters, representing employees
-of the City of New York, ct al., in the above referenced titles ("omployees"), and this Consent
+of the City of New York, ct al., in the above referenced titles ("employees"), and this Consent
 Determination having been agreed to between the Mayor's Office of Labor Relations ("OLR") on
 behalf of the City of New York, ct al., and the Complainant, compromising and settling certain
 disputes of basic rates of wages, supplemental benefits and jurisdiction on all issues of law and fact
@@ -521,7 +521,7 @@ Local 237, I.B.T.
 
 
 The basic rates and supplemental benefits agreed to herein between the parties are not to be
-construed as true prevailing rates and supplemental benfits, but shall be deemed substitute rates and
+construed as true prevailing rates and supplemental benefits, but shall be deemed substitute rates and
 benefits in compromise and settlement of all issues of law and fact raised in the complaint filed
 herein pursuant to Labor Law Section 220.8-d.
 
@@ -623,7 +623,7 @@ February 26, 2024, the date of ratification. Active payroll status is de fined a
 active payroll status ("B Status"), military leave with pay ("K status"), or on paid
 family Icave.
 ii.
-Employees who were terminated for cause, resigned, retired, or otherwise sparated
+Employees who were terminated for cause, resigned, retired, or otherwise separated
 from service, for any other reason, prior to the date of ratification of this Agreement
 shall not be eligible for the lump sum cash payment.
 In no event shall any employee receive greater than $3,000 in bonus payments
@@ -1134,7 +1134,7 @@ The injured employer or any authorized person acting in his behalf makes the
 request in writing, and
 The injured employee or any authorized person acting in his behalf agrees to have
 his annual leave balance charged for such absence, and
-The injured employee has the necessary accred annual leave balance.
+The injured employee has the necessary accrued annual leave balance.
 3.
 To receive Workmen's Compensation benefits in their entirety with no charge against sick
 leave and/or annual leave.
@@ -1278,7 +1278,7 @@ General Counsel
 ### SEORGETTE GESTEL
 _Page 28_ · _OCR-reconstructed_
 
-irector, Employee Benefits Progra
+Director, Employee Benefits Progra
 June 28, 2018
 Harry Nespoli, Chair
 Municipal Labor Committee

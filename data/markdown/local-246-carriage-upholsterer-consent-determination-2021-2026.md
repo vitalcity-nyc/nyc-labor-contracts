@@ -484,12 +484,12 @@ The lump sum cash payment shall be pensionable, consistent with applicable law.
 v.
 The lump sum cash payment shall not become part of the employee's basic salary
 ate, nor will it be added to the employee's basic salary for the calculation of an
-salary-based benefits, including but not limited to the calculation of future collectiv
+salary-based benefits, including but not limited to the calculation of future collective
 bargaining increases.
 vi.
 For circumstances not covered by this agreement, the First Deputy Commissioner of
 Labor Relations may elect to issue, on a case-by-case basis, interpretations
-shall be shaym any disputeresuion proctor bonus. Such interpreations
+shall be shaym any disputeresuion proctor bonus. Such interpretations
 If the above accords with your understanding, please indicate your acceptance by signing below.
 Very truly yours,
 Rul

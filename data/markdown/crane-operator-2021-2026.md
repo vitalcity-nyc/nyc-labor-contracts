@@ -446,7 +446,7 @@ shall not be subject to any dispute resolution procedures.
 If the above accords with your understanding, please indicate your acceptance by signing below.
 Very truly yours,
 Renee Campion
-Agreed and Accepted on ehalf ofIUOE Local 14,
+Agreed and Accepted on behalf ofIUOE Local 14,
 B
 B L
 Y:f� sti��

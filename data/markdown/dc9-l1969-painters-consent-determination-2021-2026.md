@@ -546,7 +546,7 @@ future Comptroller's labor law section 220 hearing.
 If this conforms to your understanding, please counter sign below.
 Very truly yours,
 Renee Campion
-Agreed and Accepte
+Agreed and Accepted
 of Local 19 I loyees,
 Joseph Azzopardi
 Business Manager/Secretary Treasurer
@@ -591,7 +591,7 @@ Renee Campion
 Agreed and Accepted on Behalf
 of Local 196 ployee ,
 District Co
-Josep
+Joseph
 Business Manager/Secretary Treasurer
 
 
@@ -768,7 +768,7 @@ If the above accords with your understanding, kindly execute the signature line 
 Very truly yours,
 Renee Campion
 Agreed and Accepted on Behalf
-of Local 1969, Civil Servic mployees,
+of Local 1969, Civil Service mployees,
 District i 9, . .P. .T
 Business Manager/Secretary Treasurer
 
@@ -959,7 +959,7 @@ _Page 24_ · _OCR-reconstructed_ · _Topics: sick-leave_
 
 Sick leave allowance of one day per month of service shall be credited to permanent
 employees, provisional employees and temporary employees and shall be used only for personal
-Ilness of the employee
+Illness of the employee
 
 <a id="section-2-p24"></a>
 ### Section 2
@@ -975,7 +975,7 @@ time of adoption of these regulations shall remain to their credit.
 ### Section 3
 _Page 24_ · _OCR-reconstructed_ · _Topics: sick-leave_
 
-Sick leave may be granted at the discretion of the agency head and proof of disabillity
+Sick leave may be granted at the discretion of the agency head and proof of disability
 must be provided by the employer, satisfactory to the agency head. Presentation of a physician's
 certificate in the prescribed form may be waived for absences up to and including three
 consecutive work days. In a case of a protracted disability, such certificate shall be presented
@@ -1338,7 +1338,7 @@ ayc.gov/olr
 MAYRA E. BELL
 General Counsel
 ¡EORGETTE GESTEL'
-irector, Employee Benefits Progra
+Director, Employee Benefits Progra
 June 28, 2018
 Harry Nespoli, Chair
 Municipal Labor Committee
@@ -1358,7 +1358,7 @@ citywide basis in healthcare costs shall continue on a recurring basis.
 Savings will be measured against the projected FY 2019-FY 2022 City Financial
 Plan (adopted on June 15, 2018) which incorporates projected City health care cost
 increases of 7% in Fiscal Year ("FY") 2019, 6.5% in FY 2020 and 6% in FY 2021.
-2021 pursuant only to 1(a)(i), 1(a)(ii), 1(a)(iii) above. For exampl
+2021 pursuant only to 1(a)(i), 1(a)(ii), 1(a)(iii) above. For example
 S205 million in FY 2019 and $295 million in FY 2020 will qualify for thos
 years' savings targets under 1(a)(i) and I (a)(ii)
 ii. S210 million in FY 2019, $310 million in FY 2020, and $580 million in F)

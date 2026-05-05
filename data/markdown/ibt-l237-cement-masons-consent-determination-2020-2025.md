@@ -544,7 +544,7 @@ V.
 vi.
 The lump sum cash payment shall not become part of the employee's basic salary
 rate, nor will it be added to the employee's basic salary for the calculation of any
-salary-based benefits, including but not limited to the calculation of futur
+salary-based benefits, including but not limited to the calculation of future
 collective bargaining increases.
 For circumstances not covered by this agreement, the First Deputy Commissioner
 of Labor Relations may elect to issue, on a casc-by-case basis, interpretations

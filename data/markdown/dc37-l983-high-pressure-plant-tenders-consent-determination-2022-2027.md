@@ -1105,7 +1105,7 @@ The injured employer or any authorized person acting in his behalf makes the
 request in writing, and
 The injured employee or any authorized person acting in his behalf agrees to have
 his annual leave balance charged for such absence, and
-The injured employee has the necessary accred annual leave balance.
+The injured employee has the necessary accrued annual leave balance.
 3.
 To receive Workmen's Compensation benefits in their entirety with no charge against sick
 leave and/or annual leave.
@@ -1249,7 +1249,7 @@ General Counsel
 ### SEORGETTE GESTEL
 _Page 31_ · _OCR-reconstructed_
 
-irector, Employee Benefits Progra
+Director, Employee Benefits Progra
 June 28, 2018
 Harry Nespoli, Chair
 Municipal Labor Committee

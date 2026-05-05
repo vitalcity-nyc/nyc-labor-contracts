@@ -704,7 +704,7 @@ _Page 9_ · _OCR-reconstructed_
 The parties agree to maintain the academic character of the University as an institution of higher
 education.
 The entire Agreement between the parties consists of the terms herein stated, and this Agreement
-Board, an ali Covere plans and prancis of the Colleges alicies and departments, as
+Board, an ali Covered plans and prancis of the Colleges alicies and departments, as
 6
 
 
@@ -7822,7 +7822,7 @@ collective bargaining agreement to members of the PSC bargaining unit for purpos
 recruitment and retention, up to 165% of the last step of the applicable base salary schedule
 (hereinafter referred to as the 7-year step), for the titles Professor, Associate Professor, Assistant
 Professor, Higher Education Officer,
-ASsistant, High exed aie ay sha, chen Epation ase sociate, and Higher Educatior
+ASsistant, High exed aie ay sha, chen Epation ase sociate, and Higher Educator
 The base salary flexibility described in Paragraph 1 above refers to additions to the base salary
 contained in the schedules.
 All other applicable provisions of the CUNY-PSC collective
@@ -9330,8 +9330,8 @@ If the employee's supervisor determines that the proposed workload configuration
 adversely affect the area or program, the supervisor may propose an alternative workload
 configuration. If the supervisor and employee are unable to reach agreement on a mutually
 acceptable workload configuration or if the College Vice President for Administration does not
-pprove the request, the employee may withdraw the request to phase, appeal to the President o
-is/her designee, or exercise his/her right to retire. The decision of a supervisor or of the Colleg
+approve the request, the employee may withdraw the request to phase, appeal to the President o
+is/her designee, or exercise his/her right to retire. The decision of a supervisor or of the College
 Vice President for Administration not to recommend approval of an employee's request to phase
 will not be grievable. The decision of the President or his/her designee on appeal is final and
 will not be grievable.

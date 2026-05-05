@@ -542,7 +542,7 @@ $3,995.91
 $4,087.26
 $4,196.88
 Supplemental Annuity Fund for those Sanitation Workers, represented by the Unformed
-Sanitationer 3 Association ("051), who have attained normal serie retiremen fer wenty 120) veers
+Sanitationer 3 Association ("051), who have attained normal serie retirement fer wenty 120) veers
 The parties agree that, effective January 20, 2019, the contribution to the Supplemental Annuity Fund shall be
 increased by $49 per annum. This increase shall be subject to future collective bargaining increases. As such, the
 ber annum lump sum supplemental annuity contributions shall be as follows:
@@ -1692,7 +1692,7 @@ JAMES F. HANLEY
 Commissioner
 MARGARET M. CONNOR
 Ars Depur Commassemer
-Mr. Harry Nespoi
+Mr. Harry Nespoli
 President
 Uniformed Sanitationmen's Association
 Local 831, IBT
@@ -1732,7 +1732,7 @@ New York, NY 10038
 Dear Mr Nespoli
 This is to confum vur mutual understanding and agreement regarding the legislasion enacted providing
 Tiers Town and Four Sanitation Workers, represented by the Uniformed Sanitationmen's Association ("USA"), with halt
-pay pension after iwenty (20) years of service and the right to vest after fificen (15) years of service.
+pay pension after twenty (20) years of service and the right to vest after fificen (15) years of service.
 Said Sanitation Workers shall be required to make additional pension contributions in the amount of 5.35%,
 effective July 1, 1992. These additional amounts shall not be subject to social security offset or loans.
 There shall also be an additional employee contribution of 55% of payroll to fund the increased cost of
@@ -1745,7 +1745,7 @@ adjudged to be invalid or unconstitutional by a Court of competent jurisdiction,
 lunç and the parties shall be required to negotiate a new agreement
 It is further agreed and understood that this legislation shall also apply to Uniformed Sanitation employees
 ourside the bargaining unit
-Il' the above accords with your understanding, pleast execute the signature line provided below
+Il' the above accords with your understanding, please execute the signature line provided below
 Very ensly yours.
 /James F. Hanl
 Conimission
@@ -1817,7 +1817,7 @@ MARGARET M. CONNOR
 firse Depury Compassioner
 Mir. Harry Nespoli
 President
-U'niformed Sanitationmen's Association
+Uniformed Sanitationmen's Association
 Local 831. IBT
 23-25 Cliff Street
 Nay York. New York 10038
@@ -1843,7 +1843,7 @@ _Page 36_ · _OCR-reconstructed_ · _Topics: pension_
 40 Rector Street, New York, NY 10006-1705
 http://nyc.gov/olr
 JAMES F. HANLEY
-Commssioner
+Commissioner
 MARGARET M. CONNOR
 Arst Deputy Cumnessoner
 Mr. Harry Nespoli
@@ -1910,7 +1910,7 @@ _Page 37_ · _OCR-reconstructed_ · _Topics: wages, hours_
 Director, Employee Benefits Progran
 Dear Mr. Nespoli:
 There will be an assignment differential, not to exceed 12% above the basic maximum salary, payable in
-accordance with the schedule shown below, to certain Sanitation Workers detailed on "special assignmen!" in the Citywide
+accordance with the schedule shown below, to certain Sanitation Workers detailed on "special assignment!" in the Citywide
 Transportation Unit (CTU) upon satisfactory completion of a twenty-four month review period in CTU.
 Criteria:
 • Employee must have 24 months of satisfactory service in CTU before eligibility begins for
@@ -2006,7 +2006,7 @@ Bargaining Agreement as follows:
 designated as falling within that calegory for the duration of this program. PAP 2007-04 shall be
 amended to specify that an employee who abuses sick leave may be subject to discipline up to
 and including termination. Such amendment shall remain in place for the length of this program.
-(2) The Department will create a monthly list of Sanitation Workers who have (welve (12) or
+(2) The Department will create a monthly list of Sanitation Workers who have (twelve (12) or
 more incidents of sick leave use or fifty (50) or more sick days in the trailing twelve-month
 period. The Department will exclude from the list those Sanitation Workers for whom a
 meaningful portion of the 12 or more incidents or 50 or more days is related to an identifiable
@@ -2024,7 +2024,7 @@ asked to sign a release authorizing such medical information to be forwarded 1o 
 
 (4) The Union will, as part of the program, counsel the individuals on the Monthly Sick List as
 io appropriate use of sick leave.
-(5) Nothing shall prevent the Depurtment's Medical Division from conducting an initia
+(5) Nothing shall prevent the Depurtment's Medical Division from conducting an initial
 interview with an employee regarding the use of sick leave, provided that the Union is notified of
 the meeting and the results are documented and sent to the Union.
 (6) If an employee whose name appears on a Monthly Sick List utilizes, in the Department's
@@ -2075,7 +2075,7 @@ Sanitation Worker will be requested to provide a Health Insurance Portability an
 Act ("HIPPA") compliant release permitting the Medical Panel Doctor to review the Sanitation
 Worker's medical files maintained by the Department and any doctor who treated the Worker
 within the past 24 months as well as any other medical file deemed relevant by the Medical
-Panel Doctor. The Medical Panel Doctor shall provide his or her findings to the Deparment and
+Panel Doctor. The Medical Panel Doctor shall provide his or her findings to the Department and
 the Sanitation Worker will be asked to sign a HIPPA compliant release allowing the Department
 to forward the findings of the Medical Panel Doctor to the Union. Any such findings will be
 held as confidential by the Department and the Union, except that should the Department pursue
@@ -2922,7 +2922,7 @@ of a new side letrer (arached)
 25003
 
 
-This agreement is subject 1o the ferms of the currently effective collective bargaining agrement between the Cily
+This agreement is subject 1o the ferms of the currently effective collective bargaining agreement between the Cily
 uf New York and Local 831 of the International Brotherhood of Teamsters.
 "Roll-on/Roll-off collection vehicles
 when engayed in one-person collection operations.

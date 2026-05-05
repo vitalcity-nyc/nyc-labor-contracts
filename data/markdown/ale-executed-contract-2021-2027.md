@@ -1687,7 +1687,7 @@ _Page 32_ · _OCR-reconstructed_ · _Topics: holidays, vacation, other-leave_
 
 Employees will be granted six (6) floating holidays per calendar year in addition to other types of leave.
 loating holidays will allow employees to have additional paid leave to cover the observance of Lincoln's Birthday, absence
-for personal reasons, such as religious observances, parent-teacher conferences, and important family events or to supplemen
+for personal reasons, such as religious observances, parent-teacher conferences, and important family events or to supplement
 annual, sick and holiday leave. Generally, reasonable notice must be given and appropriate approvals obtained; however,
 floating holidays may be used for emergency situations.
 Floating holidays must be used in three and a half (3.5) hour or seven (7) hour increments only.

@@ -754,7 +754,7 @@ There shall be a pro-rating of the above allowance for employees who work less t
 For the earning of annual leave credits, the time recorded on the payroll at the full rate
 of pay, and the first six months of absence while receiving Workmen's Compensation payments
 shall be considered as time "served" by the employee.
-In the calculation of anual leave credits, a full month's credit shall be given to an
+In the calculation of annual leave credits, a full month's credit shall be given to an
 
 
 2
@@ -868,7 +868,7 @@ maximum is reached, no more sick leave credits may be cared by the employee exce
 extent of restoring credits subsequently drawn for sick leave and thereby building up accruals
 again to the maximum of 200 work-days. Existing balances to the credit of employees at the
 time of adoption of these regulations shall remain to their credie.
-Secton E
+Section E
 Sick leave may be granted at the discretion of the agency bead and proof of disability
 must be provided by the employee, satisfactory to the agency bead. Presentation of a physician's
 certificate in the prescribed form may be waived for absences up to and including three
@@ -1044,7 +1044,7 @@ order to determine the extent of the employee's disability and the approval of s
 a medical viewpoins shall be required for the time granted with pay under this rule. The agency
 head may require periodic medical examinations of the disabled employee to ascertain the need
 for continued leave of absence with pay. Notwithstanding the provisions of Article 1, Section
-4 and Artiale II, Section 5 annual and sick leave shall accue during the first six months only
+4 and Artiale II, Section 5 annual and sick leave shall accrue during the first six months only
 of such abscace, and shall be credited upon the employee's return to duty.
 Sestion 2
 The agency head is empowered to grant leave of absence with pay for the first week's
@@ -1341,7 +1341,7 @@ delivering health benefits including the prospect of coordination/cooperation to
 purchasing power and to decrease administrative expenses.
 e.
 Audits and Coordination of Benefits- audit insurers for claims and financial accuracy,
-coordination of benefits, pre-65 disabled Medicare utilization, End Stage Renal Discasc,
+coordination of benefits, pre-65 disabled Medicare utilization, End Stage Renal Disease,
 PICA, and Payroll Audit of Part Time Employees.
 f.
 Other areas- Centers of Excellence for specific conditions, Hospital and provider ficring;
@@ -1350,7 +1350,7 @@ for Pre-Medicare relirees who have access to other coverage; Changes to the Seni
 rate; Changes to the equalization formula.
 Potential RFPs for all medical and hospital benefits.
 I Status of the Stabilization Fund.
-The Commitee will make recommendations to be considered by the MLC and the City.
+The Committee will make recommendations to be considered by the MLC and the City.
 6. The joint committee shall be known as the Tripartite Health insurance Policy Committer
 (THIPC) and shall be independent of the existing "Technical Committee." The "Technical
 Committee" will continue its work and will work in conjunction with the THIPC as designated

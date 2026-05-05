@@ -624,7 +624,7 @@ pursuant to this agreement.
 The lump sum cash payment shall be pensionable, consistent with applicable law.
 The lump sum cash payment shall not become part of the employee's basic salary
 cate, nor will it be added to the employee's basic salary for the calculation of any
-salary-based benefits, including but not limited to the calculation of futur
+salary-based benefits, including but not limited to the calculation of future
 collective bargaining increases.
 For circumstances not covered by this agreement, the First Deputy Commissioner
 f Labor Relations may elect to issue, on a case-by-case basis, interpretatior
@@ -731,12 +731,12 @@ l.i_,
 November 2023
 William Lynn
 Business Manager
-[nternational Union of Operating Engineers- Local 30
+[International Union of Operating Engineers- Local 30
 115-06 Myrtle Avenue
 Richmond Hill, NY J 1418
 Thomas Callahan
 President/Business Manager
-[nternational Union of Operating Engineers - Local 15
+[International Union of Operating Engineers - Local 15
 th
 265 West 14 Street, Room 505
 New York, NY 10011-7193
