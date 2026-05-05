@@ -1460,5 +1460,116 @@
   "summary": "UBCJ Ship Carpenter MOA, 2022-2027 \u2014 see contract for the full recognition clause defining covered titles.",
   "titles": [],
   "curated": false
+ },
+ {
+  "contract_id": "ufa-moa-2017-2020",
+  "contract_label": "UFA MOA, 2017-2020",
+  "term_start": 2017,
+  "term_end": 2020,
+  "sector": "uniformed-fire",
+  "union_full": "Uniformed Firefighters Association of Greater New York (UFA), IAFF Local 94",
+  "local": "IAFF Local 94",
+  "employer": "NYC Fire Department",
+  "headcount": 9500,
+  "headcount_note": "~9,500 NYC firefighters per UFA public statements and FDNY headcount data.",
+  "summary": "Represents all NYC firefighters below officer rank. UFA contracts in NYC have historically come out of impasse arbitration. Most recent published contract on OLR is the 2017-2020 MOA; economic terms for the 2022-2027 cycle are set by the Uniformed Coalition Economic Agreement (also in this corpus).",
+  "titles": [
+   "Firefighter",
+   "Fire Marshal",
+   "Wiper",
+   "Pilot",
+   "Marine Engineer (FDNY)"
+  ],
+  "curated": true
+ },
+ {
+  "contract_id": "ufoa-fire-officers-2018-2021",
+  "contract_label": "UFOA Fire Officers Agreement, 2018-2021",
+  "term_start": 2018,
+  "term_end": 2021,
+  "sector": "uniformed-fire",
+  "union_full": "Uniformed Fire Officers Association (UFOA), IAFF Local 854",
+  "local": "IAFF Local 854",
+  "employer": "NYC Fire Department",
+  "headcount": 2500,
+  "headcount_note": "~2,500 FDNY officers per UFOA public statements.",
+  "summary": "Represents FDNY lieutenants, captains, battalion chiefs, deputy chiefs, fire medical officers, and supervising fire marshals. Most recent published contract on OLR is the 2018-2021 Fire Officers Agreement; economic terms for the 2022-2027 cycle are set by the Uniformed Coalition Economic Agreement.",
+  "titles": [
+   "Lieutenant",
+   "Captain",
+   "Battalion Chief",
+   "Deputy Chief",
+   "Fire Medical Officer",
+   "Supervising Fire Marshal"
+  ],
+  "curated": true
+ },
+ {
+  "contract_id": "nysna-staff-nurses-2019-2023",
+  "contract_label": "NYSNA Staff Nurses, 2019-2023",
+  "term_start": 2019,
+  "term_end": 2023,
+  "sector": "health",
+  "union_full": "New York State Nurses Association (NYSNA)",
+  "local": "NYSNA",
+  "employer": "NYC Health + Hospitals (Mayoral)",
+  "headcount": 8500,
+  "headcount_note": "~8,500 staff nurses at NYC Health + Hospitals per NYSNA's December 2019 tentative-agreement summary; current membership reportedly 8,000-9,000.",
+  "summary": "Represents registered nurses at NYC Health + Hospitals (the City's public hospital system) and the Mayoral / civilian workforce. Most recent published contract on OLR is the 2019-2023 Staff Nurses Agreement; the historic 2023+ pay-parity successor agreement (announced July 2023) is not yet posted on OLR at time of corpus build.",
+  "titles": [
+   "Staff Nurse",
+   "Nurse Practitioner",
+   "Clinical Nurse Specialist",
+   "Nurse Manager"
+  ],
+  "curated": true
+ },
+ {
+  "contract_id": "psc-cuny-moa-2023-2027",
+  "contract_label": "PSC-CUNY Memorandum of Agreement, 2023-2027",
+  "term_start": 2023,
+  "term_end": 2027,
+  "sector": "education",
+  "union_full": "Professional Staff Congress of CUNY (PSC), AFT Local 2334",
+  "local": "AFT Local 2334",
+  "employer": "City University of New York (CUNY)",
+  "headcount": 30000,
+  "headcount_note": "~30,000 faculty and professional staff at CUNY per PSC public statements.",
+  "summary": "Represents full-time and adjunct faculty, professional staff, and graduate-employee teaching assistants across the City University of New York. Bargains directly with CUNY (a state-affiliated entity), not through NYC OLR. The 2023-2027 MOA modifies the underlying 2017-2023 PSC-CUNY agreement (also in this corpus).",
+  "titles": [
+   "Professor",
+   "Associate Professor",
+   "Assistant Professor",
+   "Lecturer",
+   "Adjunct Faculty",
+   "Higher Education Officer",
+   "College Lab Technician",
+   "Graduate Assistant"
+  ],
+  "curated": true
+ },
+ {
+  "contract_id": "psc-cuny-agreement-2017-2023",
+  "contract_label": "PSC-CUNY Agreement, 2017-2023",
+  "term_start": 2017,
+  "term_end": 2023,
+  "sector": "education",
+  "union_full": "Professional Staff Congress of CUNY (PSC), AFT Local 2334",
+  "local": "AFT Local 2334",
+  "employer": "City University of New York (CUNY)",
+  "headcount": 30000,
+  "headcount_note": "~30,000 faculty and professional staff at CUNY per PSC public statements.",
+  "summary": "Underlying 2017-2023 collective bargaining agreement between CUNY and PSC, modified by the 2023-2027 MOA (also in this corpus). Provides the full text of articles on workload, academic freedom, governance, grievance, and other non-economic provisions that the MOA does not re-state.",
+  "titles": [
+   "Professor",
+   "Associate Professor",
+   "Assistant Professor",
+   "Lecturer",
+   "Adjunct Faculty",
+   "Higher Education Officer",
+   "College Lab Technician",
+   "Graduate Assistant"
+  ],
+  "curated": true
  }
 ]

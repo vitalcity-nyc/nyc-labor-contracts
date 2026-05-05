@@ -1,6 +1,6 @@
 # NYC municipal labor contracts — Markdown export
 
-_94 contracts. Each `<id>.md` file contains the full searchable text, segmented into clauses with page numbers, with tables preserved as pipe-delimited Markdown._
+_99 contracts. Each `<id>.md` file contains the full searchable text, segmented into clauses with page numbers, with tables preserved as pipe-delimited Markdown._
 
 Source: NYC Office of Labor Relations Recent Agreements page. Many contracts were OCR-reconstructed from image-only PDFs; per-page OCR flags are preserved in the YAML frontmatter and inline meta lines.
 
@@ -84,15 +84,20 @@ Source: NYC Office of Labor Relations Recent Agreements page. Many contracts wer
 - [Local 891 School Custodians](local-891-school-custodians.md) — term n/a
 - [Marine Engineers' Beneficial Association (MEBA) — Memorandum of Agreement, 2010-2027](meba-moa-2010-2027.md) — 2010–2027
 - [Metal Work Mechanic Memorandum of Agreement, 2021-2026](metal-work-mechanic-moa-2021-2026.md) — 2021–2026
+- [New York State Nurses Association (NYSNA) — Staff Nurses, 2019-2023](nysna-staff-nurses-2019-2023.md) — 2019–2023
 - [Oilers Stationary Eng Steam Sr Stationary Engineer Steam Fully Executed Moa 2021 2026](oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021.md) — term n/a
 - [Organization of Staff Analysts (OSA) — Memorandum of Agreement, 2021-2027](osa-moa-2021-2027.md) — 2021–2027
 - [Organization of Staff Analysts (OSA) — Public Advocate Executed Contract, 2022-2026](osa-public-advocate-executed-contract-2022-2026.md) — 2022–2026
 - [Organization of Staff Analysts (OSA) — School Security/Traffic Memorandum of Agreement, 2022-2027](osa-school-security-traffic-moa-2022-2027.md) — 2022–2027
+- [PSC-CUNY Agreement, 2017-2023](psc-cuny-agreement-2017-2023.md) — 2017–2023
+- [PSC-CUNY Memorandum of Agreement, 2023-2027](psc-cuny-moa-2023-2027.md) — 2023–2027
 - [Patrolmen's Benevolent Association (PBA) — Memorandum of Understanding, 2017-2025](pba-mou-2017-2025.md) — 2017–2025
 - [Sanitation Officers Association (SOA) — Unit Agreement, 2023-2028](soa-unit-agreement-2023-2028.md) — 2023–2028
 - [Sergeants Benevolent Association (SBA) — Unit Agreement, 2021-2026](sba-unit-agreement-2021-2026.md) — 2021–2026
 - [Supervisor of Mechanics L621 Executed Contract, 2021-2026](supervisor-of-mechanics-l621-executed-contract-2021-2026.md) — 2021–2026
 - [Uniformed Coalition Economic Agreement, 2022-2027](uniformed-coalition-economic-agreement-2022-2027.md) — 2022–2027
+- [Uniformed Fire Officers Association (UFOA) — Fire Officers Agreement, 2018-2021](ufoa-fire-officers-2018-2021.md) — 2018–2021
+- [Uniformed Firefighters Association (UFA) — Memorandum of Agreement, 2017-2020](ufa-moa-2017-2020.md) — 2017–2020
 - [Uniformed Sanitation Chiefs Association (USCA) — Unit Agreement, 2022-2027](usca-unit-agreement-2022-2027.md) — 2022–2027
 - [Uniformed Sanitationmen's Association (USA) — Executed Contract, 2022-2028](usa-executed-contract-2022-2028.md) — 2022–2028
 - [United Brotherhood of Carpenters and Joiners (UBCJ) — Dockbuilders Memorandum of Agreement, 2022-2027](ubcj-dockbuilders-moa-2022-2027.md) — 2022–2027

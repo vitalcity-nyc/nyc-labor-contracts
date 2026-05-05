@@ -130,6 +130,18 @@ def main():
             seen[original] = n
             c["id"] = f"{original}-{n}"
 
+    # Merge in any contracts from data/extras_inventory.json that come from
+    # non-OLR sources (UFA, UFOA, NYSNA at H+H, PSC at CUNY, etc.).
+    extras_path = DATA / "extras_inventory.json"
+    if extras_path.exists():
+        extras = json.loads(extras_path.read_text())
+        existing_ids = {c["id"] for c in contracts}
+        for e in extras:
+            if e["id"] in existing_ids:
+                continue
+            contracts.append(e)
+        print(f"Merged {len(extras)} extra non-OLR contracts.", file=sys.stderr)
+
     out = DATA / "contracts.json"
     out.write_text(json.dumps(contracts, indent=2))
     print(f"Wrote {len(contracts)} contracts to {out}", file=sys.stderr)

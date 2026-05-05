@@ -1964,5 +1964,84 @@
   "curated": false,
   "verified": null,
   "source_note": null
+ },
+ {
+  "contract_id": "ufa-moa-2017-2020",
+  "contract_label": "UFA MOA, 2017-2020",
+  "term_start": 2017,
+  "term_end": 2020,
+  "increases": [],
+  "bonuses": [],
+  "cumulative_pct": null,
+  "auto_pcts": [
+   2.25,
+   2.5,
+   2.25,
+   2.5
+  ],
+  "auto_lump_sums": [],
+  "curated": false,
+  "verified": null,
+  "source_note": null
+ },
+ {
+  "contract_id": "ufoa-fire-officers-2018-2021",
+  "contract_label": "UFOA Fire Officers Agreement, 2018-2021",
+  "term_start": 2018,
+  "term_end": 2021,
+  "increases": [],
+  "bonuses": [],
+  "cumulative_pct": null,
+  "auto_pcts": [],
+  "auto_lump_sums": [],
+  "curated": false,
+  "verified": null,
+  "source_note": null
+ },
+ {
+  "contract_id": "nysna-staff-nurses-2019-2023",
+  "contract_label": "NYSNA Staff Nurses, 2019-2023",
+  "term_start": 2019,
+  "term_end": 2023,
+  "increases": [],
+  "bonuses": [],
+  "cumulative_pct": null,
+  "auto_pcts": [],
+  "auto_lump_sums": [],
+  "curated": false,
+  "verified": null,
+  "source_note": null
+ },
+ {
+  "contract_id": "psc-cuny-moa-2023-2027",
+  "contract_label": "PSC-CUNY Memorandum of Agreement, 2023-2027",
+  "term_start": 2023,
+  "term_end": 2027,
+  "increases": [],
+  "bonuses": [],
+  "cumulative_pct": null,
+  "auto_pcts": [
+   3.25,
+   3.5,
+   3.5
+  ],
+  "auto_lump_sums": [],
+  "curated": false,
+  "verified": null,
+  "source_note": null
+ },
+ {
+  "contract_id": "psc-cuny-agreement-2017-2023",
+  "contract_label": "PSC-CUNY Agreement, 2017-2023",
+  "term_start": 2017,
+  "term_end": 2023,
+  "increases": [],
+  "bonuses": [],
+  "cumulative_pct": null,
+  "auto_pcts": [],
+  "auto_lump_sums": [],
+  "curated": false,
+  "verified": null,
+  "source_note": null
  }
 ]

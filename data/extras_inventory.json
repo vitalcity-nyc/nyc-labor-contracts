@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ufa-moa-2017-2020",
+    "label": "UFA MOA, 2017-2020",
+    "section": "FDNY uniformed (added from non-OLR source)",
+    "source": "olr-direct",
+    "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2017-2020-ufa-moa.pdf",
+    "term_start": 2017,
+    "term_end": 2020,
+    "note": "Most recent UFA contract on OLR. Subsequent rounds in arbitration; UFA economic terms for 2022-2027 cycle are set by the Uniformed Coalition Economic Agreement (in main corpus) plus pending unit-bargaining award."
+  },
+  {
+    "id": "ufoa-fire-officers-2018-2021",
+    "label": "UFOA Fire Officers Agreement, 2018-2021",
+    "section": "FDNY uniformed (added from non-OLR source)",
+    "source": "olr-direct",
+    "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/fire-officers-2018-2021.pdf",
+    "term_start": 2018,
+    "term_end": 2021,
+    "note": "Most recent UFOA contract on OLR. UFOA economic terms for the 2022-2027 cycle are set by the Uniformed Coalition Economic Agreement (in main corpus)."
+  },
+  {
+    "id": "nysna-staff-nurses-2019-2023",
+    "label": "NYSNA Staff Nurses, 2019-2023",
+    "section": "Health+Hospitals (added from non-OLR source)",
+    "source": "olr-direct",
+    "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/staff-nurses%20-06-06-2019-03-02-2023.pdf",
+    "term_start": 2019,
+    "term_end": 2023,
+    "note": "NYSNA Mayoral / NYC Health + Hospitals staff nurses contract. Most recent NYSNA H+H contract on OLR. Successor 2023+ agreement (pay-parity deal announced July 2023) not yet published on OLR at time of corpus build."
+  },
+  {
+    "id": "psc-cuny-moa-2023-2027",
+    "label": "PSC-CUNY Memorandum of Agreement, 2023-2027",
+    "section": "CUNY (added from non-OLR source)",
+    "source": "cuny-direct",
+    "url": "https://www.cuny.edu/wp-content/uploads/sites/4/media-assets/MOA-CUNY-PSC-2023-2027.pdf",
+    "term_start": 2023,
+    "term_end": 2027,
+    "note": "Modifies the underlying 2017-2023 PSC-CUNY agreement. Source: CUNY HR labor contracts page."
+  },
+  {
+    "id": "psc-cuny-agreement-2017-2023",
+    "label": "PSC-CUNY Agreement, 2017-2023",
+    "section": "CUNY (added from non-OLR source)",
+    "source": "cuny-direct",
+    "url": "https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/labor-relations/labor-contracts/CUNY-PSC-2017-2023-Agreement.pdf",
+    "term_start": 2017,
+    "term_end": 2023,
+    "note": "Underlying CUNY-PSC agreement that the 2023-2027 MOA modifies. Source: CUNY HR labor contracts page."
+  }
+]
