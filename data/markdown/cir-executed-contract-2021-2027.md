@@ -58,7 +58,7 @@ sector: "other"
 - [Article XVIII — PROHIBITION AGAINST DISCRIMINATION](#article-xviii-prohibition-against-discrimination-p25)
 - [Article XIX — LOUNGES](#article-xix-lounges-p25)
 - [Article XX — NO STRIKES](#article-xx-no-strikes-p26)
-- [Section 1 — Interest Pavments](#section-1-interest-pavments-p26)
+- [Section 1 — Interest Payments](#section-1-interest-pavments-p26)
 - [Section 4 — Rotations](#section-4-rotations-p26)
 - [Section 6 — Personal Security](#section-6-personal-security-p27)
 - [Section 8 — Payroll Lag](#section-8-payroll-lag-p27)
@@ -1308,7 +1308,7 @@ Neither the Committee nor any Employee shall induce or engage in any strikes, sl
 stoppages, or mass absenteeism, or induce any mass resignations.
 
 <a id="section-1-interest-pavments-p26"></a>
-### Section 1 — Interest Pavments
+### Section 1 — Interest Payments
 _Page 26_ · _OCR-reconstructed_ · _Topics: wages_
 
 Interest on wage increases shall accrue at the rate of three percent (3%) per annum from one
