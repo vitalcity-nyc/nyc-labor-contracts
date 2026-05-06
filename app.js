@@ -201,12 +201,45 @@
     return out;
   }
 
+  // Extract "quoted phrases" and the remaining unquoted query.
+  // Returns { phrases: [...], rest: "loose tokens" }.
+  function parseQuery(q) {
+    const phrases = [];
+    const rest = q.replace(/[“”]/g, '"').replace(/"([^"]+)"/g, (_, p) => {
+      const trimmed = p.trim();
+      if (trimmed) phrases.push(trimmed);
+      return " ";
+    }).trim();
+    return { phrases, rest };
+  }
+
   function searchHits() {
     if (!state.query) return null;
-    const results = state.index.search(state.query, { limit: 500, suggest: true });
-    const ids = new Set();
-    results.forEach(r => r.result.forEach(id => ids.add(id)));
-    return state.clauses.filter(c => ids.has(c.id));
+    const { phrases, rest } = parseQuery(state.query);
+
+    // Build the FlexSearch query: loose terms + every word from each phrase
+    // (FlexSearch ANDs the tokens regardless of order; we enforce adjacency below).
+    const flexQuery = [rest, ...phrases].filter(Boolean).join(" ");
+    let candidates;
+    if (flexQuery) {
+      const results = state.index.search(flexQuery, { limit: 500, suggest: true });
+      const ids = new Set();
+      results.forEach(r => r.result.forEach(id => ids.add(id)));
+      candidates = state.clauses.filter(c => ids.has(c.id));
+    } else {
+      candidates = state.clauses;
+    }
+
+    // Enforce phrase adjacency: every quoted phrase must appear verbatim
+    // (case-insensitive) in the clause text or heading.
+    if (phrases.length) {
+      const lowerPhrases = phrases.map(p => p.toLowerCase());
+      candidates = candidates.filter(c => {
+        const hay = ((c.text || "") + "\n" + (c.heading || "")).toLowerCase();
+        return lowerPhrases.every(p => hay.includes(p));
+      });
+    }
+    return candidates;
   }
 
   /* ---------- Rendering ---------- */
@@ -746,7 +779,12 @@
   function highlight(text, q) {
     const safe = escapeHtml(text || "");
     if (!q) return safe;
-    const terms = q.split(/\s+/).filter(t => t.length >= 2).map(t => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+    const { phrases, rest } = parseQuery(q);
+    const escRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    // Quoted phrases must match verbatim (whitespace flexible inside the phrase).
+    const phraseTerms = phrases.map(p => p.split(/\s+/).map(escRe).join("\\s+"));
+    const looseTerms = rest.split(/\s+/).filter(t => t.length >= 2).map(escRe);
+    const terms = [...phraseTerms, ...looseTerms];
     if (!terms.length) return safe;
     return safe.replace(new RegExp(`(${terms.join("|")})`, "ig"), '<mark>$1</mark>');
   }
