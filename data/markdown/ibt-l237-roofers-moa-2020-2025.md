@@ -14,9 +14,9 @@ sector: "other"
 
 # International Brotherhood of Teamsters (IBT) — L237 Roofers Memorandum of Agreement, 2020-2025
 
-**Term:** 2020–2025  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2020-2025-roofers-fully-executed-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2020-2025-roofers-fully-executed-moa.pdf)  
-**Pages:** 3 (2 OCR-reconstructed)  
+**Term:** 2020–2025
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2020-2025-roofers-fully-executed-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2020-2025-roofers-fully-executed-moa.pdf)
+**Pages:** 3 (2 OCR-reconstructed)
 **Clauses extracted:** 1
 
 **Workforce:** IBT L237 Roofers MOA, 2020-2025 — see contract for the full recognition clause defining covered titles.
@@ -32,8 +32,7 @@ _Page 3_
 BY: BY: I, �
 �
 RENEE CAMPION GREG�
-Commissioner of Labor Relations President
-Dated: October19, 2023
+Commissioner of Labor Relations President Dated: October19, 2023
 3
 
 ---

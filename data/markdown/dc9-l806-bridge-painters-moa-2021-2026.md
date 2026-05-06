@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # District Council 9 of the Painters (DC9) — L806 Bridge Painters Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bridgepainters-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bridgepainters-moa.pdf)  
-**Pages:** 2 (2 OCR-reconstructed)  
+**Term:** 2021–2026
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bridgepainters-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bridgepainters-moa.pdf)
+**Pages:** 2 (2 OCR-reconstructed)
 **Clauses extracted:** 3
 
 **Workforce:** DC9 L806 Bridge Painters MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -43,8 +43,7 @@ BY:
 ### JOSEPH AZZOPARDI
 _Page 2_ · _OCR-reconstructed_
 
-Business Manager/Secretary Treasurer
-District Council 9, I.U.P.A.T.
+Business Manager/Secretary Treasurer District Council 9, I.U.P.A.T.
 Dated: December 5, 2023
 2
 

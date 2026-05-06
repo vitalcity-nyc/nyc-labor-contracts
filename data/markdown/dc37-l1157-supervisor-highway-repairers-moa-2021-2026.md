@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # District Council 37 of AFSCME (DC37) — L1157 Supervisor Highway Repairers Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026_supervisor_highway_repairer_moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026_supervisor_highway_repairer_moa.pdf)  
-**Pages:** 3 (3 OCR-reconstructed)  
+**Term:** 2021–2026
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026_supervisor_highway_repairer_moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026_supervisor_highway_repairer_moa.pdf)
+**Pages:** 3 (3 OCR-reconstructed)
 **Clauses extracted:** 3
 
 **Workforce:** DC37 L1157 Supervisor Highway Repairers MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -36,16 +36,13 @@ rog
 ### RENEE CAMPION
 _Page 3_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations
-FOR DISTRICT COUNCIL 37,
-AFSCME, AFL-CIO
+Commissioner of Labor Relations FOR DISTRICT COUNCIL 37, AFSCME, AFL-CIO
 
 <a id="daniel-katz-p3"></a>
 ### DANIEL KATZ
 _Page 3_ · _OCR-reconstructed_
 
-Director of Research and Negotiations
-Dated: January 7, 2026
+Director of Research and Negotiations Dated: January 7, 2026
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026_supervisor_highway_repairer_moa.pdf>_

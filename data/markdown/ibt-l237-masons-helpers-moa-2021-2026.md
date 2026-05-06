@@ -14,9 +14,9 @@ sector: "other"
 
 # International Brotherhood of Teamsters (IBT) — L237 Mason’s Helpers Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-masonhelpers-fully-executed-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-masonhelpers-fully-executed-moa-2021-2026.pdf)  
-**Pages:** 3 (2 OCR-reconstructed)  
+**Term:** 2021–2026
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-masonhelpers-fully-executed-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-masonhelpers-fully-executed-moa-2021-2026.pdf)
+**Pages:** 3 (2 OCR-reconstructed)
 **Clauses extracted:** 2
 
 **Workforce:** IBT L237 Mason’s Helpers MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -35,8 +35,7 @@ BY:
 ### RENEE CAMPION
 _Page 3_
 
-Commissioner of Labor Relations
-Dated: December f!::...., 2023
+Commissioner of Labor Relations Dated: December f!::...., 2023
 3
 
 ---

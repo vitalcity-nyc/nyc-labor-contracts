@@ -14,9 +14,9 @@ sector: "other"
 
 # International Brotherhood of Teamsters (IBT) — L237 Bricklayers Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bricklayers-final-fully-executed-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bricklayers-final-fully-executed-moa.pdf)  
-**Pages:** 3 (2 OCR-reconstructed)  
+**Term:** 2021–2026
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bricklayers-final-fully-executed-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026-bricklayers-final-fully-executed-moa.pdf)
+**Pages:** 3 (2 OCR-reconstructed)
 **Clauses extracted:** 2
 
 **Workforce:** IBT L237 Bricklayers MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -35,8 +35,7 @@ BY:
 ### RENEE CAMPION
 _Page 3_
 
-Commissioner of Labor Relations
-Dated: December21, 2023
+Commissioner of Labor Relations Dated: December21, 2023
 3
 
 ---

@@ -14,9 +14,9 @@ sector: "education"
 
 # Organization of Staff Analysts (OSA) — School Security/Traffic Memorandum of Agreement, 2022-2027
 
-**Term:** 2022–2027  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/school-security-traffic-enforcement-moa-fully-executed-2022-2027.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/school-security-traffic-enforcement-moa-fully-executed-2022-2027.pdf)  
-**Pages:** 3 (3 OCR-reconstructed)  
+**Term:** 2022–2027
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/school-security-traffic-enforcement-moa-fully-executed-2022-2027.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/school-security-traffic-enforcement-moa-fully-executed-2022-2027.pdf)
+**Pages:** 3 (3 OCR-reconstructed)
 **Clauses extracted:** 3
 
 **Workforce:** OSA School Security/Traffic MOA, 2022-2027 — see contract for the full recognition clause defining covered titles.
@@ -41,8 +41,7 @@ BY:
 ### RENEE CAMPION
 _Page 3_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations
-Dated: January, 3, 2025
+Commissioner of Labor Relations Dated: January, 3, 2025
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/school-security-traffic-enforcement-moa-fully-executed-2022-2027.pdf>_

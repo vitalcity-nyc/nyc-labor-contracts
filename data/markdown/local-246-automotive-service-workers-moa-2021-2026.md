@@ -14,9 +14,9 @@ sector: "other"
 
 # Local 246 Automotive Service Workers Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-246-automotive-service-workers-21-26-fully-executed-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-246-automotive-service-workers-21-26-fully-executed-moa.pdf)  
-**Pages:** 3 (3 OCR-reconstructed)  
+**Term:** 2021–2026
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-246-automotive-service-workers-21-26-fully-executed-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-246-automotive-service-workers-21-26-fully-executed-moa.pdf)
+**Pages:** 3 (3 OCR-reconstructed)
 **Clauses extracted:** 2
 
 **Workforce:** Local 246 Automotive Service Workers MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.

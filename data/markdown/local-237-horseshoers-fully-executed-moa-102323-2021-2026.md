@@ -12,9 +12,9 @@ sector: "other"
 
 # Local 237 Horseshoers Fully Executed Moa 102323 2021 2026
 
-**Term:** term n/a  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-horseshoers-fully-executed-moa-102323-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-horseshoers-fully-executed-moa-102323-2021-2026.pdf)  
-**Pages:** 3 (3 OCR-reconstructed)  
+**Term:** term n/a
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-horseshoers-fully-executed-moa-102323-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-horseshoers-fully-executed-moa-102323-2021-2026.pdf)
+**Pages:** 3 (3 OCR-reconstructed)
 **Clauses extracted:** 2
 
 **Workforce:** Local 237 Horseshoers Fully Executed Moa 102323 2021 2026 — see contract for the full recognition clause defining covered titles.
@@ -27,8 +27,7 @@ sector: "other"
 ### FOR THE CITY OF NEW YORK
 _Page 3_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations
-FOR CITY EMPLOYEES UNION, LOCAL
+Commissioner of Labor Relations FOR CITY EMPLOYEES UNION, LOCAL
 237, I.B.T.
 BY:
 

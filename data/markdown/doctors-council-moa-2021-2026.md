@@ -18,9 +18,9 @@ wage_cumulative_pct: 16.21
 
 # Doctors Council Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf)  
-**Pages:** 6 (6 OCR-reconstructed)  
+**Term:** 2021–2026
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf)
+**Pages:** 6 (6 OCR-reconstructed)
 **Clauses extracted:** 3
 
 **Workforce:** Represents salaried physicians and dentists working for the City — at H+H, NYC DOHMH, DOC, and other agencies.
@@ -50,8 +50,7 @@ FOR NYC HEALTH + HOSPITALS
 BY:
 anGa
 ANDREA G. COHEN
-Senior Vice-President and General Counsel
-December 13, 2024
+Senior Vice-President and General Counsel December 13, 2024
 
 <a id="appendix-a-p5"></a>
 ### APPENDIX A
@@ -59,9 +58,7 @@ _Page 5_ · _OCR-reconstructed_ · _Topics: wages, hours_
 
 * CME Salary Schedule
 City Medical Examiner Level l
-City Medical Examiner Level II
-O- less than 5 years
-At least 5 years, but less than 10 years
+City Medical Examiner Level II O- less than 5 years At least 5 years, but less than 10 years
 10 years or more
 City Medical Examiner Level I
 City Medical Examiner Level l
@@ -207,9 +204,7 @@ applies after 2 yos
 $268,931
 
 
-City Medical Examiner Level I $240,304
-$277,671
-$277,671|
+City Medical Examiner Level I $240,304 $277,671 $277,671|
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf>_

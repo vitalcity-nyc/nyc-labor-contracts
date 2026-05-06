@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # Joint Cert L246 and L15 Motor Grader Operators Wage Indenture, 2020-2025
 
-**Term:** 2020–2025  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf)  
-**Pages:** 3 (2 OCR-reconstructed)  
+**Term:** 2020–2025
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf)
+**Pages:** 3 (2 OCR-reconstructed)
 **Clauses extracted:** 1
 
 **Workforce:** Joint Cert L246 and L15 Motor Grader Operators Wage Indenture, 2020-2025 — see contract for the full recognition clause defining covered titles.
@@ -29,9 +29,7 @@ sector: "skilled-trades"
 ### Joint Cert L246 and L15 Motor Grader Operators Wage Indenture, 2020-2025
 _Page 1_ · _OCR-reconstructed_ · _Topics: wages, parental-leave, other-leave, health-welfare_
 
-2020-2025 Memorandum of Agreement
-Motor Grader Uperator
-Local 246 Service Employees International Union (SEIU).
+2020-2025 Memorandum of Agreement Motor Grader Uperator Local 246 Service Employees International Union (SEIU).
 Local 15 International Union of Operating Engineers (LUOE), and the City of New York
 1. Term: January 3, 2020 - February 2, 2025 (61 months)
 2. General Wage Increases
@@ -51,58 +49,33 @@ January 3, 2024
 3.00% compounded
 3.25% compounded
 3. Ratification Bonus
-A lump sum cash payment in the amount of $3,000, pro-rated for other than full time
-employees, shall be payable as soon as practicable upon ratification of this 2020-2025
-SEIU Local 246 and Local 15 JUOE Motor Grader Operator Memorandum of Agreement
-("MOA") to those employees who are in active payroll status and in a title covered by this
-MOA, as of the date of ratification. Active payroll status is defined as being in active
-payroll status ("B Status"), military leave with pay ("K status"), or on paid family leave.
+A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification of this 2020-2025 SEIU Local 246 and Local 15 JUOE Motor Grader Operator Memorandum of Agreement ("MOA") to those employees who are in active payroll status and in a title covered by this MOA, as of the date of ratification. Active payroll status is defined as being in active payroll status ("B Status"), military leave with pay ("K status"), or on paid family leave.
 The lump sum cash payment shall be pensionable, consistent with applicable law.
-All full time per annum and full time per diem employees who were in active status on the
-date of the ratification are entitled to receive the lump sum cash payment of $3,000.
-Employees who were terminated for cause, resigned, retired, or otherwise separated from
-service prior to the date of ratification of this MOA shall not be eligible for the lump sum
-cash payment.
-In no event shall any employee receive greater than $3,000 in bonus payments pursuant to
-this section.
+All full time per annum and full time per diem employees who were in active status on the date of the ratification are entitled to receive the lump sum cash payment of $3,000.
+Employees who were terminated for cause, resigned, retired, or otherwise separated from service prior to the date of ratification of this MOA shall not be eligible for the lump sum cash payment.
+In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this section.
 4. Conditions of Payment
-a. The Lump sum cash payment pursuant to Section 4 of this MOA shall be payable as
-soon as practicable upon ratification of this MOA.
-b. The general wage increases pursuant to Section 2.a., 2.b., 2.c., 2.d., and 2.e. of this
-MOA shall be payable as soon as practicable upon ratification of this MOA.
-
+a. The Lump sum cash payment pursuant to Section 4 of this MOA shall be payable as soon as practicable upon ratification of this MOA.
+b. The general wage increases pursuant to Section 2.a., 2.b., 2.c., 2.d., and 2.e. of this MOA shall be payable as soon as practicable upon ratification of this MOA.
+
+
 5. Annuity
 a.
-Effective January 3, 2020: $8.17 for each paid working day up to a maximum of
-50.13.3. per anum on behal el il time and til in pris day bye balt
-paid shall be based on a prorated amount, which is calculated against an eight-hour
-day, up to a maximum of $2,132.37 per annum.
-Effective January 3, 2024: $8.53 for each paid working day up to a maximum o
-52.226.33 per annum on behalf of all full-time and full-time per diem employees
-For part-time employees who work less than eight hours a day, the amount paid shall
-be based on a prorated amount, which is calculated against an eight-hour day, up to
-a maximum of $2,226.33 per annum.
+Effective January 3, 2020: $8.17 for each paid working day up to a maximum of 50.13.3. per anum on behal el il time and til in pris day bye balt paid shall be based on a prorated amount, which is calculated against an eight-hour day, up to a maximum of $2,132.37 per annum.
+Effective January 3, 2024: $8.53 for each paid working day up to a maximum o 52.226.33 per annum on behalf of all full-time and full-time per diem employees For part-time employees who work less than eight hours a day, the amount paid shall be based on a prorated amount, which is calculated against an eight-hour day, up to a maximum of $2,226.33 per annum.
 c.
-Effective January 3, 2025: $9.34 for each paid working day up to a maximum of
-$2,437.74 per annum on behalf of all full-time and full-time per diem employees.
-For part-time employees who work less than eight hours a day, the amount paid shall
-be based on a prorated amount, which is calculated against an eight-hour day, up to
-a maximum of $2,437.74 per annum.
-The annuity fund increases pursuant to Section 5.a., 5.b. and 5.c. of this MOA shall
-be paid consistent with the Annuity Fund language in the 2016-2020 Wage Indenture
-dated October 18, 2019.
+Effective January 3, 2025: $9.34 for each paid working day up to a maximum of $2,437.74 per annum on behalf of all full-time and full-time per diem employees.
+For part-time employees who work less than eight hours a day, the amount paid shall be based on a prorated amount, which is calculated against an eight-hour day, up to a maximum of $2,437.74 per annum.
+The annuity fund increases pursuant to Section 5.a., 5.b. and 5.c. of this MOA shall be paid consistent with the Annuity Fund language in the 2016-2020 Wage Indenture dated October 18, 2019.
 6. Welfare Fund
-Effective January 3, 2025, there shall be a recurring 5100 per annum per employee (active
-and retiree) increase to the welfare fund contribution, from $1,575 to $1,675.
+Effective January 3, 2025, there shall be a recurring 5100 per annum per employee (active and retiree) increase to the welfare fund contribution, from $1,575 to $1,675.
 7. Prohibition of Further Economic Demands
-No Party to this agreement shall make additional economic or non-economic demands
-during the term of this MOA.
+No Party to this agreement shall make additional economic or non-economic demands during the term of this MOA.
 8. Payroll
-Effective as soon as practicable following ratification of this agreement, all employees of
-Mayoral agencies, the Department of Education, and the New York City Housin
-Authority who receive paychecks via direct deposit shall be opted out of receiving pape
+Effective as soon as practicable following ratification of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housin Authority who receive paychecks via direct deposit shall be opted out of receiving pape
 2
-
+
+
 (cid:89)(cid:40)(cid:128)(cid:129) (cid:105)(cid:118)(cid:122)(cid:41)(cid:105)(cid:4)(cid:129) (cid:21)(cid:76)(cid:89)(cid:74)(cid:88)(cid:128)(cid:53)(cid:53)(cid:105)(cid:129) (cid:76)(cid:40)(cid:128)(cid:129) (cid:44)(cid:62)(cid:88)(cid:88)(cid:105)(cid:53)(cid:129) (cid:118)(cid:88)(cid:129) (cid:88)(cid:89)(cid:110)(cid:2)(cid:63)(cid:81)(cid:129) (cid:40)(cid:81)(cid:50)(cid:129) (cid:93)(cid:53)(cid:45)(cid:53)(cid:64)(cid:126)(cid:53)(cid:129) (cid:89)(cid:40)(cid:89)(cid:53)(cid:94)(cid:129) (cid:105)(cid:111)(cid:123)(cid:42)(cid:105)(cid:129) (cid:126)(cid:64)(cid:40)(cid:129) (cid:27)(cid:37)(cid:17)(cid:16)(cid:31)(cid:33)(cid:129)
 (cid:22)(cid:77)(cid:89)(cid:74)(cid:88)(cid:128)(cid:53)(cid:53)(cid:129)(cid:34)(cid:53)(cid:75)(cid:54)(cid:3)(cid:34)(cid:53)(cid:94)(cid:126)(cid:65)(cid:46)(cid:53)(cid:129)(cid:88)(cid:94)(cid:129)(cid:112)(cid:62)(cid:53)(cid:129)(cid:40)(cid:89)(cid:89)(cid:104)(cid:88)(cid:89)(cid:95)(cid:66)(cid:40)(cid:113)(cid:53)(cid:129)(cid:78)(cid:53)(cid:112)(cid:62)(cid:88)(cid:51)(cid:129)(cid:40)(cid:111)(cid:129)(cid:53)(cid:79)(cid:89)(cid:74)(cid:88)(cid:128)(cid:53)(cid:94)(cid:105)(cid:129)(cid:81)(cid:88)(cid:114)(cid:129)(cid:88)(cid:82)(cid:129)(cid:28)(cid:38)(cid:129)(cid:18)(cid:16)(cid:32)(cid:34)(cid:5)(cid:129)
 (cid:14)(cid:6) (cid:19)(cid:88)(cid:82)(cid:118)(cid:67)(cid:83)(cid:123)(cid:40)(cid:118)(cid:68)(cid:88)(cid:83)(cid:129)(cid:88)(cid:55)(cid:35)(cid:53)(cid:86)(cid:87)(cid:105)
