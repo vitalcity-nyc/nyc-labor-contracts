@@ -374,7 +374,7 @@
     $("#result-count").textContent = `${contracts.length} agreements · click any tile to read`;
     const intro = document.createElement("div");
     intro.className = "tiles-intro";
-    intro.innerHTML = `<p>Type in the search box above to find clauses across all 94 agreements at once. Or click into any single contract below to read its full text, browse its articles, and link out to the source PDF.</p>`;
+    intro.innerHTML = `<p>Type in the search box above to find clauses across all ${state.contracts.length} agreements at once. Or click into any single contract below to read its full text, browse its articles, and link out to the source PDF.</p>`;
     root.appendChild(intro);
     const grid = document.createElement("div");
     grid.className = "contract-tile-grid";
