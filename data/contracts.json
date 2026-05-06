@@ -25,7 +25,7 @@
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cca-2022-2028-letter-agreement-side-letter.pdf",
   "term_start": 2022,
   "term_end": 2028,
-  "ocr_quality": "poor"
+  "ocr_engine": "google-cloud-vision"
  },
  {
   "id": "cea-unit-agreement-2022-2027",
@@ -320,7 +320,7 @@
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/executed-2021-2027-osa-moa.pdf",
   "term_start": 2021,
   "term_end": 2027,
-  "ocr_quality": "poor"
+  "ocr_engine": "google-cloud-vision"
  },
  {
   "id": "osa-public-advocate-executed-contract-2022-2026",
@@ -393,7 +393,7 @@
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/uniformed-coalition-economic-agreement-executed-2022-2027.pdf",
   "term_start": 2022,
   "term_end": 2027,
-  "ocr_quality": "poor"
+  "ocr_engine": "google-cloud-vision"
  },
  {
   "id": "upoa-moa-2020-2026",
@@ -602,7 +602,7 @@
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cement-mason-2020-09-27-2025-10-26.pdf",
   "term_start": 2020,
   "term_end": 2025,
-  "ocr_quality": "poor"
+  "ocr_engine": "google-cloud-vision"
  },
  {
   "id": "local-237-horseshoers-fully-executed-moa-102323-2021-2026",
@@ -630,7 +630,7 @@
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/det-maintenance-worker-22-27.pdf",
   "term_start": 2022,
   "term_end": 2027,
-  "ocr_quality": "poor"
+  "ocr_engine": "google-cloud-vision"
  },
  {
   "id": "ibt-l237-masons-helpers-moa-2021-2026",
@@ -667,7 +667,7 @@
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf",
   "term_start": 2020,
   "term_end": 2025,
-  "ocr_quality": "poor"
+  "ocr_engine": "google-cloud-vision"
  },
  {
   "id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
@@ -742,7 +742,7 @@
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021-2026.pdf",
   "term_start": null,
   "term_end": null,
-  "ocr_quality": "poor"
+  "ocr_engine": "google-cloud-vision"
  },
  {
   "id": "crane-operator-2021-2026",
