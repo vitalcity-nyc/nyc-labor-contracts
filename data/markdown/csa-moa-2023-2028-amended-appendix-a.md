@@ -165,7 +165,7 @@ First Deputy Commissioner
 Nicole Andrade
 General Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt eputy Commission ealth Care Strateg Georgette Gestely Director, Employee Benefits Program October 20, 2023 Henry Rubio President Council of Supervisors and Administrators
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt eputy Commission ealth Care Strategy Georgette Gestely Director, Employee Benefits Program October 20, 2023 Henry Rubio President Council of Supervisors and Administrators
 40 Rector Street
 New York, New York 10006
 Dear Mr. Rubio,

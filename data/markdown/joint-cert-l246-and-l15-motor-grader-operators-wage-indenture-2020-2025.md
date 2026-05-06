@@ -29,7 +29,7 @@ sector: "skilled-trades"
 ### Joint Cert L246 and L15 Motor Grader Operators Wage Indenture, 2020-2025
 _Page 1_ · _OCR-reconstructed_ · _Topics: wages, parental-leave, other-leave, health-welfare_
 
-2020-2025 Memorandum of Agreement Motor Grader Uperator Local 246 Service Employees International Union (SEIU).
+2020-2025 Memorandum of Agreement Motor Grader Operator Local 246 Service Employees International Union (SEIU).
 Local 15 International Union of Operating Engineers (LUOE), and the City of New York
 1. Term: January 3, 2020 - February 2, 2025 (61 months)
 2. General Wage Increases
@@ -72,7 +72,7 @@ Effective January 3, 2025, there shall be a recurring 5100 per annum per employe
 7. Prohibition of Further Economic Demands
 No Party to this agreement shall make additional economic or non-economic demands during the term of this MOA.
 8. Payroll
-Effective as soon as practicable following ratification of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housin Authority who receive paychecks via direct deposit shall be opted out of receiving pape
+Effective as soon as practicable following ratification of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housing Authority who receive paychecks via direct deposit shall be opted out of receiving pape
 2
 
 

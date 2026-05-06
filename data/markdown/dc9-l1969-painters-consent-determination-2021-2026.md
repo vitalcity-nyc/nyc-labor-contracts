@@ -568,7 +568,7 @@ In the calculation of annual leave credits, a full month's credit shall be given
 
 
 2
-employee who has been in full pay status for at least 15 calendar days during chat month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits earnable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period; and (b) if an employee loses annual leave credits under this rule for several months in the vacation year because he has been in full pay status for fewer than 15 days in each month, but accumulates during said months a total of 30 or more calendar days in full pay starus, he shall be credited with the annual leave credits earnable in 1 month for each 30 days of such full pay status.
+employee who has been in full pay status for at least 15 calendar days during chat month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits earnable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period; and (b) if an employee loses annual leave credits under this rule for several months in the vacation year because he has been in full pay status for fewer than 15 days in each month, but accumulates during said months a total of 30 or more calendar days in full pay status, he shall be credited with the annual leave credits earnable in 1 month for each 30 days of such full pay status.
 
 <a id="section-5-p22"></a>
 ### Section 5
@@ -814,7 +814,7 @@ _Page 30_ · _OCR-reconstructed_ · _Topics: wages, health-welfare_
 New York, NY 10007
 Dear Mr. Nespoli:
 This is to confirm the parties' mutual understanding concerning the following issues:
-Unless otherwise agreed to by the parties, the Welfare Fund contribution will remair constant for the length of the successor unit agreements, including the $65 funded from the Stabilization Fund pursuant to the 2005 Health Benefits Agreement between the City of New York and the Municipal Labor Committee.
+Unless otherwise agreed to by the parties, the Welfare Fund contribution will remain constant for the length of the successor unit agreements, including the $65 funded from the Stabilization Fund pursuant to the 2005 Health Benefits Agreement between the City of New York and the Municipal Labor Committee.
 Effective July 1, 2014, the Stabilization Fund shall convey $1 Billion to the City of New York to be used to support wage increases and other economic items for the current round of collective bargaining (for the period up to and including fiscal year 2018). Up to an additional total amount of $150 million will be available over the four year period from the Stabilization "und for the welfare funds, the allocation of which shall be determined by the parties. Thereafter ; 60 million per year will be available from the Stabilization Fund for the welfare funds, th allocation of which shall be determined by the parties.
 If the parties decide to engage in a centralized purchase of Prescription Drugs, and savings and efficiencies are identified therefrom, there shall not be any reduction in welfare fund contributions.
 There shall be a joint committee formed that will engage in a process to select an independent healthcare actuary, and any other mutually agreed upon additional outside expertise, to develop an accounting system to measure and calculate savings.
@@ -878,7 +878,7 @@ Health Care Cost Management
 _Page 33_ · _OCR-reconstructed_
 
 40 Rector Street, New York, N.Y. 10006-1705 ayc.gov/olr MAYRA E. BELL General Counsel ¡EORGETTE GESTEL'
-Director, Employee Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
+Director, Employee Benefits Program June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
 125 Barclay Street
 New York, New York
 Dear Mr. Nespoli:

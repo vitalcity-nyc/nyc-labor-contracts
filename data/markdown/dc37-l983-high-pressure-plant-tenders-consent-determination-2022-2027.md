@@ -823,7 +823,7 @@ First Deputy Commissioner
 _Page 31_ · _OCR-reconstructed_
 
 Deputy Commissioner
-Health Care Cost Managament
+Health Care Cost Management
 
 <a id="office-of-labor-relations-p31"></a>
 ### OFFICE OF LABOR RELATIONS
@@ -835,7 +835,7 @@ _Page 31_ · _OCR-reconstructed_
 ### SEORGETTE GESTEL
 _Page 31_ · _OCR-reconstructed_
 
-Director, Employee Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
+Director, Employee Benefits Program June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
 125 Barclay Street
 New York, New York
 Dear Mr. Nespoli:

@@ -575,7 +575,7 @@ Section 5.
 With the exception of temporary transfers, voluntary transfers from one work location to another within an agency shall be made on the basis of greatest seniority in title in such agency from among employees who, in the judgement of the Employer, are otherwise equally qualified for the particular job opening.
 Among the items to be assessed by the Employer to determine the qualifications of employees seeking transfers are the individual employee's abilities, performance, rate of absenteeism, general health and capabilities and disciplinary record.
 Section 6.
-With the exception oft emporary transfers, involuntary transfers from one work location to another within an agency shall be made on the basis of least seniority in title in such agency from among employees who, in the judgement of the Employer, are otherwise equally qualified.
+With the exception oft temporary transfers, involuntary transfers from one work location to another within an agency shall be made on the basis of least seniority in title in such agency from among employees who, in the judgement of the Employer, are otherwise equally qualified.
 24
 Local 621 2020-2025
 25 00 7
@@ -803,7 +803,7 @@ President
 
 
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claira Levitt Commissioner Deputy Commissioner Health Care Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Program Nicole Andrade General Counsel Carl Chiaramonte President Supervisors Local 621, SEIU AFL-CIO
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy Commissioner Health Care Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Program Nicole Andrade General Counsel Carl Chiaramonte President Supervisors Local 621, SEIU AFL-CIO
 6106 78 Street
 Middle Village, NY 113 79
 Re: 2021-2026 Local 621 SMME, et al. Agreement

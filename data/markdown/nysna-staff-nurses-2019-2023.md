@@ -263,7 +263,7 @@ Julv 6 2019
 22007
 
 
-| Head Nurse {Snnitation) | S81,6j3 |  | $83,286 |  |
+| Head Nurse {Sanitation) | S81,6j3 |  | $83,286 |  |
 | --- | --- | --- | --- | --- |
 | Home Health Nurse (per visit) | S65.99 S74.25 |  |  |  |
 | Level I |  | (per visit) | $67 31 | (pcrvisi1) |
@@ -1813,7 +1813,7 @@ above. This Is currently estimated at approxlmately $40 milllon but will not be 
 2. After the conclusion of Fiscal Yc:ar 2021, the parties shall calculate the savings realized during
 the 3 yc:ar period. In the c:vc:nt that the MLC has generated more then $600 million in recurring healthcare savings, o.s agreed upon by the City's and the MLC's acluaries, such additional savings
 shall be: utilized as follows:
-a. The first $68 million will be used by the Chy to make a SI 00 per member per year increase to welfare funds (accives and relirees) effective July I, 2021. If a savings amount over S600 million but less than $668 million Is achieved, the SI 00 per member per year {actives and n:lirccs) increase will be prorated.
+a. The first $68 million will be used by the Chy to make a SI 00 per member per year increase to welfare funds (accives and retirees) effective July I, 2021. If a savings amount over S600 million but less than $668 million Is achieved, the SI 00 per member per year {actives and n:lirccs) increase will be prorated.
 b. Any savings thereafter sha.JI be split equally between the City and the MLC and applied in a manner agreed to by lhe parties.
 3. Beginning January I, 2019, and continuinli: unless and until lhe parties agree otherwise, the
 parties shall authorize the quarterly provision of the following dala le lhc City's and Ml.C's acluaries on an ongoing quarterly basis: (I) detnllcd claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHt•CBP programs (including Senior Care and Behavioml HClllth inronnelion); and (2)

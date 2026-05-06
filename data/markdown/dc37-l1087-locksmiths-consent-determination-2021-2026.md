@@ -457,7 +457,7 @@ d.
 Collection of union dues.
 e. Distribution of union pamphlets, circulars and ozher literature.
 The agency is authorized to make such other exceptions as warranted.
-Sestion 2
+Section 2
 Earned annual leave allowance shall be taken by the employees at the time convenient to the department. In exceptional and unusual circumstances, an agency head may permit use of annual leave allowance before it is earned, not exceeding two weeks.
 
 <a id="section-8-p16"></a>
@@ -507,7 +507,7 @@ Sick leave may be granted at the discretion of the agency head and proof of disa
 _Page 17_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
 
 The normal unit for computation of sick leave shall be not less than one-half day. The agency head may authorize smaller units of charge in exceptional and unusual circumstances.
-Credits cannor be earned for the period an employee is on leave of absence without pay. For the earning of sick leave credits, the time recorded on the payroll at the full rate of pay, and the first six months of absence while receiving Workmen's Compensation payments shall be considered as time "served" by the employee.
+Credits cannot be earned for the period an employee is on leave of absence without pay. For the earning of sick leave credits, the time recorded on the payroll at the full rate of pay, and the first six months of absence while receiving Workmen's Compensation payments shall be considered as time "served" by the employee.
 In the calculation of sick leave credits, a full month's credit shall be given to an employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the sick leave credits earnable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
 
 
@@ -610,7 +610,7 @@ Whenever an employee, not covered by Workmen's Compensation, is physically disab
 
 
 8
-employee but not to exceed the amount of such proceeds. Such agreement shall be in a form and manner prescribed by the Corporation Counsel or other duly empowered counsel. The Agency head may have the injured employee examined by a physician employed by the City in order to determine the extent of the employee's disability and the approval of said physician from a medical viewpoint shall be required for the time granted with pay under this rule. The agency head may require periodic medical examinations of the disabled employee to ascertain the need for continued leave of absence with pay. Notwithstanding the provisions of Article I, Section 4 and Article II, Section 5 annual and sick leave shall aocrue during the first six months only of such absence, and shall be credited upon the employee's return to duty.
+employee but not to exceed the amount of such proceeds. Such agreement shall be in a form and manner prescribed by the Corporation Counsel or other duly empowered counsel. The Agency head may have the injured employee examined by a physician employed by the City in order to determine the extent of the employee's disability and the approval of said physician from a medical viewpoint shall be required for the time granted with pay under this rule. The agency head may require periodic medical examinations of the disabled employee to ascertain the need for continued leave of absence with pay. Notwithstanding the provisions of Article I, Section 4 and Article II, Section 5 annual and sick leave shall accrue during the first six months only of such absence, and shall be credited upon the employee's return to duty.
 
 <a id="section-2-p21"></a>
 ### Section 2
@@ -757,7 +757,7 @@ iii. In any event, the $600 million pursuant to 1(a)(iv) must be recurring and a
 
 
 C.
-Savings attributable to CBP programs will continue to be transferred to the City by ofisetting the savings amounts documented by Empire Blue Cross and GHI against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this ofiset to expire, any savings achieved in this manner must be replaced in order to meet the recurring obligation under 1(a)(iv) above.
+Savings attributable to CBP programs will continue to be transferred to the City by ofisetting the savings amounts documented by Empire Blue Cross and GHI against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this offset to expire, any savings achieved in this manner must be replaced in order to meet the recurring obligation under 1(a)(iv) above.
 d.
 The parties agree that any savings within the period of FY 2015 - 2018 over $3.4 billion arising from the 2014 City/MLC Health Agreement will be counted towards the FY 2019 goal. This is currently estimated at approximately S131 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the City's and the MLC's actuaries.
 e. The parties agree that recurring savings over $1.3 billion for FY 2018 arising under the 2014 City/MLC Health Agreement will be counted toward the goal for Fiscal Years 2019, 2020, 2021 and for purposes of the recurring obligation under 1(a)(iv)

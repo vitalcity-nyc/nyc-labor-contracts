@@ -46,7 +46,7 @@ Office of Labor Relations
 New York, NY 10007
 RE: 2022-2027 Uniform Officers Coalition Economic Agreement ("UOCEA")
 Dear Mr. DiGiacomo:
-This is to confirm the parties' mutual understanding and agreement concerning additional Bargainic tems negoliated by the parties pursuant to Section 4 of the VOCEA (Unit
+This is to confirm the parties' mutual understanding and agreement concerning additional Bargainic tems negotiated by the parties pursuant to Section 4 of the VOCEA (Unit
 1. Effective January 1, 2024, two steps shall be eliminated from the salary schedule for
 Detective Investigator Third Grade and Detective Specialist Third Grade (title codes
 7021A and 7021D) and the following salary schedule shall apply:

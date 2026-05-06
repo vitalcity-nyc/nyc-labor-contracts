@@ -246,7 +246,7 @@ B
 
 
 Office of Labor Relations
-22 Cortlandt Slreet, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Depury Commis.sia,er Hed th Call' Scrar>?gy Daniel Pollak sang Hong Fin r Depury Commissioner Director ofO~ rariais, Nicole Andrade EmpJoyeeBenefitsProgmm Genera Counsel Beth Kushner Director ofA dminis crao·oo, Employee Beneff ts Program October 16, 2025 Joseph Colangelo President SEIU Local 246
+22 Cortlandt Slreet, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy Commis.sia,er Hed th Call' Scrar>?gy Daniel Pollak sang Hong Fin r Deputy Commissioner Director ofO~ rariais, Nicole Andrade EmpJoyeeBenefitsProgmm Genera Counsel Beth Kushner Director ofA dminis crao·oo, Employee Beneff ts Program October 16, 2025 Joseph Colangelo President SEIU Local 246
 217 Broadway, Suite 501
 New York, NY 10007
 Re: $3,000 One-Time Lump Sum Ratification Bonus 2021-2026 Letterer and Sign Painter

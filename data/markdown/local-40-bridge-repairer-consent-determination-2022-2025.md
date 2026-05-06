@@ -346,7 +346,7 @@ First Deputy Commissioner
 Nicole Andrade
 General Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt Deputy Commissione Yealth Care Strateg Sang Hong Director of Operations, Employee Benefits Program Beth Kushner Director of Administration, Employee Benefits Program
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt Deputy Commission Yealth Care Strategy Sang Hong Director of Operations, Employee Benefits Program Beth Kushner Director of Administration, Employee Benefits Program
 12-16
 _ 2025
 Daniel Doyle

@@ -475,7 +475,7 @@ The Appendix or Appendices, if any, attached hereto and initialed by the undersi
 _Page 14_ · _OCR-reconstructed_
 
 In the event that any provision of this Agreement is found to be invalid, such invalidity shall not impair the validity and enforceability of the remaining provisions of this Agreement.
-WHEREFORE, we have hereunto set our hands and seals this /6 day of Delember: 2024.
+WHEREFORE, we have hereunto set our hands and seals this /6 day of December: 2024.
 
 <a id="new-york-city-public-p14"></a>
 ### NEW YORK CITY PUBLIC

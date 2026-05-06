@@ -296,7 +296,7 @@ The
 City f
 New York
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Commissioner Daniel Pollak First Deputy Commissioner Nicole Andrade Generol Counsel August| 3, 2024 Claire Levitt Deputy Commissianer Health Care Strategy Georgette Gestely Director, Employee Benefits Progrom Thomas Callahan President/Business Manager International Union of Operating Engineers - Local 15
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Commissioner Daniel Pollak First Deputy Commissioner Nicole Andrade Generol Counsel August| 3, 2024 Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Progrom Thomas Callahan President/Business Manager International Union of Operating Engineers - Local 15
 44-40 11th Street
 Long island City, NY 11101
 Edwin Christian
@@ -351,7 +351,7 @@ Flushing, New York, NY 11354
 RE: Payroll Paper Pay Stubs 2021-2026 Gasoline Roller Engineer Indenture
 Dear Sirs:
 This is to confirm the understanding and agreement of the parties concerning payroll and paper pay stubs for employees covered under the Gasoline Roller Engineer Indenture for the period February 3, 2021 to March 2, 2026.
-Effective as soon as practicable, following ratitication of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housing Authority who receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate method at employers not on NYCAPS.
+Effective as soon as practicable, following ratification of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housing Authority who receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate method at employers not on NYCAPS.
 If the above accords with your understanding, please indicate your acceptance by signing below.
 Very truly yours,
 Res
@@ -436,14 +436,14 @@ International V.P./N.Y.C. Conf. Pres.
 
 The
 New York.
-Renee Campior
+Renee Campion
 Commissioner
 Daniel Pollak
 First Deputy Commissioner
 Nicole Andrade
 General Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 пус.gov/olr Claire Levitt Depuly Commissioner Health Care Strategy Georgette Gestely Director, Employee tenefits Program August 13, 2024 Thomas Callahan President/Business Manager International Union of Operating Engineers - Local 15
+22 Cortlandt Street, New York, NY 10007 пус.gov/olr Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee benefits Program August 13, 2024 Thomas Callahan President/Business Manager International Union of Operating Engineers - Local 15
 44-40 11th Street
 Long Island City, NY 11101
 Edwin Christian
@@ -516,9 +516,9 @@ Sectlon 1
 ### Section 2
 _Page 16_ · _OCR-reconstructed_ · _Topics: holidays, vacation_
 
-A combined vacation, personal business and religioas holiday leave allowance, shall be established, which shall be known as "annual leave allowance".
+A combined vacation, personal business and religious holiday leave allowance, shall be established, which shall be known as "annual leave allowance".
 ERECTIVE MAX 1, 1970
-Annual leave allowance shall be granted 1o permaneni employees who work at least a
+Annual leave allowance shall be granted 1o permanent employees who work at least a
 250-day year, as follows:
 
 <a id="category-p16"></a>
@@ -528,9 +528,9 @@ _Page 16_ · _OCR-reconstructed_
 Employees whå bayo
 complasad 15 years of
 service.
-Employoes who have
-completod 8 years of sarvice.
-All orber employoes
+Employees who have
+completod 8 years of service.
+All orber employees
 
 <a id="annual-leave-allowance-p16"></a>
 ### ANNUAL LEAVE ALLOWANCE
@@ -567,12 +567,12 @@ In the calculation of annual leave credits, a full month's credit shall be given
 
 
 2
-employoe who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits carnable in one mouth for each 30 days of such accumulated absence even though in full pay sutus for at least 15 calendar days in each month during this period; and (b) if an employee loses annual leave credits under this rule for several months in the vacation year because he has been in full pay status for fewer than 15 days in each month, but accumulates during said months a total of 30 or more calendar days in full pay starus, he shail be credited with the annual leave credits earable in 1 month for each 30 days of such full pay status.
+employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits carnable in one mouth for each 30 days of such accumulated absence even though in full pay sutus for at least 15 calendar days in each month during this period; and (b) if an employee loses annual leave credits under this rule for several months in the vacation year because he has been in full pay status for fewer than 15 days in each month, but accumulates during said months a total of 30 or more calendar days in full pay status, he shail be credited with the annual leave credits earable in 1 month for each 30 days of such full pay status.
 Section ≤
 Calculation of annual leave credits for vacation purposes shall be based on a year beginning May 1st, hereafter known as a "vacation year." All annual leave allowance of an employee to the employee's credit on April 30th and not used in the succeeding vacation year may be carried over from said vacation year to the next succeeding vacation year only, with the approval of the agency head; and any such time not used within the prescribed period shall be added to the employee's sick leave balance.
-All annual leave accumulations to the credit of employses on May 1, 1961, which exceed the allowance permited in Aricle I, Section 5, shall remain to their credit but shall be reduced to the maximum set by the Leave Regulations by May 1, 1970. This shall be (1) Any accumulations in excess of 40 days shall be established as an annual leave reserve bank, which shall be in existence until May 1, 1970.
+All annual leave accumulations to the credit of employees on May 1, 1961, which exceed the allowance permited in Article I, Section 5, shall remain to their credit but shall be reduced to the maximum set by the Leave Regulations by May 1, 1970. This shall be (1) Any accumulations in excess of 40 days shall be established as an annual leave reserve bank, which shall be in existence until May 1, 1970.
 (2)
-Any time left in the annual leave seserve bank on May 1, 1970 shall be transferred to the sick leave balances of employees. If any such transfer causes an employee's sick leave balance to rise above the 180-day maximum established by the Leave Regulations, the sick leave surplus which exceeds 180 days shall be placed in the employees sick leave bank and shall remain to his credit, notwithstanding the provisions of Article Il, Sec. 2.
+Any time left in the annual leave reserve bank on May 1, 1970 shall be transferred to the sick leave balances of employees. If any such transfer causes an employee's sick leave balance to rise above the 180-day maximum established by the Leave Regulations, the sick leave surplus which exceeds 180 days shall be placed in the employees sick leave bank and shall remain to his credit, notwithstanding the provisions of Article Il, Sec. 2.
 (3) After May 1, 1970, the full provisions of Article I, Section 5 apply.
 b.
 In the evem, however, that the Mayor or an elected official of any department calls upon an employee to forego his vacation or any part thereof in any year, that portion thereof shall be carried over as vacation even though the same exceeds the limits fixed in Article
@@ -598,7 +598,7 @@ Solicitation of member.
 Collection of union dues.
 Distribution of union pamphlets. circulars and other literature.
 The agency is authorized to make such other exceptions as warranted.
-Sestion 2
+Section 2
 Earned annual leave allowance shall be taken by the employees at the time convenient to the department In exceptional and unusual circumstances, an agency head may permit use of anmul leave allowance before it is earned, not exceeding two weeks.
 
 <a id="section-8-p18"></a>
@@ -606,8 +606,8 @@ Earned annual leave allowance shall be taken by the employees at the time conven
 _Page 18_ · _OCR-reconstructed_ · _Topics: holidays, vacation_
 
 Where certification of eligible lists permits, provisional and temporary employees shall have the same annual leave benefits as regular employees except that they may not be permitted to uso annual leave allowances for other than religious holidays until they have completed four months of service.
-Sestion 2
-Penalties for unexcused tardiness may be imposed by the head of each agency in conformance with established rules of the agency. As a minimum, however, all unexcused tardiness both in the morning and upon rerurn from lunch shall be charged to the annual leave allowance.
+Section 2
+Penalties for unexcused tardiness may be imposed by the head of each agency in conformance with established rules of the agency. As a minimum, however, all unexcused tardiness both in the morning and upon return from lunch shall be charged to the annual leave allowance.
 
 <a id="section-10-p18"></a>
 ### Section 10
@@ -630,7 +630,7 @@ Sick leave allowance of one day per month of service shall be credited to perman
 ### Section 2
 _Page 19_ · _OCR-reconstructed_ · _Topics: sick-leave_
 
-Sick leave allowance shall be cumulative up to a maximum of 200 work-days. After this maximum is reached, no more sick leave credits may be cared by the employee except to the extent of restoring credits subsequently drawn for sick leave and thereby building up accruals again to the maximum of 200 work-days. Existing balances to the credit of employees at the time of adoption of these regulations shall remain to their credie.
+Sick leave allowance shall be cumulative up to a maximum of 200 work-days. After this maximum is reached, no more sick leave credits may be cared by the employee except to the extent of restoring credits subsequently drawn for sick leave and thereby building up accruals again to the maximum of 200 work-days. Existing balances to the credit of employees at the time of adoption of these regulations shall remain to their credit.
 Section E
 Sick leave may be granted at the discretion of the agency bead and proof of disability must be provided by the employee, satisfactory to the agency bead. Presentation of a physician's certificate in the prescribed form may be waived for absences up to and including three consecutive work days. In a case of a protracted disability, such certificate shall be presented to the agency head at the end of each month of continued absence.
 
@@ -640,7 +640,7 @@ _Page 19_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
 
 The normal unit for computation of sick leave shall be not less than onc-half day. The agency head may authorize smaller units of charge in exceptional and unusual circumstances.
 Credits cannot be earned for the period an employee is on leave of absence without pay. For the earing of sick leave credits, the time recorded on the payroll at the full rate of pay, and the first six months of absence while receiving Workmen's Compensation payments shall be considered as time "served" by the employee.
-In the calculation of sick leave credits, a full month's credit shall be given to an employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the sick leave credits camable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
+In the calculation of sick leave credits, a full month's credit shall be given to an employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the sick leave credits capable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
 
 
 credits under this rule for several months in the vacation year because he has been in full pay status for fewer than 15 days in each month, but accumulatos during said months a total of 30 or more calendar days in full pay status, he shall be credited with the sick leave credits earnable in one month for each 30 days of such full pay status.
@@ -649,14 +649,14 @@ credits under this rule for several months in the vacation year because he has b
 ### Section 5
 _Page 20_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
 
-In the discretion of the agency head, employees except provisional and temporary employees, who have exhsusted all cared sick leave and annual leave balances due to personal illness may be permitted to use unearned sick leave allowance up to the amount earnable in one year of service, chargeable against future eared sick leave.
+In the discretion of the agency head, employees except provisional and temporary employees, who have exhausted all cared sick leave and annual leave balances due to personal illness may be permitted to use unearned sick leave allowance up to the amount earnable in one year of service, chargeable against future eared sick leave.
 
 <a id="section-6-p20"></a>
 ### Section 6
 _Page 20_ · _OCR-reconstructed_ · _Topics: sick-leave_
 
 At the discretion of the agency head, permanent employees may also be granted sick leave with pay for three months after ten years of City Service, after all credits have been used.
-In special instances, sick leave with pay may be further extended, with the approval of the agency bead. The agency head shall be guided in this matter by the narure and extent of illness and the length and character of service.
+In special instances, sick leave with pay may be further extended, with the approval of the agency bead. The agency head shall be guided in this matter by the nature and extent of illness and the length and character of service.
 Il, OTHER AUTHORIZED ABSENCES WITH PAY
 
 <a id="section-1-p20"></a>
@@ -705,7 +705,7 @@ Leaves of absence without pay for reasons not covered in the foregoing rules may
 ### Section 3
 _Page 22_ · _OCR-reconstructed_
 
-Agencies shall grant any leave of absence withour pay, such as miliary leave, required by law.
+Agencies shall grant any leave of absence without pay, such as miliary leave, required by law.
 Y. MISCELLANEOUS PROVISIONS
 
 <a id="section-1-p22"></a>
@@ -718,7 +718,7 @@ employee.
 ### Section 2
 _Page 22_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave, promotion_
 
-Daily time records shall be maintained showing the actual hours worked by each Upon transfer of a permanent employee, or appointment from an eligible list wit ontinuous service in another City agency, sick leave and annual leave balances shall b transferred with the employee.
+Daily time records shall be maintained showing the actual hours worked by each Upon transfer of a permanent employee, or appointment from an eligible list wit continuous service in another City agency, sick leave and annual leave balances shall b transferred with the employee.
 
 <a id="section-2-p22"></a>
 ### Section 2
@@ -736,12 +736,12 @@ Subject to limitations of Art. I, Sec. 8 above, the annual leave allowance and t
 ### Section 1
 _Page 22_ · _OCR-reconstructed_ · _Topics: wages, sick-leave_
 
-Whenever an employee, not covered by Workmen's Compensation, is physically disabled in the performance of his official duties, the head of the agency is empowered to grant such employee a leave of absence with pay not to exceed one calendar year. In such case the employee shall be required to execute an agreement, wherein it is stipulated that, in the event that such employee makes any claim or instinutes any action against any party whatsoever in relation to such disabilisy, reimbursement in the amount of such pay shall be made to the City or the agency concered, as the case may be, from the proceeds of the recovery by such
+Whenever an employee, not covered by Workmen's Compensation, is physically disabled in the performance of his official duties, the head of the agency is empowered to grant such employee a leave of absence with pay not to exceed one calendar year. In such case the employee shall be required to execute an agreement, wherein it is stipulated that, in the event that such employee makes any claim or instinutes any action against any party whatsoever in relation to such disability, reimbursement in the amount of such pay shall be made to the City or the agency concerned, as the case may be, from the proceeds of the recovery by such
 
 
 8
-employee but not to exceed the amount of such proceeds. Such agreement shall be in a form and manner prescribed by the Corporation Counsel or other duly empowered counsel. The Agency head may have the injured employee examined by a physician employed by the City in order to determine the extent of the employee's disability and the approval of said physician from a medical viewpoins shall be required for the time granted with pay under this rule. The agency head may require periodic medical examinations of the disabled employee to ascertain the need for continued leave of absence with pay. Notwithstanding the provisions of Article 1, Section 4 and Artiale II, Section 5 annual and sick leave shall accrue during the first six months only of such abscace, and shall be credited upon the employee's return to duty.
-Sestion 2
+employee but not to exceed the amount of such proceeds. Such agreement shall be in a form and manner prescribed by the Corporation Counsel or other duly empowered counsel. The Agency head may have the injured employee examined by a physician employed by the City in order to determine the extent of the employee's disability and the approval of said physician from a medical viewpoint shall be required for the time granted with pay under this rule. The agency head may require periodic medical examinations of the disabled employee to ascertain the need for continued leave of absence with pay. Notwithstanding the provisions of Article 1, Section 4 and Article II, Section 5 annual and sick leave shall accrue during the first six months only of such abscace, and shall be credited upon the employee's return to duty.
+Section 2
 The agency head is empowered to grant leave of absence with pay for the first week's absence of an employee covered by Workmen's Compensation who is physically disabled in the performance of official duties.
 
 <a id="section-3-p23"></a>
@@ -756,7 +756,7 @@ raie, provided that:
 The injured employee or any authorized person acting in his behalf makes the .
 request in writing, and
 b.
-The injured employte or any authorized person acting in his bebaif agrees that a pro-rated charge be made against his sick leave and/or annual leave balances equal to the number of working days of absence less the number of working days represented by the Workmen's Compensation payments, and The injured employee has the necessary accrued sick leave and/or annual leave balance or has been advanced credits in accordance with the Comptroller's Leave Regulations which the supplementary pay can be charged, and d.
+The injured employee or any authorized person acting in his bebaif agrees that a pro-rated charge be made against his sick leave and/or annual leave balances equal to the number of working days of absence less the number of working days represented by the Workmen's Compensation payments, and The injured employee has the necessary accrued sick leave and/or annual leave balance or has been advanced credits in accordance with the Comptroller's Leave Regulations which the supplementary pay can be charged, and d.
 The injured employee was not guilty of willful gross disobedience of safety rules or willful failure to use a safety device, or was not under the influence of alcohol or narcotics at the time of injury, or did not willfully intend to bring about injury or death upon himself or another, and
 
 
@@ -764,7 +764,7 @@ The injured employee was not guilty of willful gross disobedience of safety rule
 9
 The injured employee undergoes such medical examinations as are requested by the Workmen's Compensation Division of the Law Department and his agency; and when found fit for duty by said physicians, returns to his employment.
 To take annual leave and receive full pay and Workmen's Compensation medical
-covarage, provided that:
+coverage, provided that:
 The injured employer or any authorized person acting in his behalf makes the request in writing, and The injured employee or any authorized person acting in his behalf agrees to have his annual leave balance charged for such absence, and
 6. The injured employee has the necessary accrued annual leave balance.
 3.
@@ -801,7 +801,7 @@ Dear Mr. Nespoli:
 This is to confirm the parties' mutual understanding concerning the following issues:
 Unless otherwise agreed to by the parties, the Welfare Fund contribution will remain constant for the length of the successor unit agreements, including the $65 funded from the Stabilization Fund pursuant to the 2005 Health Benefits Agreement between the City of New York and the Municipal Labor Committee.
 2.
-Effective July 1, 2014, the Stabilization Fund shall convey S1 Billion to the City of New York to be used to support wage increases and other economic items for the current round of collective bergaining (for the period up to and including fiscal year 2018). Up to an additional total amount of $150 million will be available over the four year period from the Stabilization Fund for the welfare funds, the allocation of which shall be determined by the parties. Thereafter, $ 60 million per year will be available from the Stabilization Fund for the welfare funds, the allocation of which shall be determined by the parties.
+Effective July 1, 2014, the Stabilization Fund shall convey S1 Billion to the City of New York to be used to support wage increases and other economic items for the current round of collective bargaining (for the period up to and including fiscal year 2018). Up to an additional total amount of $150 million will be available over the four year period from the Stabilization Fund for the welfare funds, the allocation of which shall be determined by the parties. Thereafter, $ 60 million per year will be available from the Stabilization Fund for the welfare funds, the allocation of which shall be determined by the parties.
 If the parties decide so engage in a centralized purchase of Prescription Drugs, and savings and efficiencies are identified therefrom, there shall not be any reduction in welfare fund contributions.
 There shall be a joint committee formed that will engage in a process to select an independent healthcare actuary, and any other mutually agreed upon additional outside expertise, to develop an accounting system to measure and calculate savings.
 1
@@ -824,7 +824,7 @@ The parties shall share the costs for the arbitrator and the actuary the arbitra
 2
 
 
-If the above accords with your understending and agreement, kindly execute the signature line provided.
+If the above accords with your understanding and agreement, kindly execute the signature line provided.
 Sincerely,
 Robert W. Lin
 Commissioner
@@ -835,7 +835,7 @@ The
 City f
 New Yark
 ROBERT W. LINN
-Commissloner
+Commissioner
 
 <a id="renee-campion-p28"></a>
 ### RENEE CAMPION
@@ -860,7 +860,7 @@ _Page 28_ · _OCR-reconstructed_
 ### ORGETTE GESTEI
 _Page 28_ · _OCR-reconstructed_
 
-ractor, Employao Benefis Progs June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
+rector, Employao Benefit Progs June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
 125 Barclay Street
 New York, New York
 Dear Mr. Nespoli:
@@ -872,7 +872,7 @@ i.
 $200 million in Fiscal Year 2019; її.
 5300 million in Fiscal Year 2020; ili. S600 million in Fiscal Year 2021, and iv. For every fiscal year thereafter, the 5600 million per year savings on a citywide basis in healthcare costs shall continue on a recurring basi!
 b.
-Savings will be measured against the projected FY 2019-FY 2022 City Financia Plan (adopted on June 15, 2018) which incorporates projected City health care cast increases of 7% in Fiscal Year ("FY") 2019, 6.5% in FY 2020 and 6% in FY 2021.
+Savings will be measured against the projected FY 2019-FY 2022 City Financial Plan (adopted on June 15, 2018) which incorporates projected City health care cast increases of 7% in Fiscal Year ("FY") 2019, 6.5% in FY 2020 and 6% in FY 2021.
 Non-recurring savings may be transferrable within the years FY 2019 through FY
 2021 pursuant only to l(a)(i), 1(a)(ii), |(a)(il) above. For example:
 1. S205 million in FY 2019 and 5295 million in FY 2020 will qualify for those
@@ -883,7 +883,7 @@ ili. In any event, the 5600 million pursuant to 1(a)(iv) must be recurring and a
 1
 
 
-c. Savings attributable to CBP programs will continue to be transferred to the City by offsetting the savings amounts documented by Empire Blue Cross and GHl against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this ofiset to expire, any savings achieved in this manner must be replaced in order to d.
+c. Savings attributable to CBP programs will continue to be transferred to the City by offsetting the savings amounts documented by Empire Blue Cross and GHl against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this offset to expire, any savings achieved in this manner must be replaced in order to d.
 The parties agree that any savings within the period of FY 2015 - 2018 over 53.
 billion arising from the 2014 City/MLC Health Agreement will be counted toward!
 the FY 2019 goal. This is currently estimated at approximately S131 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the Ciry's and the MLC's actuaries.
@@ -895,7 +895,7 @@ shall be utilized as follows:
 The first S68 million will be used by the City to make a 5100 per member per year increase to welfare funds (actives and retirees) effective July 1, 2021. If a savings amount over 5600 million but less than S668 million is achieved, the 5100 per member per year (actives and retirees) increase will be prorated.
 Any savings thereafter shall be split equally between the City and the MLC and applied in a manner agreed to by the parties.
 3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the
-parties shall authorize the quarterly provision of the following data to the City's and MILC's actuaries on an ongoing quarteriy basis: (1) detailed claim-level henith data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the CHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
+parties shall authorize the quarterly provision of the following data to the City's and MILC's actuaries on an ongoing quarterly basis: (1) detailed claim-level henith data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the CHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
 utilization data under the HIP-HMO plan. Such data shail be provided within 60 days of the end of each quarterly period. The HIP-HMO utilization dala will aiso be provided to the City's and MLC's actuaries within 60 days of the execution of this letter agreement for City Fiscal Year 2018 as baseline information to assess ongoing savings. The HIP-HMO data shall include: (i)
 utilization by procedure for site of service benefit changes; (il) utilization by disease state, by procedure (for purposes of assessing Centers of Excellence); and (ili) member engagement dala for the Wellness program, including stratifying members by three tranches (level 1, Il and I1).
 The data shall include baseline data as well as data regarding the assumptions utilized in determining expected savings for comparison. The data described in this paragraph shall be provided pursuant to a data sharing agreement entered into by the City and MLC, akin to prior data agreements, which shall provide for the protection of member privacy and related concerns, shall cover all periods addressed by this Agreement (i.e., through June 30, 2021 and thereafter), and shall be executed within thirty days of the execution of this letter agreement.
@@ -914,7 +914,7 @@ d. Comparability- investigation of other unionized settings regarding their meth
 e.
 Audits and Coordination of Benefits- audit insurers for claims and financial accuracy, coordination of benefits, pre-65 disabled Medicare utilization, End Stage Renal Disease, PICA, and Payroll Audit of Part Time Employees.
 f.
-Other areas- Centers of Excellence for specific conditions, Hospital and provider ficring; Precertilication Fees; Amendment of Medicare Part B reimbursement; Reduction of cost for Pre-Medicare relirees who have access to other coverage; Changes to the Senior Care rate; Changes to the equalization formula.
+Other areas- Centers of Excellence for specific conditions, Hospital and provider ficring; Precertification Fees; Amendment of Medicare Part B reimbursement; Reduction of cost for Pre-Medicare retirees who have access to other coverage; Changes to the Senior Care rate; Changes to the equalization formula.
 Potential RFPs for all medical and hospital benefits.
 I Status of the Stabilization Fund.
 The Committee will make recommendations to be considered by the MLC and the City.
@@ -923,7 +923,7 @@ The Committee will make recommendations to be considered by the MLC and the City
 7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer
 in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
 2014 City/MLC Health Agreement:
-a. Such dispule shall be resolved within 90 days.
+a. Such dispute shall be resolved within 90 days.
 3
 
 

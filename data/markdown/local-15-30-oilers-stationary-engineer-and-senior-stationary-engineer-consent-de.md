@@ -428,7 +428,7 @@ vi.
 In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this agreement.
 The lump sum cash payment shall be pensionable, consistent with applicable law.
 The lump sum cash payment shall not become part of the employee's basic salary cate, nor will it be added to the employee's basic salary for the calculation of any salary-based benefits, including but not limited to the calculation of future collective bargaining increases.
-For circumstances not covered by this agreement, the First Deputy Commissioner f Labor Relations may elect to issue, on a case-by-case basis, interpretatior oncerning the payment of the lump sum ratification bonus. Such interpretatior shall not be subject to any dispute resolution procedures.
+For circumstances not covered by this agreement, the First Deputy Commissioner f Labor Relations may elect to issue, on a case-by-case basis, interpretation concerning the payment of the lump sum ratification bonus. Such interpretation shall not be subject to any dispute resolution procedures.
 If the above accords with your understanding, please indicate your acceptance by signing below.
 Very Truly Yours,
 Rence Campion
@@ -446,7 +446,7 @@ President and Business Manager International V.P./N.Y.C Conf. Pres.
 _Page 17_ · _OCR-reconstructed_
 
 Khu.
-Villiam Lyn
+William Lyn
 Business Manager
 International Vice President
 15
@@ -522,7 +522,7 @@ Business Manager
 
 
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/otr Renee Campion Clalre Levitt Deputy CtJmmlssloner Commissioner Health CtJre St1'11tegy Danial Pollak Georgette Gestaly First Deputy Commissioner Director, Employee Beneflrs Program Nicole Andrade GenertJI Counsel November.1.4_, 2023 William Lynn Business Manager lntemational Union of Operating Engineers - Local 30 I 15-06 Myrtle Avenue Richmond Hill, NY 11418 Thomas Callahan President/Business Manager lntemational Union of Operating Engineers - Local 15
+22 Cortlandt Street, New York, NY 10007 nyc.gov/otr Renee Campion Clalre Levitt Deputy CtJmmlssloner Commissioner Health CtJre St1'11tegy Daniel Pollak Georgette Gestaly First Deputy Commissioner Director, Employee Beneflrs Program Nicole Andrade GenertJI Counsel November.1.4_, 2023 William Lynn Business Manager lntemational Union of Operating Engineers - Local 30 I 15-06 Myrtle Avenue Richmond Hill, NY 11418 Thomas Callahan President/Business Manager lntemational Union of Operating Engineers - Local 15
 265 West 1411 Street, Room 505 '
 New York, NY 10011-7193
 Dear Sirs:

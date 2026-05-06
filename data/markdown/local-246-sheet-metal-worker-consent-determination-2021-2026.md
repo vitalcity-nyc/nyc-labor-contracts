@@ -365,7 +365,7 @@ Re: S3,000 One-Time Lump Sum Ratification Bonus 2021-2026 Sheet Metal Worker and
 Dear Mr. Colangelo:
 This is to confinn the understanding and agreement of the parties concerning the lump sum cash payment for the employees covered under the Sheet Metal Worker and Supervisor Sheet Metal Worker Consent Determination for the period September I 7, 2021 through October 16, 2026.
 i. A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification of this Agreement to those bargaining unit members who were in active payroll status as of December 19, 2023, the date of ratification. Active payroll status is defined as being in active payroll status ("B Status''), military leave with pay ("K status"), or on paid family leave.
-ii. Employees who were tenninated for cause, resigned, retired, or otherwise separated from service, for any other reason, prior to the date of ratification of this Agreemenl shall not be eligible for the lump sum cash payment.
+ii. Employees who were tenninated for cause, resigned, retired, or otherwise separated from service, for any other reason, prior to the date of ratification of this Agreement shall not be eligible for the lump sum cash payment.
 iii. In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this agreement.
 iv. The lump sum cash payment shall be pensionable, consistent with applicable law.
 v. The lump sum cash payment shall not become part of the employee's basic salary rate, nor will it be added to the employee's basic salary for the calculation of any salary-based benefits, including but not limited to the calculation of future collective bargaining increases.
@@ -376,7 +376,7 @@ For circumstances not covered by this agreement, the First Deputy Commissioner o
 If the above accords with your understanding, please indicate your acceptance by signing below.
 Very truly yours,
 Rene Compos
-Agreed and Accepted on Behalf of SEIU Local 246, Josaph Colangelo, President
+Agreed and Accepted on Behalf of SEIU Local 246, Joseph Colangelo, President
 
 
 •

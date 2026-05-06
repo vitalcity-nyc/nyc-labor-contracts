@@ -141,7 +141,7 @@ Full-time employees who teach a course that represents an overload assignment sh
 ## Article 15 — 1(b).
 _Page 5_ · _OCR-reconstructed_ · _Topics: wages, health-welfare, hours, promotion_
 
-• The teaching contact hour will remain the basis for calculating salary and benetits eligibility. In the event the conversion from an hourly rate to a course rate impacts a benefit or term of employment under the collective bargaining agreement other than workload, the parties shall meet to discuss maintaining the status quo with regard to that benefit or term of employment.
+• The teaching contact hour will remain the basis for calculating salary and benefits eligibility. In the event the conversion from an hourly rate to a course rate impacts a benefit or term of employment under the collective bargaining agreement other than workload, the parties shall meet to discuss maintaining the status quo with regard to that benefit or term of employment.
 Teaching Adjunct Workload
 Effective the start of the Spring 2027 Semester, Delete Article 15.2(b) and replace
 with:
@@ -168,7 +168,7 @@ PSC-CUNY Welfare Fund Contributions:
 Amend Article 26
 Effective August 1, 2024, CUNY shall provide a lump sum contribution of $156,039 per month to the PSC-CUNY Welfare Fund. There shall be no change in per capita contribution.
 In September 2025, CUNY shall provide for a one-time lump sum contribution of $4,000,000 to the PSC-CUNY Welfare Fund.
-Effective March 1, 2027, CUNY shall increase the monthly lump sum contribution from $156,039 per month to $333,533 per month to the PSC-CUNY Weltare Fund. There shall be no change in per capita contribution.
+Effective March 1, 2027, CUNY shall increase the monthly lump sum contribution from $156,039 per month to $333,533 per month to the PSC-CUNY Welfare Fund. There shall be no change in per capita contribution.
 The University will make proportional contributions for such other categories of employees on whose behalf the University contributes under Article 26.1.
 HEO/CLT and Adjunct/CET Professional Development Funds Contribution Moratorium Amend Articles 33.5 and 33.6 CUNY shall suspend contributions under Article 33.5 to the HEO/CLT Professional Development Fund for FY 2025 (February 1, 2025 contribution) and FY2026 (February 1, 2026 contribution).
 Effective, February 1, 2025 through December 31, 2026, Article 33.5(c) shall be suspended and not apply. Article 33.5(c) shall be reinstated effective January 1,
@@ -313,7 +313,7 @@ The committee shall work with the Research Foundation to ensure timely data is p
 Post-Tenure Assistant and Associate Professor Reassigned Time Award Pilot
 Add New Article 25.7:
 The parties agree to enter into a post-tenure reassigned time research award pilot program for three (3) academic years starting in academic year 2025-2026 through academic year 2027-2028.
-The parties shall initiate discussions no later than January 1, 2028, to determine whether to continue or modify the pilot program. If the parties are unable to agree to continue or modify the pilot orogram, it shall terminate at the conclusion of the 2027-2028 academic year except that reassigned time awarded in 2027-2028 may be utilized through the end of the 2028-2029 academic year. For the terms of the Post-Tenure Assistant and Associate Professor Reassigned Time Award Pilot, see Appendix P.
+The parties shall initiate discussions no later than January 1, 2028, to determine whether to continue or modify the pilot program. If the parties are unable to agree to continue or modify the pilot program, it shall terminate at the conclusion of the 2027-2028 academic year except that reassigned time awarded in 2027-2028 may be utilized through the end of the 2028-2029 academic year. For the terms of the Post-Tenure Assistant and Associate Professor Reassigned Time Award Pilot, see Appendix P.
 Add Appendix P
 
 <a id="appendix-p-p16"></a>
@@ -491,7 +491,7 @@ The parties shall enter into a pilot program for appointments for Fall 2025 thro
 modify or extend it beyond Fall 2027. For the terms of the CLIP/CUNY Start Multi- Year Appointment Pilot, see Appendix Q.
 • Add Appendix Q to the Agreement:
 APPENDIX Q: CLIP/CUNY Start Multi-Year Appointment Pilot The first two-year appointment under the pilot shall be for Fall of 2025 and will continue to be available through Fall 2027. The last two-year appointment under the pilot shall be for Fall 2027.
-CUNY Start Instructors who have completed ten (10) years of continuous service and have a satistactory performance history in the CUNY Start Program shall be eligible for consideration for a 2-year appointment.
+CUNY Start Instructors who have completed ten (10) years of continuous service and have a satisfactory performance history in the CUNY Start Program shall be eligible for consideration for a 2-year appointment.
 Years of continuous service shall include consecutive full years of full-time equivalent service in the CUNY Start Program prior to February 12, 2017 (the date of annualization of the CUNY Start Instructor title).
 CUNY CLIP Instructors who have completed ten (10) years of continuous service and have a satisfactory performance history in the CUNY CLIP Program shall be eligible for consideration for a 2-year appointment. Years of continuous service shall include consecutive full years of full-time equivalent service in the CUNY CLIP Program prior to February 12, 2017 (the date of annualization of the CUNY CLIP Instructor title).
 To receive a 2-year appointment, CUNY Start Instructors and CUNY CLIP Instructors who satisfy the service and performance eligibility requirements must receive the positive recommendations of (1) the Instructor's supervisor at the college and (2)
@@ -522,7 +522,7 @@ Assigned overtime hours are hours a HEO series employee is assigned and approved
 as designated by the College President
 3. Use of Compensatory Time
 Represented HEO-series employees shall be given quarterly statements of compensatory time accrued and/or taken.
-Compensatory time earned during a quarter of the contractual HEOseries "leave year" (September 1 - August 31) shall be scheduled to be used as bromotlv as bossible within the quarter. but no later than
+Compensatory time earned during a quarter of the contractual HEOseries "leave year" (September 1 - August 31) shall be scheduled to be used as bromotlv as possible within the quarter. but no later than
 
 
 30 calendar days after the end of the quarter in which the compensatory time was earned. The use of compensatory time shall be scheduled by the supervisor, in consultation with the employee.
@@ -580,7 +580,7 @@ CUNY and the PSC agree to meet within 30 days of the full execution of the agree
 Personnel Files
 Amend Article 19
 Each unit within The City University shall maintain a personal file and an administration file for each employee. The personal and administration files may each consist of a paper component (i.e., hard copy file) and/or an electronic component, which together shall constitute the files under this Article.
-College-Based Health and Health and Safety Labor Management Committees Add New Article 39.3 Within 120 days of the effective date of the Agreement, CUNY and the PSC shall establish a safety and health committee at each college to discuss local satety and health workplace issues. The committee shall meet at least once per semester and consist of up to three (3) individuals selected by the college President or their designee and up to three (3) individuals selected by the PSC.
+College-Based Health and Health and Safety Labor Management Committees Add New Article 39.3 Within 120 days of the effective date of the Agreement, CUNY and the PSC shall establish a safety and health committee at each college to discuss local safety and health workplace issues. The committee shall meet at least once per semester and consist of up to three (3) individuals selected by the college President or their designee and up to three (3) individuals selected by the PSC.
 Labor Management Committees
 Amend Appendix L
 CUNY and the PSC agree to establish a labor-management committee(s) to
@@ -935,7 +935,7 @@ $
 
 
 
-bircent sever i endetend an fut execution,, the parties to succinor polin e suspent fleet and stip star dod by the union.
+bircent sever i endetend an fut execution,, the parties to succinor polin e suspend fleet and stip star dod by the union.
 
 <a id="pp2113-144-p39"></a>
 ### PP2113/144
@@ -1038,7 +1038,7 @@ credit-bearing courses in academic programs) (in accordance with Paragraph 2(d))
 
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter Successor to Appendix E Pilot for Teaching Adjuncts
 lost no more than:
-a. one (1) course owing to insufficient enroliment or reassignment of a course to another faculty member; and/or b. up to two (2) semesters owing to medical reasons in the semesters) at issue.
+a. one (1) course owing to insufficient enrollment or reassignment of a course to another faculty member; and/or b. up to two (2) semesters owing to medical reasons in the semesters) at issue.
 The combination of (a) and (b) above may not exceed two (2) semesters.
 A teaching adjunct who believes that their service in at least twelve (12) of the fourteen (14)
 most recent semesters (excluding summer sessions) counts as qualifying service as set forth herein must self-identify to the college Human Resources Office and the department chair no later than the end of the second week of the Spring semester in which they would be considered for a two-year appointment and provide documentation satisfactory to the college's Office of Human Resources. The college shall determine whether the adjunct meets the eligibility criteria set forth herein for consideration for a two-year appointment and shall notify the adjunct whether they are eligible to receive consideration for such appointment.
@@ -1067,7 +1067,7 @@ appointment;
 3. no declination of an assigned course during a 2-year appointment.
 c. Exceptions to Eligibility Requirements for Successive 2-Year Appointments
 1. Exceptions to Paragraph 3(b)(2) - No more than one semester of fewer than six (6)
-teaching contact hours per semester during a 2-year appointment a. Adjuncts assigned less than six (6) contact hours in a semester during the term of a 2year appointment shall be exempt for one (1) semester from the eligibility requirements of paragraph 3(b)(2) if they independently identify and are assigned non-teaching or teaching work that makes up the deficit between six (6) contact hours and the hours they were assigned for the semester. To qualify for the exemption, the adjunct must self-identify to the college Human Resources Office and the department chair no later than the end of the second week of the Spring semester in which they would be " The following caregories of teaching adjuncts shall be treated as being subject to the eligibility requirements for
+teaching contact hours per semester during a 2-year appointment a. Adjuncts assigned less than six (6) contact hours in a semester during the term of a 2year appointment shall be exempt for one (1) semester from the eligibility requirements of paragraph 3(b)(2) if they independently identify and are assigned non-teaching or teaching work that makes up the deficit between six (6) contact hours and the hours they were assigned for the semester. To qualify for the exemption, the adjunct must self-identify to the college Human Resources Office and the department chair no later than the end of the second week of the Spring semester in which they would be " The following categories of teaching adjuncts shall be treated as being subject to the eligibility requirements for
 successive 2-year appointments:
 a. Adjuncts previously eligible under the expired Appendix E pilot; b. Eligible adjuncts who are not appointed/reappointed and are eligible for consideration for a 2-Year appointment under Paragraph 8(a), and c. Eligible adjuncts who waived or declined a two-year appointment and eligible for consideration for a 2-year appointment under Paragraph 8(b).
 4|1
@@ -1189,7 +1189,7 @@ b) Paid parental leave may be taken prior to the birth when deemed medically nec
 c) Paid parental leave may be taken prior to the adoption of or foster placement of the child when necessary to fulfill the legal requirements for an adoption or foster care (e.g., foreign travel).
 d) For eligible couples in the bargaining unit who work in the same department at the same college, the parental leaves may not be taken concurrently (or concurrently with the birth ' Persons employed as substitutes who do not have an underlying regular annual appointment are not eligible for the Paid Parental Leave Benefit.
 " Teaching faculty who have completed two continuous semesters of teaching and become parents during the period of annual leave, as defined in section 14.1 of the PSC/CUNY collective bargaining agreement, are eligible for the Paid Parental Leave Benefit.
-' Ruference to "adoption" shall b. understood to mean the formal placement of'a child with the employee for adoption.
+' Reference to "adoption" shall b. understood to mean the formal placement of'a child with the employee for adoption.
 
 
 mother's period of disability leave, if any), but must be taken consecutively. The couple would be eligible for two consecutive leaves limited to a combined total of 21 rather than 24 weeks. In no event may either parent take a leave of more than twelve weeks. The couple may appeal to the President of the College for permission to take the leave concurrently. The decision of the President is final.

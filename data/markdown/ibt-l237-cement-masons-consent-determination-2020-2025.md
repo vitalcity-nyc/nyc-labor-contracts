@@ -243,7 +243,7 @@ d) The Complainant herein shall refrain from filing any Article 78 proceedings i
 5
 
 
-contained herein excopting that the right is reserved to bring any necessary proceedings for the enforcement of the terms of the Consent Determination.
+contained herein excepting that the right is reserved to bring any necessary proceedings for the enforcement of the terms of the Consent Determination.
 c) The Complainant agrees to withdraw any and all objections in all of the periods embodied herein f) The Complainant agrees to waive any and all supplemental benefits payable under subdivision 3 of Scetion 220 of the Labor Law of the State of New York, such waiver being set forth in Exhibit "A" annexed hereto, and accept in lieu thereof the supplemental benefits set forth in this Consent Determination, and as sct forth in Appendix A annexed hereto as modified herein.
 g) Any now Employee who may be hired by the City of New York, ct al., during the term of this settlement shall be required to comply with all of the terms and conditions herein upon the payment of rates and supplemental benefits herein.
 h) Any Iegal claims of any nature, including specifically, but not limited thereto, premium rates, holiday rates, shift rates, overtime rates or any other legal claims affecting rates and supplemental benefits of any kind whatsoever, are merged in this compromise and settlement for the period of the compromise and settlement contained herein.
@@ -309,7 +309,7 @@ TERM: September 27, 2020 through October 26, 2025
 ### GENERAL RELEASE AND WAIVER
 _Page 10_ · _OCR-reconstructed_ · _Topics: wages, discipline_
 
-Local 237, 1.B.T. (hereinafter referred to as the "Union"), as the certific collective bargaining representative of employees in the title, CEMENT MASON for and in consideration of the wage rates and supplemental benefit package negotiated and agreed upon by the Union and the City of New York as set forth in a collective bargaining agreement for the period beginning September 27, 2020 and terminating October 26, 2025, a copy of which has been made availablo
+Local 237, 1.B.T. (hereinafter referred to as the "Union"), as the certific collective bargaining representative of employees in the title, CEMENT MASON for and in consideration of the wage rates and supplemental benefit package negotiated and agreed upon by the Union and the City of New York as set forth in a collective bargaining agreement for the period beginning September 27, 2020 and terminating October 26, 2025, a copy of which has been made available
 to the Union, hereby voluntarily and knowingly agrees to:
 Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any place for age, spleents or her have inder anyone one cro Discontinue any and all action or proceedings, if any, heretofore commenced by me or on my behalf of the above mentioned titles under and pursuant to Section 220 of the Labor Law applicable to the period September 27, 2020 through October 26,
 3.
@@ -684,7 +684,7 @@ The injured employee was not guilty of willful gross disobedience of safety rule
 
 9
 The injured employee undergoes such medical examinations as are requested by he Workmen's Compensation Division of the Law Department and his agency: and when foun fit for duty by said physicians, returns to his employment.
-Zoverage, pale dad thal leave and receive full pay and. Workmen's Compensation medica The injured employer or any authorized person acting in his behalf makes the request in writing, and The injured employee or any authorized person acting in his behalf agrees to have his annual leave balance charged for such absence, and The injured employee has the necessary accrued annual leave balance.
+Coverage, pale dad thal leave and receive full pay and. Workmen's Compensation medical The injured employer or any authorized person acting in his behalf makes the request in writing, and The injured employee or any authorized person acting in his behalf agrees to have his annual leave balance charged for such absence, and The injured employee has the necessary accrued annual leave balance.
 3.
 To receive Workmen's Compensation benefits in their entirety with no charge against sick leave and/or annual leave.
 b. During the period when an injured employee is receiving Workmen's Compensation and the differential to bring him to full pay, he will be carried on full-pay status and this time shall be counted for retirement benefits.
@@ -728,7 +728,7 @@ If the parties decide to engage in a centralized purchase of Prescription Drugs,
 1
 
 
-The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced in Paragraph 2 above and generated in the individual fiscal years as follows: (i) $400 million in Piscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) S1 billion in Fiscal Year 2017; (iv)
+The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced in Paragraph 2 above and generated in the individual fiscal years as follows: (i) $400 million in Fiscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) S1 billion in Fiscal Year 2017; (iv)
 $1.3 billion in Fiscal Year 2018; and (v) for every fiscal year thereafter, the savings on a citywide basis in health care costs shall continue on a recurring basis. At the conclusion of Fiscal Year 2018, the parties shall calculate the savings realized during the prior four-year period. In the event that the MIC has generated more than $3.4 billion in cumulative healthcare savings during the four-year period, as determined by the jointly selected healthcare actuary, up to the first $365 million of such additional savings shall be credited proportionately to each union as a one-time lump sum pensionable bonus payment for its members. Should the union desire to use these funds tor other purposes, the parties shall negotiate in good faith to attempt to agree on an appropriate alternative use. Any additional savings generated for the four-year period beyond the first $365 million will be shared equally with the City and the MC for the same purposes and subject to the same procedure as the first S365 million. Additional savings beyond $1.3 billion in FY 2018 that carry over into FY 2019 shall be subject to negotiations between the parties.
 The following initiatives are among those that the MLC and the City could consider in
 their joint efforts to meet the aforementioned annual and four-year cumulative savings figures:
@@ -770,7 +770,7 @@ First Deputy Commissioner
 _Page 26_ · _OCR-reconstructed_
 
 Deputy Commissioner
-Health Care Cost Managament
+Health Care Cost Management
 
 <a id="office-of-labor-relations-p26"></a>
 ### OFFICE OF LABOR RELATIONS

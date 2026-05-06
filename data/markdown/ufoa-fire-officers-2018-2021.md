@@ -1337,7 +1337,7 @@ Unifonncd Fire Officm Association S5 Term: March 20, 20 I B 10 July JO, 2021
 
 
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion ClalreLevttt Dtpury COmmlulontr Commissioner Htoltlt Cori: Stror,gy Daniel Pollak Georgette Gutall( Fint Depury Commissioner Dlrtdor, Emp/oytl BtM/iU Program Nlcola Andrade Gi:rreral Couns,:I James Lemonda, President Unifonned Fire Officers Association
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion ClalreLevttt Dtpury COmmlulontr Commissioner Htoltlt Cori: Stror,gy Daniel Pollak Georgette Gutall( Fint Deputy Commissioner Dlrtdor, Emp/oytl BtM/iU Program Nlcola Andrade Gi:rreral Couns,:I James Lemonda, President Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, N.Y. 10007
 Dear Mr. Lemonds:
@@ -1371,7 +1371,7 @@ Unifanm:d Fin: Officers Association Tenn: March 20, 201B 10 July 30, 2021
 
 
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Ranee Campion Clalnt Levitt CommlsJlon~r Deputy Commlulonrr Htafth C'al'I! Stroll!O)I Danial Pollak G1arg1tta Gestely Rm D~uty Comm/JJ/onrr Director, Employee Stnttftts Prtlflram Nicole Andrada Grnttrol Counsel JBII1cs Lemonda, President Uniformed Fire Officers Association
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Ranee Campion Clalnt Levitt CommlsJlon~r Deputy Commlulonrr Htafth C'al'I! Stroll!O)I Daniel Pollak G1arg1tta Gestely Rm D~uty Comm/JJ/onrr Director, Employee Stnttftts Prtlflram Nicole Andrada Grnttrol Counsel JBII1cs Lemonda, President Uniformed Fire Officers Association
 225 Broadway, Suite 401
 New York, NY 10007
 Re: UFOA Agreement covering the period from March 20, 2018, to July 30, 2021.
@@ -1392,7 +1392,7 @@ Unifonncd Fire Officers Association Tenn: M11rch 20, 20 IB t o July 30, 2021
 
 
 Office of Labor Relations
-22 Cortlandt Slree~ New York, NY 10007 nyc,gov/olr Renee Campion Claln1 Levitt Commission~, Deputy Commissioner Health Core Strategy Danial Pollak Georg■tte Gaat1ly Rnt CRpuly Commissioner Dlrmor, Employ,:,: Br:ne[iu Program Nicole Andrade General Counul James Lemonda, President Uniformed Fire Officers Association
+22 Cortlandt Slree~ New York, NY 10007 nyc,gov/olr Renee Campion Claln1 Levitt Commission~, Deputy Commissioner Health Core Strategy Daniel Pollak Georg■tte Gaat1ly Rnt CRpuly Commissioner Dlrmor, Employ,:,: Br:ne[iu Program Nicole Andrade General Counul James Lemonda, President Uniformed Fire Officers Association
 125 Maiden Lane, 61h Floor
 New York, NY 100038
 Dear Mr.Lemonda:
@@ -1502,7 +1502,7 @@ _Page 66_
 ### RENEE CAMPION GEORGETTE GESTELY
 _Page 66_
 
-Fnl c.pul'f CGntnis.sblr 0/m:tor, ~ Benefis Ptogta111 ClAIR£ LEVITT Dlfputy~ H41allh Cl/9 Cost Mln19eni1111r June 28, 20 I8 Harry Nespoll, Chair Municipal Labor Committee
+Fnl c.pul'f CGntnis.sblr 0/m:tor, ~ Benefit Ptogta111 ClAIR£ LEVITT Dlfputy~ H41allh Cl/9 Cost Mln19eni1111r June 28, 20 I8 Harry Nespoll, Chair Municipal Labor Committee
 125 Barclay Street
 New York, New York
 Dear Mr. Nespoll:

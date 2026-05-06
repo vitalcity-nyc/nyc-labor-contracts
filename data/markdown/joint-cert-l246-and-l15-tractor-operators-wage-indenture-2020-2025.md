@@ -230,7 +230,7 @@ available to the Union, hereby voluntarily and knowingly agrees to:
 2.
 3.
 4.
-Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any claim for vages. supplements or other benerits he Union has or may have under Section 220 af the reabody, action or proceeding, which Discontinue any and all action or proceedings. if any, heretofore commenced by me or on my behalf of the above mentioned titles under and pursuant to Section 220 of the Labor Law applicable to the period January 3, 2i120 to February 2, 2025.
+Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any claim for vages. supplements or other benefits he Union has or may have under Section 220 af the reabody, action or proceeding, which Discontinue any and all action or proceedings. if any, heretofore commenced by me or on my behalf of the above mentioned titles under and pursuant to Section 220 of the Labor Law applicable to the period January 3, 2i120 to February 2, 2025.
 Waive any and all interest on all differentials of basic rates of wages and supplemental benefits from January 3, 2020 to February 2, 2025 except as expressly agreed upon in writing by the Union and the City. It is expressly understood that such waiver shall include the waiver of any right to interest payments pursuant to Subdivision 8c of Section 220 of the Labor Law (L. 1967,c. 502, Section 1).
 Release and forever discharge the City of New York from all manner of actions, cause and causes of actions, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, specialties, covenants, contracts, controversies, agreements, promises, variances, trespasses, damages, judgments, extents, executions, claims and demands whatsoever in law or in equity which the Union, on behalf of employees in the above titles, shall or may have, by reason of any claim for wages or supplemental benefits pursuant to Section 220 of the Labor Law from January 3, 2020 to February 2, 2025 except as expressly agreed upon in writing by the Union and the City for that period.
 LOCAL 15, I.U.O.E., AFL-CIO
@@ -297,7 +297,7 @@ V.
 vi.
 collective bargaining increases.
 For circumstances not covered by this agreement, the First Deputy Commissioner of Labor Relations may elect to issue, on a case-by-case basis, interpretations concerning the payment of the lump sum ratification bonus. Such interpretations shall not be subject to any dispute resolution procedures.
-If the above accords with your understanding, please indicale your acceplance by signing below.
+If the above accords with your understanding, please indicate your acceptance by signing below.
 Very Truly Yours
 Rence Campion
 Agreed and Accepted on Behalf of SEIU Local 246.

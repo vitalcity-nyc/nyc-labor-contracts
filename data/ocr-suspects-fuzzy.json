@@ -1,0 +1,4558 @@
+{
+  "total": 443,
+  "unique": 415,
+  "top": [
+    [
+      "occurring",
+      3
+    ],
+    [
+      "Depuly",
+      3
+    ],
+    [
+      "Direclor",
+      3
+    ],
+    [
+      "Managament",
+      3
+    ],
+    [
+      "Progra",
+      3
+    ],
+    [
+      "Staten",
+      2
+    ],
+    [
+      "e-mail",
+      2
+    ],
+    [
+      "non-compliance",
+      2
+    ],
+    [
+      "Direcior",
+      2
+    ],
+    [
+      "Bffective",
+      2
+    ],
+    [
+      "Camplon",
+      2
+    ],
+    [
+      "Agreeinent",
+      2
+    ],
+    [
+      "amily",
+      2
+    ],
+    [
+      "Ettective",
+      2
+    ],
+    [
+      "cluding",
+      2
+    ],
+    [
+      "excopt",
+      2
+    ],
+    [
+      "satistactory",
+      2
+    ],
+    [
+      "Sestion",
+      2
+    ],
+    [
+      "Managamen",
+      2
+    ],
+    [
+      "ofiset",
+      2
+    ],
+    [
+      "starus",
+      2
+    ],
+    [
+      "merbers",
+      2
+    ],
+    [
+      "Travia",
+      2
+    ],
+    [
+      "Ronoo",
+      1
+    ],
+    [
+      "Maloney",
+      1
+    ],
+    [
+      "Vovember",
+      1
+    ],
+    [
+      "Afier",
+      1
+    ],
+    [
+      "ffective",
+      1
+    ],
+    [
+      "coworker",
+      1
+    ],
+    [
+      "Claira",
+      1
+    ]
+  ],
+  "suspects": [
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Depuly",
+      "candidate": "Deputy",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…t  The City f New Lork Renas Camplon Commissioner Danlel Pollak First Depuly Commissioner Nicole M. Andrade General Counsel December 6, 2023 Patri…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__50",
+      "page": 34,
+      "original": "Depuly",
+      "candidate": "Deputy",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Depuly Commissioner Haallh Care Cost Management"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__15",
+      "page": 13,
+      "original": "Depuly",
+      "candidate": "Deputy",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ons 22 Cortlandt Street, New York, NY 10007 пус.gov/olr Claire Levitt Depuly Commissioner Health Care Strategy Georgette Gestely Director, Employe…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Direclor",
+      "candidate": "Director",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ire Levitt Dopuly Commissioner Health Care Strategy Georgette Gestely Direclor, Employee Benefits Program RE: 2022-2027 Uniform Officers Coalition E…"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__12",
+      "page": 9,
+      "original": "Direclor",
+      "candidate": "Director",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Direclor, Employee Benefits Prograr June 28, 2018 Harry Nespoli, Chair Municip…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__86",
+      "page": 52,
+      "original": "Direclor",
+      "candidate": "Director",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Direclor, Employee Benefits Program June 28, 2018 Harry Nespoli, Chair Municip…"
+    },
+    {
+      "contract_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027",
+      "clause_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027__58",
+      "page": 31,
+      "original": "Managament",
+      "candidate": "Management",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Deputy Commissioner Health Care Cost Managament"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__62",
+      "page": 26,
+      "original": "Managament",
+      "candidate": "Management",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Deputy Commissioner Health Care Cost Managament"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__91",
+      "page": 28,
+      "original": "Managament",
+      "candidate": "Management",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Deputy Commissioner Health Care Cost Managament"
+    },
+    {
+      "contract_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027",
+      "clause_id": "dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027__60",
+      "page": 31,
+      "original": "Progra",
+      "candidate": "Program",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Director, Employee Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee 125 Barc…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__59",
+      "page": 33,
+      "original": "Progra",
+      "candidate": "Program",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…E. BELL General Counsel ¡EORGETTE GESTEL' Director, Employee Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee 125 Barc…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__93",
+      "page": 28,
+      "original": "Progra",
+      "candidate": "Program",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Director, Employee Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee 125 Barc…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__35",
+      "page": 10,
+      "original": "occurring",
+      "candidate": "recurring",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ve bargaining agreement. Any pending grievance arising from a dispute occurring prior to the Council Member no longer being an elected member of the …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__74",
+      "page": 19,
+      "original": "occurring",
+      "candidate": "recurring",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ve been sustained by a claimant as a result of any action or omission occurring in the performance of the HSO's duties and within the scope of his or…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__83",
+      "page": 47,
+      "original": "occurring",
+      "candidate": "recurring",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…instructor shall inform the students that the teaching observation is occurring. In no event shall the classroom teaching observation memorandum refe…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Bffective",
+      "candidate": "Effective",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…he following per annum increases to the welfare fund contribution: i. Bffective December 30, 2023, $65 per annum on behalf of active employees and $2…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Bffective",
+      "candidate": "Effective",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…t, Binployees shall receive an additional rate increase of 3,5%. (iv) Bffective on the first day of the 37th month of the applicable Suocessor Separa…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Camplon",
+      "candidate": "Campion",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…atrick Famil Patrick Ferrainolo, President  The City f New Lork Renas Camplon Commissioner Danlel Pollak First Depuly Commissioner Nicole M. Andrad…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Camplon",
+      "candidate": "Campion",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…bor Relations 22 Cortlandi Sireel, New York, NY 10007 пус.gоvай Ranco Camplon Comenislan Steven H. Banks Flist Deputy Comradsdaer Generol Coursel C…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Direcior",
+      "candidate": "Director",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…are Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Direcior, Employee Benelits Program General Counsel December L, 2023 Patrick F…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Direcior",
+      "candidate": "Director",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…tt Deputy Cantontactanes Heath Care Cost Management Georgeile Gestaly Direcior, Employee Benefits Progrom Earl Mathurin Associate Director Commitice…"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__30",
+      "page": 15,
+      "original": "Sestion",
+      "candidate": "Section",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "… The agency is authorized to make such other exceptions as warranted. Sestion 2 Earned annual leave allowance shall be taken by the employees at th…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__26",
+      "page": 17,
+      "original": "Sestion",
+      "candidate": "Section",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "… The agency is authorized to make such other exceptions as warranted. Sestion 2 Earned annual leave allowance shall be taken by the employees at th…"
+    },
+    {
+      "contract_id": "adwa-unit-agreement-2023-2028",
+      "clause_id": "adwa-unit-agreement-2023-2028__whole",
+      "page": 1,
+      "original": "Staten",
+      "candidate": "State",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…Assistant Deputy Wardens-Deputy Wardens Association 364 Decker Avenue Staten Island, NY 10302 RE: 2022-2027 Uniform Officers Coalition Economic Ag…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__6",
+      "page": 2,
+      "original": "Staten",
+      "candidate": "State",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…rters, SW Export Contract Management Unit, SWM Fresh Kills Plant, SWM Staten Island Transfer Station, SWM MTS 59th Street, MTS North Shore, BCC He…"
+    },
+    {
+      "contract_id": "fadba-moa-2021-2027",
+      "clause_id": "fadba-moa-2021-2027__whole",
+      "page": 1,
+      "original": "amily",
+      "candidate": "family",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… status (\"B Status\"), military leave with pay (\"K status\"), or on pai amily leave. The lump sum cash payment shall be pensionable, consistent wit…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__41",
+      "page": 18,
+      "original": "amily",
+      "candidate": "family",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ce not to exceed four work-days in the case of death in the immediate amily. Family shall be defined for this purpose as spouse; natural, foster,…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "excopt",
+      "candidate": "except",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ies all agreements and indorstandings nd botween us Olly and the COC, excopt as It relates to the unt bargaining set forth in Section 4. WEREROR, …"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__42",
+      "page": 12,
+      "original": "excopt",
+      "candidate": "except",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…Section 220 of the Labor Law from January 2, 2022 to February 1, 2027 excopt as expressly agreed upon in writing by the Union and the City for tha…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__68",
+      "page": 26,
+      "original": "non-compliance",
+      "candidate": "noncompliance",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…eserves the right to take disciplinary action against an employee for non-compliance with procedural guidelines, any falsification of hours on the timeshe…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__83",
+      "page": 47,
+      "original": "non-compliance",
+      "candidate": "noncompliance",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… time shall bar the employee from subsequent complaint regarding such non-compliance with Article 18.2(b), 2b) or c) Upon the receipt of the request, the …"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__61",
+      "page": 26,
+      "original": "ofiset",
+      "candidate": "offset",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…unless otherwise agreed to by the City and the MLC. In order for this ofiset to expire, any savings achieved in this manner must be replaced in or…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "ofiset",
+      "candidate": "offset",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…unless otherwise agreed to by the City and the MLC. In order for this ofiset to expire, any savings achieved in this manner must be replaced in or…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__20",
+      "page": 15,
+      "original": "satistactory",
+      "candidate": "satisfactory",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ployee who is seriously disabled and submits proof of such disability satistactory to the Department which shall properly exercise its discretion therei…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__13",
+      "page": 24,
+      "original": "satistactory",
+      "candidate": "satisfactory",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…rs who have completed ten (10) years of continuous service and have a satistactory performance history in the CUNY Start Program shall be eligible for c…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__23",
+      "page": 21,
+      "original": "starus",
+      "candidate": "status",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…es during said months a total of 30 or more calendar days in full pay starus, he shall be credited with the annual leave credits earnable in 1 mon…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "original": "starus",
+      "candidate": "status",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…es during said months a total of 30 or more calendar days in full pay starus, he shail be credited with the annual leave credits earable in 1 mont…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Agreeinent",
+      "candidate": "Agreement",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ee Benefits Program RE: 2022-2027 Uniform Officers Coalition Economic Agreeinent (\"VOCEA\") Dear Mr. Ferraiuolo: This is to confirm the parties' mutual…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Agreeinent",
+      "candidate": "Agreement",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…les) of the applicable titles in effect on the last day! of the prior Agreeinent, (16) The inoreases in Section 3a. (il) shall be based upon the base …"
+    },
+    {
+      "contract_id": "ibt-l237-moa-2022-2027",
+      "clause_id": "ibt-l237-moa-2022-2027__3",
+      "page": 4,
+      "original": "Ettective",
+      "candidate": "Effective",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… Associate School Food Manager Titles shall be increased to $5400. S. Ettective October 2, 2024, School Safety Agents assigned to the Response Team s…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__10",
+      "page": 4,
+      "original": "Ettective",
+      "candidate": "Effective",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…the appropriate certificate of the Director of Management and Budget. Ettective December 28, 2027, the Uniform Allowance shall be increased by $100 f…"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__59",
+      "page": 26,
+      "original": "Managamen",
+      "candidate": "Management",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Deputy Commissioner Health Care Cost Managamen!"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__54",
+      "page": 28,
+      "original": "Managamen",
+      "candidate": "Management",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Deputy Commissioner Hosith Core Cosl Managamen!"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__13",
+      "page": 24,
+      "original": "Travia",
+      "candidate": "Travel",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Article 26: Article 29: Travia Leave Special Leaves for Childcare Leave Paid Parental Leave Dedicate…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__75",
+      "page": 34,
+      "original": "Travia",
+      "candidate": "Travel",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…or use unscheduled holidays while exhausting accrued Annual Leave and Travia Leave prior to retirement. Pro-rata service credit shall be granted f…"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__0",
+      "page": 1,
+      "original": "cluding",
+      "candidate": "excluding",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…rsigned parties desire to enter into a collective bargaining agreemen cluding this 2017-2025 Police Benevolent Association Memorandum of Understand…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "cluding",
+      "candidate": "excluding",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…parties may mutually agree to additional savings and/or credits neede cluding extending the term set forth in Seotion 1, to fund any addition econo…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__65",
+      "page": 19,
+      "original": "e-mail",
+      "candidate": "mail",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ruptions, you will be notified via the NYCC Emergency Alert System by e-mail or text message if you should report to work. To access the Council's…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__145",
+      "page": 106,
+      "original": "e-mail",
+      "candidate": "mail",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ts, teaching adjunct instructional staff will be provided with a CUNY e-mail address. The colleges will use their best efforts to provide teaching…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__52",
+      "page": 25,
+      "original": "merbers",
+      "candidate": "member",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…o each union as a one-time lump sum pensionable bonus payment for its merbers. Should the union desire to use these funds for other purposes, the p…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__13",
+      "page": 24,
+      "original": "merbers",
+      "candidate": "member",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…nd conditions of employment. The committee shall be composed of three merbers appointed by the President of the PSC and three members appointed by …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__55",
+      "page": 36,
+      "original": "Accepled",
+      "candidate": "Accepted",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…please exocute the signature line below. Very truly yours, Agreed and Accepled on Behalf of Local 831, IBT Marry NesDo President 25003  The New York…"
+    },
+    {
+      "contract_id": "adwa-unit-agreement-2023-2028",
+      "clause_id": "adwa-unit-agreement-2023-2028__whole",
+      "page": 1,
+      "original": "Afier",
+      "candidate": "After",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ssistant Deputy Wardens shall apply: Entry After 1 year After 2 years Afier 3 years After 4 years $132,301 $132.512 $132,761 $133,010 $149,518 10…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__22",
+      "page": 11,
+      "original": "Agreemenl",
+      "candidate": "Agreement",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…vice, for any other reason, prior to the date of ratification of this Agreemenl shall not be eligible for the lump sum cash payment. iii. In no event…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "Agreemens",
+      "candidate": "Agreement",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…Recycling Targets In accordance with Section? of the Two-Worker Truck Agreemens, the Parties have mutually agreed to have the Citywide and local dist…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__135",
+      "page": 45,
+      "original": "Andra",
+      "candidate": "Andrea",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Andra G. Colon General Counsel Senior Vice Presidore, Legal Attira and Labo…"
+    },
+    {
+      "contract_id": "mmp-moa-2021-2027",
+      "clause_id": "mmp-moa-2021-2027__5",
+      "page": 6,
+      "original": "AppendixA",
+      "candidate": "Appendix",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Vice President, Atlantic Maritime Group Dated: December 3, 2024  AppendixA"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "original": "Aricle",
+      "candidate": "Article",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…t of employses on May 1, 1961, which exceed the allowance permited in Aricle I, Section 5, shall remain to their credit but shall be reduced to th…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__47",
+      "page": 22,
+      "original": "Artiale",
+      "candidate": "Article",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… with pay. Notwithstanding the provisions of Article 1, Section 4 and Artiale II, Section 5 annual and sick leave shall accrue during the first six…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__124",
+      "page": 42,
+      "original": "Associale",
+      "candidate": "Associate",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Eart Mathurin Associale Director 25002  To be inserted as a new Appendix D to the collective …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Aveaue",
+      "candidate": "Avenue",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…urin Associate Director Commitice of Interns and Resideals 10-27 46tb Aveaue, Suite 300-2 Long Island City, NY 11101 Re: Pald Family Leave Dear Mr…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Bargalning",
+      "candidate": "Bargaining",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…te Unit Agreement (other than basio maximum salary) Section 4, \" Unit Bargalning. A. Iffective on the first day of the 37th month of the applicable Su…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "Benefis",
+      "candidate": "Benefit",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "ractor, Employao Benefis Progs June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee 12…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Benelits",
+      "candidate": "Benefits",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ommissioner Health Care Strategy Georgette Gestely Direcior, Employee Benelits Program General Counsel December L, 2023 Patrick Ferraiuolo President…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__151",
+      "page": 52,
+      "original": "Cahen",
+      "candidate": "Cohen",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Andrea G. Cahen General Counsel Sarior Vice President, Lapal Affairs and Labor Relati…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__119",
+      "page": 35,
+      "original": "Cammissioner",
+      "candidate": "Commissioner",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…tor Street, New York, NY 10006-1705 http://nyc.gov/olr ROBERT W. LINN Cammissioner May 5, 2014 Harry Nespoli Chair, Municipal Labor Committee 125 Barcla…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__15",
+      "page": 13,
+      "original": "Campior",
+      "candidate": "Campion",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…Manager International V.P./N.Y.C. Conf. Pres. 13  The New York. Renee Campior Commissioner Daniel Pollak First Deputy Commissioner Nicole Andrade G…"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__12",
+      "page": 9,
+      "original": "Chail",
+      "candidate": "Chair",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ted on behalf of the Municipal Labor Committee despol- Harry Nespoli, Chail"
+    },
+    {
+      "contract_id": "l3-electrical-inspectors-moa-2022-2027",
+      "clause_id": "l3-electrical-inspectors-moa-2022-2027__1",
+      "page": 3,
+      "original": "Cityf",
+      "candidate": "City",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ou Scan Fitzpatrick Business Representative Dated: Tay 21.2024 3  The Cityf New York Renee Campion Commissioner Daniel Pollak First Deputy Commis…"
+    },
+    {
+      "contract_id": "coba-unit-agreement-2022-2027",
+      "clause_id": "coba-unit-agreement-2022-2027__whole",
+      "page": 1,
+      "original": "Cityt",
+      "candidate": "City",
+      "distance": 1,
+      "next_distance": null,
+      "context": "The Cityt New lork Office of Labor Relations 22 Cortlandt Street, New York, NY …"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Clain",
+      "candidate": "Claim",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ions 22 CortlMdl Street, New York, NY 10007 nyc.gov/olr Renae Campion Clain, Levitt Comminionrr �puty Cammlss/onrr H�lth Carr Strotrgy Daniel Pol…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__58",
+      "page": 15,
+      "original": "Claira",
+      "candidate": "Claire",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…f Labor Relations 22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claira Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Dir…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Clairo",
+      "candidate": "Claire",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…n Comenislan Steven H. Banks Flist Deputy Comradsdaer Generol Coursel Clairo Lovitt Deputy Cantontactanes Heath Care Cost Management Georgeile Ges…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Coalltion",
+      "candidate": "Coalition",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ve bargaining agreements, including this 2022-2027 Uniformed Officers Coalltion Bconomio Agreement (\"VOCEA\") and agreements successor to existing uni…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__143",
+      "page": 48,
+      "original": "Cohan",
+      "candidate": "Cohen",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Andra G. Cohan Genoal Course Senice Vice Prosidone, Legal Altairs and Lebar Rctions …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__140",
+      "page": 47,
+      "original": "Colen",
+      "candidate": "Cohen",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Andra G. Colen General Course Savior Vice Presiders, Legpl Affaira and Labor Relatio…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__8",
+      "page": 8,
+      "original": "Commissianer",
+      "candidate": "Commissioner",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…r Nicole Andrade Generol Counsel August| 3, 2024 Claire Levitt Deputy Commissianer Health Care Strategy Georgette Gestely Director, Employee Benefits Pr…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__62",
+      "page": 39,
+      "original": "Commissionar",
+      "candidate": "Commissioner",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…0 Recror Street, New York, N.Y. 1000G-1705 nуc.gov/olr RODERT W. LINN Commissionar He Deputy Caribsioner"
+    },
+    {
+      "contract_id": "local-40-bridge-repairer-consent-determination-2022-2025",
+      "clause_id": "local-40-bridge-repairer-consent-determination-2022-2025__17",
+      "page": 11,
+      "original": "Commissione",
+      "candidate": "Commission",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt Deputy Commissione Yealth Care Strateg Sang Hong Director of Operations, Employee Benefi…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__52",
+      "page": 25,
+      "original": "Commissloner",
+      "candidate": "Commissioner",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…bor Committee Hary Nespoli, Cheir  The City f New Yark ROBERT W. LINN Commissloner"
+    },
+    {
+      "contract_id": "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-glaziers-consent-determination-2021-2026__12",
+      "page": 10,
+      "original": "Counc",
+      "candidate": "Count",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…he City for that period Local 1969, Civil Service Employees, District Counc Te'sl Joseph Azzopardi Business Manager/Secretary Treasurer  Office o…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__58",
+      "page": 37,
+      "original": "Counse",
+      "candidate": "Counsel",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…or Streer, New York, N.Y. 10000-1705 nyc.gov/olr MAYRA E. BEL General Counse"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Coursel",
+      "candidate": "Counsel",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…o Camplon Comenislan Steven H. Banks Flist Deputy Comradsdaer Generol Coursel Clairo Lovitt Deputy Cantontactanes Heath Care Cost Management George…"
+    },
+    {
+      "contract_id": "local-246-automotive-service-workers-moa-2021-2026",
+      "clause_id": "local-246-automotive-service-workers-moa-2021-2026__1",
+      "page": 3,
+      "original": "Dabor",
+      "candidate": "Labor",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Commissioner of Dabor Relations BY: pC. All JÓSEPH COLANGELO President Dated: December 5, 2…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__23",
+      "page": 21,
+      "original": "Danial",
+      "candidate": "Daniel",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…alre Levitt Deputy CtJmmlssloner Commissioner Health CtJre St1'11tegy Danial Pollak Georgette Gestaly First Deputy Commissioner Director, Employee…"
+    },
+    {
+      "contract_id": "dc37-l983-urban-park-rangers-moa-2021-2027",
+      "clause_id": "dc37-l983-urban-park-rangers-moa-2021-2027__0",
+      "page": 3,
+      "original": "Danil",
+      "candidate": "Daniel",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "BY: FOR DISTRICT COUNCIL 37, AFSCME, AFL-CIO BY Danil kat,"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__14",
+      "page": 32,
+      "original": "Davis",
+      "candidate": "David",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… CUNY: ser Félix V. Matos Rodriguez Chancellor Date: 12/16 2014 James Davis President Date:_ 12/16/24  Attachment A Title Number Description 0402…"
+    },
+    {
+      "contract_id": "osa-public-advocate-executed-contract-2022-2026",
+      "clause_id": "osa-public-advocate-executed-contract-2022-2026__41",
+      "page": 14,
+      "original": "Delember",
+      "candidate": "December",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…t. WHEREFORE, we have hereunto set our hands and seals this /6 day of Delember: 2024."
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Deoember",
+      "candidate": "December",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…; November 29, 2022(CCA); June 24, 2023(SOA); May 31, 2023 (ADW/DWA); Deoember 2, 2021 (SBA): May 3L, 2022 (DEA); July 31, 2020 (UFA-Firefighters/Pi…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__48",
+      "page": 33,
+      "original": "Depuny",
+      "candidate": "Deputy",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…p://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR first Depuny Comnessener Mr Harry Nespoli President Uniformed Sanitationmen's Asso…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__53",
+      "page": 35,
+      "original": "Depury",
+      "candidate": "Deputy",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…p://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR firse Depury Compassioner Mir. Harry Nespoli President Uniformed Sanitationmen's A…"
+    },
+    {
+      "contract_id": "l3-electrical-inspectors-moa-2022-2027",
+      "clause_id": "l3-electrical-inspectors-moa-2022-2027__1",
+      "page": 3,
+      "original": "Depusy",
+      "candidate": "Deputy",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ons 22 Cortlandt Street, New York, NY 10007 nyc.goviolr Claire Levitt Depusy Commissioner Health Care Strategy Georgette Gestely Director, Employe…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "Dispure",
+      "candidate": "Dispute",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… are unable to agree, the matter shall be submitted to the Tripartite Dispure Resolution Panel formed pursuant to the Kelly Imposse Award dated Dec…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "Docior",
+      "candidate": "Doctor",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…y. (10) The Department shall pay the cost of having the Medical Panel Docior examine inc Snnitation Worker. If the Medical Panel Doctor deierines …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__91",
+      "page": 61,
+      "original": "Elfective",
+      "candidate": "Effective",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…collection vehicles when engayed in one-person collection operations. Elfective Date 03/02/07 03/02/08 08/21/09 08/21/10 Amount 585 82 589 25 $92 82 …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "Eligibilisy",
+      "candidate": "Eligibility",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…yment shall be made for a split-body truck) when the route is cleaned Eligibilisy for 25003  payment will begin during the initial monitoring period of…"
+    },
+    {
+      "contract_id": "dc9-l1969-glaziers-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-glaziers-consent-determination-2021-2026__12",
+      "page": 10,
+      "original": "Employe",
+      "candidate": "Employ",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…ee Campion Agreed and Accepted on Behalf of Local 1969: Civil Service Employe Business Manager/Secretary Treasurer  •"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__21",
+      "page": 16,
+      "original": "Employoes",
+      "candidate": "Employees",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Employees whå bayo complasad 15 years of service. Employoes who have completod 8 years of sarvice. All orber employoes"
+    },
+    {
+      "contract_id": "local-246-carriage-upholsterer-consent-determination-2021-2026",
+      "clause_id": "local-246-carriage-upholsterer-consent-determination-2021-2026__13",
+      "page": 11,
+      "original": "Employu",
+      "candidate": "Employ",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…el Pollak Sang Hong First Deputy Commissioner Director of Operations, Employu Benefits Program Beth Kushner Director of Administration, Employee Be…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Famil",
+      "candidate": "Fail",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "… Campion Agreed to by the Correction Captains Association BY: Patrick Famil Patrick Ferrainolo, President  The City f New Lork Renas Camplon Comm…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__65",
+      "page": 19,
+      "original": "Februar",
+      "candidate": "February",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ristmas Day Observed January 1 Third Monday in Januar Third Monday in Februar Last Monday in May June 19 July 4 First Monday in September Second Mo…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "Financia",
+      "candidate": "Financial",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…. Savings will be measured against the projected FY 2019-FY 2022 City Financia Plan (adopted on June 15, 2018) which incorporates projected City hea…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Flist",
+      "candidate": "List",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…New York, NY 10007 пус.gоvай Ranco Camplon Comenislan Steven H. Banks Flist Deputy Comradsdaer Generol Coursel Clairo Lovitt Deputy Cantontactane…"
+    },
+    {
+      "contract_id": "upoa-moa-2020-2026",
+      "clause_id": "upoa-moa-2020-2026__0",
+      "page": 6,
+      "original": "Heall",
+      "candidate": "Hall",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Commissioner of Labor Relations FOR UPOA: Malvenin Heall DALVANIE K. POWELL President August 15, 2024 6  The New York Office o…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__135",
+      "page": 45,
+      "original": "Hospitab",
+      "candidate": "Hospital",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… Senior Vice Presidore, Legal Attira and Labor Relations NYC Health + Hospitab 125 Worth Stract, Suite 527 Now York, NY 10013 212-788-3304 andra.coh…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025__whole",
+      "page": 1,
+      "original": "Housin",
+      "candidate": "Housing",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… Mayoral agencies, the Department of Education, and the New York City Housin Authority who receive paychecks via direct deposit shall be opted out…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "original": "Iegal",
+      "candidate": "Legal",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…in upon the payment of rates and supplemental benefits herein. h) Any Iegal claims of any nature, including specifically, but not limited thereto…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Iffective",
+      "candidate": "Effective",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…nt (other than basio maximum salary) Section 4, \" Unit Bargalning. A. Iffective on the first day of the 37th month of the applicable Successor Separa…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "Imposse",
+      "candidate": "Impose",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… the Tripartite Dispure Resolution Panel formed pursuant to the Kelly Imposse Award dated December 10, 1980 (the \"Tripartite Panel\") for resolution…"
+    },
+    {
+      "contract_id": "osa-moa-2021-2027",
+      "clause_id": "osa-moa-2021-2027__4",
+      "page": 3,
+      "original": "Initiutive",
+      "candidate": "Initiative",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…dget Analyst (IBO) Strategic Initiative Specialist (NC DOT) Strutegic Initiutive Specialist (NC HRA) Strategic Initiative Specialist (NC DEP) Confiden…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__65",
+      "page": 19,
+      "original": "Januar",
+      "candidate": "January",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…Day Thanksgiving Day Christmas Day Observed January 1 Third Monday in Januar Third Monday in Februar Last Monday in May June 19 July 4 First Monda…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__22",
+      "page": 11,
+      "original": "Josaph",
+      "candidate": "Joseph",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…y yours, Rene Compos Agreed and Accepted on Behalf of SEIU Local 246, Josaph Colangelo, President  •"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__140",
+      "page": 47,
+      "original": "Legpl",
+      "candidate": "Legal",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Andra G. Colen General Course Savior Vice Presiders, Legpl Affaira and Labor Relations NYC Heath + Hospitals 125 Worth Street, S…"
+    },
+    {
+      "contract_id": "l1199-moa-2022-2027",
+      "clause_id": "l1199-moa-2022-2027__2",
+      "page": 5,
+      "original": "Mailb",
+      "candidate": "Mail",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…4 Alle Brayen Cene Dimaco Calichay Jo Daupe That Ozinke faster title. Mailb cen Afar fames ta Shannahea FAbioLA Buddan - MAs MaLk"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Marino",
+      "candidate": "Marine",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…y 31, 2020 (UFA-Firefighters/Pire Marshals); July 27, 2021 (URA-Plots/Marino Engineers) and July 31, 2020 (UPA-Wipers) 2  o, The increases provide…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__168",
+      "page": 114,
+      "original": "Non-Discrimination",
+      "candidate": "Nondiscrimination",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Unit Stability Union Dues and Membership Non-Discrimination Complaint, Grievance and Arbitration Procedure Disciplinary Actions M…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__13",
+      "page": 13,
+      "original": "Pauli",
+      "candidate": "Paul",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… Agreed and Accepted on Behalf of Plumbers Local Union No.1, U.A, BY: Pauli Connor Paul O'Connor Business Manager  •"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__237",
+      "page": 173,
+      "original": "Paulo",
+      "candidate": "Paul",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…nalytics) • EMS in Human Resources Management • EMS in Finance in Sao Paulo, Brazil* • EMS in Entrepreneurship in Sao Paulo, Brazil* 170  • MBA-M…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__68",
+      "page": 26,
+      "original": "Payroil",
+      "candidate": "Payroll",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ming absence. A copy of the Jury Duty Notice must be submitted to the Payroil Unit in Personnel Services before the employee leaves for such servic…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "Pilor",
+      "candidate": "Pilot",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…Leave Program Dear Mr. Nespoli: In light of the successful Sick Leave Pilor Program, regarding reduction of chronic sick leave absenteeism, set o…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__60",
+      "page": 23,
+      "original": "Piscal",
+      "candidate": "Fiscal",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…erated in the individual fiscal years as follows: (i) $400 million in Piscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) S1 billion in…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__23",
+      "page": 21,
+      "original": "Planl",
+      "candidate": "Plan",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…y by Oilers through bargaining, will be provided to the titles Oiler, Planl Maintainer/Oiler, Stationary Engineer, Stationary Engineer (Outside N…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "Precertilication",
+      "candidate": "Precertification",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…of Excellence for specific conditions, Hospital and provider ficring; Precertilication Fees; Amendment of Medicare Part B reimbursement; Reduction of cost f…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__149",
+      "page": 51,
+      "original": "Presidene",
+      "candidate": "President",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Andres G. Coban Graveral Counsci Sonior Vice Presidene, Legal Affains and Labor Relations NYC licalth + Hospitals 125 Worth …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__59",
+      "page": 37,
+      "original": "Progran",
+      "candidate": "Program",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Director, Employee Benefits Progran Dear Mr. Nespoli: There will be an assignment differential, not to ex…"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__12",
+      "page": 9,
+      "original": "Prograr",
+      "candidate": "Program",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Direclor, Employee Benefits Prograr June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee 125 Barc…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__5",
+      "page": 4,
+      "original": "Prosident",
+      "candidate": "President",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Prosident"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__13",
+      "page": 13,
+      "original": "Ranae",
+      "candidate": "Range",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…f Labor Relations 22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Ranae Campion Claire Levitt Deputy Commissioner Commissioner Health Core St…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__62",
+      "page": 39,
+      "original": "Recror",
+      "candidate": "Rector",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "40 Recror Street, New York, N.Y. 1000G-1705 nуc.gov/olr RODERT W. LINN Commissi…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Renae",
+      "candidate": "Renal",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…of Labor Relations 22 CortlMdl Street, New York, NY 10007 nyc.gov/olr Renae Campion Clain, Levitt Comminionrr �puty Cammlss/onrr H�lth Carr Strot…"
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "Renas",
+      "candidate": "Renal",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… BY: Patrick Famil Patrick Ferrainolo, President  The City f New Lork Renas Camplon Commissioner Danlel Pollak First Depuly Commissioner Nicole M…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__19",
+      "page": 53,
+      "original": "Ruference",
+      "candidate": "Reference",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…aining agreement, are eligible for the Paid Parental Leave Benefit. ' Ruference to \"adoption\" shall b. understood to mean the formal placement of'a c…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__46",
+      "page": 32,
+      "original": "Sanilation",
+      "candidate": "Sanitation",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…cable law, that any conversion of the functions) of the Department of Sanilation to any public authority established by or at the request of the Mayor…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "Sanisation",
+      "candidate": "Sanitation",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…tests, the 25003  Department will, in the first instance, look to the Sanisation Worker's health insurance provider for payment. If the insurer will n…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "original": "Sanitution",
+      "candidate": "Sanitation",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… be ordered lo luel vehicles in the field at other than Department of Sanitution facilities, and with the exception of feling at established CNG locat…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__171",
+      "page": 115,
+      "original": "Schoo",
+      "candidate": "School",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…to $198.83 10/1/2018 $44,861 to $166,473 Distinguished Lecturer - Law Schooß! 10/31/2019 11/15/2020 11/15/2021 $45,758 to $169,803 $46,673 to $17…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Seation",
+      "candidate": "Section",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… bylaws and subject to approval In accordance with applicable law. 3  Seation 8, Incorgoratlen of Corsin Provisions Inle Other Agrecinents, Scotion…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Seotion",
+      "candidate": "Section",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… savings and/or credits neede cluding extending the term set forth in Seotion 1, to fund any addition economio proposals other than to enhance the …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Separare",
+      "candidate": "Separate",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…RE, it isjointly agreed as follows: Section 1. Term. The term of each Separare Unit Agreement shall be sixty (60) months from the expiration date of…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "Snnitation",
+      "candidate": "Sanitation",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ent shall pay the cost of having the Medical Panel Docior examine inc Snnitation Worker. If the Medical Panel Doctor deierines that medical tests are …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__149",
+      "page": 51,
+      "original": "Sonior",
+      "candidate": "Senior",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "Andres G. Coban Graveral Counsci Sonior Vice Presidene, Legal Affains and Labor Relations NYC licalth + Hospi…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Soparate",
+      "candidate": "Separate",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…in effect on the last day of the 36 month of the applicable Successor Soparate Unit Agreement. (V) The increases in Section 3a, (Y) shall be based u…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__91",
+      "page": 61,
+      "original": "Stratagy",
+      "candidate": "Strategy",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…k, NY 10007 пус.gov/olr Claire Levitt Deputy Commissioner Health Care Stratagy Georgette Gestely Director, Employee Benefits Program May 5, 2020 Mr.…"
+    },
+    {
+      "contract_id": "local-40-bridge-repairer-consent-determination-2022-2025",
+      "clause_id": "local-40-bridge-repairer-consent-determination-2022-2025__17",
+      "page": 11,
+      "original": "Strateg",
+      "candidate": "Strategy",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…rk, NY 10007 nyc.gov/olr Claire Levitt Deputy Commissione Yealth Care Strateg Sang Hong Director of Operations, Employee Benefits Program Beth Kush…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__58",
+      "page": 37,
+      "original": "Streer",
+      "candidate": "Street",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "40 Rector Streer, New York, N.Y. 10000-1705 nyc.gov/olr MAYRA E. BEL General Counse"
+    },
+    {
+      "contract_id": "osa-moa-2021-2027",
+      "clause_id": "osa-moa-2021-2027__4",
+      "page": 3,
+      "original": "Strutegic",
+      "candidate": "Strategic",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…(Compt) Budget Analyst (IBO) Strategic Initiative Specialist (NC DOT) Strutegic Initiutive Specialist (NC HRA) Strategic Initiative Specialist (NC DE…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__140",
+      "page": 47,
+      "original": "Suile",
+      "candidate": "Suite",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…l Affaira and Labor Relations NYC Heath + Hospitals 125 Worth Street, Suile 527 New York, NY 10013 212-788-3304 andrca.cnlun@nychlc.m"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__151",
+      "page": 52,
+      "original": "Suito",
+      "candidate": "Suite",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…l Affairs and Labor Relations NYC Health + Hospitals 125 Worth Stree, Suito 527 New York, NY 10013 212-788-3304"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Suocessor",
+      "candidate": "Successor",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…. (iv) Bffective on the first day of the 37th month of the applicable Suocessor Separate Unit Agreement, Employees shall receive an additional rate i…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "Tille",
+      "candidate": "Title",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…250 FTEg) 10 the tille of Job Training Participant (Per Diem) (\"JP\"), Tille Code No. 80633, pursuant 1o the side lelter ugreement with District C…"
+    },
+    {
+      "contract_id": "mmp-moa-2021-2027",
+      "clause_id": "mmp-moa-2021-2027__9",
+      "page": 7,
+      "original": "Titte",
+      "candidate": "Title",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…rine Oiler (Ferry Operations) 0-2 Years of Title Service 2-3 Years of Titte Service 3+ Years of Title Service 8/6/2021 Minimum Max $77,298 Flat R…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__101",
+      "page": 71,
+      "original": "Uctober",
+      "candidate": "October",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…31, 2022, Shall be paid at a salary rate which 1s 2.00% more than the Uctober 31, 2022 salary rate eftective November 1, 2022. 24.4 Summer Salaries…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__58",
+      "page": 14,
+      "original": "Uffice",
+      "candidate": "Office",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…of PSC to a maximum aggregate for all campuses (including the Central Uffice) ot 123 classroom contact hours for each semester. 120 hours shall be…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__55",
+      "page": 36,
+      "original": "Uniforned",
+      "candidate": "Uniformed",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ARGARET M. CONNOR Arst Deputy Cumnessoner Mr. Harry Nespoli President Uniforned Sanitationmen's Association Local 831, IBT 23-25 Cliff Street New Yor…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Unlon",
+      "candidate": "Union",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…eabllity of the romaining provisions of Ihis VOGEL. ho faffura of any Unlon to relity this OCEA, or the sucoessor Ur groomont, wiichever is place…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025__whole",
+      "page": 1,
+      "original": "Uperator",
+      "candidate": "Operator",
+      "distance": 1,
+      "next_distance": null,
+      "context": "2020-2025 Memorandum of Agreement Motor Grader Uperator Local 246 Service Employees International Union (SEIU). Local 15 Inte…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__15",
+      "page": 17,
+      "original": "Villiam",
+      "candidate": "William",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Khu. Villiam Lyn Business Manager International Vice President 15  Office of Labor…"
+    },
+    {
+      "contract_id": "adwa-unit-agreement-2023-2028",
+      "clause_id": "adwa-unit-agreement-2023-2028__whole",
+      "page": 1,
+      "original": "Vovember",
+      "candidate": "November",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ion of $3,750 on behalf of Assistant Deputy Wardens promoted prior to Vovember 7, 2022 and Deputy Wardens/Deputy Wardens-in-Command promoted prior t…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__4",
+      "page": 5,
+      "original": "Weltare",
+      "candidate": "Welfare",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ibution from $156,039 per month to $333,533 per month to the PSC-CUNY Weltare Fund. There shall be no change in per capita contribution. The Univer…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "original": "Wolfare",
+      "candidate": "Welfare",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ibutions shall be paid per complainant by the City of New York to the Wolfare Fund, Local 237 International Brotherhood ofTcamsters, 216 West 14th …"
+    },
+    {
+      "contract_id": "local-40-bridge-repairer-consent-determination-2022-2025",
+      "clause_id": "local-40-bridge-repairer-consent-determination-2022-2025__17",
+      "page": 11,
+      "original": "Yealth",
+      "candidate": "Health",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…reet, New York, NY 10007 nyc.gov/olr Claire Levitt Deputy Commissione Yealth Care Strateg Sang Hong Director of Operations, Employee Benefits Prog…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__56",
+      "page": 21,
+      "original": "Zoverage",
+      "candidate": "Coverage",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…when foun fit for duty by said physicians, returns to his employment. Zoverage, pale dad thal leave and receive full pay and. Workmen's Compensation…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "acceplance",
+      "candidate": "acceptance",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…s. If the above accords with your understanding, please indicale your acceplance by signing below. Very Truly Yours Rence Campion Agreed and Accepted …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "accordanoe",
+      "candidate": "accordance",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…and the separate unit agreements are subject to union ratifioation in accordanoe with each union's rules and bylaws and subject to approval In accorda…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__119",
+      "page": 35,
+      "original": "acruary",
+      "candidate": "actuary",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…escribed above, the arbitrator shall select the impartial health care acruary to be retained by the parties. f. The parties shall share the costs f…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "additlonal",
+      "candidate": "additional",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…licable Successor Separate Unit Agreement, Employees shall receive an additlonal rate increase of 3,25%. (lil) Effective on the fust day of the 25th m…"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__0",
+      "page": 1,
+      "original": "agreemen",
+      "candidate": "agreement",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… the undersigned parties desire to enter into a collective bargaining agreemen cluding this 2017-2025 Police Benevolent Association Memorandum of Un…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "agreemeni",
+      "candidate": "agreement",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…related to Index No. 117281/01, this letter now confirms the parties' agreemeni 1o continue the program as part of the Collective Bargaining Agreemen…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "agreemens",
+      "candidate": "agreement",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…der the City of New York/Health + Hospitals/CIR collective bargaining agreemens. The parties agree to \"opt in\" to the New York State Paid Family Leav…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "agret",
+      "candidate": "agree",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… a holiday shall have no effect on the bank for that week The parties agret to review the adequacy of the \"banks\" on a district-by-district basis…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "altributable",
+      "candidate": "attributable",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ulting in hospitalization. Additionally, it is agreed that an absence altributable to an injury such as a broken leg or broken arm will nor be included …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__135",
+      "page": 45,
+      "original": "andra",
+      "candidate": "andrea",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… Hospitab 125 Worth Stract, Suite 527 Now York, NY 10013 212-788-3304 andra.cohco@nychhc.org"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__140",
+      "page": 47,
+      "original": "andrca",
+      "candidate": "andrea",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…Hospitals 125 Worth Street, Suile 527 New York, NY 10013 212-788-3304 andrca.cnlun@nychlc.m"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__51",
+      "page": 20,
+      "original": "aocrue",
+      "candidate": "accrue",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…le I, Section 4 and Article II, Section 5 annual and sick leave shall aocrue during the first six months only of such absence, and shall be credit…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__91",
+      "page": 61,
+      "original": "aureement",
+      "candidate": "agreement",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…nterpretation or performance of any of th terms or conditions of this aureement shail be submitted to the Tripartite Panel. If the above accords with…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__16",
+      "page": 10,
+      "original": "availablo",
+      "candidate": "available",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… 2020 and terminating October 26, 2025, a copy of which has been made availablo to the Union, hereby voluntarily and knowingly agrees to: Waive, with…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "ayone",
+      "candidate": "anyone",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… Provisions Inle Other Agrecinents, Scotion 9, Savings Clause. In the ayone that any provision of this JOCEd is found to bo invalld, such finding…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "baryaining",
+      "candidate": "bargaining",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ein to fund the 1.3% waye increases in this and subsequent collective baryaining agreements, the Parties agree to meet and confer to evaluate whether …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "basio",
+      "candidate": "basic",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…, except as may be modified n the separate Unit Agreement (other than basio maximum salary) Section 4, \" Unit Bargalning. A. Iffective on the fir…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__86",
+      "page": 54,
+      "original": "became",
+      "candidate": "become",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… after the PSC or the employee on whose behalf the grievance is filed became aware of the action complained of, except that grievances relating to…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-motor-grader-operators-wage-indenture-2020-2025__whole",
+      "page": 1,
+      "original": "behal",
+      "candidate": "behalf",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "….17 for each paid working day up to a maximum of 50.13.3. per anum on behal el il time and til in pris day bye balt paid shall be based on a pror…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__55",
+      "page": 36,
+      "original": "benelit",
+      "candidate": "benefit",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…s agree to jointly support the levislation necessary to implement the benelit changes. If' the above accords with your understanding, please exocut…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__7",
+      "page": 8,
+      "original": "benerits",
+      "candidate": "benefits",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ng, pursuing or instituting any claim for vages. supplements or other benerits he Union has or may have under Section 220 af the reabody, action or …"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__4",
+      "page": 5,
+      "original": "benetits",
+      "candidate": "benefits",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…eaching contact hour will remain the basis for calculating salary and benetits eligibility. In the event the conversion from an hourly rate to a cou…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__52",
+      "page": 25,
+      "original": "bergaining",
+      "candidate": "bargaining",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ncreases and other economic items for the current round of collective bergaining (for the period up to and including fiscal year 2018). Up to an addit…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__46",
+      "page": 32,
+      "original": "berween",
+      "candidate": "between",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…d (ii) the terms of the then existing collective bargaining agreement berween the Employer and the Union for the remainder of that agreement's effe…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__13",
+      "page": 24,
+      "original": "bossible",
+      "candidate": "possible",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…September 1 - August 31) shall be scheduled to be used as bromotlv as bossible within the quarter. but no later than  30 calendar days after the end…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "botween",
+      "candidate": "between",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ould have bargaíned and codifies all agreements and indorstandings nd botween us Olly and the COC, excopt as It relates to the unt bargaining set f…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "calegory",
+      "candidate": "category",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… enforce those portions of PAP 2007-04 relating 1o the \"Chronic Sick\" calegory challenged in the above-referenced suit. No Sanitation Worker will be…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "caloulated",
+      "candidate": "calculated",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…of 4.00%. b. The inorenses provided for in this Section 3 a, shall be caloulated as follows: (1) The increases in Section 3a, (l) shall be based upon …"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__32",
+      "page": 19,
+      "original": "camable",
+      "candidate": "capable",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…endar days in the vacation year, he shall lose the sick leave credits camable in one month for each 30 days of such accumulated absence even though…"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__37",
+      "page": 17,
+      "original": "cannor",
+      "candidate": "cannot",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ler units of charge in exceptional and unusual circumstances. Credits cannor be earned for the period an employee is on leave of absence without p…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__16",
+      "page": 41,
+      "original": "caregories",
+      "candidate": "categories",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…nd week of the Spring semester in which they would be \" The following caregories of teaching adjuncts shall be treated as being subject to the eligibi…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "collecrion",
+      "candidate": "collection",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ift for refuse collection and to 62 tons per truck shul for recveling collecrion, respectively. Individual district goals will be established for each…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__216",
+      "page": 141,
+      "original": "comensatory",
+      "candidate": "compensatory",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… in Section VI., paragraph 2 herein. 3. All annual leave, sıck leave, comensatory time balances, and sıck leave advancements, to the extent applicable,…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "componens",
+      "candidate": "component",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…both the \"two-worker truck\" component and the new 10.7i6.2 \"combined\" componens. The docking trigger for the 10.7:6 2 combined component is 10 7/6 2,…"
+    },
+    {
+      "contract_id": "dc37-moa-2021-2026",
+      "clause_id": "dc37-moa-2021-2026__3",
+      "page": 5,
+      "original": "concer",
+      "candidate": "concern",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ions may include, but shall not be limited to, the following areas of concer: i. The sharing of plans, policies, procedures and protocols for addr…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__47",
+      "page": 22,
+      "original": "concered",
+      "candidate": "concerned",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ent in the amount of such pay shall be made to the City or the agency concered, as the case may be, from the proceeds of the recovery by such  8 emp…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "concering",
+      "candidate": "concerning",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… Mr. Nespoli: 1. This is to confirm the parties' mutual understanding concering the health care agreement for Fiscal Years 2019 - 2021: a. The MLC ag…"
+    },
+    {
+      "contract_id": "osa-public-advocate-executed-contract-2022-2026",
+      "clause_id": "osa-public-advocate-executed-contract-2022-2026__35",
+      "page": 9,
+      "original": "concers",
+      "candidate": "concern",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ce of a general nature affecting a large group of Employees and which concers the claimed misinterpretation, inequitable application, violation, or…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__48",
+      "page": 23,
+      "original": "covarage",
+      "candidate": "coverage",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… annual leave and receive full pay and Workmen's Compensation medical covarage, provided that: The injured employer or any authorized person acting …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "covared",
+      "candidate": "covered",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…r employees represented by the Committee of Interns and Residents and covared under the City of New York/Health + Hospitals/CIR collective bargaini…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__31",
+      "page": 19,
+      "original": "credie",
+      "candidate": "credit",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…es at the time of adoption of these regulations shall remain to their credie. Section E Sick leave may be granted at the discretion of the agency …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__143",
+      "page": 48,
+      "original": "cuhen",
+      "candidate": "cohen",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ab 125 Worth Stract, Suite 527 New York, NY 10013 212-788-3304 andrca.cuhen/gnyithc.mrg"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "delermine",
+      "candidate": "determine",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ll not agree to pay for all or part of the tests, the Department will delermine whether it will. The Sanitation Worker will not be asked or be requir…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "determinarion",
+      "candidate": "determination",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…f the matter is still unresolved, the Union may appeal the Employer's determinarion to the Tripartite Panel for a hearing to be held within forty-eight (…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__47",
+      "page": 22,
+      "original": "disabilisy",
+      "candidate": "disability",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…nstinutes any action against any party whatsoever in relation to such disabilisy, reimbursement in the amount of such pay shall be made to the City or…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "dispule",
+      "candidate": "dispute",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…spute resolution terms of the 2014 City/MLC Health Agreement: a. Such dispule shall be resolved within 90 days. 3  b. The arbitrator shall have the…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "ditferentials",
+      "candidate": "differentials",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…nize that there are now iwo components of the collection productivity ditferentials, one for the underlying \"noworker truck\" program as indicated in the …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "economio",
+      "candidate": "economic",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…uding extending the term set forth in Seotion 1, to fund any addition economio proposals other than to enhance the general wage increases set forth …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "effeotive",
+      "candidate": "effective",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…le as soon as practicable upon ratification of the OCEA and after the effeotive date of such increases. Section 7. Approval of Agreements. This VOCE …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "effet",
+      "candidate": "effect",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… include salary or incremental schedules) of the applicable titles in effet on the last day of the 24' month of the applicable Successor Separate…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__101",
+      "page": 71,
+      "original": "eftective",
+      "candidate": "effective",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…salary rate which 1s 2.00% more than the Uctober 31, 2022 salary rate eftective November 1, 2022. 24.4 Summer Salaries for Department Chairpersons (a…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__40",
+      "page": 26,
+      "original": "employe",
+      "candidate": "employ",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…ernity Leave of are or period for later than he coupon apol in or the employe, mange. extended by the agency head for an additional period, not to …"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "original": "employoe",
+      "candidate": "employee",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…f annual leave credits, a full month's credit shall be given to an  2 employoe who has been in full pay status for at least 15 calendar days during …"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__21",
+      "page": 16,
+      "original": "employoes",
+      "candidate": "employees",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…f service. Employoes who have completod 8 years of sarvice. All orber employoes"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "original": "employses",
+      "candidate": "employees",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…s sick leave balance. All annual leave accumulations to the credit of employses on May 1, 1961, which exceed the allowance permited in Aricle I, Sect…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__48",
+      "page": 23,
+      "original": "employte",
+      "candidate": "employee",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ting in his behalf makes the . request in writing, and b. The injured employte or any authorized person acting in his bebaif agrees that a pro-rated…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "emporary",
+      "candidate": "temporary",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…e and recycling will be used to address unexpected circumstances and ¡emporary difficulties in a district If the district 2%% bank is frequently exc…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "enforceabllity",
+      "candidate": "enforceability",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…s found to bo invalld, such finding sholl not impalt the vallilly and enforceabllity of the romaining provisions of Ihis VOGEL. ho faffura of any Unlon to…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__91",
+      "page": 61,
+      "original": "engayed",
+      "candidate": "engaged",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… Brotherhood of Teamsters. \"Roll-on/Roll-off collection vehicles when engayed in one-person collection operations. Elfective Date 03/02/07 03/02/08…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "enguged",
+      "candidate": "engaged",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…and 3 ol the Collective Bargaining Agreement. \"Dumping-on-Shift\" when enguged in regular collection and recycling operations Efecave Date 03/02/07 …"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__16",
+      "page": 41,
+      "original": "enroliment",
+      "candidate": "enrollment",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…g Adjuncts lost no more than: a. one (1) course owing to insufficient enroliment or reassignment of a course to another faculty member; and/or b. up t…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "exceded",
+      "candidate": "exceed",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ary difficulties in a district If the district 2%% bank is frequently exceded, then the Department and the Union shall meet promptly to resolve the…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "original": "excopting",
+      "candidate": "excepting",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… and for any additional benefits other than those 5  contained herein excopting that the right is reserved to bring any necessary proceedings for the…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__33",
+      "page": 20,
+      "original": "exhsusted",
+      "candidate": "exhausted",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… head, employees except provisional and temporary employees, who have exhsusted all cared sick leave and annual leave balances due to personal illnes…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__55",
+      "page": 36,
+      "original": "exocute",
+      "candidate": "execute",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…enelit changes. If' the above accords with your understanding, please exocute the signature line below. Very truly yours, Agreed and Accepled on Be…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__92",
+      "page": 64,
+      "original": "farent",
+      "candidate": "parent",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… Rul Rence Campias Agreed and Accepted on Behalf of Local 831, IBT on farent President 25003  The New York Office of Labor Relations 22 Cortlandt …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "original": "feling",
+      "candidate": "filing",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…r than Department of Sanitution facilities, and with the exception of feling at established CNG locations. Il is further understood that current s…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__29",
+      "page": 7,
+      "original": "ffective",
+      "candidate": "effective",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ed by the parties subject to the approval of the Corporation Counsel. ffective May 5, 2024, the City shall also increase the current active and reti…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__53",
+      "page": 35,
+      "original": "firse",
+      "candidate": "fire",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…05 http://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR firse Depury Compassioner Mir. Harry Nespoli President Uniformed Sanitation…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "impais",
+      "candidate": "impair",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… sucoessor Ur groomont, wiichever is placed for railtalion, shall not impais the volldity ar torosalily of this JOCE with sogard to any Union rati…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "impalt",
+      "candidate": "impact",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…rovision of this JOCEd is found to bo invalld, such finding sholl not impalt the vallilly and enforceabllity of the romaining provisions of Ihis V…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "implemeat",
+      "candidate": "implement",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…York, as soon as practicable and agree to take the necessary steps to implemeat, subject to ratification by the membership If the above accords with …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "inalude",
+      "candidate": "include",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…es in Section 3a, (l) shall be based upon the base rates (which shall inalude salary or Incremental sohedules) of the applicable titles in effect o…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__16",
+      "page": 10,
+      "original": "inder",
+      "candidate": "under",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ling, pursuing or instituting any place for age, spleents or her have inder anyone one cro Discontinue any and all action or proceedings, if any,…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "indicale",
+      "candidate": "indicate",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…tion procedures. If the above accords with your understanding, please indicale your acceplance by signing below. Very Truly Yours Rence Campion Agre…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "inolude",
+      "candidate": "include",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…s in Section 3a, (iv) shall be based upon the base rates (which shall inolude salary or incremental schedules) applicable titles in effect on the l…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "inorease",
+      "candidate": "increase",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…r Separate Unit Agreement, Employees shall receive an additional rate inorease of 3,5%. (v) Effective on the first day of the 49th month of the appl…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__12",
+      "page": 15,
+      "original": "interpretatior",
+      "candidate": "interpretation",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…sioner f Labor Relations may elect to issue, on a case-by-case basis, interpretatior oncerning the payment of the lump sum ratification bonus. Such interp…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "invalld",
+      "candidate": "invalid",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… Clause. In the ayone that any provision of this JOCEd is found to bo invalld, such finding sholl not impalt the vallilly and enforceabllity of the…"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__5",
+      "page": 4,
+      "original": "jointiy",
+      "candidate": "jointly",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ff of work, and significantly less commute time; NOW THEREFORE, it is jointiy agreed as follows: 1. The pilot program in the initial commands will …"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__13",
+      "page": 24,
+      "original": "judgement",
+      "candidate": "judgment",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… to any campus during the term of an appointment. Matters of academic judgement are not subject to review under the grievance procedure. Matters of a…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__63",
+      "page": 8,
+      "original": "larger",
+      "candidate": "large",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…cases where the overpayment exceeds $1,000, deductions may be made in larger installments at the discretion of the Agency Head. Any recoupment sha…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__28",
+      "page": 18,
+      "original": "leass",
+      "candidate": "least",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "Terminal Leave shall be allowed to employees who work at leass 250 days per year at the rate of one month for every ten years of ser…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__48",
+      "page": 33,
+      "original": "legislasion",
+      "candidate": "legislation",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…his is to confum vur mutual understanding and agreement regarding the legislasion enacted providing Tiers Town and Four Sanitation Workers, represented…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "lelter",
+      "candidate": "letter",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…icipant (Per Diem) (\"JP\"), Tille Code No. 80633, pursuant 1o the side lelter ugreement with District Council 37, dated February 16, 2016. No more …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__91",
+      "page": 61,
+      "original": "letrer",
+      "candidate": "letter",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…nments is hereby rescinded and is replaced by the terms of a new side letrer (arached) 25003  This agreement is subject 1o the ferms of the curren…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__55",
+      "page": 36,
+      "original": "levislation",
+      "candidate": "legislation",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…uding plan design and costs. the parties agree to jointly support the levislation necessary to implement the benelit changes. If' the above accords wit…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__81",
+      "page": 50,
+      "original": "lifferential",
+      "candidate": "differential",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… your inquiry concerning the target for payment of the \"Dump-on-Shift lifferential prior to the Staten Island Transfer Station becoming operationa Shoul…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__83",
+      "page": 32,
+      "original": "loating",
+      "candidate": "floating",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ating holidays per calendar year in addition to other types of leave. loating holidays will allow employees to have additional paid leave to cover …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "logether",
+      "candidate": "together",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…itation Worker and the Union. The Department and the Union shall work logether to coordinate the scheduling of such joint sessions. (7) Any Sanitati…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__56",
+      "page": 21,
+      "original": "medica",
+      "candidate": "medical",
+      "distance": 1,
+      "next_distance": null,
+      "context": "… pale dad thal leave and receive full pay and. Workmen's Compensation medica The injured employer or any authorized person acting in his behalf ma…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__39",
+      "page": 21,
+      "original": "moath",
+      "candidate": "month",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ave or absence, commencing not later than the completion of the fifth moath of pregnancy, shall be granted for a period of twelve months, and upo…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "monsh",
+      "candidate": "month",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…riodically after implementation and thereafter excluding the four (4) monsh break-in period. The Parties will meet to discuss chunges in producti…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__34",
+      "page": 20,
+      "original": "narure",
+      "candidate": "nature",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…he agency bead. The agency head shall be guided in this matter by the narure and extent of illness and the length and character of service. Il, OT…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__214",
+      "page": 137,
+      "original": "naximum",
+      "candidate": "maximum",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ear of personal illness/emergency leave, which may be accrued up to a naximum of 36 contact hours. Adjuncts who are reappointed to a three-year app…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "neede",
+      "candidate": "need",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…) 'he parties may mutually agree to additional savings and/or credits neede cluding extending the term set forth in Seotion 1, to fund any additi…"
+    },
+    {
+      "contract_id": "dea-unit-agreement-2022-2027",
+      "clause_id": "dea-unit-agreement-2022-2027__whole",
+      "page": 1,
+      "original": "negoliated",
+      "candidate": "negotiated",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…tual understanding and agreement concerning additional Bargainic tems negoliated by the parties pursuant to Section 4 of the VOCEA (Unit 1. Effective …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "nethod",
+      "candidate": "method",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…heir families, requires further study, savings and efficiencies in th nethod of health care delivery. To that end, the parties will within 90 days…"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__5",
+      "page": 4,
+      "original": "olice",
+      "candidate": "police",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… Officer or designee reasonably believes such direction would promote olice Officer safety. The Union may appeal such direction to use chart time…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__88",
+      "page": 28,
+      "original": "on-going",
+      "candidate": "ongoing",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…tapes to CIR for which CIR will pay a one-time development fee and an on-going production fee. 25002 26"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__12",
+      "page": 15,
+      "original": "oncerning",
+      "candidate": "concerning",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…Relations may elect to issue, on a case-by-case basis, interpretatior oncerning the payment of the lump sum ratification bonus. Such interpretatior s…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__42",
+      "page": 22,
+      "original": "ontinuous",
+      "candidate": "continuous",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…fer of a permanent employee, or appointment from an eligible list wit ontinuous service in another City agency, sick leave and annual leave balances …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__81",
+      "page": 50,
+      "original": "operationa",
+      "candidate": "operation",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…ift lifferential prior to the Staten Island Transfer Station becoming operationa Should you have any other questions on the matter please do not hesit…"
+    },
+    {
+      "contract_id": "ibt-l237-moa-2022-2027",
+      "clause_id": "ibt-l237-moa-2022-2027__0",
+      "page": 1,
+      "original": "optin",
+      "candidate": "option",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ll be opted out of receiving paper pay stubs. Employees may choose to optin and receive paper stubs via NYCAPS Employee Self-Service or the appro…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__21",
+      "page": 16,
+      "original": "orber",
+      "candidate": "order",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ears of service. Employoes who have completod 8 years of sarvice. All orber employoes"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__6",
+      "page": 10,
+      "original": "orogram",
+      "candidate": "program",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…m. If the parties are unable to agree to continue or modify the pilot orogram, it shall terminate at the conclusion of the 2027-2028 academic year …"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__12",
+      "page": 9,
+      "original": "ourse",
+      "candidate": "course",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…ees to generate cumulative healthcare savings of S1.1 billion over th ourse of New York City Fiscal Years 2019 through 2021. Said savings shall b…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__48",
+      "page": 33,
+      "original": "ourside",
+      "candidate": "outside",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…t this legislation shall also apply to Uniformed Sanitation employees ourside the bargaining unit Il' the above accords with your understanding, pl…"
+    },
+    {
+      "contract_id": "dc37-l1087-locksmiths-consent-determination-2021-2026",
+      "clause_id": "dc37-l1087-locksmiths-consent-determination-2021-2026__30",
+      "page": 15,
+      "original": "ozher",
+      "candidate": "other",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…tion of union dues. e. Distribution of union pamphlets, circulars and ozher literature. The agency is authorized to make such other exceptions as…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__20",
+      "page": 16,
+      "original": "permaneni",
+      "candidate": "permanent",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…nce\". ERECTIVE MAX 1, 1970 Annual leave allowance shall be granted 1o permaneni employees who work at least a 250-day year, as follows:"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "quarteriy",
+      "candidate": "quarterly",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…f the following data to the City's and MILC's actuaries on an ongoing quarteriy basis: (1) detailed claim-level henith data from Emblem Health and Em…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "ractor",
+      "candidate": "rector",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "ractor, Employao Benefis Progs June 28, 2018 Harry Nespoli, Chair Municipal …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "raith",
+      "candidate": "faith",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…espite extraordinary savings to health costs accomplished in the last raith care for workers and their families, requires further study, savings …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "ratifioation",
+      "candidate": "ratification",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ents. This VOCE and the separate unit agreements are subject to union ratifioation in accordanoe with each union's rules and bylaws and subject to appro…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__10",
+      "page": 9,
+      "original": "ratitication",
+      "candidate": "ratification",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…3, 2021 to March 2, 2026. Effective as soon as practicable, following ratitication of this agreement, all employees of Mayoral agencies, the Department …"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__135",
+      "page": 100,
+      "original": "re-signed",
+      "candidate": "resigned",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…e Fund Trust Indenture entered into on July 30, 2007 (as modified and re-signed in June and July 2008) sets forth the structure of the PSC-CUNY Welfa…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__94",
+      "page": 30,
+      "original": "recertification",
+      "candidate": "precertification",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ls for House Staff who are required to have such certification(s) and recertification(s). If the course is not offered at the HSO's own NYC H+H facility, t…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__84",
+      "page": 33,
+      "original": "rederal",
+      "candidate": "federal",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…of the United States, pursuant to orders issued by competent state or rederal authority, with or without the consent of such public officer or empl…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__24",
+      "page": 22,
+      "original": "redit",
+      "candidate": "credit",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…all be placed in the employees sick leave bank and shall remain to hi redit, notwithstanding the provisions of Article II, Sec. 2 (3) After May 1…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__86",
+      "page": 54,
+      "original": "relied",
+      "candidate": "relief",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…eement, the Section of the Bylaws, or the written policy of the Board relied upon, and the remedy requested. Step 1. Grievances shall be filed wit…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__20",
+      "page": 16,
+      "original": "religioas",
+      "candidate": "religious",
+      "distance": 1,
+      "next_distance": null,
+      "context": "A combined vacation, personal business and religioas holiday leave allowance, shall be established, which shall be known a…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__42",
+      "page": 12,
+      "original": "relinguish",
+      "candidate": "relinquish",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…eby voluntarily and knowingly agrees to: 1. 2. 3. 4. Waive, withdraw, relinguish, and refrain from filing, pursuing or instituting any claim fo wages,…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__56",
+      "page": 28,
+      "original": "relirees",
+      "candidate": "retirees",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… of Medicare Part B reimbursement; Reduction of cost for Pre-Medicare relirees who have access to other coverage; Changes to the Senior Care rate; C…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__55",
+      "page": 30,
+      "original": "remair",
+      "candidate": "remain",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…therwise agreed to by the parties, the Welfare Fund contribution will remair constant for the length of the successor unit agreements, including t…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__79",
+      "page": 44,
+      "original": "repaid",
+      "candidate": "repair",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ch advanced temporary disability leave that had been provided must be repaid through assignment of future accruals. In the event the employee resi…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__27",
+      "page": 18,
+      "original": "rerurn",
+      "candidate": "return",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…inimum, however, all unexcused tardiness both in the morning and upon rerurn from lunch shall be charged to the annual leave allowance."
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "resolvod",
+      "candidate": "resolved",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ffice of Collective Bargaining. In such case, the arbitration must be resolvod before any interest arbitration panel is established, C. The parties …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "resolyed",
+      "candidate": "resolved",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… terms of the 2014 City/MLC Health Agreement: & Such dispute shall be resolyed within 90 days. 3 25002  b. The arbitrator shall have the authority t…"
+    },
+    {
+      "contract_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027",
+      "clause_id": "ibt-l237-maintenance-workers-consent-determination-2022-2027__36",
+      "page": 6,
+      "original": "retirce",
+      "candidate": "retire",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…rate of $2,055 pcr annum per active employee and $2,255 pcr annum per retirce. The annual contributions shall be paid per complainant by the City o…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "reviced",
+      "candidate": "revised",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…te Panel\") for resolution. The Parties agree that the program will be reviced periodically after implementation and thereafter excluding the four (…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__84",
+      "page": 33,
+      "original": "rithin",
+      "candidate": "within",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…onths) of the child's birth or placement. Paid parental leave not use rithin the 12 months of the birth or placement will be forfeited Employees m…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__21",
+      "page": 16,
+      "original": "sarvice",
+      "candidate": "service",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…omplasad 15 years of service. Employoes who have completod 8 years of sarvice. All orber employoes"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__13",
+      "page": 24,
+      "original": "satety",
+      "candidate": "safety",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ablish a safety and health committee at each college to discuss local satety and health workplace issues. The committee shall meet at least once p…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__25",
+      "page": 16,
+      "original": "seserve",
+      "candidate": "reserve",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…in existence until May 1, 1970. (2) Any time left in the annual leave seserve bank on May 1, 1970 shall be transferred to the sick leave balances o…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "sherefore",
+      "candidate": "therefore",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…niformed Sanitationmen's Association Compensation Accrual Fund. Il is sherefore possible for a Sanitation Worker to receive neither component, only t…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "shiff",
+      "candidate": "shift",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… agreed that a new differential in the amount of $5 00 per qualifying shiff will he paid for each dump made on shift (only one payment shall be m…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "shifi",
+      "candidate": "shift",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…d district while maintaining the Citywide 10.7 and 6 2 tons per truck shifi taryets. The number uf trucks assigned on a holiday shall have no eff…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "sholl",
+      "candidate": "shall",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…that any provision of this JOCEd is found to bo invalld, such finding sholl not impalt the vallilly and enforceabllity of the romaining provision…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "sucoessor",
+      "candidate": "successor",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ns of Ihis VOGEL. ho faffura of any Unlon to relity this OCEA, or the sucoessor Ur groomont, wiichever is placed for railtalion, shall not impais the…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__14",
+      "page": 32,
+      "original": "suspent",
+      "candidate": "suspend",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…t sever i endetend an fut execution,, the parties to succinor polin e suspent fleet and stip star dod by the union."
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__15",
+      "page": 13,
+      "original": "tenefits",
+      "candidate": "benefits",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ommissioner Health Care Strategy Georgette Gestely Director, Employee tenefits Program August 13, 2024 Thomas Callahan President/Business Manager In…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "thase",
+      "candidate": "these",
+      "distance": 1,
+      "next_distance": 1,
+      "context": "…\" and to provide a differential payment for achieving and maintaining thase performance standards. The Citywide and district targets and cut-off …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "tille",
+      "candidate": "title",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…me equivalent (FTE) WEP positions at DSNY (currently 250 FTEg) 10 the tille of Job Training Participant (Per Diem) (\"JP\"), Tille Code No. 80633, …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "ugreement",
+      "candidate": "agreement",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "… (Per Diem) (\"JP\"), Tille Code No. 80633, pursuant 1o the side lelter ugreement with District Council 37, dated February 16, 2016. No more than the 2…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__52",
+      "page": 25,
+      "original": "understending",
+      "candidate": "understanding",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…the actuary the arbitrator selects. 2  If the above accords with your understending and agreement, kindly execute the signature line provided. Sincerely,…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__10",
+      "page": 4,
+      "original": "unitorm",
+      "candidate": "uniform",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…. Bargaining unit employees shall have the option to purchase a dress unitorm to represent the Department at certain ceremonial functions. Represen…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "uperations",
+      "candidate": "operations",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ur. When the 40% floor is not attained Cityride (excluding non-normai uperations, eg.. snow and transfer station issues), the differential payment wil…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__47",
+      "page": 22,
+      "original": "viewpoins",
+      "candidate": "viewpoint",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ployee's disability and the approval of said physician from a medical viewpoins shall be required for the time granted with pay under this rule. The …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__18",
+      "page": 12,
+      "original": "week-end",
+      "candidate": "weekend",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…rt cycle shall provide each Sanitation Worker every fifth week a long week-end (3 days) or a short week-end (2 days). The City and the Union may mut…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__88",
+      "page": 56,
+      "original": "weifare",
+      "candidate": "welfare",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…iencies are idemified therefrora, there shall not be any reduction in weifare fund 4. There shall be a joint committee formed that will engage in a…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__12",
+      "page": 7,
+      "original": "wenty",
+      "candidate": "twenty",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…r 3 Association (\"051), who have attained normal serie retirement fer wenty 120) veers The parties agree that, effective January 20, 2019, the co…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "wiichever",
+      "candidate": "whichever",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…ffura of any Unlon to relity this OCEA, or the sucoessor Ur groomont, wiichever is placed for railtalion, shall not impais the volldity ar torosalily…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__40",
+      "page": 22,
+      "original": "withour",
+      "candidate": "without",
+      "distance": 1,
+      "next_distance": null,
+      "context": "Agencies shall grant any leave of absence withour pay, such as miliary leave, required by law. Y. MISCELLANEOUS PROVISI…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__21",
+      "page": 21,
+      "original": "woeks",
+      "candidate": "works",
+      "distance": 1,
+      "next_distance": 2,
+      "context": "…ave completod 8 years of service. All other empioyees 25 Work Days (5 woeks) 20 Work Days (4 weeks) 2 days, plus 1 day at end of of vacation year…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__66",
+      "page": 11,
+      "original": "work-day",
+      "candidate": "workday",
+      "distance": 1,
+      "next_distance": null,
+      "context": "…e grievance and shall reply in writing by the end of the tenth (10th) work-day following the date of submission. Step II. An appeal from an unsatisf…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__132",
+      "page": 93,
+      "original": "Assoc",
+      "candidate": "Also",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…T BARUCH COLLEGE Adjunct Lecturer Adjunct Assistant Professor Adjunct Assoc. Professor Adjunct Professor Non-Teaching Adjunct I 10/1/2018 $73.02 …"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Bconomio",
+      "candidate": "Economic",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ing agreements, including this 2022-2027 Uniformed Officers Coalltion Bconomio Agreement (\"VOCEA\") and agreements successor to existing unit agreeme…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__23",
+      "page": 21,
+      "original": "Beneflrs",
+      "candidate": "Benefits",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…Pollak Georgette Gestaly First Deputy Commissioner Director, Employee Beneflrs Program Nicole Andrade GenertJI Counsel November.1.4_, 2023 William L…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "Bffeotive",
+      "candidate": "Effective",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…greement, Employees shall receive a rate increase of 3.25%. 1 •  (SE) Bffeotive on the first day of the 13th month of the applicable Successor Separa…"
+    },
+    {
+      "contract_id": "lba-10-5-2023-unit-bargaining-agreement",
+      "clause_id": "lba-10-5-2023-unit-bargaining-agreement__whole",
+      "page": 1,
+      "original": "Campi",
+      "candidate": "Campion",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…anding, please execute the signature line below. Sincerely, ReR Renee Campi ouis Turco, President"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__92",
+      "page": 64,
+      "original": "Campias",
+      "candidate": "Campion",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…anding, please execute the signature line below. Sincerely, Rul Rence Campias Agreed and Accepted on Behalf of Local 831, IBT on farent President 2…"
+    },
+    {
+      "contract_id": "l3-stationary-engineer-electric-moa-20202025",
+      "clause_id": "l3-stationary-engineer-electric-moa-20202025__2",
+      "page": 3,
+      "original": "Cityof",
+      "candidate": "City",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…, BY: Lean Fitzpätick Sean Fitzpatrick Business Representative 4  The Cityof New York Office of Labor Relations 22 Cortlandt Street, New York, NY …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__120",
+      "page": 38,
+      "original": "Commissaner",
+      "candidate": "Commissioner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "First Dapury Commissaner"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__119",
+      "page": 35,
+      "original": "Commissianar",
+      "candidate": "Commissioner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…l Harry Nespoli, Chair } 25002  Appendix B The New York ROBERTW. LINN Commissianar"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__9",
+      "page": 12,
+      "original": "Commissionerof",
+      "candidate": "Commissioner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Commissionerof Labor Relations FOR PLUMBERS LOCAL UNION NO.I, U.A. BY: Paul O'Connor"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Commitice",
+      "candidate": "Committee",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… Direcior, Employee Benefits Progrom Earl Mathurin Associate Director Commitice of Interns and Resideals 10-27 46tb Aveaue, Suite 300-2 Long Island C…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Commitler",
+      "candidate": "Committee",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…nt committee shall be known as the Tripartite Health Insurance Policy Commitler THIPC) and shall be independent of the existing \"Technical Committee.…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "Comnessioner",
+      "candidate": "Commissioner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…or Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY Comnessioner MARGARET M. CONNOR Mrs Repan Cosmisstoner Mr Harry Nespoli President …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__53",
+      "page": 35,
+      "original": "Compassioner",
+      "candidate": "Commissioner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "….gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR firse Depury Compassioner Mir. Harry Nespoli President Uniformed Sanitationmen's Association Lo…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__48",
+      "page": 33,
+      "original": "Conimission",
+      "candidate": "Commission",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…te the signature line provided below Very ensly yours. /James F. Hanl Conimission Hant Maley Agreed and Accepted on Behalf of Local 831, IBT arry Nespo…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "Cosmisstoner",
+      "candidate": "Commissioner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…nyc.gov/olr JAMES F. HANLEY Comnessioner MARGARET M. CONNOR Mrs Repan Cosmisstoner Mr Harry Nespoli President Uniformed Sanitationmen's Association Loca…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__13",
+      "page": 13,
+      "original": "Danlol",
+      "candidate": "Daniel",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…n Claire Levitt Deputy Commissioner Commissioner Health Core Strategy Danlol Pollak Georgette Gestaly First Deputy Commissioner Director, Employee…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__120",
+      "page": 38,
+      "original": "Dapury",
+      "candidate": "Deputy",
+      "distance": 2,
+      "next_distance": null,
+      "context": "First Dapury Commissaner"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__16",
+      "page": 41,
+      "original": "Departinent",
+      "candidate": "Department",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ll be provided to the college's Office of Human Resources and the PSC Departinent of Contract Enforcement prior to June 15. During the term of the waiv…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__53",
+      "page": 35,
+      "original": "Deparunent",
+      "candidate": "Department",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…reement that the City and the Union will study the feasibility of the Deparunent of Sanitation's performing commercial refuse removal functions in res…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "Depunment",
+      "candidate": "Dependent",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…trict goals will be established for each program after the Sanitation Depunment (the \"Department\") and the Union, through the Citywide and district l…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "Diedo",
+      "candidate": "Diem",
+      "distance": 2,
+      "next_distance": null,
+      "context": "40 Rector Street, New Yock, N.Y. 10006-1705 Diedo, Empaye Bonal Program • February 26, 2016 Harry Nespoli President Uni…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "Diracior",
+      "candidate": "Director",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Diracior, Employaa Benals Program November 21, 2016 RE: Sick Leave Program Dea…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Dirntor",
+      "candidate": "Director",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…rt Slrottw D•nJoJ Pollak G11t0rgette Gestely First Otpuly Comminlontr Dirntor, Emp/oytt, Btnt/itJ Progrom Nicol• Andrada• Gtntrol CounJtl March 20,…"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__19",
+      "page": 19,
+      "original": "Dlrectar",
+      "candidate": "Director",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…re Strategy Danlel Pollak Georgette Gestely First Deputy Commissioner Dlrectar, Employee! Benefits Program Nlcole Andrade General Counsel l.i_, Nove…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Dlrrctor",
+      "candidate": "Director",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…arr Strotrgy Daniel Pollak Georgatla Gestaly First Orputy Cammlnlonrr Dlrrctor, Employtt IJrnr/ltf Pn,grom Nicole Andrada Gmrn,I Coun•� March 20, 20…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "Empaye",
+      "candidate": "Empire",
+      "distance": 2,
+      "next_distance": null,
+      "context": "40 Rector Street, New Yock, N.Y. 10006-1705 Diedo, Empaye Bonal Program • February 26, 2016 Harry Nespoli President Uniformed S…"
+    },
+    {
+      "contract_id": "local-246-sheet-metal-worker-consent-determination-2021-2026",
+      "clause_id": "local-246-sheet-metal-worker-consent-determination-2021-2026__22",
+      "page": 11,
+      "original": "Emplayte",
+      "candidate": "Employee",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…el Pollak Sang Hong First Deputy Commissioner Director of Operations, Emplayte Benefits Program Beth Kushner Director of Administration, Employee Be…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__137",
+      "page": 45,
+      "original": "Garand",
+      "candidate": "Grant",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ations 22 Cort dEnse, Nur York, NY 10007 Move H Lat Part Deputy Ducal Garand Couns East Muthoris Anita Dbactee Command of lateras and Residiaos Lo…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__80",
+      "page": 49,
+      "original": "Garci",
+      "candidate": "March",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ng without limitation, the grievance procedure. Very truly yours, Leo Garci Kathryn Garcia Commissioner Alan M. Klinger, Esq., Counsel for Local …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Georgeile",
+      "candidate": "Georgette",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…oursel Clairo Lovitt Deputy Cantontactanes Heath Care Cost Management Georgeile Gestaly Direcior, Employee Benefits Progrom Earl Mathurin Associate D…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__63",
+      "page": 39,
+      "original": "Gonaral",
+      "candidate": "General",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Depuly Commissioner Health Cara Cost Management MAYRA E. BELL Gonaral Counsel"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Gtntrol",
+      "candidate": "Control",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…tpuly Comminlontr Dirntor, Emp/oytt, Btnt/itJ Progrom Nicol• Andrada• Gtntrol CounJtl March 20, 2024 Joseph Colangelo President SEIU Local 246 217 …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__75",
+      "page": 20,
+      "original": "HtH's",
+      "candidate": "This",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ten (10) working days of the receipt of the Step I determination. NYC HtH's Director of Labor Relations or his/her designated representative, if …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__66",
+      "page": 11,
+      "original": "I-June",
+      "candidate": "June",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…he program at the institution. Funds remaining at the end of any July I-June 30 period shall be carried forward to the succeeding year or, at the …"
+    },
+    {
+      "contract_id": "dc37-l983-traffic-enforcement-agent-level-iii-and-iv-moa-2021-2027",
+      "clause_id": "dc37-l983-traffic-enforcement-agent-level-iii-and-iv-moa-2021-2027__6",
+      "page": 4,
+      "original": "IVadjustment",
+      "candidate": "Adjustment",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…iring Rate Incumbent Rate 46,754 $53,767 1,502 $1,727 752 $865 $451 L IVadjustment amount: Max 61,993 HR/Step 0 $ 1,947.00 Max $51,210 Max $54,328 Max $…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "Interacional",
+      "candidate": "International",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…6, 2016 Harry Nespoli President Uniformed Sanitationmen's Association Interacional Brotherhood of Teamsters, Local 831 25 Cliff Street New York, New Yor…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "JOCEd",
+      "candidate": "Noted",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…s, Scotion 9, Savings Clause. In the ayone that any provision of this JOCEd is found to bo invalld, such finding sholl not impalt the vallilly an…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__75",
+      "page": 43,
+      "original": "Klinger",
+      "candidate": "Longer",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…Deputy Commissioner Dan Hagevik, Director of Labor Relations A lan M. Klinger, Esq., Counsel for Local 831 New York's Strongest 2 25003"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__58",
+      "page": 15,
+      "original": "Kolker",
+      "candidate": "Worker",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…024 Dan Kroop President Association of Legislative Employees c/o Dina Kolker Steptoe LLP 1114 Avenue of the Americas New York, NY 10036 Re: Chiefs…"
+    },
+    {
+      "contract_id": "carpenters-consent-determination-2021-2027",
+      "clause_id": "carpenters-consent-determination-2021-2027__26",
+      "page": 12,
+      "original": "Lydon",
+      "candidate": "Lynn",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…estely Director, Employee Benefits Program August 23, 2024 Mr. Martin Lydon Director of Civil Service Affairs New York City District Council of C…"
+    },
+    {
+      "contract_id": "adwa-unit-agreement-2023-2028",
+      "clause_id": "adwa-unit-agreement-2023-2028__whole",
+      "page": 1,
+      "original": "Maloney",
+      "candidate": "Money",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…tte Gestely Director, Employee Benefits Progrom July 1B, 2024 Xiomara Maloney President Assistant Deputy Wardens-Deputy Wardens Association 364 Dec…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__121",
+      "page": 38,
+      "original": "Managermanl",
+      "candidate": "Managerial",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Deputy Commutaner Health Cara Cost Managermanl"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__44",
+      "page": 27,
+      "original": "Mclver",
+      "candidate": "Cover",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ivity Standard\" described in the Memorandum of Robert Shrank to Bruce Mclver and Jack Bigel dated June 30, 1981. Consistent with current policy th…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__14",
+      "page": 13,
+      "original": "Non-Day",
+      "candidate": "Monday",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… New York 10011 Re: Painters, et. al. Consent Determination 2021-2026 Non-Day Shift Work Dear Mr. Azzopardi: This is to confirm the understanding o…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Orputy",
+      "candidate": "Deputy",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ammlss/onrr H�lth Carr Strotrgy Daniel Pollak Georgatla Gestaly First Orputy Cammlnlonrr Dlrrctor, Employtt IJrnr/ltf Pn,grom Nicole Andrada Gmrn,…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Otpuly",
+      "candidate": "Truly",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…mlsJ/ontr tm>llh Cart Slrottw D•nJoJ Pollak G11t0rgette Gestely First Otpuly Comminlontr Dirntor, Emp/oytt, Btnt/itJ Progrom Nicol• Andrada• Gtntr…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__237",
+      "page": 173,
+      "original": "Padua",
+      "candidate": "Paul",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…MS in Finance with Free University of Bozen-Bolzano and University of Padua in Italy *Inclusion of these programs is contingent upon their receiv…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__61",
+      "page": 38,
+      "original": "Penne",
+      "candidate": "Phone",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…erstanding, please crecure the signature line below Very truly yours. Penne Mady Agreed and Accepted on Behalf of Local 831, IBT Harry Nespt Pres…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__147",
+      "page": 49,
+      "original": "Presidat",
+      "candidate": "President",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Andrea G. Cohen General Counsel Senior Vice Presidat Legal Affairs and Labor Relations NYC Health + Hospitals 125 Worth St…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__143",
+      "page": 48,
+      "original": "Rctions",
+      "candidate": "Action",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…G. Cohan Genoal Course Senice Vice Prosidone, Legal Altairs and Lebar Rctions NYC Hoath + Hospitab 125 Worth Stract, Suite 527 New York, NY 10013 2…"
+    },
+    {
+      "contract_id": "adwa-unit-agreement-2023-2028",
+      "clause_id": "adwa-unit-agreement-2023-2028__whole",
+      "page": 1,
+      "original": "Ronoo",
+      "candidate": "Room",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…of Labor Relations 22 Cortlandt Street, New York NY 10007 nyc.goviolr Ronoo Campion Commissioner Daniel Pollak First Deputy Commissioner Claire L…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__12",
+      "page": 7,
+      "original": "Sanitationer",
+      "candidate": "Sanitation",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…nnuity Fund for those Sanitation Workers, represented by the Unformed Sanitationer 3 Association (\"051), who have attained normal serie retirement fer w…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Sireel",
+      "candidate": "Street",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…a 4 25002  Appendix C New York Office of Labor Relations 22 Cortlandi Sireel, New York, NY 10007 пус.gоvай Ranco Camplon Comenislan Steven H. Bank…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__13",
+      "page": 13,
+      "original": "Stroteay",
+      "candidate": "Strategy",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ee Campion Claire Levitt Deputy Commissioner Commissioner Health Care Stroteay Daniel Pollak Georgetta Gastely First Deputy Commissioner Director, E…"
+    },
+    {
+      "contract_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025",
+      "clause_id": "joint-cert-l246-and-l15-tractor-operators-wage-indenture-2020-2025__8",
+      "page": 8,
+      "original": "Strotrgy",
+      "candidate": "Strategy",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…Renae Campion Clain, Levitt Comminionrr �puty Cammlss/onrr H�lth Carr Strotrgy Daniel Pollak Georgatla Gestaly First Orputy Cammlnlonrr Dlrrctor, Em…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__55",
+      "page": 28,
+      "original": "Surcet",
+      "candidate": "Street",
+      "distance": 2,
+      "next_distance": null,
+      "context": "40 Rector Surcet, New Yook, N.Y. 10006-1709 ajegov/ol"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__13",
+      "page": 24,
+      "original": "Technoloav",
+      "candidate": "Technology",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…e parties shall establish a Labor-Management Committee on Educational Technoloav to discuss issues of educational and non-  educational technology as …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__123",
+      "page": 38,
+      "original": "Triparit",
+      "candidate": "Tripartite",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…re delivery. To that end, the parties will within 90 days establish a Triparit appointed by the MLC and the City, and Martin F. Scheinman, Esq. The …"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__47",
+      "page": 22,
+      "original": "abscace",
+      "candidate": "absence",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… and sick leave shall accrue during the first six months only of such abscace, and shall be credited upon the employee's return to duty. Sestion 2 …"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__32",
+      "page": 19,
+      "original": "accumulatos",
+      "candidate": "accumulation",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…has been in full pay status for fewer than 15 days in each month, but accumulatos during said months a total of 30 or more calendar days in full pay st…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "amployces",
+      "candidate": "employees",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…d there will be no bi. change in job assignments and duties for these amployces. DSNY will opcrale the program in accordance wish its current structu…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__26",
+      "page": 17,
+      "original": "anmul",
+      "candidate": "annual",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ceptional and unusual circumstances, an agency head may permit use of anmul leave allowance before it is earned, not exceeding two weeks."
+    },
+    {
+      "contract_id": "cca-unit-agreement-2022-2028",
+      "clause_id": "cca-unit-agreement-2022-2028__whole",
+      "page": 1,
+      "original": "annun",
+      "candidate": "annual",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…rees. The total contribution rate as of this date shall be $1,656 per annun on behalf of active employees and retirees, exclusive of any contribu…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__19",
+      "page": 53,
+      "original": "appointinent",
+      "candidate": "appointment",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…e (\"CCAS\" or \"13.36\") who does not yet have tenure, a CCE, or a 13.3b appointinent, who takes a paid parental leave during his/her first six years of se…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__91",
+      "page": 61,
+      "original": "arached",
+      "candidate": "attached",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…s hereby rescinded and is replaced by the terms of a new side letrer (arached) 25003  This agreement is subject 1o the ferms of the currently effec…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__60",
+      "page": 23,
+      "original": "authonty",
+      "candidate": "authority",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…consistent with the parties' intent. d. The arbitrator shall have the authonty to meet with the parties at such times as the arbitrator determines i…"
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__48",
+      "page": 23,
+      "original": "bebaif",
+      "candidate": "behalf",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…g, and b. The injured employte or any authorized person acting in his bebaif agrees that a pro-rated charge be made against his sick leave and/or …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__64",
+      "page": 9,
+      "original": "beeper",
+      "candidate": "helper",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ble effort not to assign House Staff Officers on-call duty (including beeper calls) or to make rounds on shifts immediately prior to or immediatel…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__14",
+      "page": 32,
+      "original": "bircent",
+      "candidate": "percent",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…$ $ 87,149 $ $ 89,756 $ $ 92,359 $ $ 94,965 $ $ 98,638 $ $ 105,297 $  bircent sever i endetend an fut execution,, the parties to succinor polin e s…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "chunges",
+      "candidate": "change",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… the four (4) monsh break-in period. The Parties will meet to discuss chunges in productivity standards and/or shift differentials or other forns o…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__8",
+      "page": 19,
+      "original": "closest",
+      "candidate": "close",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… salary step greater than the salary step on the new schedule that is closest to but not less than the employee's salary on the former salary sched…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__135",
+      "page": 45,
+      "original": "cohco",
+      "candidate": "cohen",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…tab 125 Worth Stract, Suite 527 Now York, NY 10013 212-788-3304 andra.cohco@nychhc.org"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__141",
+      "page": 47,
+      "original": "commitice",
+      "candidate": "committee",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…nsider such matters and will include a CIR representative, and no new commitice will be established. The parties recognize that, due to the unique ci…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__19",
+      "page": 21,
+      "original": "completad",
+      "candidate": "complete",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Employees who have completad 15 years of service."
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__28",
+      "page": 18,
+      "original": "compured",
+      "candidate": "composed",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…  4 Leave Allowance. Under the latter option, Terminal Leave shall be compured on the basis of work days, rather than calendar days."
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "coonomic",
+      "candidate": "economic",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… the parties shall remain unchanged from the prior Agreement, and any coonomic demands may not be submitted to binding interest arbitration. The par…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__35",
+      "page": 10,
+      "original": "coworker",
+      "candidate": "worker",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…. The Personnel Services designee shall not be a direct supervisor or coworker of the Employee. The Employee and the Union shall be served with writ…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__61",
+      "page": 38,
+      "original": "crecure",
+      "candidate": "secure",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…rgaining process. If the above conforms to your understanding, please crecure the signature line below Very truly yours. Penne Mady Agreed and Acce…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "differemial",
+      "candidate": "differential",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…'s basic salary for the calculation of any salary-based benefits. The differemial shall be adjusted by future acrossthe-board collective bargaining inc…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__125",
+      "page": 43,
+      "original": "doliars",
+      "candidate": "dollar",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…sum contribution of three-million three-hundred thousand ($3,300,000) doliars for the re-establishment of a Holiday Pay Pilot Program for Residents…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "economto",
+      "candidate": "economic",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…tion upon mutual consent. Any dispute about . whether a demand has an economto cost may be submitted to impartial arbitration by either party under …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__48",
+      "page": 33,
+      "original": "fificen",
+      "candidate": "fifteen",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ension after twenty (20) years of service and the right to vest after fificen (15) years of service. Said Sanitation Workers shall be required to m…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "founso",
+      "candidate": "found",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…relates to the unt bargaining set forth in Section 4. WEREROR, wolina founso set our hands and sents this 3 .. day of Juna, 2023, •"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__133",
+      "page": 96,
+      "original": "fullpay",
+      "candidate": "fully",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…an expectation that there will be a minimum of one half-year leave at fullpay every other year at each college. Fellowship leaves received by membe…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__216",
+      "page": 141,
+      "original": "implied",
+      "candidate": "applied",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…nor has not been coerced and is not receiving any benefit, express or implied, in return for the donated sick leave and/or annual leave. The donor'…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__10",
+      "page": 4,
+      "original": "incrcasc",
+      "candidate": "increase",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…und contribution. The per annum per employee active contribution will incrcasc from $1,855 to $1,886.25. The per annum per employee retiree contribu…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "inoreases",
+      "candidate": "increase",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…e titles in effect on the last day! of the prior Agreeinent, (16) The inoreases in Section 3a. (il) shall be based upon the base rates (which shall i…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__4",
+      "page": 5,
+      "original": "inperson",
+      "candidate": "person",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…leges shall consider an adjunct's course schedule when scheduling any inperson obligations under paragraphs 1c, 1d, and 1e. In such cases, colleges …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__78",
+      "page": 25,
+      "original": "insal",
+      "candidate": "final",
+      "distance": 2,
+      "next_distance": null,
+      "context": "national origin, inaction dial discriminate insal orientation cout of are cone crede, in any matter of hiring or employ…"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__94",
+      "page": 30,
+      "original": "inservice",
+      "candidate": "service",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… continue, in accordance with past practices, to pay for all required inservice exams within the NYC H+H System for House Staff Officers."
+    },
+    {
+      "contract_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026",
+      "clause_id": "local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026__47",
+      "page": 22,
+      "original": "instinutes",
+      "candidate": "institute",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…s stipulated that, in the event that such employee makes any claim or instinutes any action against any party whatsoever in relation to such disabilis…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "intreaso",
+      "candidate": "increase",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…r Separate Unit Agreement, Employees shall receive an additional rate intreaso of 4.00%. b. The inorenses provided for in this Section 3 a, shall be…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "isjointly",
+      "candidate": "jointly",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…s of this VOCE/ into the Separate Unit Agreements, NOW, THEREFORE, it isjointly agreed as follows: Section 1. Term. The term of each Separare Unit Ag…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__64",
+      "page": 39,
+      "original": "makeup",
+      "candidate": "make",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…. (9) The Department and the Union will jointly evaluate the existing makeup of the Medical Panel to determine if an additional doctor in any part…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__36",
+      "page": 25,
+      "original": "maners",
+      "candidate": "manner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…nder the Mayor's Executive Order No. 38 dated May 16, 1957, acting on maners related to the interests of employees of their own respective departm…"
+    },
+    {
+      "contract_id": "ibt-l237-cement-masons-consent-determination-2020-2025",
+      "clause_id": "ibt-l237-cement-masons-consent-determination-2020-2025__16",
+      "page": 10,
+      "original": "mannerof",
+      "candidate": "manner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ction 1). Release and forever discharge the City of New York from all mannerof actions, cause and causes of actions, suits, debts, dues, sums of mon…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__101",
+      "page": 71,
+      "original": "multiplied",
+      "candidate": "multiple",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ersons during their annual leave period: (annual salary divided by 9) multiplied by (number of hours worked divided by 120 hours. Discussions between …"
+    },
+    {
+      "contract_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de",
+      "clause_id": "local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de__19",
+      "page": 19,
+      "original": "necessal'y",
+      "candidate": "necessary",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ated to the release time for Brendan Benn. The union has provided the necessal'y funding to cover the difference between the Stationary Engineer and t…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__14",
+      "page": 13,
+      "original": "non-day",
+      "candidate": "monday",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…anding of the parties that, prior to the implementation of any future non-day shift program involving Painters and/or Supervisor Painters, OLR and …"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "noworker",
+      "candidate": "worker",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…of the collection productivity ditferentials, one for the underlying \"noworker truck\" program as indicated in the Two-Worker Truck Agreement Paragra…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__73",
+      "page": 42,
+      "original": "nunbers",
+      "candidate": "number",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…rding the EJ Ward/WEX Gascard Program and the issuance of Gascurd PIN nunbers to Sanitation Workers. The use of Gascard PIN numbers shall be limite…"
+    },
+    {
+      "contract_id": "crane-operator-2021-2026",
+      "clause_id": "crane-operator-2021-2026__3",
+      "page": 7,
+      "original": "ofratification",
+      "candidate": "ratification",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…gaining unit members who were in active payroll status as of the date ofratification. Active payroll status is defined as being in active payroll status (…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__19",
+      "page": 53,
+      "original": "ofthe",
+      "candidate": "other",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Ottice ofthe Senior Vice Chancellor for Labor Relations 205 fast 12m°Street, 100 A…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__4",
+      "page": 5,
+      "original": "one's",
+      "candidate": "oner",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ort in assigned course(s) (e.g., academic advisement and mentoring of one's students); b. Course-related responsibilities in assigned courses (e.…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__227",
+      "page": 161,
+      "original": "onehalf",
+      "candidate": "behalf",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ly salary rate during Travia Leave or shall be paid in a lump sum for onehalf of their accumulated temporary disability leave up to a maximum of on…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__51",
+      "page": 34,
+      "original": "opcrale",
+      "candidate": "operate",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…. change in job assignments and duties for these amployces. DSNY will opcrale the program in accordance wish its current structure. Rober W. Linn S…"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__59",
+      "page": 33,
+      "original": "otiset",
+      "candidate": "offset",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…unless otherwise agreed to by the City and the MLC. In order for this otiset to expire, any savings achieved in this manner must be replaced in or…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__69",
+      "page": 21,
+      "original": "persem",
+      "candidate": "person",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…tle used for full-timo menders of the faculty went hired to teach and persem played lastly degrains, in accordance with the provisions of Article …"
+    },
+    {
+      "contract_id": "dc9-l1969-painters-consent-determination-2021-2026",
+      "clause_id": "dc9-l1969-painters-consent-determination-2021-2026__14",
+      "page": 13,
+      "original": "ployee",
+      "candidate": "employee",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…truly yours, Renee Campion Agreed and Accepted on Behalf of Local 196 ployee , District Co Joseph Business Manager/Secretary Treasurer  The Cigf N…"
+    },
+    {
+      "contract_id": "psc-cuny-moa-2023-2027",
+      "clause_id": "psc-cuny-moa-2023-2027__16",
+      "page": 41,
+      "original": "programinatic",
+      "candidate": "programmatic",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…ignee [e.g., Provost and Dean] shall conduct an assessment of: a. the programinatic needs of the department or college (e.g., (1) sufficiency of registra…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__147",
+      "page": 107,
+      "original": "reestablished",
+      "candidate": "established",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…r three years, whichever period is shorter. Should such a position be reestablished, persons on the eligible list shall be restored to service in reverse…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "relity",
+      "candidate": "relief",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…of the romaining provisions of Ihis VOGEL. ho faffura of any Unlon to relity this OCEA, or the sucoessor Ur groomont, wiichever is placed for rail…"
+    },
+    {
+      "contract_id": "usa-executed-contract-2022-2028",
+      "clause_id": "usa-executed-contract-2022-2028__90",
+      "page": 59,
+      "original": "revierved",
+      "candidate": "reserved",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…wide and for the Boroughs under the new productivity program shall be revierved (monitored) at regular quarterly intervals, or at the request of eith…"
+    },
+    {
+      "contract_id": "dc37-moa-2021-2026",
+      "clause_id": "dc37-moa-2021-2026__0",
+      "page": 1,
+      "original": "rodified",
+      "candidate": "notified",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… the predecessor separate unit agreements shall be continued except a rodified pursuant to this 2021-2026 DC 37 MOA Approval of Agreement This Agree…"
+    },
+    {
+      "contract_id": "ale-executed-contract-2021-2027",
+      "clause_id": "ale-executed-contract-2021-2027__67",
+      "page": 23,
+      "original": "shtml",
+      "candidate": "shall",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…EMBP can be found at http://www.nyc.gov/html/dcas/html/employees/embp.shtml. XII. LEAVE CREDITS FOR DONATING BLOOD OR VOLUNTEERING Blood Donation…"
+    },
+    {
+      "contract_id": "cwa-1180-moa-2021-2026",
+      "clause_id": "cwa-1180-moa-2021-2026__4",
+      "page": 4,
+      "original": "siddel",
+      "candidate": "side",
+      "distance": 2,
+      "next_distance": null,
+      "context": "AMERICA, AFL-CIO, LOCAL 1180: BY: Ile siddel Gloria Midateton President"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "sohedules",
+      "candidate": "schedule",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… based upon the base rates (which shall inalude salary or Incremental sohedules) of the applicable titles in effect on the last day! of the prior Agr…"
+    },
+    {
+      "contract_id": "psc-cuny-agreement-2017-2023",
+      "clause_id": "psc-cuny-agreement-2017-2023__48",
+      "page": 5,
+      "original": "strar",
+      "candidate": "start",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…tles: Professor Associate Registrar Associate Professor Assistant Regıstrar Assistant Professor Chief College Laboratory Technician Adjunct Profe…"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "subjaci",
+      "candidate": "subject",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… ratifying. This JOCE/ seis out the parles consploto agroenion on all subjaci on which this prutlos bargained or could have bargaíned and codifies …"
+    },
+    {
+      "contract_id": "cir-executed-contract-2021-2027",
+      "clause_id": "cir-executed-contract-2021-2027__138",
+      "page": 46,
+      "original": "susand",
+      "candidate": "suspend",
+      "distance": 2,
+      "next_distance": null,
+      "context": "Des Mr. Matu sin, If the above scords with your susand a kindly orcane the riganture the provided balan. azue Rento Campion"
+    },
+    {
+      "contract_id": "pba-mou-2017-2025",
+      "clause_id": "pba-mou-2017-2025__5",
+      "page": 4,
+      "original": "swapped",
+      "candidate": "capped",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…g day and a regular day off (i.e. \"day for a day\" or \"RDO Swap\"). The swapped tours must be performed in the same work week. The swapped tour itsel…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__13",
+      "page": 13,
+      "original": "tenno",
+      "candidate": "tenth",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…on and the City for that period. Plumbers Local Union No.I, U.A. Paulótenno Paul O'Connor Business Manager  Office of Labor Relations 22 Cortland…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__2",
+      "page": 1,
+      "original": "ualocal",
+      "candidate": "local",
+      "distance": 2,
+      "next_distance": null,
+      "context": "….A. 50-02 Fifth Street, 2nd Floor Long Island City, NY 11101 poconnor@ualocal1.org"
+    },
+    {
+      "contract_id": "uniformed-coalition-economic-agreement-2022-2027",
+      "clause_id": "uniformed-coalition-economic-agreement-2022-2027__0",
+      "page": 1,
+      "original": "volldity",
+      "candidate": "validity",
+      "distance": 2,
+      "next_distance": null,
+      "context": "…Ur groomont, wiichever is placed for railtalion, shall not impais the volldity ar torosalily of this JOCE with sogard to any Union ratifying. This J…"
+    },
+    {
+      "contract_id": "l1-plumbers-consent-determination-2022-2027",
+      "clause_id": "l1-plumbers-consent-determination-2022-2027__13",
+      "page": 13,
+      "original": "yroll",
+      "candidate": "payroll",
+      "distance": 2,
+      "next_distance": null,
+      "context": "… I UA 50-02 Fifth Street, 2nd Floor Long Island City, NY 11101 RE: P11yroll Paper Pay Stubs Plumbers ct al. 2022- 2027 Consent Determination Dear…"
+    }
+  ]
+}

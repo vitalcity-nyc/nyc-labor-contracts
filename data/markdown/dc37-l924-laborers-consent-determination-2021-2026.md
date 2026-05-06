@@ -488,7 +488,7 @@ SedJGOS
 (n the discretion of the agency head, employees excqt provisional and temporary employees, who have exhausted all earned sick leave and annual leave balances due to pefSOD11 illness may be permitted to use unearned sick leave allowance up to the amount eamable in one year of service, chargeable against fubJre earned sick leave.
 Sn1'9n 6
 At the discretion of the agency head, permanent employees may also be granted sick icave with pay for three months after ten years of City Service, after all credirs have been used.
-In special instances, lick leave with pay may be funher extended, with the approval of ~ agency head, The agency head shall be guided Jn this maner by the narure and extent of illneu and the length and character of service.
+In special instances, lick leave with pay may be funher extended, with the approval of ~ agency head, The agency head shall be guided Jn this maner by the nature and extent of illneu and the length and character of service.
 Ill& O'l'HER AUTHORIZED ABSENCES
 
 <a id="with-pay-p24"></a>

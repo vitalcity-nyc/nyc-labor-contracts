@@ -1104,7 +1104,7 @@ Appendix A
 ### OFFICE OF LABOR RELATIONS
 _Page 35_ · _OCR-reconstructed_ · _Topics: wages, health-welfare_
 
-40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr ROBERT W. LINN Cammissioner May 5, 2014 Harry Nespoli Chair, Municipal Labor Committee
+40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr ROBERT W. LINN Commissioner May 5, 2014 Harry Nespoli Chair, Municipal Labor Committee
 125 Barclay Street
 New York, NY 10007
 Dear Mr. Nespoli:
@@ -1131,7 +1131,7 @@ a In the event of any dispute under this agreement, the parties shall meet and c
 b. Such dispute shall be resolved within 90 days.
 c. The arbitrator shall have the authority to impose interim relief that is consistent with the parties' intent.
 d. The arbitrator shall have the authority to meet with the parties at such times as the arbitrator determines is appropriate to enforce the tentas of this agreement.
-e. If the parties are unable to agree on the independent health care actuary described above, the arbitrator shall select the impartial health care acruary to be retained by the parties.
+e. If the parties are unable to agree on the independent health care actuary described above, the arbitrator shall select the impartial health care actuary to be retained by the parties.
 f.
 The parties shall share the costs for the arbitrator and the actuary the arbitrator selects.
 2
@@ -1184,7 +1184,7 @@ Director, Employso Benefits Program June 28, 2018 Harry Nespoli, Chair Municipal
 125 Barclay Street
 New York, New York
 Dear Mr. Nespoli:
-1. This is to confirm the parties' mutual understanding concering the health care agreement for
+1. This is to confirm the parties' mutual understanding concerning the health care agreement for
 Fiscal Years 2019 - 2021:
 a. The MLC agrees to generate cumulative healthcare savings of S1.1 billion over the course of New York City Fiscal Years 2019 through 2021. Said savings shall be
 generated as follows:
@@ -1225,7 +1225,7 @@ shall cover all periods addressed by this Agreement (i.e., through June 30, 2021
 payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
 2018 and July 1, 2019.
 5. The parties recognize that despite extraordinary savings to health costs accomplished in the last
-raith care for workers and their families, requires further study, savings and efficiencies in th nethod of health care delivery. To that end, the parties will within 90 days establish a Triparit appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study which health care is currently provided or funded. Among the lopics the Committee shall
+raith care for workers and their families, requires further study, savings and efficiencies in th method of health care delivery. To that end, the parties will within 90 days establish a Triparit appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study which health care is currently provided or funded. Among the lopics the Committee shall
 discuss:
 a. Self-insurance and/or minimum premium arrangements for the HIP HMO plan.
 b. Medicare Advantage- adoption of a Medicare Advantage benchmark plan for retirees c. Consolidated Drug Purchasing- welfare funds, PICA and health plan prescription costs pooling their buying power and resources to purchase prescription drugs.
@@ -1239,7 +1239,7 @@ The Committee will make recommendations to be considered by the MLC and the City
 7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer
 in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
 2014 City/MLC Health Agreement:
-& Such dispute shall be resolyed within 90 days.
+& Such dispute shall be resolved within 90 days.
 3
 25002
 
@@ -1258,11 +1258,11 @@ Agreed ang Accepted on behalf of the Municipal Labor Committee How leapel espoli
 Appendix C
 New York
 Office of Labor Relations
-22 Cortlandi Sireel, New York, NY 10007 пус.gоvай Ranco Camplon Comenislan Steven H. Banks Flist Deputy Comradsdaer Generol Coursel Clairo Lovitt Deputy Cantontactanes Heath Care Cost Management Georgeile Gestaly Direcior, Employee Benefits Progrom Earl Mathurin Associate Director Commitice of Interns and Resideals
-10-27 46tb Aveaue, Suite 300-2 Long Island City, NY 11101 Re: Pald Family Leave
+22 Cortlandi Sireel, New York, NY 10007 пус.gоvай Ranco Campion Comenislan Steven H. Banks Flist Deputy Comradsdaer Generol Counsel Claire Lovitt Deputy Cantontactanes Heath Care Cost Management Georgeile Gestaly Director, Employee Benefits Progrom Earl Mathurin Associate Director Commitice of Interns and Resideals
+10-27 46tb Avenue, Suite 300-2 Long Island City, NY 11101 Re: Pald Family Leave
 Dear Mr. Mathur:
-This is to confirm the understanding and agreement of the parties concering paid family leave for employees represented by the Committee of Interns and Residents and covared under the City of New York/Health + Hospitals/CIR collective bargaining agreemens.
-The parties agree to "opt in" to the New York State Paid Family Leave Program, as implemenied by the City of New York, as soon as practicable and agree to take the necessary steps to implemeat, subject to ratification by the membership If the above accords with your understanding, kindly execute the signature line provided below.
+This is to confirm the understanding and agreement of the parties concerning paid family leave for employees represented by the Committee of Interns and Residents and covered under the City of New York/Health + Hospitals/CIR collective bargaining agreement.
+The parties agree to "opt in" to the New York State Paid Family Leave Program, as implemenied by the City of New York, as soon as practicable and agree to take the necessary steps to implement, subject to ratification by the membership If the above accords with your understanding, kindly execute the signature line provided below.
 Very truly yours,
 nee
 Rence Campion
@@ -1274,7 +1274,7 @@ Commissioner
 _Page 42_ · _OCR-reconstructed_
 
 Eart Mathurin
-Associale Director
+Associate Director
 25002
 
 
@@ -1350,7 +1350,7 @@ _Page 45_ · _OCR-reconstructed_
 
 Andra G. Colon
 General Counsel
-Senior Vice Presidore, Legal Attira and Labor Relations NYC Health + Hospitab
+Senior Vice Presidore, Legal Attira and Labor Relations NYC Health + Hospital
 125 Worth Stract, Suite 527
 Now York, NY 10013
 212-788-3304
@@ -1420,7 +1420,7 @@ Savior Vice Presiders, Legpl Affaira and Labor Relations NYC Heath + Hospitals
 125 Worth Street, Suile 527
 New York, NY 10013
 212-788-3304
-andrca.cnlun@nychlc.m
+andrea.cnlun@nychlc.m
 
 <a id="appendix-g-p47"></a>
 ### APPENDIX G
@@ -1455,11 +1455,11 @@ _Page 48_ · _OCR-reconstructed_
 
 Andra G. Cohan
 Genoal Course
-Senice Vice Prosidone, Legal Altairs and Lebar Rctions NYC Hoath + Hospitab
+Senice Vice Prosidone, Legal Altairs and Lebar Rctions NYC Hoath + Hospital
 125 Worth Stract, Suite 527
 New York, NY 10013
 212-788-3304
-andrca.cuhen/gnyithc.mrg
+andrea.cuhen/gnyithc.mrg
 
 <a id="appendix-h-p48"></a>
 ### APPENDIX H
@@ -1569,7 +1569,7 @@ _Page 51_ · _OCR-reconstructed_
 
 Andres G. Coban
 Graveral Counsci
-Sonior Vice Presidene, Legal Affains and Labor Relations NYC licalth + Hospitals
+Senior Vice President, Legal Affains and Labor Relations NYC licalth + Hospitals
 125 Worth Street, Swile 527
 New York, NY 10013
 212-788-3304

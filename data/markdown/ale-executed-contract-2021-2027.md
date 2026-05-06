@@ -248,7 +248,7 @@ _Page 7_ · _OCR-reconstructed_ · _Topics: health-welfare_
 
 Section 1.
 Effective May 5, 2024, or as soon as practicable thereafter, employees will be moved from Management Benefits Fund and into the Organization of Staff Analysts Health and Welfare Fund, pursuant to the terms of a supplemental agreement to be reached by the parties subject to the approval of the Corporation Counsel.
-ffective May 5, 2024, the City shall also increase the current active and retiree welfare fund contribution of 1,775 per annum by $50 per year, for a new total active and retiree contribution of $1.825 per annum Effective September 6, 2026, the welfare fund contribution rate for active and retired employees shall increase by an additional $839 per annum for a new total contribution amount of $2,664 per annum.
+effective May 5, 2024, the City shall also increase the current active and retiree welfare fund contribution of 1,775 per annum by $50 per year, for a new total active and retiree contribution of $1.825 per annum Effective September 6, 2026, the welfare fund contribution rate for active and retired employees shall increase by an additional $839 per annum for a new total contribution amount of $2,664 per annum.
 Section 2.
 The Union agrees to provide welfare fund benefits to domestic partners of covered employees in the same manner as those benefits are provided to spouses of married covered employees.
 Section 3.
@@ -530,7 +530,7 @@ First Deputy Commissioner
 Nicole Andrade
 Generol Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claira Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Program April 16, 2024 Dan Kroop President Association of Legislative Employees c/o Dina Kolker Steptoe LLP
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Program April 16, 2024 Dan Kroop President Association of Legislative Employees c/o Dina Kolker Steptoe LLP
 1114 Avenue of the Americas
 New York, NY 10036
 Re: Chiefs of Staff
@@ -709,7 +709,7 @@ VII. HOLIDAYS
 The Council observes the following regularly paid holidays:
 Holiday
 New Year's Day
-Martin Luther King, Jr.'s Birthday Washington's Birthday Memorial Day Juneteenth Independence Day Labor Day Columbus Day Election Day Veterans Day Thanksgiving Day Christmas Day Observed January 1 Third Monday in Januar Third Monday in Februar Last Monday in May June 19 July 4 First Monday in September Second Monday in October The Tuesday following the first Monday in November DecenTer day in November When a holiday falls on a Saturday, it shall be observed on the preceding Friday. When a holiday falls on a Sunday, it shall be observed on the following Monday.
+Martin Luther King, Jr.'s Birthday Washington's Birthday Memorial Day Juneteenth Independence Day Labor Day Columbus Day Election Day Veterans Day Thanksgiving Day Christmas Day Observed January 1 Third Monday in January Third Monday in February Last Monday in May June 19 July 4 First Monday in September Second Monday in October The Tuesday following the first Monday in November DecenTer day in November When a holiday falls on a Saturday, it shall be observed on the preceding Friday. When a holiday falls on a Sunday, it shall be observed on the following Monday.
 VIII. FLOATING HOLIDAYS/PERSONAL DAYS Employees will be eligible to accrue up to four floating holidays per calendar year in addition to other types of leave.
 Floating holidays will allow employees to have additional paid leave to cover the observance of Lincoln's Birthday, absences for personal reasons, such as religious observances, parent-teacher conferences, important family events or to supplement annual, sick and holiday leave. Generally, reasonable notice must be given and appropriate approvals obtained; however, floating holidays may be used for emergency situations.
 Floating holidays must be used in three and a half (3.5) hour or seven (7) hour increments only.
@@ -830,7 +830,7 @@ When an employee is called for Jury Duty, the employee is excused from their emp
 duty as well as necessary travel time. In addition, the following procedures must be followed:
 :
 Discussion with the supervisor so that the supervisor is made aware of the upcoming absence.
-A copy of the Jury Duty Notice must be submitted to the Payroil Unit in Personnel Services before the employee leaves for such service.
+A copy of the Jury Duty Notice must be submitted to the Payroll Unit in Personnel Services before the employee leaves for such service.
 After Jury Duty has been served, a receipt showing the number of days served must be given to the Payroll Unit in Personnel Services.
 XVI. PROHIBITION AGAINST RETALIATION FOR REQUESTING OR USING LEAVE Retaliation against any employee who requests or utilizes leave in accordance with any section of these Absence and Leave Policies is prohibited. Retaliation includes, but is not limited to, any adverse employment action (i.e. termination of employment, demotion, discipline, etc.).
 Any individual who believes they have been retaliated against for requesting or utilizing leave in accordance with these Absence and Leave Policies should contact the Team Relationship Manager in Personnel Services.
@@ -1141,7 +1141,7 @@ VIL.
 _Page 32_ · _OCR-reconstructed_ · _Topics: holidays, vacation, other-leave_
 
 Employees will be granted six (6) floating holidays per calendar year in addition to other types of leave.
-loating holidays will allow employees to have additional paid leave to cover the observance of Lincoln's Birthday, absence for personal reasons, such as religious observances, parent-teacher conferences, and important family events or to supplement annual, sick and holiday leave. Generally, reasonable notice must be given and appropriate approvals obtained; however, floating holidays may be used for emergency situations.
+floating holidays will allow employees to have additional paid leave to cover the observance of Lincoln's Birthday, absence for personal reasons, such as religious observances, parent-teacher conferences, and important family events or to supplement annual, sick and holiday leave. Generally, reasonable notice must be given and appropriate approvals obtained; however, floating holidays may be used for emergency situations.
 Floating holidays must be used in three and a half (3.5) hour or seven (7) hour increments only.
 Floating holidays must be taken within the calendar year in which they are given. Under no circumstances will these days b arried over to the next calendar year, nor may they be paid out upon the end of your Council employment, your transfer t an agency of the City of New York, or your transfer to Central Staff.
 VIII. BEREAVEMENT
@@ -1178,7 +1178,7 @@ All paid employees with less than five months of continuous service with the Cit
 All paid employees with five months or more of continuous service with the City of New York are eligible for up to 60 workdays (420 hours) of paid parental leave.
 The weekly paid parental leave benefit paid to any employee shall be equal to that employee's usual weekly rate of pay.
 B. Usage
-The start date of an employee's use of paid parental leave is at the employee's option. However, the employee must use he paid parental leave by the first anniversary (12 months) of the child's birth or placement. Paid parental leave not use rithin the 12 months of the birth or placement will be forfeited Employees may use paid parental leave once per a rolling 12-month period, which is the 12-month period measured backward from the date the employee begins using paid parental leave.
+The start date of an employee's use of paid parental leave is at the employee's option. However, the employee must use he paid parental leave by the first anniversary (12 months) of the child's birth or placement. Paid parental leave not use within the 12 months of the birth or placement will be forfeited Employees may use paid parental leave once per a rolling 12-month period, which is the 12-month period measured backward from the date the employee begins using paid parental leave.
 C. Documentation
 An employee's eligibility for paid parental leave is contingent on the employee providing appropriate documentation as requested by the Council.
 Page 5 of 9
@@ -1199,7 +1199,7 @@ An employee who returns from a parental leave of absence taken in accordance wit
 H. Further Details
 For further details regarding taking a parental leave of absence, please contact the Human Resources Unit in Personnel Services.
 X. MILITARY LEAVE
-Military orders, when received, must be honored and the employee placed on a leave of absence for the duration of the orders. New York State Military Law defines ordered military duty as "Any military duty performed in the service of the state or of the United States, including but not limited to attendance at any service school or schools conducted by the arme forces of the United States, by a public officer or employee as a member of any force of the organized militia or of any reserve force or reserve component of the armed forces of the United States, pursuant to orders issued by competent state or rederal authority, with or without the consent of such public officer or employee. Participation in routine reserve office training corps training is not considered to be military duty except when performing advanced training duty as a member of reserve component of the armed forces."
+Military orders, when received, must be honored and the employee placed on a leave of absence for the duration of the orders. New York State Military Law defines ordered military duty as "Any military duty performed in the service of the state or of the United States, including but not limited to attendance at any service school or schools conducted by the arme forces of the United States, by a public officer or employee as a member of any force of the organized militia or of any reserve force or reserve component of the armed forces of the United States, pursuant to orders issued by competent state or federal authority, with or without the consent of such public officer or employee. Participation in routine reserve office training corps training is not considered to be military duty except when performing advanced training duty as a member of reserve component of the armed forces."
 Paid Leave Time
 Employees will receive their Council salary while on leave for "ordered military duty" for a period of time not to exceed 30 normally scheduled workdays in any one calendar year and not to exceed 30 normally scheduled workdays in any one continuous period of absence. This includes travel to and from such duty.
 Documentation

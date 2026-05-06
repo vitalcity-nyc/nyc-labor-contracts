@@ -439,7 +439,7 @@ In the calcutalio_n of sick leave credits, a full monlh •s credit shall be giv
 
 
 5
-CRdits under this rule for several months in the vacation year because he has been in full pay statu1 for fewer than 1S days in each month, but accumulates during said months a total of 30 or more calendar days in full pay status, he shall be credited with the sick leave credits eamablc in one month for each 30 days of such full pay starus.
+CRdits under this rule for several months in the vacation year because he has been in full pay statu1 for fewer than 1S days in each month, but accumulates during said months a total of 30 or more calendar days in full pay status, he shall be credited with the sick leave credits eamablc in one month for each 30 days of such full pay status.
 s
 Sectioq
 ln the discretion of the agency head, employees exc.ept provisional and temporary employees. who have exhausted all earned sick leave and annual leave balances due io personal illness may be permitted to use unearned sick leave allowance up to the amount earnable in one year of service, chargea}>le against future earned sick leave.
@@ -449,7 +449,7 @@ ln the discretion of the agency head, employees exc.ept provisional and temporar
 _Page 21_ · _Topics: vacation, sick-leave, other-leave, promotion_
 
 At the discretion of the agency head, permanent employees may also be granted sick leave with pay for three months after ten years of City Service, after all credits have been used.
-In special instances, sick leave with pay may be further extended, with the approval of~ agency bead. The agency be-ad shall be guided in this maner by the narure and extent of illness and the length and character of service.
+In special instances, sick leave with pay may be further extended, with the approval of~ agency bead. The agency be-ad shall be guided in this maner by the nature and extent of illness and the length and character of service.
 IIL. OTHER AUTHORIZED ABSENC~ WITH PAY Absence of permanent employees. provisional employees and temporary employees for the reasons indicated below, shall be excusable in the discretion of the agency head without charge co sick leave or annual leave balances. upon subm.ittal of evidence satisfactory to the
 agency bead:
 a. Absence not to exceed four work-days in the case of death in the immediate family. Family shall be defined for this purpose as spouse; natural, foster, step-parent, childt brother or sister; father-in-law or mother-in-law; or any relative residing in the household.

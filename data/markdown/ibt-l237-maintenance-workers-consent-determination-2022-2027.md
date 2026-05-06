@@ -354,8 +354,8 @@ Effective January 2, 2026, there shall be an increase of $31.25 per employee per
 4
 
 
-$1,886.25 per annum per active employee and $2,086.25 pcr annum per retiree. Effective January 2, 2027, there shall be an increase of $168.75 per employee per annum, for a rate of $2,055 pcr annum per active employee and $2,255 pcr annum per retirce.
-The annual contributions shall be paid per complainant by the City of New York to the Wolfare Fund, Local 237 International Brotherhood ofTcamsters, 216 West 14th Street, New York, N.Y.
+$1,886.25 per annum per active employee and $2,086.25 pcr annum per retiree. Effective January 2, 2027, there shall be an increase of $168.75 per employee per annum, for a rate of $2,055 pcr annum per active employee and $2,255 pcr annum per retire.
+The annual contributions shall be paid per complainant by the City of New York to the Welfare Fund, Local 237 International Brotherhood ofTcamsters, 216 West 14th Street, New York, N.Y.
 Employees who have been separated from service subsequent to June 30, 1970 and who were covered by a Welfare Fund at the time of such separation pursuant to a separate agreement between the City of New York and the Certified union representing such employees, shall continue to be so covered subject to the provisions hereof, on the same contributory basis as incumbent employees.
 Contributions shall be made only for such time as said individuals remain primary beneficiaries of the Now York City Health Insurance Program and are entitled to benefits paid for by the City through such program; or are retirees of the New York City Employees Retirement System who have completed five (5) years of full in time service with the City of New York, except that contributions for those employees hired after December 27, 2001 shall be governed by the provisions of §12-126 of the Administrative Code of the City of New York, as amended.
 Annuity Fund
@@ -455,10 +455,10 @@ hereby voluntarily and knowingly agrees to:
 2.
 3.
 4.
-Waive, withdraw, relinguish, and refrain from filing, pursuing or instituting any claim fo wages, supplements or other benefits, or any right, remedy, action or proceeding, which the Union has or may have under Section 220 of the Labor Law.
+Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any claim fo wages, supplements or other benefits, or any right, remedy, action or proceeding, which the Union has or may have under Section 220 of the Labor Law.
 Discontinue any and all action or proceedings, if any, heretofore commenced by me or on my behalf of the above mentioned titles under and pursuant to Section 220 of the Labor Law applicable to the period January 2, 2022 to February 1, 2027.
 Waive any and all interest on all differentials of basic rates of wages and supplemental benefits from January 2, 2022 to February 1, 2027 except as expressly agreed upon in writing by the Union and the City. It is expressly understood that such waiver shall include the waiver of any right to interest payments pursuant to Subdivision 8c of Section 220 of the Labor Law (L. 1967,c. 502, Section 1).
-Release and forever discharge the City of New York from all manner of actions, cause and causes of actions, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, specialties, covenants, contracts, controversies, agreements, promises, cariances, trespasses, damages, judgments, extents, executions, claims and demands whatsoever in law or in equity which the Union, on behalf of employees in the above titles, shall or may have, by reason of any claim for wages or supplemental benefits pursuant to Section 220 of the Labor Law from January 2, 2022 to February 1, 2027 excopt as expressly agreed upon in writing by the Union and the City for that period.
+Release and forever discharge the City of New York from all manner of actions, cause and causes of actions, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, specialties, covenants, contracts, controversies, agreements, promises, cariances, trespasses, damages, judgments, extents, executions, claims and demands whatsoever in law or in equity which the Union, on behalf of employees in the above titles, shall or may have, by reason of any claim for wages or supplemental benefits pursuant to Section 220 of the Labor Law from January 2, 2022 to February 1, 2027 except as expressly agreed upon in writing by the Union and the City for that period.
 LOCAL 237 L.B.T.
 
 <a id="gregors-p12"></a>
@@ -920,7 +920,7 @@ First Deputy Commissioner
 _Page 28_ · _OCR-reconstructed_
 
 Deputy Commissioner
-Health Care Cost Managament
+Health Care Cost Management
 
 <a id="office-of-labor-relations-p28"></a>
 ### OFFICE OF LABOR RELATIONS
@@ -932,7 +932,7 @@ _Page 28_ · _OCR-reconstructed_
 ### SEORGETTE GESTEL
 _Page 28_ · _OCR-reconstructed_
 
-Director, Employee Benefits Progra June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
+Director, Employee Benefits Program June 28, 2018 Harry Nespoli, Chair Municipal Labor Committee
 125 Barclay Street
 New York, New York
 Dear Mr. Nespoli:

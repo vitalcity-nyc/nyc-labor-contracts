@@ -47,7 +47,7 @@ promoted to that rank between November 1, 2022 and November 1, 2024 and active i
 4. The salary step below basic maximum shall be eliminated for all Deputy Wardens promoted to
 that rank between May 1, 2022 and November 1, 2023 and active in the title as of July 1, 2025
 5. Effective April 1, 2025, the City shall make a one-time lump sum annuity contribution of $3,750
-on behalf of Assistant Deputy Wardens promoted prior to Vovember 7, 2022 and Deputy Wardens/Deputy Wardens-in-Command promoted prior to May 1, 2022, provided they were on active payroll or on terminal leave on January 1, 2024. The list of eligible employees is attached to this agreement as Appendix A.
+on behalf of Assistant Deputy Wardens promoted prior to November 7, 2022 and Deputy Wardens/Deputy Wardens-in-Command promoted prior to May 1, 2022, provided they were on active payroll or on terminal leave on January 1, 2024. The list of eligible employees is attached to this agreement as Appendix A.
 6. Effective from September 1, 2024 until and ceasing July 31, 2028, the City shall provide an
 additional two days per week of release time to designated union officials, subject to the terms
 

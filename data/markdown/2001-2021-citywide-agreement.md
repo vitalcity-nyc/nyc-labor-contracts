@@ -1806,7 +1806,7 @@ Citywide Title Code Numbers
 | Community Planning Board Coordinator |  | 22117 | 35 |
 | Compliance Agent (Sanitation) | Deleted | 05260 | 35 |
 | Computer Aide |  | 13620 | 35 |
-| Computer Associale (Operations} |  | 13621 | 35 |
+| Computer Associate (Operations} |  | 13621 | 35 |
 | Computer Associate (Software) |  | 13631 | 35 |
 | Computer Associate (Technical Support) |  | 13611 | 35 |
 | Computer Facllitles Maintainer (FISA) | Deleted | 91603 | 40 |
@@ -3983,7 +3983,7 @@ First O&puty C:ommls:slonw Director. Empfoyr,s Ssn&lits Program
 _Page 126_ · _Topics: discipline_
 
 Deputy Comml"iom,r
-H&alth Care Cost Mam1!1ffmt1nt Attachment B April 26, 2018 David Po.,;kin Direclor of Research and Ncgotialion,; District Council 37
+H&alth Care Cost Mam1!1ffmt1nt Attachment B April 26, 2018 David Po.,;kin Director of Research and Ncgotialion,; District Council 37
 12S Barclay Strcel
 New York, New York 10007
 Re: Provisional Due Process Elig1b1lity

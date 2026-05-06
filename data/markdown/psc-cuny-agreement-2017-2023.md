@@ -148,7 +148,7 @@ headcount_approx: 30000
 - [DISTINGUISHED PROFESSOR SIDE LETTER](#distinguished-professor-side-letter-p158)
 - [ADJUNCT HEALTH INSURANCE ELIGIBILITY](#adjunct-health-insurance-eligibility-p159)
 - [VOLUNTARY PHASED RETIREMENT PROGRAM](#voluntary-phased-retirement-program-p161)
-- [Article 15 — 4 of the 2007-2010 Collective Bargaining Agreement (i.e., a phasing employee will](#article-15-4-of-the-2007-2010-collective-bargaining-agreemen-p164)
+- [Article 15 — 4 of the 2007-2010 Collective Bargaining Agreement (i.e., a phasing employee will](#article-15-4-of-the-2007-2010-collective-bargaining-agreement-p164)
 - [PREDOMINANTLY ADMINISTRATIVE POSITIONS](#predominantly-administrative-positions-p167)
 - [LABOR-MANAGEMENT COMMITTEES](#labor-management-committees-p169)
 - [PAYMENT FOR DEFINED PROJECTS THROUGH STIPENDS](#payment-for-defined-projects-through-stipends-p171)
@@ -607,7 +607,7 @@ _Page 14_ · _OCR-reconstructed_ · _Topics: overtime, grievance_
 
 Reassigned time for the handling of grievances and implementation of this Agreement shall be
 granted:
-to designees of PSC to a maximum aggregate for all campuses (including the Central Uffice) ot 123 classroom contact hours for each semester. 120 hours shall be apportioned amongst the various colleges of The City University of New York with a minimum of 3 hours to be apportioned to each college.
+to designees of PSC to a maximum aggregate for all campuses (including the Central Office) ot 123 classroom contact hours for each semester. 120 hours shall be apportioned amongst the various colleges of The City University of New York with a minimum of 3 hours to be apportioned to each college.
 (b)
 to an officer of the PSC, full time.
 6.2 Any designee under 6.1(a), who is a non-teaching member of the Instructional Staff, may be granted a maximum of one day reassigned time each week from August 30 until the day after the Spring commencement of the academic year. The reassigned time granted to such designee(s) of the PSC during the Spring semester may be continued during the period from the day subsequent to the Spring commencement of the college through August 29 up to a maximum aggregate for all colleges (including the Central Office) of two days of reassigned time each week without further charge. Reassigned time for additional designees during the period from the day subsequent to the Spring commencement until August 29 may be purchased by the PSC in accordance with Section 6.5 below. For purposes of this article, a day of reassigned time shall be the equivalent of six classroom contact hours.
@@ -1767,7 +1767,7 @@ and who was in active pay status on November 14, 2020 shall be paid at a salary 
 4.
 The salary rate of each employee who is in a title for which there is no step schedule and who was in active pay status on November 14, 2021, shall be paid at a salary rate which is 2.00% more than the November 14, 2021 salary rate during the period November 15, 2021, through October 31, 2022.
 5.
-The salary rate of each employee who is in a title for which there is no step schedule and who was in active pay status on October 31, 2022, Shall be paid at a salary rate which 1s 2.00% more than the Uctober 31, 2022 salary rate eftective November 1, 2022.
+The salary rate of each employee who is in a title for which there is no step schedule and who was in active pay status on October 31, 2022, Shall be paid at a salary rate which 1s 2.00% more than the October 31, 2022 salary rate effective November 1, 2022.
 24.4 Summer Salaries for Department Chairpersons (a)
 (b)
 (C)
@@ -5977,7 +5977,7 @@ receipt of an academic grant or fellowship that involves full-time commitment or
 
 consideration for another three-year appointment at the conclusion of the current three-year appointment.
 10. Adjuncts who receive a two-year or three-year appointment under this provision will earn 12
-contact hours per year of personal illness/emergency leave, which may be accrued up to a naximum of 36 contact hours. Adjuncts who are reappointed to a three-year appointment ma arry over up to 36 contact hours of leave. An adjunct is not entitled to carry over the leave to al appointment other than a three-year appointment, nor is an adjunct entitled to receive a payout for unused days.
+contact hours per year of personal illness/emergency leave, which may be accrued up to a maximum of 36 contact hours. Adjuncts who are reappointed to a three-year appointment ma arry over up to 36 contact hours of leave. An adjunct is not entitled to carry over the leave to al appointment other than a three-year appointment, nor is an adjunct entitled to receive a payout for unused days.
 11. Adjuncts who receive a three-year appointment continue to be subject to discharge for just cause,
 subject to the Grievance and Arbitration article (Article 20) and not to Article 21 of the collective bargaining agreement.
 12. The second paragraph of section 10.1(a)3. of the collective bargaining agreement, regarding two-
@@ -5996,7 +5996,7 @@ II. Criteria For Recipient Eligibility
 two (2) years of continuous full-time service with the University. Those employed in substitute titles with no underlying regular annual appointment are not eligible to receive donated leave.
 2. An employee's illness or injury must not be job-related and must require an absence of at least
 thirty (30) continuous working days. Absence due to illness or injury must be supported by medical documentation acceptable to thé recipient's college. The recipient's college will determine whether requests by eligible employees to receive dedicated sick leave will be approved, based solely upon the nature and severity of the illness or injury. Employees whose requests have been denied may appeal in writing to CUNY's Appeals Panel, as set forth in Section VI., paragraph 2 herein.
-3. All annual leave, sıck leave, comensatory time balances, and sıck leave advancements, to the
+3. All annual leave, sıck leave, compensatory time balances, and sıck leave advancements, to the
 extent applicable, must have been exhausted.
 4. Dedicated sick leave may not be used to supplement or supplant income benefits under any
 applicable collectively-bargained or union-provided short-term or long-term disability program.
@@ -6371,7 +6371,7 @@ Following approval of an application, any proposed changes to the faculty member
 Employees in the Higher Education Officer title series and the College Laboratory Technician title series who wish to phase will be required to submit to their supervisor an application to phase that specifies 1) the length of the phasing period, (i.e., six (6) months or one (1) year); 2)
 how the employee proposes to configure his/her workweek during the phasing period, with the understanding that his/her workload must equal 80% of the contractual workload defined in
 
-<a id="article-15-4-of-the-2007-2010-collective-bargaining-agreemen-p164"></a>
+<a id="article-15-4-of-the-2007-2010-collective-bargaining-agreement-p164"></a>
 ## Article 15 — 4 of the 2007-2010 Collective Bargaining Agreement (i.e., a phasing employee will
 _Page 164_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, health-welfare, pension, hours, recognition_
 

@@ -56,7 +56,7 @@ First Deputy Commissioner
 Nicole Andrade
 General Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.goviolr Claire Levitt Depusy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Progrom May 21.2024 Mr. Sean Fitzpatrick Business Representative International Brotherhood of Electrical Workers - Local 3
+22 Cortlandt Street, New York, NY 10007 nyc.goviolr Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Progrom May 21.2024 Mr. Sean Fitzpatrick Business Representative International Brotherhood of Electrical Workers - Local 3
 158-11 Harry Van Arsdale Ave., Room 402 Flushing, NY 11365
 Dear Mr. Fitzpatrick:
 The parties agree to a labor management forum to meet and further discuss issues related to the Administrative Inspector (Electrical) (Non-Managerial) title.

@@ -45,7 +45,7 @@ Clare Levitt
 Deputy Commissioner
 Health Care Strategy
 Georgette Gestely
-Direcior, Employee Benelits Program General Counsel December L, 2023 Patrick Ferraiuolo President Correction Captains Association
+Director, Employee Benefits Program General Counsel December L, 2023 Patrick Ferraiuolo President Correction Captains Association
 241 37% Street, Suite 303
 Brooklyn, NY 11232
 RE: 2022-2027 Uniform Officers Coalition Economic Agreement ("UOCEA")
@@ -54,7 +54,7 @@ This is to confirm the parties' mutual understanding and agreement concerning ad
 1. The tenn of the agreement set forth in Section 1 of the OCEA shall be extended by 2
 months. Therefore, the term of the CCA unit agreement shall be November 30, 2022 through January 29, 2028.
 2. There shall be the following per annum increases to the welfare fund contribution:
-i. Bffective December 30, 2023, $65 per annum on behalf of active employees and $25 per annum on behalf of retirees.
+i. Effective December 30, 2023, $65 per annum on behalf of active employees and $25 per annum on behalf of retirees.
 b. Effective November 30, 2024, 525 per annum on behalf of active employees and retirees.
 c. Effective November 30, 2025, $25 per annum on behalf of active employees and retirees.
 d. Effective November 30, 2026, $56 per annum on behalf of active employees and retirees. The total contribution rate as of this date shall be $1,656 per annun on behalf of active employees and retirees, exclusive of any contributions due pursuant to agreements between the City and Municipal Labor Committee.
@@ -90,10 +90,10 @@ Patrick Ferrainolo, President
 The
 City f
 New Lork
-Renas Camplon
+Renas Campion
 Commissioner
 Danlel Pollak
-First Depuly Commissioner
+First Deputy Commissioner
 Nicole M. Andrade
 General Counsel
 December 6, 2023
@@ -110,7 +110,7 @@ Claire Levitt
 Dopuly Commissioner
 Health Care Strategy
 Georgette Gestely
-Direclor, Employee Benefits Program RE: 2022-2027 Uniform Officers Coalition Economic Agreeinent ("VOCEA")
+Director, Employee Benefits Program RE: 2022-2027 Uniform Officers Coalition Economic Agreeinent ("VOCEA")
 Dear Mr. Ferraiuolo:
 This is to confirm the parties' mutual understanding and agreement that, should the Department launch any extended tour pilot, the parties will discuss participation of Captains in the pilot upon the request of either party.
 If the above conforms to your understanding, please execute the signature line below.

@@ -394,7 +394,7 @@ Secttoas
 _Page 19_ · _Topics: sick-leave_
 
 At the discretion of the agency head, permanent employees may also be gran~ sick icave with pay for thn:e months after ten years of City Service, after all credits have be.en used.
-In special iNta:nces. sick leave with pay may be further me~. with the approval of the; agency bead. The agency head shall be guided in this man.er by the narure and extent of illness and the length and character of service.
+In special iNta:nces. sick leave with pay may be further me~. with the approval of the; agency bead. The agency head shall be guided in this man.er by the nature and extent of illness and the length and character of service.
 DL. OTHER WITH
 
 <a id="authorized-absences-pay-p19"></a>
