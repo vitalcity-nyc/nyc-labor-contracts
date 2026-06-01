@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # District Council 37 of AFSCME (DC37) — L1087 Clock Repairer Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/DC37_Clock_Repairer_MOA.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/DC37_Clock_Repairer_MOA.pdf)
-**Pages:** 2
+**Term:** 2021–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/DC37_Clock_Repairer_MOA.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/DC37_Clock_Repairer_MOA.pdf)  
+**Pages:** 2  
 **Clauses extracted:** 1
 
 **Workforce:** DC37 L1087 Clock Repairer MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -29,7 +29,8 @@ sector: "skilled-trades"
 ### RENEE CAMPION DANIEL KATZ
 _Page 2_
 
-Commissioner of Labor Relations Director of Research & Negotiations Dated: February ti_, 2025
+Commissioner of Labor Relations Director of Research & Negotiations
+Dated: February ti_, 2025
 2
 
 ---

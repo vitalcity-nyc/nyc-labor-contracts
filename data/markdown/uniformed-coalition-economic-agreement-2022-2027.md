@@ -7,24 +7,30 @@ term_end: 2027
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/uniformed-coalition-economic-agreement-executed-2022-2027.pdf"
 pages: 5
 ocr_pages: 5
-ocr_engine: google-cloud-vision
+pages_with_tables: 0
 clauses: 5
-sector: "other"
+sector: "uniformed-pattern"
+union_full: "Uniformed Coalition (multi-union umbrella: UFA, UFOA, COBA, ADWA, USCA, USA, etc.)"
+wage_verified: "full"
+wage_cumulative_pct: 18.77
 ---
 
 # Uniformed Coalition Economic Agreement, 2022-2027
 
 **Term:** 2022–2027  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/uniformed-coalition-economic-agreement-executed-2022-2027.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/uniformed-coalition-economic-agreement-executed-2022-2027.pdf)  
-**Pages:** 5 (re-OCR'd via Google Cloud Vision)
+**Pages:** 5 (5 OCR-reconstructed)  
+**Clauses extracted:** 5
 
-> This contract was originally OCR'd via macOS Vision and contained heavy transcription errors. It was re-processed with Google Cloud Vision's DOCUMENT_TEXT_DETECTION on 2026-05-06. The text below is the re-OCR'd output. Verify quotations against the source PDF before publishing.
+**Workforce:** The economic-pattern agreement that sets wage increases and lump sums for the city's uniformed forces collectively (Fire, Sanitation, Correction). Each underlying unit then negotiates a unit-specific agreement that incorporates these terms.
+
+> This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 
 ---
 
-<a id="page-1"></a>
+<a id="page-1-p1"></a>
 ### Page 1
-_OCR via Google Cloud Vision_
+_Page 1_ · _OCR-reconstructed_
 
 "2022- 2027" Uniformed Officers Coalition Economic Agreement
 ("UOCEA")
@@ -34,7 +40,7 @@ MEMORANDUM OF ECONOMIC AGREEMENT made this 13 day of June, 2023,
 the undersigned Unions ("the Unions") and the City of New York ("the Employer");
 WITNESSETE
 WHEREAS, the undersigned parties desire to enter into collective bargaining agreements,
-Including this 2022-2027 Uniformed Officers Coalition Economio Agreement
+Including this 2022-2027 Uniformed Officers Coalition Economic Agreement
 ("UOCEA") and agreements successor to existing unit agreements expiring on: July 30,
 2021 (UPOA); February 15, 2022 (LBA); December 31, 2022 (USCA); February 28,
 2022 (COBA); July 31, 2022 (CEA); November 29, 2022 (CCA); June 24,
@@ -62,9 +68,9 @@ Unit Agreement, Employees shall receive a rate increase of
 3.25%.
 1
 
-<a id="page-2"></a>
+<a id="page-2-p2"></a>
 ### Page 2
-_OCR via Google Cloud Vision_
+_Page 2_ · _OCR-reconstructed_
 
 (IE)
 Effective on the first day of the 13th month of the applicable
@@ -106,17 +112,17 @@ applicable titles in effect on the last day of the 48th month of the
 applicable Successor Separate Unit Agreement.
 1 July 30, 2021 (UFPOA); February 15, 2022 (LBA); December 31, 2022 (USCA); February 28, 2022 (COBA); July 31, 2022
 (CEA); November 29, 2022 (CCA); June 24, 2023 (SOA); May 31, 2023 (ADW/DWA); December 9, 2021 (SBA); May 31,
-2022 (DEA); July 31, 2020 (UFA-Firefighters/Fire Marshals); July 27, 2021 (UFA-Pilots/Marino Engineers) and July 31,
+2022 (DEA); July 31, 2020 (UFA-Firefighters/Fire Marshals); July 27, 2021 (UFA-Pilots/Marine Engineers) and July 31,
 2020 (UFA-Wipers)
 2
 
-<a id="page-3"></a>
+<a id="page-3-p3"></a>
 ### Page 3
-_OCR via Google Cloud Vision_
+_Page 3_ · _OCR-reconstructed_
 
 o. The increases provided in this Section 3 shall be applied to the base rates
 and salary grades fixed for the applicable titles, except as may be modified
-In the separate Unit Agreement (other than basio maximum salary).
+In the separate Unit Agreement (other than basic maximum salary).
 Section 4.
 Unit Bargaining.
 A. Effective on the first day of the 37th month of the applicable Successor
@@ -153,21 +159,21 @@ in accordance with each union's rules and bylaws and subject to approval in acco
 with applicable law.
 3
 
-<a id="page-4"></a>
+<a id="page-4-p4"></a>
 ### Page 4
-_OCR via Google Cloud Vision_
+_Page 4_ · _OCR-reconstructed_
 
-Section 8. Incorporation of Corlain Provisions Into Other Agreements,
-All applionble provisions of this UOCDA shall be (noorporated into the
-Strocessor Saparato Unit Agreements.
+Section 8. Incorporation of Certain Provisions Into Other Agreements,
+All applicable provisions of this UOCDA shall be (incorporated into the
+Strocessor Separate Unit Agreements.
 Section 9, Savings Clause.
 In the event that any provision of this UOCEA is found to be invalid, such
-finding skall not Impaly the validity and enforceability of the remaining provisions of
+finding shall not Impaly the validity and enforceability of the remaining provisions of
 This UOGEN.
-The failure of any Union to rollty this UOCEA, or the successor Unit
+The failure of any Union to ratify this UOCEA, or the successor Unit
 Agreement, whichever is placed for ratification, shall not impair the validity and
 enformoubility of this UOCEA with regard to any Union ratifying,
-This UOGEA sets out the parles' comploto agrocniont on all subjects on which
+This UOGEA sets out the parles' complete agrocniont on all subjects on which
 the parties bargained or could have bargained and codifies all agreements and
 understandings na between the Olly and the UOC, except as it relates to the unit
 bargaining set forth in Section 4.
@@ -177,7 +183,7 @@ WHEREFORE, we linys ficrounto set our hands and seals this 1 day of June,
 FOR THE CITY OF NEW YORK
 By
 RENEE CAMPION
-Commissioner of Libor Relations
+Commissioner of Labor Relations
 FOR THE CAPTAINS ENDOWMENT ASSOCIATION
 BY
 CHRIS MONAHAN
@@ -192,9 +198,9 @@ VINCENT VALLELONG
 President
 4
 
-<a id="page-5"></a>
+<a id="page-5-p5"></a>
 ### Page 5
-_OCR via Google Cloud Vision_
+_Page 5_ · _OCR-reconstructed_
 
 FOR THE DETECTIVESENDOWMENT ASSOOLATION
 By
@@ -227,3 +233,5 @@ Jasesh Mannion
 By
 JOSEPH MANNION
 
+---
+_End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/uniformed-coalition-economic-agreement-executed-2022-2027.pdf>_

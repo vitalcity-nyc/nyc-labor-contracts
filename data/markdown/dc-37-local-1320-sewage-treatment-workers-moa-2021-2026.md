@@ -14,9 +14,9 @@ sector: "clerical-and-professional"
 
 # DC 37 Local 1320 Sewage Treatment Workers Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf)
-**Pages:** 3 (3 OCR-reconstructed)
+**Term:** 2021–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf)  
+**Pages:** 3 (3 OCR-reconstructed)  
 **Clauses extracted:** 3
 
 **Workforce:** DC 37 Local 1320 Sewage Treatment Workers MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -37,7 +37,14 @@ R. C.
 ### RENEE CAMPION
 _Page 3_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations FOR DISTRICT COUNCIL 37, AFSCME, AEL-CIO Associate Director FOR DISTRICT COUNCIL 37, LOCAL 1320, AFSCME, AEL-CIO mat laaa
+Commissioner of Labor Relations
+FOR DISTRICT COUNCIL 37,
+AFSCME, AEL-CIO
+Associate Director
+FOR DISTRICT COUNCIL 37,
+LOCAL 1320, AFSCME, AEL-CIO
+mat
+laaa
 
 <a id="thomas-custance-p3"></a>
 ### THOMAS CUSTANCE

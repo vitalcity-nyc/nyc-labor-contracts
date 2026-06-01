@@ -14,9 +14,9 @@ sector: "other"
 
 # Highway and Sewer Inspectors Memorandum of Agreement, 2022-2028
 
-**Term:** 2022–2028
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2028-leeba-hsi-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2028-leeba-hsi-moa.pdf)
-**Pages:** 4 (3 OCR-reconstructed)
+**Term:** 2022–2028  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2028-leeba-hsi-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2028-leeba-hsi-moa.pdf)  
+**Pages:** 4 (3 OCR-reconstructed)  
 **Clauses extracted:** 3
 
 **Workforce:** Highway and Sewer Inspectors MOA, 2022-2028 — see contract for the full recognition clause defining covered titles.

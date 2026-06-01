@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # District Council 37 of AFSCME (DC37) — L376 Construction Laborers Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/construction-laborers-2021-2026-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/construction-laborers-2021-2026-moa.pdf)
-**Pages:** 3 (3 OCR-reconstructed)
+**Term:** 2021–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/construction-laborers-2021-2026-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/construction-laborers-2021-2026-moa.pdf)  
+**Pages:** 3 (3 OCR-reconstructed)  
 **Clauses extracted:** 2
 
 **Workforce:** DC37 L376 Construction Laborers MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -35,7 +35,13 @@ BY:
 ### RENEE CAMPION
 _Page 3_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations Dated: January i D, 2024 FOR DISTRICT COUNCIL 37, AFSCME, AFL-CIO BY: lone fanglo-sider ROSE LOVAGLIO-MILLER 01/09/20z4 Associate Director
+Commissioner of Labor Relations
+Dated: January i D, 2024
+FOR DISTRICT COUNCIL 37,
+AFSCME, AFL-CIO
+BY: lone fanglo-sider
+ROSE LOVAGLIO-MILLER 01/09/20z4
+Associate Director
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/construction-laborers-2021-2026-moa.pdf>_

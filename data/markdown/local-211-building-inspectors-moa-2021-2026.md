@@ -14,9 +14,9 @@ sector: "other"
 
 # Local 211 Building Inspectors Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-211-moa-executed-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-211-moa-executed-2021-2026.pdf)
-**Pages:** 4 (4 OCR-reconstructed)
+**Term:** 2021–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-211-moa-executed-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-211-moa-executed-2021-2026.pdf)  
+**Pages:** 4 (4 OCR-reconstructed)  
 **Clauses extracted:** 2
 
 **Workforce:** Local 211 Building Inspectors MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -29,13 +29,19 @@ sector: "other"
 ### FOR THE CITY OF NEW YORK
 _Page 4_ · _OCR-reconstructed_
 
-FOR ALLIED BUILDING INSPECTORS, LOCAL 211, IUOE BY: Dan fr DP For RC
+FOR ALLIED BUILDING INSPECTORS,
+LOCAL 211, IUOE
+BY: Dan fr
+DP
+For RC
 
 <a id="renee-campion-p4"></a>
 ### RENEE CAMPION
 _Page 4_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations President Dated: August 24, 2023
+Commissioner of Labor Relations
+President
+Dated: August 24, 2023
 4
 
 ---

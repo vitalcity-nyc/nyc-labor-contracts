@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # IBEW Local 3 (L3) — Communication Electricians Memorandum of Agreement, 2023–2028
 
-**Term:** 2023–2028
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/communication-electrician-executed-moa-2023-2028.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/communication-electrician-executed-moa-2023-2028.pdf)
-**Pages:** 3 (3 OCR-reconstructed)
+**Term:** 2023–2028  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/communication-electrician-executed-moa-2023-2028.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/communication-electrician-executed-moa-2023-2028.pdf)  
+**Pages:** 3 (3 OCR-reconstructed)  
 **Clauses extracted:** 2
 
 **Workforce:** L3 Communication Electricians MOA, 2023–2028 — see contract for the full recognition clause defining covered titles.
@@ -35,7 +35,9 @@ Bx: Run
 ### RENEE CAMPION
 _Page 3_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations Dated: October 2b, 2023 FOR LOCAL 3, IBEW
+Commissioner of Labor Relations
+Dated: October 2b, 2023
+FOR LOCAL 3, IBEW
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/communication-electrician-executed-moa-2023-2028.pdf>_

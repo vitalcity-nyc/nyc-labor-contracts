@@ -14,9 +14,9 @@ sector: "other"
 
 # 2001-2021 Citywide Agreement
 
-**Term:** 2001–2021
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/executed-citywide-agreement-2001-2021.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/executed-citywide-agreement-2001-2021.pdf)
-**Pages:** 128
+**Term:** 2001–2021  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/executed-citywide-agreement-2001-2021.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/executed-citywide-agreement-2001-2021.pdf)  
+**Pages:** 128  
 **Clauses extracted:** 78
 
 **Workforce:** 2001-2021 Citywide Agreement — see contract for the full recognition clause defining covered titles.
@@ -28,8 +28,8 @@ sector: "other"
 ## Contents
 
 - [OFFICIAL CONTRACT](#official-contract-p1)
-- [Article II — \VORK WEEK ................................................................................................................................... 4](#article-ii-vork-week-4-p2)
 - [Article XXII — SAVINGS CLAUSE ................................................................................................................... 62](#article-xxii-savings-clause-62-p2)
+- [Article II — \VORK WEEK ................................................................................................................................... 4](#article-ii-vork-week-4-p2)
 - [Article I — UNION RECOGNITION ON CITYWIDE MAT IERS](#article-i-union-recognition-on-citywide-mat-iers-p3)
 - [Section 2 — Exclusions](#section-2-exclusions-p3)
 - [Article II — WORK WEEK](#article-ii-work-week-p5)
@@ -98,10 +98,10 @@ sector: "other"
 - [LIL IAN ROBERTS](#lil-ian-roberts-p118)
 - [DISCIPLINARY PROCEDURE FOR PROVISIONAL EMPLOYEES- UPDATED](#disciplinary-procedure-for-provisional-employees-updated-p121)
 - [STEPC](#stepc-p123)
+- [II 10](#ii-10-p126)
 - [OFFICE OF LABOR RELATIONS](#office-of-labor-relations-p126)
 - [RENEE CAMPION GEORGETTE GESTEL Y](#renee-campion-georgette-gestel-y-p126)
 - [CLAIRE LEVITT](#claire-levitt-p126)
-- [II 10](#ii-10-p126)
 - [RENEE CAMPION GEORGETTE GESTELY](#renee-campion-georgette-gestely-p127)
 - [CLAIRE LEVITT](#claire-levitt-p127)
 - [APPENDIXH](#appendixh-p128)
@@ -115,15 +115,8 @@ _Page 1_
 NO: DATE:
 22016
 
-
 2001 -2021 CITYWIDE AGREEMENT
 CONTENTS:
-
-<a id="article-ii-vork-week-4-p2"></a>
-## Article II — \VORK WEEK ................................................................................................................................... 4
-_Page 2_ · _Topics: hours, shift-differential_
-
-ARTICLE Ill - SHIFT DIFFERENTIAL AND HOLJDA Y PREMIUM. .............................................................. 4
 
 <a id="article-xxii-savings-clause-62-p2"></a>
 ## Article XXII — SAVINGS CLAUSE ................................................................................................................... 62
@@ -133,12 +126,17 @@ APPENDIX A .....................................................................
 2001-2021 CITYWIDE AGREEMENT
 22016
 
-
 2001-2021 CITYWIDE AGREEMENT
 COLLECTIVE BARGAINING AGREEMENT entered into this 14th day of January 2022 by and between the City of New York and related public employers pursuant to and limited to their respective elections or statutory requirement to be covered by the New York City Collective Bargaining Law ("NYCCBL") and their respective authorizations to the City to bargain on their behalf and the New York City NYC Health + Hospitals (hereinafter referred to jointly as the 11Employer"), and District Council 37; AFSCME, AFL-CJO (the "Union"); for the period from July I, 200 I - December 31, 2021.
 WITNESSETH:
 WHEREAS, the parties hereto have entered into collective bargaining and desire to reduce the results thereof to writing,
 NOW, THEREFORE. it is mutually agreed as follows:
+
+<a id="article-ii-vork-week-4-p2"></a>
+## Article II — \VORK WEEK ................................................................................................................................... 4
+_Page 2_ · _Topics: hours, shift-differential_
+
+ARTICLE Ill - SHIFT DIFFERENTIAL AND HOLJDA Y PREMIUM. .............................................................. 4
 
 <a id="article-i-union-recognition-on-citywide-mat-iers-p3"></a>
 ## Article I — UNION RECOGNITION ON CITYWIDE MAT IERS
@@ -160,7 +158,6 @@ a. Prevailing rate employees are excluded from the coverage of this Agreement.
 b. Managerial, confidential, exempt civil service employees, and other employees ineligible for collective bargaining are excluded from the coverage of this Agreement.
 2001-2021 CITYWIDE AGREEMENT 2 22016 11
 
-
 Section 3.
 The Employer recognizes the Union as the sole and exclusive collective bargaining representative for employees included in the New York City Employees' Retirement System on pension matters which must be uniform for all such employees pursuant to Section I I 73-4.3(a)(5) of the NYCCBL.
 In the event that the current prohibition against bargaining for retirement benefits is discontinued, the parties agree to reopen negotiations on this matter.
@@ -179,7 +176,6 @@ e. For the purposes of this Section 5, Article IX, Section 24 and Article XVI th
 service:
 i. for maternity/childcare leave;
 2001-2021 CITYWIDE AGREEMENT 3
-
 
 ii. for military leave;
 iii. jury duty;
@@ -206,7 +202,6 @@ years of employment only, this provision shall apply to scheduled hours of work 
 22016
 2001-2021 CITYWIDE AGREEMENT
 
-
 b. An employee working overtime shall only receive a shift differential if the employee is receiving straight time' cash compensation. In such cases the shift differential shall be calculated separately from the overtime compensation. In all other cases, the employee shall receive only the compensatory time or premium overtime pay provided for in Article IV.
 Section 2.
 a. If an employee is required to work on any of the holidays listed in Section 9 of Article V, the employee shall receive a fifty percent (50%) cash premium for all hours worked on the holiday and shall, in addition, receive compensatory time off at the employee's regular rate of pay. Compensatory time off earned pursuant to this Section may be scheduled by the agency either prior to or after the day on which the holiday falls.
@@ -222,7 +217,6 @@ c. i. If an employee is required to work on a holiday which falls on the employe
 ii. An employee shall not receive for the same hours of work both ( 1) overtime pay and (2) the fifty percent (50%) cash premium and compensatory time off.
 iii. Regardless of whether the holiday falls on a regular working day or on a scheduled day off, if the number of hours worked on such holiday exceeds the employee's normal daily tour of duty, all hours of work in excess of such normal daily tour of duty shall be covered by the provisions of Article IV.
 2001-2021 CITYWIDE AGREEMENT 5 22016
-
 
 d. Shifts which begin at 11 P.M. or later on the day before the holiday shall be deemed to have been worked entirely on the holiday, and shifts which begin at 11 P.M. or later on the holiday shall be deemed not to have been worked on the holiday.
 e. As an alternative to the methods of compensation provided in subsections 2(a), 2(b) , and 2(c), an employee may elect in writing to receive compensation either entirely in cash or entirely in compensatory time for any such holiday worked. Such election shall be subject to the approval of the agency head, executive director of a hospital, or the Chief of Personnel in the Police Department, or their designee whose decision shall be final. In no case shall the compensation under this provision exceed or be less than the value of the compensation provided under subsections 2(a), 2(b), or 2(c).
@@ -245,7 +239,6 @@ a. "Authorized voluntary overtime" and "authorized voluntary standby time" shall
 b. "Ordered involuntary overtime" and "ordered involuntary standby time" shall be defined as overtime or standby time which the employee is directed in writing to work and which the employee is therefore required to work. Such overtime or standby time may only be authorized by the agency head or a representative of the agency head who is delegated such authority in writing.
 2001-2021 CITYWIDE AGREEMENT 6 22016
 
-
 Section 3.
 a. Ordered involuntary overtime which results in an employee working in excess offo rty (40)
 hours in any calendar week shall be compensated in cash at time and one half( 1-1 /2 times).
@@ -264,7 +257,6 @@ affected employee's annual regular salary:
 a. For employees whose basic work week is thirty-five( 35) hours:
 2001-2021 CITYWIDE AGREEMENT 1
 22016
-
 
 r
 o
@@ -296,7 +288,6 @@ b. When an employee's annual gross salary including overtime, all differentials 
 c. Employees who are not covered by FLSA whose annual gross salary including overtime, all differentials and premium pay is in excess of the cap shall be required to submit periodic time reports at intervals of not less than one week, but shall not be required to follow daily time clock or sign-in procedures. Employees covered by the overtime provisions of FLSA
 1
 2001-2021 CITYWIDE AGREEMENT 8 22016
-
 
 shall be required to follow daily time clock or sign-in procedures. The periodic time report shall be in such fonn as is required by the Agency.
 d. 1. Effective April I, 2000, the cap shall be $56,731
@@ -341,7 +332,6 @@ _Page 10_ · _Topics: overtime, sick-leave, hours, training_
 for voluntary authorized overtime work, such overtime shall be compensated in time off on an hour-for-hour basis but with minimum compensatory time of four (4) hours.
 2001-2021 CITYWIDE AGREEMENT 9 22016
 
-
 Section 10.
 a. Compensatory time off for voluntary overtime work as authorized in this Article shall be scheduled at the discretion of the agency head but the agency head shall not schedule its use without the consent of the employee within the thirty (30) calendar days following its earning. However, all compensatory time off must be taken by the affected employee within the four (4) months following its earning. Except for the time described in subsection I Ob(ii) below, any such compensatory time not so used by the employee's choice shall be added to the employee's sick leave balance. If the agency head calls upon an employee not to take the compensatory time off or any part thereof within the four (4 )
 months, that portion shall be carried over until such time as it can be liquidated. This subsection shall not apply to compensatory time accrued pursuant to FLSA.
@@ -357,7 +347,6 @@ Section 13.
 The Employer and the Union may agree to apply a variation of the overtime provisions of this Agreement.
 2001•2021 CITYWIDE AGREEMENT 10
 22016
-
 
 Section 14.
 Except in an emergency situation, when authorized and ordered by an agency head, a Hospital Executive Director or a designated representative, no employee shall be required to actually work more than two (2) consecutive nonnal work shifts in any twenty-four (24) hour period nor shall said employee be required to work more than two (2) consecutive work shifts for more than two (2) consecutive weeks.
@@ -376,7 +365,6 @@ b. i. The annual leave allowance for Employees in a title or an agency covered b
 2001-2021 CITYWIDE AGREEMENT II I
 22016
 
-
 Monthly
 Work Week Years of Service Accrual Allowance Beginning of 15th year 16:53 hours 202:30 hours Beginning with 8 year 15:38 hours 187:30 hours
 37½
@@ -386,14 +374,12 @@ or after July I, 2004:
 Work Week Years of Service Monthly Accrual Allowance Beginning with 17th Year 27:00 hours 324:00 hours Beginning with 14th Year 25:00 hours 300:00 hours Beginning with 13th Year 24:00 hours 288:00 hours Beginning with 12th Year 23:00 hours 276:00 hours Beginning with 11th Year 22:00 hours 264:00 hours 60 Beginning with I 0th Year 21:00 hours 252:00 hours Beginning with 9th Year 20:00 hours 240:00 hours Beginning with 8th Year 19:00 hours 228:00 hours Beginning with 7th Year 18:00 hours 216:00 hours Beginning with 6th Year 17:00 hours 204:00 hours Beginning with 5th Year 16:00 hours 192:00 hours First Year 15:00 hours 180:00 hours Beginning with 17th Year 18:00 hours 216:00 hours Beginning with 14th Year 16:40 hours 200:00 hours Beginning with l3thYear 16:00 hours 192:00 hours Beginning with 12th Year 15:20 hours 184:00 hours Beginning with 11th Year 14:40 hours 176:00 hours 40 Beginning with 10th Year 14:00 hours 168:00 hours Beginning with 9th Year 13:20 hours 160:00 hours Beginning with 8th Year 12:40 hours 152:00 hours Beginning with 7th Year 12:00 hours 144:00 hours Beginning with 6th Year 11 :20 hours 136:00 hours Beginning with 5th Year 10:40 hours 128:00 hours First Year 10:00 hours 120:00 hours ?.2016
 2001•2021 CITYWIDE AGREEMENT 12
 
-
 Work Week Years of Service Monthll'. Accrual Allowance Beginning with 17th Year 16:53 hours 202:30 hours Beginning with 14th Year 15:38 hours 187:30 hours Beginning with 13th Year 15:00 hours 180:00 hours Beginning with 12th Year 14:23 hours 172:30 hours Beginning with 11th Year 13:45 hours 165:00 hours 37~ Beginning with 10th Year 13:08 hours I 57:30 hours Beginning with 9th Year 12:30 hours 150:00 hours Beginning with 8th Year 11:53 hours 142:30 hours Beginning with 7th Year 11 :15 hours 135:00 hours Beginning with 6th Year 10:38 hours 127:30 hours Beginning with 5th Year 10:00 hours 120:00 hours First Year 9:23 hours 112:30 hours Beginning with 17th Year 15:45 hours 189:00 hours Beginning with 14th Year 14:35 hours 175:00 hours Beginning with 13th Year 14:00 hours 168:00 hours Beginning with 12th Year 13:25 hours 161 :00 hours Beginning with 11th Year 12:50 hours 154:00 hours lS Beginning with I 0th Year 12:15 hours 147:00 hours Beginning with 9th Year 11 :40 hours 140:00 hours Beginning with 8th Year 11:05 hours 133:00 hours Beginning with 7th Year 10:30 hours 126:00 hours Beginning with 6th Year 9:55 hours 119:00 hours Beginning with 5th Year 9:20 hours 112:00 hours First Year 8:45 hours 105:00 hours Section 2.
 a. Employee requests for annual leave made pursuant to agency policy or collective bargaining agreement, shall be in writing on a form supplied by the agency. Approval or disapproval of the request shall be made on the same form by a supervisor authorized to do so by the agency.
 Decisions on requests for annual leave or for leave with pay shall be made within seven (7)
 working days ofs ubmission except for requests which cannot be approved at the local level or requests for leave during the summer peak vacation period or other such periods for which the Employer has established and promulgated a schedule for submission and decision of leave requests. Once a leave request has been approved, the approval may not be rescinded except in writing by the agency head, Executive Director of a Hospital or Chief of Personnel in the Police Department.
 22016
 2001-2021 CITYWIDE AGREEMENT 13
-
 
 If any agency head, Executive Director of a Hospital, or Chief of Personnel in the Police Department calls upon an employee to forego the employee's requested annual leave or any part thereof in any year, it must be in writing and that portion shall be carried over until such time as it can be liquidated.
 b. In order to allow employees to make advanced plans, decisions on requests for annual leave in amounts ofa t least 5 consecutive workdays or tours falling during an agency's designated summer peak vacation period shall be made not less than thirty (30) days prior to the scheduled commencement of said peak vacation period. Such requests must be made no later than forty-five (45) days or tours prior to the commencement of the summer peak vacation period or by the designated submission date for such requests, whichever is earlier. The summer peak vacation period shall be the period designated by an Agency as such, provided such period does not commence prior to Memorial Day Weekend or extend past September 30th. Nothing contained herein shall preclude employees from making annual leave requests in accordance with the other provisions of this Agreement.
@@ -408,7 +394,6 @@ Section 4.
 By June I st of each year all employees shall be given an annual statement of all leave balances as of the preceding April 30th (sick leave, annual leave, compensatory time, holiday leave credits).
 .2 2016
 2001-2021 CITYWIDE AGREEMENT 14
-
 
 Section 5.
 a. i. Except as provided in Section 5(a)(ii), sick leave shall be used only for personal illness of the employee. Approval of sick leave in accordance with the Leave Regulations is discretionary with the agency and proof of disability must be provided by the employee, satisfactory to the agency within five (5) working days of the employee's return to work. However, the employer may request proof of disability when an employee has been on sick leave for five or more consecutive working days. Such proof satisfactory to the agency must be submitted within five working days of such request.
@@ -426,7 +411,6 @@ members shall be limited to a maximum of one-fourth (1/4) of the amount of sick 
 220i6
 2001-2021 CITYWIDE AGREEMENT lS
 
-
 in the household; and domestic partner, provided such domestic partner is registered pursuant to the tenns set forth in the New York City Administrative Code Section 3-240 et seq.
 b. The provisions of Section 5(a) above notwithstanding, the agency may waive the
 requirement for proof of disability unless:
@@ -442,7 +426,6 @@ as follows:
 g. Any employee who anticipates a series of three (3) or more medical appointments, which will require a repeated use of sick leave in units of one day or less shall submit medical documentation indicating the nature of the condition and the anticipated schedule of
 2001-2021 CITYWIDE AGREEMENT 16
 22016
-
 
 treatment. Sick leave taken pursuant to said schedule of treatment shall be deemed documented.
 h. The medical documentation required by this Section shall be from a health practitioner licensed by the state in which she/he practices to diagnose and certify illness or disability.
@@ -465,7 +448,6 @@ Election Day
 First Tuesday following the First Monday in November Thanksgiving Day Fourth Thursday in November Christmas Day December 25 11, • See Section 9( c)
 b. When a holiday falls on a Saturday, it shall be observed on the preceding Friday. When a holiday falls on a Sunday, it shall be observed on the following Monday. However, when an agency head deems it necessary to keep facilities open on both Monday and Friday, employees may be scheduled to take time off on either the Monday or Friday. When either
 2001-2021 CITYWIDE AGREEMENT 17 ?2016 �
-
 
 the holiday, or the day designated for observance, occurs on an employee's scheduled day off and the employee does not work on such day, the employee shall be entitled to one compensatory day off in lieu of the holiday.
 c. Effective January I, 1997, an Employee shall be entitled to one floating holiday in each calendar year during which the employee is in active pay status with the Employer prior to
@@ -500,7 +482,6 @@ For employees who do not come under the provisions of Section IO of this Article
 2001-2021 CITYWIDE AGREEMENT 19
 22016
 
-
 Worker's Compensation Law, or if such injury is not accepted by the Division as compensable under such law, unless the Worker's Compensation Board determines that such injury is compensable under such law. If an employee is granted extended sick leave with pay pursuant to this Section, the employee shall receive the difference between the employee's weekly salary and the employee's compensation rate for the period of time granted. The employee shall, as a condition of receiving benefits under this Section, execute an assignment of the proceeds of any judgment or settlement in any third party action arising from such injury, in the amount of the pay and medical disbursements received pursuant to this Section, but not to exceed the amount of such proceeds. Such assignment shall be in the form prescribed by the Corporation Counsel. The injured employee shall undergo such medical examinations as are requested by the Worker's Compensation Division of the Law Department and the employee's agency, and when found fit for duty by the Worker's Compensation Board shall return to the employee's employment.
 Benefits provided under this Section shall be in addition to but not concurrent with benefits provided under Sections 7.0 and 7.1 of the Career and Salary Plan Leave Regulations.
 Section 12.
@@ -514,7 +495,6 @@ b. All unused accrued compensatory time earned subsequent to March 15, 1968 and 
 Section 14.
 If an employee dies during the term of this Agreement because of an injury arising out of and in the course of the employee's employment through no fault of the employee, and in the proper performance of the employee's duties, a payment of twenty-five thousand dollars ($25,000) will be made from funds other than those of the Retirement System in addition to any other payment which may be made as a result of such death. Such payment shall be made to the same beneficiary designated for the purposes of Section 13 of this Article, or if no beneficiary is so designated, payment shall be made to the employee's estate.
 2001-2021 CITYWIDE AGREEMENT
-
 
 Section 15.
 If while in covered employment under the terms of this Agreement an employee dies, the Employer shall notify the beneficiary designated by the employee in the personnel folder as to what benefits may be available for the employee and as to where claims may be initiated for such benefits. If no beneficiary is designated, the public administrator oft he county in which the employee last resided shall be notified.
@@ -534,7 +514,6 @@ e. Deduction for unexcused lateness shall be made on a minute for minute basis f
 2001-2021 CITYWIDE AGREEMENT 21
 22016
 
-
 f. The City reserves the right and power appropriately and for just cause to discipline or to discharge an employee for excessive lateness.
 g. Contractual provisions or agency policies regarding lateness, grace or excusal periods or lateness penalties inconsistent with the unifonn lateness policy set forth in this Section shall be superseded by this Section 16.
 h. Latenesses caused by a verified major failure of public transportation, such as a widespread or total power failure of significant duration or other catastrophe of similar severity, shall be excused.
@@ -551,7 +530,6 @@ d. Where an employee has an entitlement to terminal leave and the City's fiscal 
 2001-2021 CITYWIDE AGREEMENT 22
 22016
 
-
 provide a monetary lump sum payment for terminal leave in accordance with the provisions of Executive Order 31, dated June 24, 1975.
 e. For employees newly hired on or after July I, 2004, terminal leave with pay shall be granted prior to final separation to employees who have completed at least ten ( I 0) years of service on the basis of one ( 1) day of terminal leave for each three (3) days of accumulated sick leave up to a maximum of one hundred-twenty ( 120) days of terminal leave. Such leave shall be computed on the basis of workdays rather than calendar days.
 Section 18.
@@ -562,7 +540,6 @@ c. Outdoor and field employees include, but are not limited to, law enforcement 
 d. No shortened workday schedules or heat days in lieu thereof, shall be granted to any employee until the employee has completed one year of service.
 c. Employees who work shortened workday schedules as described in this Section are entitled to the meal allowances set forth in Section 8 of Article IV, provided that such employees work a minimum of three (3) hours beyond the shortened workday schedule. An employee who qualifies for a meal allowance pursuant to this subsection shall not count the first hour worked after the shortened workday schedule in computing the amount of the meal allowance to which the employee is entitled.
 2001•2021 CITYWIDE AGREEMENT 23 22016
-
 
 Section 19.
 a. Part-time per annum, hourly, per diem, per session and seasonal employees who I.
@@ -588,7 +565,6 @@ becomes the parent of a child up to four years of age), either by birth or by ad
 b. Prior to the commencement of child care leave, an employee shall be continued in pay status for a period of time equal to all of the employee's unused accrued annual leave and compensatory time (including FLSA compensatory time).
 • Refer to prior Citywide Agreement for accrual rate in effect prior to July I, 1991.
 2001-2021 CITYWIDE AGREEMENT 24 22016 '
-
 
 c. Employees, who initially elect to take less than the forty-eight (48) month maximum period of leave or the thirty-six (36) months, may elect to extend such leave by up to two extensions, each extension to be a minimum of six (6) months. However, in no case may the initial leave period plus the one or two extensions total more than forty-eight ( 48)
 months or thirty-six (36) months.
@@ -627,7 +603,6 @@ c. With respect to an employee who is scheduled to work on both the Saturday or 
 d. However, if the employee is required to work on a holiday which falls on the employee's scheduled day off, the employee may choose whether such holiday work is to be
 2001-2021 CITYWIDE AGREEMENT 26
 
-
 compensated by the fifty percent (50%) cash premium without charge to the employee's leave bank, or, if otherwise eligible, by the overtime provisions of Article IV.
 e. An employee shall not receive for the same hours of work both (I) overtime pay and (2)
 the fifty percent (50%) cash premium without charge to the employee's "holiday leave bank." However, regardless of whether the holiday falls on a regular working day or on a scheduled day off, if the number of hours worked on such holiday exceeds the employee's normal daily tour of duty, all hours of work in excess of such normal daily tour of duty shall be covered by the overtime provisions of Article IV.
@@ -650,13 +625,11 @@ Beginning of 15th year 216:00 hours 18:00 hours 40 Beginning of 8th year 200:00 
 22016
 2001•2021 CITYWIDE AGREEMENT 27
 
-
 ii. For employees hired after July 1 2004:
 11
 Work Week Yenrs of Service Monthly Accrunl Allowance Beginning with 17th Year 27:00 hours 324:00 hours Beginning with 14th Year 25:00 hours 300:00 hours Beginning with 13th Year 24:00 hours 288:00 hours Beginning with 12th Year 23:00 hours 276:00 hours Beginning with 11th Year 22:00 hours 264:00 hours 60 Beginning with 10th Year 21 :00 hours 252:00 hours Beginning with 9th Year 20:00 hours 240:00 hours Beginning with 8th Year 19:00 hours 228:00 hours Beginning with 7th Year 18:00 hours 216:00 hours Beginning with 6th Year 17:00 hours 204:00 hours Beginning with 5th Year 16:00 hours 192:00 hours First Year 15:00 hours 180:00 hours Beginning with 17th Year 18:00 hours 216:00 hours Beginning with 14th Year 16:40 hours 200:00 hours Beginning with 13thYear 16:00 hours 192:00 hours Beginning with 12th Year 15:20 hours 184:00 hours Beginning with I Ith Year 14:40 hours 176:00 hours 40 Beginning with 10th Year 14;00 hours 168:00 hours Beginning with 9th Year 13:20 hours 160:00 hours Beginning with 8th Year 12:40 hours 152:00 hours Beginning with 7th Year 12:00 hours 144:00 hours Beginning with 6th Year 11:20 hours 136:00 hours Beginning with 5th Year 10:40 hours 128:00 hours First Year 10:00 hours 120:00 hours Beginning with 17th Year 16:53 hours 202:30 hours Beginning with 14th Year 15:38 hours 187:30 hours Beginning with 13th Year 15:00 hours 180:00 hours Beginning with 12th Year 14:23 hours 172:30 hours Beginning with I Ith Year 13:45 hours 165:00 hours 37 ~ Beginning with 10th Year 13:08 hours 157:30 hours Beginning with 9th Year 12:30 hours 150:00 hours Beginning with 8th Year 11;53 hours 142:30 hours Beginning with 7th Year 11 :15 hours 135:00 hours Beginning with 6th Year 10:38 hours 127:30 hours Beginning with 5th Year l0:00 hours 120:00 hours
 22016
 2001-2021 CITYWIDE AGREEMENT 28
-
 
 First Year 9:23 hours 112:30 hours Beginning with 17th Year 15:45 hours 189:00 hours Beginning with 14th Year 14:35 hours 175:00 hours Beginning with 13th Year 14:00 hours 168:00 hours Beginning with 12th Year 13:25 hours 161 :00 hours Beginning with 11th Year 12:50 hours 154:00 hours 35 Beginning with I 0th Year 12:15 hours 147:00 hours Beginning with 9th Year 11:40 hours 140:00 hours Beginning with 8th Year 11:05 hours 133:00 hours Beginning with 7th Year 10:30 hours 126:00 hours Beginning with 6th Year 9:55 hours 119:00 hours Beginning with 5th Year 9:20 hours 112:00 hours First Year 8:45 hours 105:00 hours Section 6.
 The "Sick Leave Allowance" shall accrue on an hourly basis. The monthly accrual of sick leave shall be equal to one-fifth the number of hours in the respective employee's work week.
@@ -691,7 +664,6 @@ The Commissioner of Labor Relations will recommend to the New York City Employee
 ·- ·I
 2001-2021 CITYWIDE AGREEMENT 30
 
-
 Section 6.
 At the present time, the Employer is providing certain electronic data processing files and other relevant infonnation necessary for the administration of certain supplemental health and welfare plans. The cost of supplying such files and information will be borne by the entity requesting same.
 
@@ -718,7 +690,6 @@ a. When a transfer is accomplished with the consent of the employee, all compens
 transfer except where:
 2001 •2021 CITYWIDE AGREEMENT Jl
 
-
 i. the receiving agency agrees in writing to accept the transfer of these accrued compensatory time balances in whole or in part to its records, ii. or the employee requests in writing that these accrued compensatory time balances be converted to sick leave credits as of the date of the transfer.
 Initiation of action to liquidate this compensatory time shall be the responsibility of the transferring employee.
 b. When an employee is subjected to a functional or involuntary transfer, all the employee's accrued compensatory time balances shall be transferred to the records of the receiving agency.
@@ -734,7 +705,6 @@ Consistent with, and subject to security requirements, paychecks shall be releas
 22016
 2001-2021 CITYWIDE AGREEMENT 32
 
-
 Section 7.
 Agencies shall be authorized to establish and maintain imprest funds for the reimbursement to employees of all necessary carfare, telephone, automobile and meal expenses and such other types of expenses as the Comptroller may approve. The funds shall be administered in accordance with the rules and regulations of the Comptroller. Authorized carfare and telephone expenses shall be reimbursed within one month of submission of an appropriate claim for reimbursement.
 Section 8.
@@ -748,7 +718,6 @@ Section 9.
 Any employee who is required to take a medical examination to determine if the employee is physically capable of perfonning the employee's full duties, and who is found not to be so capable, shall, as far as practicable, be assigned to in-title and related duties in the same title during the period of the employee's disability. If a suitable position is not available, the Employer shall offer the employee any available opportunity to transfer to another title for which the employee may qualify by the change of title procedure followed by the New York City Department of Citywide Administrative Services pursuant to Rule 6.1.1 of the Personnel Rules
 22016
 2001-2021 CITYWIDE AGREEMENT 33
-
 
 and Regulations of the City of New York or by noncompetitive examination offered pursuant to Rule 6.1.9 of the Personnel Rules and Regulations of the City ofN ew York.
 If such an employee has ten (I 0) years or more of retirement system membership service and is considered permanently unable to perform all the duties of the employee's title and no suitable in-title position is available, the employee shall be referred to the New York City Employee's Retirement System and recommended for ordinary disability retirement.
@@ -769,7 +738,6 @@ The Employer shall provide a copy of this Agreement to all covered agencies.
 22016 •
 2001-2021 CITYWIDE AGREEMENT 3-4
 
-
 Section 16.
 Employees who purchase meals served in any facility run by the Employer shall pay fifty percent (50%) of the then total direct costs of such meals.
 Section 17.
@@ -789,7 +757,6 @@ d. This Section shall not alter the provisions of any existing unit Agreement wh
 22016
 2001~2021 CITYWIDE AGREEMENT 35
 
-
 Effective June 25, 2018:
 When a pennanent employee is summoned to an interview which may lead to a disciplinary action and which is conducted by someone outside the normal supervisory chain of command, the
 following procedure shall apply:
@@ -805,7 +772,6 @@ Certified Unions shall be provided with a copy of the applicable personnel rules
 Section 22.
 At the time of the final approval of an agreement, the Employer shall notify NYCERS of an adjustment in compensation to be included in retirement benefits.
 2001•2021 CITYWIDE AGREEMENT 36
-
 
 Section 23.
 Employees who have retired or left employment for other reasons shall be paid negotiated increases, premium pay, shift differential, overtime, and any other monies due them as soon as possible.
@@ -828,7 +794,10 @@ f. These provisions shall take effect December 5, 1999.
 ### Section 25 — Notice of Major Renovations
 _Page 38_
 
-Effective November 26, 1999, Agencies shall give the Union notice two weeks in advance of the commencement of any major renovation (i.e., funded through the Capital Budget) of an agency facility • See Article I, Section 5(e).
+Effective November 26, 1999, Agencies shall give the Union notice two weeks in advance of the
+commencement of any major renovation (i.e., funded through the Capital Budget) of an agency
+facility
+• See Article I, Section 5(e).
 22016
 2001-2021 CITYWIDE AGREEMENT 37
 
@@ -863,7 +832,6 @@ If an employee finds in the employee's personnel folder any material relating to
 22016
 2001•2021 CITYWIDE AGREEMENT 38
 
-
 employee shall have the right to answer any such material filed and the answer shall be attached to the file copy.
 
 <a id="article-xi-civil-service-career-development-p40"></a>
@@ -883,7 +851,6 @@ Section 4.
 After promotion, if an employee is returned to his/her former title in accordance with existing Personnel Rules and Regulations of the City of New York, the employee may request of the Employer a conference to discuss the basis for the employee's return to the former title. The Employer's decision is neither arbitrable nor reviewable under the Civil Service Law or the Rules and Regulations of the NYC Health+ Hospitals.
 22016
 2001~2021 CITYWIDE AGREEMENT 39
-
 
 Section S.
 An employee on a promotion list who is on a leave of absence without pay shall be notified prior to promotions being made past the employee's list number at the last address of record on file with the City Department of Citywide Administrative Services or the Office of Personnel Management of the NYC Health+ Hospitals.
@@ -909,7 +876,6 @@ When an employee transfers from one agency to another, but remains in the same b
 The Employer will issue an appropriate administrative instruction to all agencies to ensure compliance with this Section.
 2001 •2021 CITYWIDE AGREEMENT 40
 
-
 Section 4.
 When an employee is promoted or reclassified to another title certified to the same union as the employee's former title, the dues check-off shall continue uninterrupted. The Employer will issue an appropriate administrative instruction to all agencies to ensure compliance with this Section.
 Section 5.
@@ -927,7 +893,6 @@ b. The Employer shall distribute to all newly hired employees information regard
 22016
 2001-2021 CITYWIDE AGREEMENT 4L
 
-
 c. The Employer shall distribute infonnation regarding the New York City Employee Health Benefits Program and enrollment fonns to eligible employees prior to the completion of thirty (30) days of employment.
 d. Within thirty (30) days of an employee first being employed, reemployed or transferred to a new bargaining unit, the employer shall notify the bargaining unit's certified representative of the employee's name, home address when available,job title, employing agency, department or other operating unit, work email address and work location.
 e. Within thirty (30) days of providing such notice under Section I (d), the employer shall allow a duly appointed representative of the certified union to meet with such employee for a reasonable amount oft ime during his or her work time without charge to leave credits, provided that such meeting does not disrupt agency operations and that arrangements for such meeting be scheduled in consultation with a designated representative of the Employer. Where practicable, this requirement may be satisfied by allowing each certified union a reasonable amount of time during a formal employee orientation program to provide membership infonnation to employees.
@@ -942,7 +907,6 @@ When an employee is promoted or reclassified to another title certified to the s
 22016
 4
 2001•2021 CITYWIDE AGREEMENT 42
-
 
 Section 5.
 When an employee returns from an approved leave of absence without pay, is re-appointed or temporarily appointed from a preferred list to the same agency in the same title or in another title represented by the same certified union, the Employer shall notify the certified union. Any dues check off authorization in effect prior to the approved leave or the layoff shall be reactivated. The Employer will issue an appropriate administrative instruction to all agencies to ensure compliance with this Section.
@@ -984,7 +948,6 @@ _Page 45_ · _Topics: health-welfare_
 a. For those full-time employees who are in a welfare fund whose certified union has elected the uniform contribution rates pursuant to Section I of this Article XIII, the Employer shall contribute in the pro-rata annual amounts set forth below, effective the dates indicated below, per full-time employee for remittance to the Welfare Fund, subject to a signed separate trusted fund agreement between the Employer and the Union.
 2001 •2021 CITYWIDE AGREEMENT 44
 
-
 | Effective Date: | Amount2 : |
 | --- | --- |
 | July I, 2001 | $1,275 |
@@ -1008,7 +971,6 @@ g. Effective July I, 2019, the Employer shall make a one hundred dollar ($ 100) 
 22016
 2001•2021 CITYWIDE AGREEMENT 45
 
-
 | Effective Date: | Amount2 : |
 | --- | --- |
 | July I, 2001 | $728.57 |
@@ -1030,7 +992,6 @@ b. Effective January 11, 200 I, the Employer shall make a seventy-one dollar and
 ~
 2001-2021 CITYWIDE AGREEMENT 46
 
-
 c. Effective July 1, 2001, the Employer shall make a fifty-seven dollar and fourteen cents ($57.14) one-time payment to each Welfare Fund on behalf of each part-time per annum, hourly, per diem, per session and seasonal employees who, pursuant to Section 3(a), is receiving benefits on July 1, 200 I.
 d. Effective July 1, 2009, the Employer shall make a one-hundred fourteen dollar and twenty nine cents ($114.29) one-time payment to each Welfare Fund on behalf of each part-time per annum, hourly, per diem, per session and seasonal employees who, pursuant to Section 3(a), is receiving benefits on July I, 2009.
 e. Effective July I, 2016, the Employer shall make a fifty-seven dollar and fourteen cents ($57.14) one-time payment to each Welfare Fund on behalf of each part-time per annum, hourly, per diem, per session and seasonal employee who, pursuant to Section 3(a), is receiving benefits on July 1, 2016.
@@ -1044,7 +1005,6 @@ b. The per annum contribution rates paid on behalf of employees separated from s
 c. Contributions shall be made only for such time as said individuals remain primary beneficiaries of the New York City Employee Health Benefits Program and are entitled to benefits paid for by the Employer through such Program or are retirees of the New York City Employee's Retirement System who have completed at least five (5) years of full-time service with the City or, effective December 27, 2001, ten (10) years of full-time paid
 22016
 2001-2021 CITYWIDE AGREEMENT 47
-
 
 service, for an individual who was not an employee of the City on or before December 27,
 2001.
@@ -1063,7 +1023,6 @@ b. When a title or titles previously covered by the same welfare fund are reclas
 c. When there is a certification dispute involving a title not previously covered by any welfare fund or titles previously covered by different welfare funds which have been reclassified, broadbanded, or consolidated into new title(s), such title(s) shall be covered by the Management Benefits Fund pending the final decision of the Board of Certification as to the bargaining status of the title(s).
 22016
 2001-2021 CITYWIDE AGREEMENT 43
-
 
 d. When a title has been covered by the Management Benefits Fund or a different union welfare fund prior to becoming certified to a union, welfare fund payments shall be made to the appropriate union welfare fund pursuant to the terms of this Article effective the first day of the month sixty (60) days subsequent to the date of actual certification.
 Section 9.
@@ -1085,7 +1044,6 @@ The Employer shall establish a Citywide Occupational Safety and Health Committee
 The Citywide Occupational Safety and Health Committee shall recommend citywide employee safety and health policy to the Mayor and shall assume the duties and responsibilities of the Occupational Safety and Health Planning Task Force created by Mayor's Executive Order No. 58, dated May 6, 1976, and shall also assume the citywide safety responsibilities of the City Director of Personnel contained in Mayor's Executive Order No. I 09, dated August 28, 1969. In addition, this Committee shall act as the City's liaison with Federal and State Agencies, in efforts to obtain
 2001-2021 CITYWIDE AGREEMENT 49 22016
 
-
 grants to finance City employee safety and health programs and shall perform any additional tasks assigned by the Mayor.
 Section 2.
 a. Adequate, clean, structurally safe and sanitary working facilities shall be provided for all employees.
@@ -1104,7 +1062,6 @@ _Page 51_ · _Topics: discipline, safety_
 redressing or otherwise protesting alleged violations of this Section shall be docked pay for any unauthorized non-performance of work and may be subject to any appropriate disciplinary action.
 f. In construing this Section, an arbitrator shall initially have the power only to decide whether the subject facilities meet the standards of subsection (a) of this Section 2 but may not affirmatively direct how the Employer should comply with this Section. If the arbitrator determines that the Employer is in violation of this Section, the Employer shall take appropriate steps to remedy the violation. If in the opinion of the Union the Employer does not achieve compliance within a reasonable period oft ime, the Union may reassert its claim to the arbitrator. Upon such second submission, if the arbitrator finds that the Employer has had a reasonable time to comply with the terms of this Section and has failed to do so, then and only then, the arbitrator may order the Employer to follow a particular course of action which will effectuate compliance with the terms of this Section. However, such remedy shall not exceed appropriations available in the current budget allocation for the involved agency for such purposes.
 2001-2021 CITYWIDE AGREEMENT 50
-
 
 g. In any enclosed facility where employees are assigned to work, the Employer shall make reasonable efforts to provide for the personal security of employees while they are working.
 h. When the Employer becomes aware of a safety hazard which the Employer considers an imminent physical danger to employees at a worksite, the Employer shall remove the employees from the affected area.
@@ -1129,7 +1086,6 @@ Both the Employer and the Union will request the arbitrator to make every reason
 2001-2021 CITYWIDE AGREEMENT 52
 22016
 
-
 decision, order or award shall be limited to the application and interpretation of this Agreement, and the arbitrator shall not add to, subtract from or modify this Agreement. The arbitrator's award shall be final and binding and enforceable in any appropriate tribunal in accordance with Article 75 of the Civil Practice Law and Rules. An arbitrator may provide for and direct such relief as the arbitrator deems necessary and proper, subject to the limitations set forth above and any applicable limitations of law.
 Section 3.
 As a condition to the right of a Union to invoke impartial arbitration set forth in this Article, the employee or employees and the Union shall be required to file with the Director of the Office of Collective Bargaining a written waiver of the right, if any, of the employee or employees and the Union to submit the underlying dispute to any other administrative or judicial tribunal except for the purpose of enforcing the arbitrator's award.
@@ -1142,7 +1098,6 @@ If the Employer exceeds any time limit prescribed at any step in the grievance p
 22016
 1
 2001-2021 CITYWIDE AGREEMENT 53
-
 
 Section 7.
 The Employer shall notify the Union in writing of all grievances filed by employees, all grievance hearings, and all determinations. The Union or a public employee organization which has been designated by the Union to represent the grievant or grievants shall have the right to have a representative present at any grievance hearing and shall be given forty-eight (48) hours' notice of all grievance hearings.
@@ -1166,7 +1121,6 @@ A copy of any FLSA Controversy concerning a H+H title which is submitted to the 
 ~
 2001-2021 CITYWIDE AGREEMENT 54
 
-
 The Panel shall take any steps necessary for a proper disposition of any FLSA Controversy and shall issue a written detennination within sixty days following the date of submission thereof. The FLSA Panel's time may be extended by mutual agreement of the parties. The decision of the Panel shall be final.
 f. Notwithstanding the provisions of this Section I 0, the submission of a dispute by an employee under this procedure shall not constitute a waiver of the employee's rights under the FLSA.
 
@@ -1183,7 +1137,6 @@ Both the Employer and the Union will request the arbitrator to make every reason
 2001-2021 CITYWIDE AGREEMENT 55
 22016 •
 
-
 decision, order or award (if any) shall be limited to the application and interpretation of the Article XVIII and the arbitrator shall not add to, subtract from or modify said Article. The arbitrator's award shall be final and binding and enforceable in any appropriate tribunal in accordance with Article 75 of the Civil Practice Law and Rules. The arbitrator may provide for and direct such relief as the arbitrator deems necessary and proper, subject to the limitations set forth above and any applicable limitations of law.
 Each of the steps in the dispute procedure, as well as the time limits prescribed at each step of this dispute procedure, may be waived by mutual agreement of the parties.
 
@@ -1199,7 +1152,6 @@ STEP B(i) If the employee is not satisfied with the determination at STEP A abov
 STEP B(ii) An appeal from the determination of STEP A above shall be made to the agency head or designated representative. The appeal must be made in writing within five (5) workdays of the receipt of the determination. The agency head or designated representative shall meet with the employee and the Union for review of the grievance and shall issue a determination to the employee and the Union by the end of the tenth workday following the day on which the appeal was filed. The agency head or designated representative shall have the power to impose the discipline, if any, decided upon, up to and including termination of the accused employee's employment. In the event of such termination or suspension without pay totaling ,. See Article I, Section 5(e).
 22016
 2001-2021 CITYWIDE AGREEMENT 56
-
 
 more than thirty (30) days, the Union with the consent of the grievant may elect to skip STEP C of this Section and proceed directly to STEP D.
 STEPC If the grievant is not satisfied with the determination of the agency head or designated representative the grievant or the Union may appeal to the Commissioner of Labor Relations in writing within ten (10) days of the determination of the agency head or designated representative. The Commissioner of Labor Relations shall issue a written reply to the grievant and the Union within fifteen (15) workdays.
@@ -1219,7 +1171,6 @@ limited to:
 i. the transfer of employees to other agencies with retraining, if necessary, consistent with Civil Service law but without regard to the Civil Service title, ii. the use of Federal and State funds whenever possible to retain or re-employ employees scheduled for layoff,
 2001•2021 CITYWIDE AGREEMENT 57
 22016
-
 
 iii. the elimination or reduction of the amount of work contracted out to independent contractors, and iv. encouragement of early retirement and the expediting of the processing of retirement applications.
 c. After meeting and conferring with the designated representatives of the appropriate union, the Employer shall have the right, when necessary, to transfer any employee, in lieu of layoff, from one agency to another provided such transfer is within title (and the employee meets all the legal requirements of the new position) and is being made without loss in pay,
@@ -1245,7 +1196,6 @@ d. A period of an authorized leave of absence without pay or any period during w
 e. In the case of non-competitive or labor class employees, the Employer may determine the layoff unit (agency, unit of appropriation, department, bureau, division, or other clearly identifiable subdivision). In such case, layoff shall be made from among incumbents in the same class of positions in each such layoff unit.
 f. If the Employer designates a subdivision smaller than a unit of appropriation, department, bureau, or division as a non-competitive layoff unit or smaller than a unit of appropriation as a labor class layoff unit, the affected union may appeal such designation within 3 days of the receipt of the layoff notice to Commissioner of Citywide Administrative Services who will issue a final and binding determination within 3 days oft he receipt of such appeal.
 2001-2021 CITYWIDE AGREEMENT 58
-
 
 g. Employees in affected titles in the layoff unit shall be laid off in the following order:
 i. All employees in probationary status in the same title. Among them, layoff shall be in inverse order of date of original appointment.
@@ -1320,7 +1270,6 @@ g. A complaint concerning failure by an agency or agencies to comply with a dete
 22016
 61 t
 
-
 h. The provisions of this Section 5 shall apply to all employees subject to the tenns of the Citywide Agreement regardless of the number of hours of employment.
 
 <a id="section-6-eye-examinations-and-corrective-lenses-p63"></a>
@@ -1356,24 +1305,34 @@ This Agreement shall constitute and be deemed a complete adjustment and settleme
 ## Article XXII — SAV IN GS CLAUSE
 _Page 63_
 
-In the event that any provision of this Agreement is found to be invalid, such invalidity shall not impair the validity and enforceability of the remaining provisions of this Agreement.
+In the event that any provision of this Agreement is found to be invalid, such invalidity shall not
+impair the validity and enforceability of the remaining provisions of this Agreement.
 22016 ,
 62
 
-
 ~
 /..(jay
-WHEREFORE, we hllve hereunto !ct our hands and acals th.is of 2022 FOil THB CJTY OF Nl!W YORK: fOR O!Sl'RICT COUNCIL-.;,L
+WHEREFORE, we hllve hereunto !ct our hands and acals th.is of 2022
+FOil THB CJTY OF Nl!W YORK: fOR O!Sl'RICT COUNCIL-.;,L
 APSCME. A CIO:
 BY _____. ;:i..,...,__ ___ ll'ft::::::l~;:;;-~~-~--....::::::::
 Renee Campion Hanry GorrJdn
-Comml11lt111ct arl..ebor Rat 8.locollw DfR11111Jr FOR l1ra NEW YORK CITY HEAL TH Hosr1r,z5,
+Comml11lt111ct arl..ebor Rat 8.locollw DfR11111Jr
+FOR l1ra NEW YORK CITY HEAL TH
+Hosr1r,z5,
 + t
 ;J·-'(_.,.{9 1
 \__._
 BY
 Andrea G, Cohen
-!lcnfur Vioe Pn,ifdCDI and Oenenl CClllll■d APfROVBO AS TO FORM L ~ BY Erle Elcltenhoiti Aclla1 Corpun1lia11 C111wal UNJT: CitywJdc Agreement TBRM: July 1, 200 J - December 31, 202 l
+!lcnfur Vioe Pn,ifdCDI and Oenenl CClllll■d
+APfROVBO AS TO FORM
+L ~
+BY
+Erle Elcltenhoiti
+Aclla1 Corpun1lia11 C111wal
+UNJT: CitywJdc Agreement
+TBRM: July 1, 200 J - December 31, 202 l
 
 <a id="office-of-labor-relations-p64"></a>
 ### OFFICE OF LABOR RELATIONS
@@ -1389,53 +1348,7 @@ DATE:
 ! 2 0 1 6
 Fe\:,<'-'a.r'j LI, ?.J::>7-1_
 
-
-| TITlE | ~dcl, Q.eteted, or Accreted | TrnE CODE | WORK•WEeK |
-| --- | --- | --- | --- |
-| Account Clerk | Deleted | 10105 | 35 |
-| Accountant |  | 40510 | 35 |
-| Actuarial Specialist Level I |  | 40731 | 35 |
-| Actuary | Deleted | 40710 | 35 |
-| Addiction Specialist | Deleted | 56070 | 35 |
-| Addiction Specialist (Methadone) |  | 56071 | 35 |
-| Administrative Accountant (Former M-I & II) | Accreted | 1000B | 35 |
-| Administrative Architect (Non Mgrl) Formerly M1 | Accreted | 1000A | 35 |
-| Administrative Assistant | Deleted | 10125 | 35 |
-| Administrative Assistant (Campaign Finance Board) |  | 06603 | 35 |
-| Administrative Assistant (EDP) | Deleted | 11023 | 35 |
-| Administrative Assistant (Secretarial) | Deleted | 10122 | 35 |
-| Administrative Associate (only Board of Election title code 94206) | Deleted | 10130 | 35 |
-| Administrative Business Promotion Coordinator Level M-I & II | Accreted | 1000C | 35 |
-| Administrative City Planner (Non Mgrl) Formerly M 1 | Accreted | 1005A | 35 |
-| Administrative Claim Examiner (Former M-I & II) | Accreted | 1004E | 35 |
-| Administrative Community Relations Specialist (Non-Managerial) Former M1-3 | Accreted | 1002F | 35 |
-| Administrative Construction Project Manager (formerly M-I) | Accreted | 8299A | 35 |
-| Administrative Contract Specialist (Former M I & II) | Accreted | 1009A | 35 |
-| Administrative Director of Laboratory (Water Quality) (Non Mgrl) Formerly M1 | Accreted | 1005B | 35 |
-| Administrative Director of Residential Child Care (formerly M1 & M2) | Accreted | 1001B | 35 |
-| Administrative Director of Social Services (Former MI & II) | Accreted | 1005C | 35 |
-| Administrative Engineer (formerly M-I) | Accreted | 1001A | 35 |
-| Administrative Fire Protection Inspector (Former M-I & II) (removed from Citywide Agreement) | Accreted | 1002H | 35 |
-| Administrative Graphic Artist (Former M-1 & II) | Accreted | 1000D | 35 |
-| Administrative Horticulturist (Former M t & II) | Accreted | 1007C | 35 |
-| Administrative Housing Development Specialist (formerly M-1) | Accreted | 8300A | 35 |
-| Administrative Inspector (Buildings) (formerly M-I) | Accreted | 1007A | 35 |
-| Administrative Inspector (Electrical) (formerly M1) | Accreted | 10078 | 35 |
-| Administrative Investigator (Former M-1 & II) | Accreted | 10021 | 35 |
-| Admlnlslratlve Job Opportunity Specialist Non-Managerial |  | 10248 | 35 |
-| Administrative Landmarks Preservationist (formerly M-1) | Accreted | 1003A | 35 |
-| Administrative Landscape Architect (Non Mgrl) Formerly M 1 | Accreted | 1002G | 35 |
-| Administrative Management Auditor (Former M-1 & II) | Accreted | 1001c | 35 |
-| Administrative Manager Level (Former M I, II & Ill) | Accreted | 1002C | 35 |
-| Administrative Parks & Recreation Manager Former M-I & II | Accreted | 1007D | 35 |
-| Administrative Procurement Analyst (Fonner M I, II, & Ill) | Accreted | 8297A | 35 |
-| Administrative Project Director (HPD)(Non Mgrl) Formerly M1 | Accreted | 9556A | 35 |
-| Administrative Project Manager (formerly M-I) | Accreted | B300B | 35 |
-| Administrative Public Health Nurse (Former M-I & II) | Accreted | 1003C | 35 |
-| Administrative Public Heallh Sanitarian Former M-t & II | Accreted | 8298D | 35 |
-| Administrative Quality Assurance Specialist (Non-Managerial) -Mayoral | Accreted | 10088 | 35 |
-| Administrative Real Property Manager (Former M-I & II) | Accreted | 1004D | 35 |
-| Administrative Retirement Benefits Specialist Former M-I & II | Accreted | 8298C | 35 |
+| TITlE | ~dcl, Q.eteted, or Accreted | TrnE CODE | WORK•WEeK | | --- | --- | --- | --- | | Account Clerk | Deleted | 10105 | 35 | | Accountant |  | 40510 | 35 | | Actuarial Specialist Level I |  | 40731 | 35 | | Actuary | Deleted | 40710 | 35 | | Addiction Specialist | Deleted | 56070 | 35 | | Addiction Specialist (Methadone) |  | 56071 | 35 | | Administrative Accountant (Former M-I & II) | Accreted | 1000B | 35 | | Administrative Architect (Non Mgrl) Formerly M1 | Accreted | 1000A | 35 | | Administrative Assistant | Deleted | 10125 | 35 | | Administrative Assistant (Campaign Finance Board) |  | 06603 | 35 | | Administrative Assistant (EDP) | Deleted | 11023 | 35 | | Administrative Assistant (Secretarial) | Deleted | 10122 | 35 | | Administrative Associate (only Board of Election title code 94206) | Deleted | 10130 | 35 | | Administrative Business Promotion Coordinator Level M-I & II | Accreted | 1000C | 35 | | Administrative City Planner (Non Mgrl) Formerly M 1 | Accreted | 1005A | 35 | | Administrative Claim Examiner (Former M-I & II) | Accreted | 1004E | 35 | | Administrative Community Relations Specialist (Non-Managerial) Former M1-3 | Accreted | 1002F | 35 | | Administrative Construction Project Manager (formerly M-I) | Accreted | 8299A | 35 | | Administrative Contract Specialist (Former M I & II) | Accreted | 1009A | 35 | | Administrative Director of Laboratory (Water Quality) (Non Mgrl) Formerly M1 | Accreted | 1005B | 35 | | Administrative Director of Residential Child Care (formerly M1 & M2) | Accreted | 1001B | 35 | | Administrative Director of Social Services (Former MI & II) | Accreted | 1005C | 35 | | Administrative Engineer (formerly M-I) | Accreted | 1001A | 35 | | Administrative Fire Protection Inspector (Former M-I & II) (removed from Citywide Agreement) | Accreted | 1002H | 35 | | Administrative Graphic Artist (Former M-1 & II) | Accreted | 1000D | 35 | | Administrative Horticulturist (Former M t & II) | Accreted | 1007C | 35 | | Administrative Housing Development Specialist (formerly M-1) | Accreted | 8300A | 35 | | Administrative Inspector (Buildings) (formerly M-I) | Accreted | 1007A | 35 | | Administrative Inspector (Electrical) (formerly M1) | Accreted | 10078 | 35 | | Administrative Investigator (Former M-1 & II) | Accreted | 10021 | 35 | | Admlnlslratlve Job Opportunity Specialist Non-Managerial |  | 10248 | 35 | | Administrative Landmarks Preservationist (formerly M-1) | Accreted | 1003A | 35 | | Administrative Landscape Architect (Non Mgrl) Formerly M 1 | Accreted | 1002G | 35 | | Administrative Management Auditor (Former M-1 & II) | Accreted | 1001c | 35 | | Administrative Manager Level (Former M I, II & Ill) | Accreted | 1002C | 35 | | Administrative Parks & Recreation Manager Former M-I & II | Accreted | 1007D | 35 | | Administrative Procurement Analyst (Fonner M I, II, & Ill) | Accreted | 8297A | 35 | | Administrative Project Director (HPD)(Non Mgrl) Formerly M1 | Accreted | 9556A | 35 | | Administrative Project Manager (formerly M-I) | Accreted | B300B | 35 | | Administrative Public Health Nurse (Former M-I & II) | Accreted | 1003C | 35 | | Administrative Public Heallh Sanitarian Former M-t & II | Accreted | 8298D | 35 | | Administrative Quality Assurance Specialist (Non-Managerial) -Mayoral | Accreted | 10088 | 35 | | Administrative Real Property Manager (Former M-I & II) | Accreted | 1004D | 35 | | Administrative Retirement Benefits Specialist Former M-I & II | Accreted | 8298C | 35 |
 
 <a id="appendix-a-p65"></a>
 ### APPENDIX A
@@ -1444,1229 +1357,133 @@ _Page 65_
 Citywide Title Code Numbers
 2001•2021 CITYWIDE AGREEMENT 64 22016
 
-
-| Administrative Space Analyst (Former M-1 & II) | Accreted | 10030 | 35 |
-| --- | --- | --- | --- |
-| Administrative Staff Analyst (Non Mgl) formerly at M-1 | Accreted | 1002A | 35 |
-| Administrative Staff Analyst (Non-Managerial) Former M2 | Accreted | 10020 | 35 |
-| Administrative Staff Analyst (Non-Managerial) Former M3 | Accreled | 1002E | 35 |
-| Administrative Tax Auditor Former M-1 & II | Accreted | 1004C | 35 |
-| Administrative Test and Measurement Specialist | Accreted | 10064 | 35 |
-| Administrator of Youth Services | Deleted | 51452 | 35 |
-| Administrator of Youth Services (Research) | Deleted | 51450 | 35 |
-| After School Program Specialist (Youth Board) | Deleted | 52602 | 35 |
-| Agency Attorney |  | 30087 | 35 |
-| Agency Attorney lnteme |  | 30086 | 35 |
-| Air Pollution Control Engineer | Deleted | 20610 | 35 |
-| Air Pollution Control Engineering Intern | Deleted | 20602 | 35 |
-| Air Pollution Control Engineering Trainee | Deleted | 20604 | 35 |
-| Air Pollution Inspector |  | 31315 | 35 |
-| Alcoholism Counselor |  | 95437 | 35 |
-| Ambulance Technician |  | 53057 | 37.5 |
-| Analyst (Campaign Anance Board) |  | 06601 | 35 |
-| Appraiser (Real Estate) |  | 40410 | 35 |
-| Appraiser Trainee (Real Estate) | Deleted | 40401 | 35 |
-| Apprentice Inspector (Boilers) |  | 35001 | 40 |
-| Apprentice Inspector (Cement Test) |  | 35002 | 40 |
-| . Apprentice Inspector (Construction) |  | 35003 | 40 |
-| Apprentice Inspector (Electrical) |  | 35004 | 40 |
-| Apprentice Inspector (Elevator) |  | 35005 | 40 |
-| Apprentice Inspector (Heating and Ventilation) |  | 35006 | 40 |
-| Apprentice Inspector (Highways and Sewers) | Accreted | 35007 | 40 |
-| Apprentice Inspector (Hoists and Rigging) |  | 35008 | 40 |
-| Apprentice Inspector (Housing) |  | 35009 | 40 |
-| Apprentice Inspector (Steel Construction) |  | 35010 | 40 |
-| Apprentice Rehabilitation Specialist (Buildings) |  | 35141 | 40 |
-| Architect |  | 21215 | 35 |
-| Architect (Materials Research and Speclflcatlons) | Deleted | 21216 | 35 |
-| Architectural Intern |  | 21205 | 35 |
-| Architectural Specialist | Deleted | 06106 | 35 |
-| Area Services Coordinator | Deleted | 22557 | 35 |
-| Arts Program Analyst | Deleted | 60490 | 35 |
-| Arts Programs Specialist |  | 60495 | 35 |
-| Asbestos Handler |  | 31313 | 40 |
-| Asbestos Handler Supervisor |  | 31314 | 40 |
-| Asbestos Hazard Investigator |  | 31312 | 35 |
-| Assessor | Deleted | 40210 | 35 |
-| Assistant Accountant |  | 40505 | 35 |
-| Assistant Actuary | Deleted | 40705 | 35 |
-| Assistant Administrator of Youth Services | Deleted | 51448 | 35 |
-| Assistant Advocate-PD | Added | 30083 | 35 |
-| Assistant Air Pollution Control Engineer | Deleted | 20605 | 35 |
-| Assistant Architect |  | 21210 | 35 |
-| Assistant Area Services Coordinator | Deleted | 22556 | 35 |
+| Administrative Space Analyst (Former M-1 & II) | Accreted | 10030 | 35 | | --- | --- | --- | --- | | Administrative Staff Analyst (Non Mgl) formerly at M-1 | Accreted | 1002A | 35 | | Administrative Staff Analyst (Non-Managerial) Former M2 | Accreted | 10020 | 35 | | Administrative Staff Analyst (Non-Managerial) Former M3 | Accreled | 1002E | 35 | | Administrative Tax Auditor Former M-1 & II | Accreted | 1004C | 35 | | Administrative Test and Measurement Specialist | Accreted | 10064 | 35 | | Administrator of Youth Services | Deleted | 51452 | 35 | | Administrator of Youth Services (Research) | Deleted | 51450 | 35 | | After School Program Specialist (Youth Board) | Deleted | 52602 | 35 | | Agency Attorney |  | 30087 | 35 | | Agency Attorney lnteme |  | 30086 | 35 | | Air Pollution Control Engineer | Deleted | 20610 | 35 | | Air Pollution Control Engineering Intern | Deleted | 20602 | 35 | | Air Pollution Control Engineering Trainee | Deleted | 20604 | 35 | | Air Pollution Inspector |  | 31315 | 35 | | Alcoholism Counselor |  | 95437 | 35 | | Ambulance Technician |  | 53057 | 37.5 | | Analyst (Campaign Anance Board) |  | 06601 | 35 | | Appraiser (Real Estate) |  | 40410 | 35 | | Appraiser Trainee (Real Estate) | Deleted | 40401 | 35 | | Apprentice Inspector (Boilers) |  | 35001 | 40 | | Apprentice Inspector (Cement Test) |  | 35002 | 40 | | . Apprentice Inspector (Construction) |  | 35003 | 40 | | Apprentice Inspector (Electrical) |  | 35004 | 40 | | Apprentice Inspector (Elevator) |  | 35005 | 40 | | Apprentice Inspector (Heating and Ventilation) |  | 35006 | 40 | | Apprentice Inspector (Highways and Sewers) | Accreted | 35007 | 40 | | Apprentice Inspector (Hoists and Rigging) |  | 35008 | 40 | | Apprentice Inspector (Housing) |  | 35009 | 40 | | Apprentice Inspector (Steel Construction) |  | 35010 | 40 | | Apprentice Rehabilitation Specialist (Buildings) |  | 35141 | 40 | | Architect |  | 21215 | 35 | | Architect (Materials Research and Speclflcatlons) | Deleted | 21216 | 35 | | Architectural Intern |  | 21205 | 35 | | Architectural Specialist | Deleted | 06106 | 35 | | Area Services Coordinator | Deleted | 22557 | 35 | | Arts Program Analyst | Deleted | 60490 | 35 | | Arts Programs Specialist |  | 60495 | 35 | | Asbestos Handler |  | 31313 | 40 | | Asbestos Handler Supervisor |  | 31314 | 40 | | Asbestos Hazard Investigator |  | 31312 | 35 | | Assessor | Deleted | 40210 | 35 | | Assistant Accountant |  | 40505 | 35 | | Assistant Actuary | Deleted | 40705 | 35 | | Assistant Administrator of Youth Services | Deleted | 51448 | 35 | | Assistant Advocate-PD | Added | 30083 | 35 | | Assistant Air Pollution Control Engineer | Deleted | 20605 | 35 | | Assistant Architect |  | 21210 | 35 | | Assistant Area Services Coordinator | Deleted | 22556 | 35 |
 
 22016
 2001-2021 CITYWIDE AGREl!MENT 65
 
-
-| Assistant Attorney | Deleted | 30110 | 35 |
-| --- | --- | --- | --- |
-| Assistant Attorney (Ta,ces) | Deleted | 30091 | 35 |
-| Assistant Bio-Medical Equipment Technician | Deleted | 21561 | 35 |
-| Assistant Bridge Operator | Deleted | 91105 | 40 |
-| Assistant Bridge Operator Trainee | Deleted | 91101 | 40 |
-| Assistant Building Custodian | Deleted | 80605 | 40 |
-| Assistant Chemical Engineer |  | 20510 | 35 |
-| Assistant Chemist | Deleted | 21810 | 35 |
-| Assistant Chemist (To,cicology) | Deleted | 21811 | 35 |
-| Assistant City Assessor |  | 40201 | 35 |
-| Assistant City Assessor Trainee |  | 40200 | 35 |
-| Assistant City Highway Repairer |  | 90692 | 40 |
-| Assistant Civil Engineer |  | 20210 | 35 |
-| Assistant Community Liaison Worker | Deleted | 56092 | 35 |
-| Assistant Coordinating Manager |  | 10236 | 35 |
-| Assistant Coordinator of Highway Transport Studies | Deleted | 22360 | 35 |
-| Assistant Director of Bureau of Public Health Education | Deleted | 51175 | 35 |
-| Assistant Director of Rehabllltatlon | Deleted | 603B5 | 35 |
-| Assistant Director of Te chnlcal Services (Air Pollution Control) | Deleted | 20612 | 35 |
-| Assistant Director of Technical Services (EI-SS) | Deleted | 20603 | 35 |
-| Assistant Economist | Deleted | 40905 | 35 |
-| Assistant Electrical Engineer |  | 20310 | 35 |
-| Assistant Engineer (Accounllng) | Deleted | 20710 | 35 |
-| Assistant Engineering Technician | Deleted | 20112 | 35 |
-| Assistant Environmental Engineer | Added | 20617 | 35 |
-| Assistant Geologist | Deleted | 21910 | 35 |
-| Assistant Health Facilities Planner | Deleted | 22081 | 35 |
-| Assistant Highway Transportation Specialist | Deleted | 22305 | 35 |
-| Assistant Institutional Teacher (DJJ) |  | 60370 | 35 |
-| Assistant Landscape Architect |  | 21310 | 35 |
-| Assistant Laundry Supervisor | Deleted | B0810 | 40 |
-| Assistant Maintenance Supervisor | Deleted | 80682 | 35 |
-| Assistant Mechanical Engineer |  | 20410 | 35 |
-| Assistant Media Services Technician |  | 90621 | 35 |
-| Assistant Physicist | Deleted | 22010 | 35 |
-| Assistant Physicist (Electronics) | Deleted | 22011 | 35 |
-| Assistant Physicist (Isotopes) | Deleted | 22012 | 35 |
-| Assistant Physicist (Radiation) | Deleted | 22013 | 35 |
-| Assistant Pian Examiner (Buildings) |  | 22405 | 35 |
-| Assistant Planner | Deleted | 22110 | 35 |
-| Assistant Planning & Operations Officer (CD} | Deleted | 22112 | 35 |
-| Assistant Principal Custodial Supervisor | Deleted | 80560 | 40 |
-| Assistant Printing Press Operator |  | 92122 | 40 |
-| Assistant Program Specialist (DOC) | Deleted | 60947 | 35 |
-| Assistant Project Coordinator | Deleted | 22420 | 35 |
-| Assistant Project Development Coordinator | Deleted | 22515 | 35 |
-| Assistant Project Services Specialist | Deleted | 22516 | 35 |
-| Assistant Public Health Adviser (CDC) |  | 51190 | 35 |
-| Assistant Purchasing Agent | Deleted | 12120 | 35 |
+| Assistant Attorney | Deleted | 30110 | 35 | | --- | --- | --- | --- | | Assistant Attorney (Ta,ces) | Deleted | 30091 | 35 | | Assistant Bio-Medical Equipment Technician | Deleted | 21561 | 35 | | Assistant Bridge Operator | Deleted | 91105 | 40 | | Assistant Bridge Operator Trainee | Deleted | 91101 | 40 | | Assistant Building Custodian | Deleted | 80605 | 40 | | Assistant Chemical Engineer |  | 20510 | 35 | | Assistant Chemist | Deleted | 21810 | 35 | | Assistant Chemist (To,cicology) | Deleted | 21811 | 35 | | Assistant City Assessor |  | 40201 | 35 | | Assistant City Assessor Trainee |  | 40200 | 35 | | Assistant City Highway Repairer |  | 90692 | 40 | | Assistant Civil Engineer |  | 20210 | 35 | | Assistant Community Liaison Worker | Deleted | 56092 | 35 | | Assistant Coordinating Manager |  | 10236 | 35 | | Assistant Coordinator of Highway Transport Studies | Deleted | 22360 | 35 | | Assistant Director of Bureau of Public Health Education | Deleted | 51175 | 35 | | Assistant Director of Rehabllltatlon | Deleted | 603B5 | 35 | | Assistant Director of Te chnlcal Services (Air Pollution Control) | Deleted | 20612 | 35 | | Assistant Director of Technical Services (EI-SS) | Deleted | 20603 | 35 | | Assistant Economist | Deleted | 40905 | 35 | | Assistant Electrical Engineer |  | 20310 | 35 | | Assistant Engineer (Accounllng) | Deleted | 20710 | 35 | | Assistant Engineering Technician | Deleted | 20112 | 35 | | Assistant Environmental Engineer | Added | 20617 | 35 | | Assistant Geologist | Deleted | 21910 | 35 | | Assistant Health Facilities Planner | Deleted | 22081 | 35 | | Assistant Highway Transportation Specialist | Deleted | 22305 | 35 | | Assistant Institutional Teacher (DJJ) |  | 60370 | 35 | | Assistant Landscape Architect |  | 21310 | 35 | | Assistant Laundry Supervisor | Deleted | B0810 | 40 | | Assistant Maintenance Supervisor | Deleted | 80682 | 35 | | Assistant Mechanical Engineer |  | 20410 | 35 | | Assistant Media Services Technician |  | 90621 | 35 | | Assistant Physicist | Deleted | 22010 | 35 | | Assistant Physicist (Electronics) | Deleted | 22011 | 35 | | Assistant Physicist (Isotopes) | Deleted | 22012 | 35 | | Assistant Physicist (Radiation) | Deleted | 22013 | 35 | | Assistant Pian Examiner (Buildings) |  | 22405 | 35 | | Assistant Planner | Deleted | 22110 | 35 | | Assistant Planning & Operations Officer (CD} | Deleted | 22112 | 35 | | Assistant Principal Custodial Supervisor | Deleted | 80560 | 40 | | Assistant Printing Press Operator |  | 92122 | 40 | | Assistant Program Specialist (DOC) | Deleted | 60947 | 35 | | Assistant Project Coordinator | Deleted | 22420 | 35 | | Assistant Project Development Coordinator | Deleted | 22515 | 35 | | Assistant Project Services Specialist | Deleted | 22516 | 35 | | Assistant Public Health Adviser (CDC) |  | 51190 | 35 | | Assistant Purchasing Agent | Deleted | 12120 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 66
 6
 22016
 
-
-| Assistant Real Estate Repairer | Deleted | 81706 | 35 |
-| --- | --- | --- | --- |
-| Assistant Real Estate Repairer (DCAS) | Added | 82110 | 35 |
-| Assistant Real Estate Repairer (DCAS) | Deleted | 82021 | 35 |
-| Assistant Retirement Benefits Examiner |  | 40491 | 35 |
-| Assistant Scientist (Radiation Control) | Deleted | 21511 | 35 |
-| Assistant Signal Circuit Engineer | Deleted | 20311 | 35 |
-| Assistant Space Analyst | Deleted | 80181 | 35 |
-| Assistant Statistician | Deleted | 40605 | 35 |
-| Assistant Stock Handler | Deleted | 12207 | 35 |
-| Assistant Superintendent of Bridge House | Deleted | 52276 | 35 |
-| Assistant Superintendent of Construction and Repairs | Deleted | 91355 | 35 |
-| Assistant Superintendent of Welfare Shelters |  | 52275 | 35 |
-| Assistant Supervising Real Estate Manager | Deleted | 80136 | 35 |
-| Assistant Supervisor of Electrical Installations | Deleted | 34208 | 35 |
-| Assistant Supervisor of Mechanical Installations | Deleted | 34209 | 35 |
-| Assistant Supervisor of Youth Services | Deleted | 51442 | 35 |
-| Assistant Supervisor of Youth Services (Research) | Deleted | 51440 | 35 |
-| Assistant Surveyor | Deleted | 21010 | 35 |
-| Assistant Surveyor Trainee | Deleted | 21005 | 35 |
-| Assistant Systems Analyst (Finance) |  | 12646 | 35 |
-| Assistant Transportation Specialist | Added | 22306 | 35 |
-| Assistant Urban Designer |  | 22092 | 35 |
-| Assistant Workers' Compensation Benefits Examiner | Deleted | 40481 | 35 |
-| Assistant Youth Services Specialist | Deleted | 51436 | 35 |
-| Associate Accountant | Deleted | 40517 | 35 |
-| Associate Air Pollution Inspector | Added | 31316 | 35 |
-| Associate Arts Programs Analyst | Deleted | 60491 | 35 |
-| Associate Arts Programs Specialist |  | 60496 | 35 |
-| Associate Attorney | Deleted | 30126 | 35 |
-| Associate Attorney (Taxes) | Deleted | 30097 | 35 |
-| Associate Bookkeeper | Deleted | 40527 | 35 |
-| Associate Business Promotion Coordinator | Deleted | 60861 | 35 |
-| Associate Call Center Representative | Added | 10271 | 35 |
-| Associate Chemist |  | 21822 | 35 |
-| Associate City Planner | Deleted | 22123 | 35 |
-| Associate Contract Specialist |  | 40562 | 35 |
-| Associate Correctional Counselor |  | 51274 | 35 |
-| Associate Engineering Technician | Deleted | 20118 | 35 |
-| Associate Fingerprint Technician |  | 71141 | 35 |
-| Associate Fire Protection lnspector(removed from Citywide Agreement coverage through Legislation) |  | 31662 | 35 |
-| Associate Fraud Investigator |  | 31118 | 35 |
-| Associate Graphic Artist | Deleted | 91416 | 35 |
-| Associate Housing Development Specialist |  | 22508 | 35 |
-| Associate Human Rights Specialist |  | 55038 | 35 |
-| Associate Inspector (Boilers) |  | 31640 | 40 |
-| Associate Inspector (Construclion) | Deleted | 31642 | 40 |
-| Associate Inspector (Consumer and Worker Protection) | Added | 33998 | 35 |
-| Associate Inspector (DCA) | Deleted | 33996 | 35 |
-| Associate Inspector (Electrical) |  | 31643 | 40 |
+| Assistant Real Estate Repairer | Deleted | 81706 | 35 | | --- | --- | --- | --- | | Assistant Real Estate Repairer (DCAS) | Added | 82110 | 35 | | Assistant Real Estate Repairer (DCAS) | Deleted | 82021 | 35 | | Assistant Retirement Benefits Examiner |  | 40491 | 35 | | Assistant Scientist (Radiation Control) | Deleted | 21511 | 35 | | Assistant Signal Circuit Engineer | Deleted | 20311 | 35 | | Assistant Space Analyst | Deleted | 80181 | 35 | | Assistant Statistician | Deleted | 40605 | 35 | | Assistant Stock Handler | Deleted | 12207 | 35 | | Assistant Superintendent of Bridge House | Deleted | 52276 | 35 | | Assistant Superintendent of Construction and Repairs | Deleted | 91355 | 35 | | Assistant Superintendent of Welfare Shelters |  | 52275 | 35 | | Assistant Supervising Real Estate Manager | Deleted | 80136 | 35 | | Assistant Supervisor of Electrical Installations | Deleted | 34208 | 35 | | Assistant Supervisor of Mechanical Installations | Deleted | 34209 | 35 | | Assistant Supervisor of Youth Services | Deleted | 51442 | 35 | | Assistant Supervisor of Youth Services (Research) | Deleted | 51440 | 35 | | Assistant Surveyor | Deleted | 21010 | 35 | | Assistant Surveyor Trainee | Deleted | 21005 | 35 | | Assistant Systems Analyst (Finance) |  | 12646 | 35 | | Assistant Transportation Specialist | Added | 22306 | 35 | | Assistant Urban Designer |  | 22092 | 35 | | Assistant Workers' Compensation Benefits Examiner | Deleted | 40481 | 35 | | Assistant Youth Services Specialist | Deleted | 51436 | 35 | | Associate Accountant | Deleted | 40517 | 35 | | Associate Air Pollution Inspector | Added | 31316 | 35 | | Associate Arts Programs Analyst | Deleted | 60491 | 35 | | Associate Arts Programs Specialist |  | 60496 | 35 | | Associate Attorney | Deleted | 30126 | 35 | | Associate Attorney (Taxes) | Deleted | 30097 | 35 | | Associate Bookkeeper | Deleted | 40527 | 35 | | Associate Business Promotion Coordinator | Deleted | 60861 | 35 | | Associate Call Center Representative | Added | 10271 | 35 | | Associate Chemist |  | 21822 | 35 | | Associate City Planner | Deleted | 22123 | 35 | | Associate Contract Specialist |  | 40562 | 35 | | Associate Correctional Counselor |  | 51274 | 35 | | Associate Engineering Technician | Deleted | 20118 | 35 | | Associate Fingerprint Technician |  | 71141 | 35 | | Associate Fire Protection lnspector(removed from Citywide Agreement coverage through Legislation) |  | 31662 | 35 | | Associate Fraud Investigator |  | 31118 | 35 | | Associate Graphic Artist | Deleted | 91416 | 35 | | Associate Housing Development Specialist |  | 22508 | 35 | | Associate Human Rights Specialist |  | 55038 | 35 | | Associate Inspector (Boilers) |  | 31640 | 40 | | Associate Inspector (Construclion) | Deleted | 31642 | 40 | | Associate Inspector (Consumer and Worker Protection) | Added | 33998 | 35 | | Associate Inspector (DCA) | Deleted | 33996 | 35 | | Associate Inspector (Electrical) |  | 31643 | 40 |
 
 2001 ~2021 CITYWIDE AGREEMENT 67
 7
 22016
 
-
-| Associate Inspector (Elevator) |  | 316-44 | 40 |
-| --- | --- | --- | --- |
-| Associate Inspector (Highways and Sewers) | Accreted | 316-45 | 40 |
-| Associate Inspector (Hoists and Rigging) |  | 316-47 | 40 |
-| Associate Inspector (Housing) |  | 31675 | 40 |
-| Associate Inspector (Low Pressure Botlers) |  | 31676 | 40 |
-| Associate Inspector (Plumbing) |  | 316-49 | 40 |
-| Associate Inspector (Steel Construction) | Deleted | 31650 | 40 |
-| Associate Investigator |  | 31121 | 35 |
-| Associate Juvenile Counselor | Deleted | 52300 | 35 |
-| Associate Laboratory Mlcroblologlst |  | 21514 | 35 |
-| Associate Landmarks Preservationist |  | 92238 | 35 |
-| Associate Management Auditor | Deleted | 40503 | 35 |
-| Associate Market Agent | Deleted | 33973 | 35 |
-| Associate Mortgage Analyst | ' Deleted | 40551 | 35 |
-| Associate Operations Communications Specialist |  | 20272 | 35 |
-| Associate? P~lng Control Spedalisl(removed Imm Citywide Agreement coverage through L= islalionl | Accreted | 41122 | 40 |
-| Associate Personnel Investigator | Deleted | 31122 | 35 |
-| Associate Program Officer (DFTA ) | Deleted | 51455 | 35 |
-| Associate Project Manager |  | 22427 | 35 |
-| Associate Public Health Epidemiologist | Deleted | 51183 | 35 |
-| Associate Public Health Sanitarian |  | 31220 | 40 |
-| Associate Public lnlormalion Specialist |  | 60816 | 35 |
-| Associate Public Records Officer |  | 60217 | 35 |
-| Associate Quality Assurance Specialist |  | 34190 | 35 |
-| Associate Quality Assurance Specialist (Building Repairs) | Deleted | 34191 | 35 |
-| Associate Quality Assurance Specialist (Foods) | Deleted | 34192 | 35 |
-| Associate Quality Assurance Specialist (Fuel) |  | 34193 | 35 |
-| Associate Quality Assurance Specialist (Lumber) | Deleted | 34194 | 35 |
-| Associate Quality Assurance Specialist (Metals) | Deleted | 34195 | 35 |
-| Associate Quality Assurance Specialist (Pupil Transportation) |  | 34196 | 35 |
-| Associate Quality Assurance Specialist (Textiles) | Deleted | 34197 | 35 |
-| Associate Real Property Manager |  | 80122 | 35 |
-| Associate Rehabilitation Specialist (HPD) |  | 31685 | 40 |
-| Associate Reporter/Stenographer (DA) | Deleted | 10213 | 35 |
-| Associate Retirement Benefits Examiner |  | 40493 | 35 |
-| Associate Sanitation Enforcement Agent(removed from Citywide Agreement coverage through L1>t>islatlonl |  | 71682 | 40 |
-| Associate Space Analyst | Deleted | 80183 | 35 |
-| Associate Special Officer (Aqueduct Patrol) | Deleted | 70502 | 40 |
-| Associate Staff Analyst 1 |  | 12627 | 35 |
-| Associate Supervisor of School Security(removed from Citywide Agreement coverage through Looislalionl |  | 60821 | 40 |
-| Associate Tax Auditor | Deleted | 40522 | 35 |
-| Associate Taxi and Limousine lnspector(removed from Citywide Agreement coverage through Leoislalion} | Accreted | 35143 | 40 |
-| Associate Traffic Enforcement Agent(removed from Citywide Agreement coverage through Le(liSlalionl | Accreted | 71652 | 40 |
-| Associate Urban Designer |  | 22124 | 35 |
-| Associate Urban Park Ranger(removed from Citywide Agreement coverage through Legislation) |  | 60422 | 40 |
-| Associate Water Use Inspector |  | 34620 | 35 |
-| Associate Word Processor | Deleted | 10303 | 35 |
+| Associate Inspector (Elevator) |  | 316-44 | 40 | | --- | --- | --- | --- | | Associate Inspector (Highways and Sewers) | Accreted | 316-45 | 40 | | Associate Inspector (Hoists and Rigging) |  | 316-47 | 40 | | Associate Inspector (Housing) |  | 31675 | 40 | | Associate Inspector (Low Pressure Botlers) |  | 31676 | 40 | | Associate Inspector (Plumbing) |  | 316-49 | 40 | | Associate Inspector (Steel Construction) | Deleted | 31650 | 40 | | Associate Investigator |  | 31121 | 35 | | Associate Juvenile Counselor | Deleted | 52300 | 35 | | Associate Laboratory Mlcroblologlst |  | 21514 | 35 | | Associate Landmarks Preservationist |  | 92238 | 35 | | Associate Management Auditor | Deleted | 40503 | 35 | | Associate Market Agent | Deleted | 33973 | 35 | | Associate Mortgage Analyst | ' Deleted | 40551 | 35 | | Associate Operations Communications Specialist |  | 20272 | 35 | | Associate? P~lng Control Spedalisl(removed Imm Citywide Agreement coverage through L= islalionl | Accreted | 41122 | 40 | | Associate Personnel Investigator | Deleted | 31122 | 35 | | Associate Program Officer (DFTA ) | Deleted | 51455 | 35 | | Associate Project Manager |  | 22427 | 35 | | Associate Public Health Epidemiologist | Deleted | 51183 | 35 | | Associate Public Health Sanitarian |  | 31220 | 40 | | Associate Public lnlormalion Specialist |  | 60816 | 35 | | Associate Public Records Officer |  | 60217 | 35 | | Associate Quality Assurance Specialist |  | 34190 | 35 | | Associate Quality Assurance Specialist (Building Repairs) | Deleted | 34191 | 35 | | Associate Quality Assurance Specialist (Foods) | Deleted | 34192 | 35 | | Associate Quality Assurance Specialist (Fuel) |  | 34193 | 35 | | Associate Quality Assurance Specialist (Lumber) | Deleted | 34194 | 35 | | Associate Quality Assurance Specialist (Metals) | Deleted | 34195 | 35 | | Associate Quality Assurance Specialist (Pupil Transportation) |  | 34196 | 35 | | Associate Quality Assurance Specialist (Textiles) | Deleted | 34197 | 35 | | Associate Real Property Manager |  | 80122 | 35 | | Associate Rehabilitation Specialist (HPD) |  | 31685 | 40 | | Associate Reporter/Stenographer (DA) | Deleted | 10213 | 35 | | Associate Retirement Benefits Examiner |  | 40493 | 35 | | Associate Sanitation Enforcement Agent(removed from Citywide Agreement coverage through L1>t>islatlonl |  | 71682 | 40 | | Associate Space Analyst | Deleted | 80183 | 35 | | Associate Special Officer (Aqueduct Patrol) | Deleted | 70502 | 40 | | Associate Staff Analyst 1 |  | 12627 | 35 | | Associate Supervisor of School Security(removed from Citywide Agreement coverage through Looislalionl |  | 60821 | 40 | | Associate Tax Auditor | Deleted | 40522 | 35 | | Associate Taxi and Limousine lnspector(removed from Citywide Agreement coverage through Leoislalion} | Accreted | 35143 | 40 | | Associate Traffic Enforcement Agent(removed from Citywide Agreement coverage through Le(liSlalionl | Accreted | 71652 | 40 | | Associate Urban Designer |  | 22124 | 35 | | Associate Urban Park Ranger(removed from Citywide Agreement coverage through Legislation) |  | 60422 | 40 | | Associate Water Use Inspector |  | 34620 | 35 | | Associate Word Processor | Deleted | 10303 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 68
 22016
 ·1
 
-
-| Associate Workers' Compensation Benefits Examiner | Deleted | 40483 | 35 |
-| --- | --- | --- | --- |
-| Associate Youth Development Specialist | Added | 52288 | 35 |
-| Associate Job Opportunity Specialist | Added | 52316 | 35 |
-| Attendant | Deleted | 81710 | 40 |
-| Attending Dentist (HMH) | Added | 97020 | 40 |
-| Attorney | Deleted | 30115 | 35 |
-| Attorney (Law Librarian) | Deleted | 30113 | 35 |
-| Attorney (Taxes) | Deleted | 30092 | 35 |
-| Attorney at Law |  | 30085 | 35 |
-| Attorney Trainee | Deleted | 30101 | 35 |
-| Audiologist | Deleted | 51238 | 35 |
-| Audiologist (DOHMH) | Deleted | 51237 | 35 |
-| Audio-Visual Aide Technician | Deleted | 90613 | 35 |
-| Auditor of Accounts | Deleted | 40810 | 35 |
-| Auditor of Printing | Deleted | 12135 | 35 |
-| Auto Body Worker |  | 92501 | 40 |
-| Automotive Service Worker |  | 92508 | 40 |
-| Automotive Specialist |  | 20130 | 35 |
-| Baker |  | 90211 | 35 |
-| Bio-Medical Equipment Technician |  | 21562 | 35 |
-| Bio-Medical Equipment Technician Trainee | Deleted | 21560 | 35 |
-| Blasting Inspector | Deleted | 31815 | 35 |
-| Blueprinter | Deleted | 11110 | 35 |
-| Bookbinder |  | 92105 | 35 |
-| Bookbinder's Seamstress |  | 92106 | 35 |
-| Bookkeeper |  | 40526 | 35 |
-| Bookkeeping Machine Operator | Deleted | 11505 | 35 |
-| Bridge Operator |  | 91110 | 40 |
-| Bridge Operator-in-Charge | Deleted | 91135 | 40 |
-| Budget Analyst (Comptroller) | Accreted | 06711 | 35 |
-| Building Custodian | Deleted | 80610 | 40 |
-| Business Promotion Coordinator |  | 60860 | 35 |
-| Buyer (& Approved Speclallies) | Deleted | 12125 | 35 |
-| Buyer (Drugs, Chemical & Scientific Equipment) | Deleted | 12127 | 35 |
-| Buyer (Electrical Equipment) | Deleted | 12126 | 35 |
-| Buyer (Foods) | Deleted | 12128 | 35 |
-| Buyer (Hardware, Tools, & Metal) | Deleted | 12129 | 35 |
-| Buyer (Instructional Material ) | Deleted | 12130 | 35 |
-| Buyer (Paper & Paper Products) | Deleted | 12131 | 35 |
-| Buyer (Printing) | Deleted | 12132 | 35 |
-| Buyer (School & Office Furniture) | Deleted | 12133 | 35 |
-| Call Center Representative |  | 10260 | 35 |
-| Cartographer (C.D.) | Deleted | 71411 | 35 |
-| Case Aide | Deleted | 52291 | 35 |
-| Case Management Nurse (Correction) |  | 06240 | 35 |
-| Case Management Nurse (Fire Department) |  | 50959 | 35 |
-| Case Management Nurse (Police Department) |  | 50958 | 35 |
-| Case Management Nurse (Sanitation) | Deleted | 09968 | 35 |
-| Caseworker |  | 52304 | 35 |
+| Associate Workers' Compensation Benefits Examiner | Deleted | 40483 | 35 | | --- | --- | --- | --- | | Associate Youth Development Specialist | Added | 52288 | 35 | | Associate Job Opportunity Specialist | Added | 52316 | 35 | | Attendant | Deleted | 81710 | 40 | | Attending Dentist (HMH) | Added | 97020 | 40 | | Attorney | Deleted | 30115 | 35 | | Attorney (Law Librarian) | Deleted | 30113 | 35 | | Attorney (Taxes) | Deleted | 30092 | 35 | | Attorney at Law |  | 30085 | 35 | | Attorney Trainee | Deleted | 30101 | 35 | | Audiologist | Deleted | 51238 | 35 | | Audiologist (DOHMH) | Deleted | 51237 | 35 | | Audio-Visual Aide Technician | Deleted | 90613 | 35 | | Auditor of Accounts | Deleted | 40810 | 35 | | Auditor of Printing | Deleted | 12135 | 35 | | Auto Body Worker |  | 92501 | 40 | | Automotive Service Worker |  | 92508 | 40 | | Automotive Specialist |  | 20130 | 35 | | Baker |  | 90211 | 35 | | Bio-Medical Equipment Technician |  | 21562 | 35 | | Bio-Medical Equipment Technician Trainee | Deleted | 21560 | 35 | | Blasting Inspector | Deleted | 31815 | 35 | | Blueprinter | Deleted | 11110 | 35 | | Bookbinder |  | 92105 | 35 | | Bookbinder's Seamstress |  | 92106 | 35 | | Bookkeeper |  | 40526 | 35 | | Bookkeeping Machine Operator | Deleted | 11505 | 35 | | Bridge Operator |  | 91110 | 40 | | Bridge Operator-in-Charge | Deleted | 91135 | 40 | | Budget Analyst (Comptroller) | Accreted | 06711 | 35 | | Building Custodian | Deleted | 80610 | 40 | | Business Promotion Coordinator |  | 60860 | 35 | | Buyer (& Approved Speclallies) | Deleted | 12125 | 35 | | Buyer (Drugs, Chemical & Scientific Equipment) | Deleted | 12127 | 35 | | Buyer (Electrical Equipment) | Deleted | 12126 | 35 | | Buyer (Foods) | Deleted | 12128 | 35 | | Buyer (Hardware, Tools, & Metal) | Deleted | 12129 | 35 | | Buyer (Instructional Material ) | Deleted | 12130 | 35 | | Buyer (Paper & Paper Products) | Deleted | 12131 | 35 | | Buyer (Printing) | Deleted | 12132 | 35 | | Buyer (School & Office Furniture) | Deleted | 12133 | 35 | | Call Center Representative |  | 10260 | 35 | | Cartographer (C.D.) | Deleted | 71411 | 35 | | Case Aide | Deleted | 52291 | 35 | | Case Management Nurse (Correction) |  | 06240 | 35 | | Case Management Nurse (Fire Department) |  | 50959 | 35 | | Case Management Nurse (Police Department) |  | 50958 | 35 | | Case Management Nurse (Sanitation) | Deleted | 09968 | 35 | | Caseworker |  | 52304 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 69
 9
 22016
 
-
-| Caseworker Trainee |  | 52301 | 35 |
-| --- | --- | --- | --- |
-| Cashier |  | 10605 | 35 |
-| Certified Applications Developer | Added | 13693 | 35 |
-| Certified Database Administrator | Added | 13694 | 35 |
-| Certified IT Administrator (Database) | Added | 13644 | 35 |
-| Certified IT Administrator (LAN/WAN) | Accreted | 13652 | 35 |
-| Certified IT Developer (Applications) | Added | 13643 | 35 |
-| Certified Local Area Network Administrator | Added | 13691 | 35 |
-| Certified Wde Area Network Administrator | Added | 13692 | 35 |
-| Chemical Engineer |  | 20515 | 35 |
-| Chemical Engineering Intern |  | 20503 | 35 |
-| Chemical, Biological & Radiological Officer (C.O.) | Deleted | 71435 | 35 |
-| Chemist | Deleled | 21815 | 35 |
-| Chemist (Biochemistry) | Deleted | 21816 | 35 |
-| Chemist (Clinical Chemistry) | Deleted | 21820 | 35 |
-| Chemist (Food & Water) | Deleted | 21821 | 35 |
-| Chemist (Narcotic Analysis) | Deleted | 21819 | 35 |
-| Chemist (Sanitary) | Deleted | 21817 | 35 |
-| Chemist (Toxicology) | Deleted | 21818 | 35 |
-| Chemist Trainee | Deleted | 21801 | 35 |
-| Chief Clerk | Deleted | 01190 | 35 |
-| Chief Dietician | Deleted | 50370 | 35 |
-| Chief Dockmaster |  | 81665 | 40 |
-| Chief Law Stenographer |  | 10221 | 35 |
-| Chief Marine Engineer (DC) |  | 91524 | 35 |
-| Chief of Resources Management (CD) | Deleted | 71477 | 35 |
-| Chief Office Assislant |  | 10118 | 35 |
-| Chief Psychologist | Deleted | 52170 | 35 |
-| Chief Supervisor of Mechanical lnslallalions | Deleted | 34265 | 35 |
-| Child and Family Specialist | Added | 52408 | 35 |
-| Child Protective Specialist |  | 52366 | 35 |
-| Child Protective Specialist Supervisor |  | 52367 | 35 |
-| Child Welfare Specialist |  | 52369 | 35 |
-| Child Welfare Specialist Supervisor |  | 52370 | 35 |
-| Children's Counselor |  | 51510 | 35 |
-| City Assessor |  | 40202 | 35 |
-| City Attendant |  | 90647 | 40 |
-| City Custodial Assistant |  | 90644 | 40 |
-| City Debris Remover |  | 90699 | 40 |
-| City Elevator Operator |  | 90648 | 40 |
-| City Medical Examiner | Accreted | 53859 | 40 |
-| City Mortuary Technician | Added | 52020 | 35 |
-| City Palk Worker |  | 90641 | 40 |
-| City Parking Meter Service Worker |  | 90642 | 40 |
-| City Pest Control Aide |  | 90643 | 35 |
-| City Planner |  | 22122 | 35 |
-| City Planning Technician |  | 22121 | 35 |
-| City Research Scientist |  | 21744 | 35 |
-| City Security Aide |  | 90650 | 40 |
+| Caseworker Trainee |  | 52301 | 35 | | --- | --- | --- | --- | | Cashier |  | 10605 | 35 | | Certified Applications Developer | Added | 13693 | 35 | | Certified Database Administrator | Added | 13694 | 35 | | Certified IT Administrator (Database) | Added | 13644 | 35 | | Certified IT Administrator (LAN/WAN) | Accreted | 13652 | 35 | | Certified IT Developer (Applications) | Added | 13643 | 35 | | Certified Local Area Network Administrator | Added | 13691 | 35 | | Certified Wde Area Network Administrator | Added | 13692 | 35 | | Chemical Engineer |  | 20515 | 35 | | Chemical Engineering Intern |  | 20503 | 35 | | Chemical, Biological & Radiological Officer (C.O.) | Deleted | 71435 | 35 | | Chemist | Deleled | 21815 | 35 | | Chemist (Biochemistry) | Deleted | 21816 | 35 | | Chemist (Clinical Chemistry) | Deleted | 21820 | 35 | | Chemist (Food & Water) | Deleted | 21821 | 35 | | Chemist (Narcotic Analysis) | Deleted | 21819 | 35 | | Chemist (Sanitary) | Deleted | 21817 | 35 | | Chemist (Toxicology) | Deleted | 21818 | 35 | | Chemist Trainee | Deleted | 21801 | 35 | | Chief Clerk | Deleted | 01190 | 35 | | Chief Dietician | Deleted | 50370 | 35 | | Chief Dockmaster |  | 81665 | 40 | | Chief Law Stenographer |  | 10221 | 35 | | Chief Marine Engineer (DC) |  | 91524 | 35 | | Chief of Resources Management (CD) | Deleted | 71477 | 35 | | Chief Office Assislant |  | 10118 | 35 | | Chief Psychologist | Deleted | 52170 | 35 | | Chief Supervisor of Mechanical lnslallalions | Deleted | 34265 | 35 | | Child and Family Specialist | Added | 52408 | 35 | | Child Protective Specialist |  | 52366 | 35 | | Child Protective Specialist Supervisor |  | 52367 | 35 | | Child Welfare Specialist |  | 52369 | 35 | | Child Welfare Specialist Supervisor |  | 52370 | 35 | | Children's Counselor |  | 51510 | 35 | | City Assessor |  | 40202 | 35 | | City Attendant |  | 90647 | 40 | | City Custodial Assistant |  | 90644 | 40 | | City Debris Remover |  | 90699 | 40 | | City Elevator Operator |  | 90648 | 40 | | City Medical Examiner | Accreted | 53859 | 40 | | City Mortuary Technician | Added | 52020 | 35 | | City Palk Worker |  | 90641 | 40 | | City Parking Meter Service Worker |  | 90642 | 40 | | City Pest Control Aide |  | 90643 | 35 | | City Planner |  | 22122 | 35 | | City Planning Technician |  | 22121 | 35 | | City Research Scientist |  | 21744 | 35 | | City Security Aide |  | 90650 | 40 |
 
 2001-2021 CITYWIDE AGREEMENT 70
 22016
 0
 
-
-| City Tax Auditor |  | 40523 | 35 |
-| --- | --- | --- | --- |
-| Civll Engineer |  | 20215 | 35 |
-| Civil Engineer (Building Construction) | Deleted | 20216 | 35 |
-| Civil Engineer (Highway Traffic) | Deleted | 20217 | 35 |
-| Civil Engineer (Sanitary} | Deleted | 20218 | 35 |
-| Civil Engineer (Structural} | Deleted | 20219 | 35 |
-| Civil Engineer (Water Supply) | Deleted | 20220 | 35 |
-| Civil Engineering Drafter | Deleted | 20205 | 35 |
-| Civil Engineering Intern |  | 20202 | 35 |
-| Civil Engineering Trainee | Deleted | 20201 | 35 |
-| Claim Specialist |  | 30726 | 35 |
-| Clerical Aide |  | 10250 | 35 |
-| Clerical Associate |  | 10251 | 35 |
-| Clerk | Deleted | 10106 | 35 |
-| Clerk (Community Action Activities} | Deleted | 10113 | 35 |
-| Clerk (Income Maintenance) | Deleted | 10098 | 35 |
-| Clinician |  | 52810 | 35 |
-| Commissary Manager |  | 54910 | 35 |
-| Community Assistant 2 |  | 56056 | 40 |
-| Community Assoclale |  | 56057 | 35 |
-| Community Coordinator |  | 56058 | 35 |
-| Community Liaison Trainee | Deleted | 56091 | 35 |
-| Community Liaison Worker | Deleted | 56093 | 35 |
-| Community Organization Specialist (Urban Renewal} | Deleted | 22116 | 35 |
-| Community Planning Board Coordinator |  | 22117 | 35 |
-| Compliance Agent (Sanitation) | Deleted | 05260 | 35 |
-| Computer Aide |  | 13620 | 35 |
-| Computer Associate (Operations} |  | 13621 | 35 |
-| Computer Associate (Software) |  | 13631 | 35 |
-| Computer Associate (Technical Support) |  | 13611 | 35 |
-| Computer Facllitles Maintainer (FISA) | Deleted | 91603 | 40 |
-| Computer Operations Manager (Former M I & II} | Accreted | 1007E | 35 |
-| Computer Operator | Deleted | 13511 | 35 |
-| Computer Programmer | Deleted | 13530 | 35 |
-| Computer Programmer Analyst |  | 13651 | 35 |
-| Computer Programmer Analyst Trainee |  | 13650 | 35 |
-| Computer Service Technician |  | 13615 | 35 |
-| Computer Specialist (Applications Programming} | Deleled | 13662 | 35 |
-| Computer Specialist (Data Base Administration) | Deleled | 13681 | 35 |
-| Computer Specialist (Operations} |  | 13622 | 35 |
-| Computer Specialist (Software) |  | 13632 | 35 |
-| Computer Speclailst (Systems Specialist) | Deleted | 13672 | 35 |
-| Computer Systems Manager (Former M-1 & II} | Accreted | 1005D | 35 |
-| Confidential Secretary (Kings County D.A.) |  | 12804 | 35 |
-| Confidential Strategy Planner | Accreted | 54737 | 35 |
-| Confidential Strategy Planner (ACS) | Accreted | 54741 | 35 |
-| Confidential Strategy Planner (Comptroller) | Accreted | 54740 | 35 |
-| Confidential Strategy Planner (DCAS} | Accreted | 54739 | 35 |
-| Confidential Strategy Planner (DolTT} | Accreted | 54745 | 35 |
+| City Tax Auditor |  | 40523 | 35 | | --- | --- | --- | --- | | Civll Engineer |  | 20215 | 35 | | Civil Engineer (Building Construction) | Deleted | 20216 | 35 | | Civil Engineer (Highway Traffic) | Deleted | 20217 | 35 | | Civil Engineer (Sanitary} | Deleted | 20218 | 35 | | Civil Engineer (Structural} | Deleted | 20219 | 35 | | Civil Engineer (Water Supply) | Deleted | 20220 | 35 | | Civil Engineering Drafter | Deleted | 20205 | 35 | | Civil Engineering Intern |  | 20202 | 35 | | Civil Engineering Trainee | Deleted | 20201 | 35 | | Claim Specialist |  | 30726 | 35 | | Clerical Aide |  | 10250 | 35 | | Clerical Associate |  | 10251 | 35 | | Clerk | Deleted | 10106 | 35 | | Clerk (Community Action Activities} | Deleted | 10113 | 35 | | Clerk (Income Maintenance) | Deleted | 10098 | 35 | | Clinician |  | 52810 | 35 | | Commissary Manager |  | 54910 | 35 | | Community Assistant 2 |  | 56056 | 40 | | Community Assoclale |  | 56057 | 35 | | Community Coordinator |  | 56058 | 35 | | Community Liaison Trainee | Deleted | 56091 | 35 | | Community Liaison Worker | Deleted | 56093 | 35 | | Community Organization Specialist (Urban Renewal} | Deleted | 22116 | 35 | | Community Planning Board Coordinator |  | 22117 | 35 | | Compliance Agent (Sanitation) | Deleted | 05260 | 35 | | Computer Aide |  | 13620 | 35 | | Computer Associate (Operations} |  | 13621 | 35 | | Computer Associate (Software) |  | 13631 | 35 | | Computer Associate (Technical Support) |  | 13611 | 35 | | Computer Facllitles Maintainer (FISA) | Deleted | 91603 | 40 | | Computer Operations Manager (Former M I & II} | Accreted | 1007E | 35 | | Computer Operator | Deleted | 13511 | 35 | | Computer Programmer | Deleted | 13530 | 35 | | Computer Programmer Analyst |  | 13651 | 35 | | Computer Programmer Analyst Trainee |  | 13650 | 35 | | Computer Service Technician |  | 13615 | 35 | | Computer Specialist (Applications Programming} | Deleled | 13662 | 35 | | Computer Specialist (Data Base Administration) | Deleled | 13681 | 35 | | Computer Specialist (Operations} |  | 13622 | 35 | | Computer Specialist (Software) |  | 13632 | 35 | | Computer Speclailst (Systems Specialist) | Deleted | 13672 | 35 | | Computer Systems Manager (Former M-1 & II} | Accreted | 1005D | 35 | | Confidential Secretary (Kings County D.A.) |  | 12804 | 35 | | Confidential Strategy Planner | Accreted | 54737 | 35 | | Confidential Strategy Planner (ACS) | Accreted | 54741 | 35 | | Confidential Strategy Planner (Comptroller) | Accreted | 54740 | 35 | | Confidential Strategy Planner (DCAS} | Accreted | 54739 | 35 | | Confidential Strategy Planner (DolTT} | Accreted | 54745 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 71
 1 22016
 
-
-| Confidential Strategy Planner (DOT) | Accreted | 54738 | 35 |
-| --- | --- | --- | --- |
-| Confidential Strategy Planner (HMH) | Accreted | 54743 | 35 |
-| Confidential Strategy Planner (HPD) | Accreted | 54746 | 35 |
-| Congregate Care Specialist | Added | 52450 | 40 |
-| Construction Project Manager |  | 34202 | 35 |
-| Construction Project Manager Intern |  | 34201 | 35 |
-| Consultant (Day Camp) | Deleted | 51614 | 35 |
-| Consultant (Earty Childhood Education) |  | 51611 | 35 |
-| Consultant (Mental Health Standards and Services) | Deleted | 51000 | 35 |
-| Consultant (Public HeaHh Social Work) |  | 51613 | 35 |
-| Consultant Public Health Nurse | Added | 51009 | 35 |
-| Consultant Public Health Nurse | Deleted | 51020 | 35 |
-| Consultant Public Health Nurse (Child Health) |  | 51015 | 35 |
-| Consultant Public Health Nurse (Communicable Diseases) |  | 51014 | 35 |
-| Consultant Public Health Nurse (Hospital Services) |  | 51017 | 35 |
-| ConsuHant Public Health Nurse (Mental Hygiene) |  | 51012 | 35 |
-| Consultant Public Health Nurse (Nursing Education) |  | 51021 | 35 |
-| Consultant Public Health Nurse (Rehabilitation} |  | 51018 | 35 |
-| Consumer Affairs Inspector | Deleted | 33991 | 35 |
-| Continuity Writer | Deleted | 60612 | 35 |
-| Contract Reviewer (Office of Labor Services) |  | 40563 | 35 |
-| Contract Specialist |  | 40561 | 35 |
-| Contracting Agent | Deleted | 06627 | 35 |
-| CookJ |  | 90210 | 40 |
-| Coordinating Manager (HMH} | Accreted | 95948 | 35 |
-| Correction Administrative Aide |  | 70400 | 35 |
-| Correctional Counselor |  | 51273 | 35 |
-| Counselor (Addiction Treatment) |  | 51214 | 35 |
-| Crew Chief (Pest Control) | Deleted | 90501 | 35 |
-| Crime Analyst | Accreted | 31175 | 35 |
-| Crimlnalist | Added | 21849 | 35 |
-| Crimlnallst | Deleted | 06728 | 35 |
-| Curator of Jumel Mansion |  | 81709 | 35 |
-| Custodial Assistant |  | 82015 | 40 |
-| Custodial Assistant (JDC) | Deleted | 82018 | 40 |
-| Custodial Supervisor | Deleted | 80510 | 40 |
-| Custodial Supervisor (JDC) | Deleted | 80515 | 40 |
-| Custodian |  | 80609 | 40 |
-| Customer Information Representative | Added | 60888 | 35 |
-| Cyber Security Analyst | Accreted | 13633 | 35 |
-| Day Care Eligibility Worker | Deleted | 52305 | 35 |
-| Debris Remover | Deleted | 81902 | 40 |
-| Decedent Property Agent |  | 10142 | 35 |
-| Decedent Property Agent (Queens Co.) | Deleted | 06665 | 35 |
-| Decendent Property Agent (PANYC) | Added | 06820 | 35 |
-| Demolition Inspector |  | 32415 | 35 |
-| Dental Assistant | Deleted | 50101 | 35 |
-| Dental Hygienist |  | 50102 | 35 |
-| Dentist | Deleted | 50210 | 35 |
+| Confidential Strategy Planner (DOT) | Accreted | 54738 | 35 | | --- | --- | --- | --- | | Confidential Strategy Planner (HMH) | Accreted | 54743 | 35 | | Confidential Strategy Planner (HPD) | Accreted | 54746 | 35 | | Congregate Care Specialist | Added | 52450 | 40 | | Construction Project Manager |  | 34202 | 35 | | Construction Project Manager Intern |  | 34201 | 35 | | Consultant (Day Camp) | Deleted | 51614 | 35 | | Consultant (Earty Childhood Education) |  | 51611 | 35 | | Consultant (Mental Health Standards and Services) | Deleted | 51000 | 35 | | Consultant (Public HeaHh Social Work) |  | 51613 | 35 | | Consultant Public Health Nurse | Added | 51009 | 35 | | Consultant Public Health Nurse | Deleted | 51020 | 35 | | Consultant Public Health Nurse (Child Health) |  | 51015 | 35 | | Consultant Public Health Nurse (Communicable Diseases) |  | 51014 | 35 | | Consultant Public Health Nurse (Hospital Services) |  | 51017 | 35 | | ConsuHant Public Health Nurse (Mental Hygiene) |  | 51012 | 35 | | Consultant Public Health Nurse (Nursing Education) |  | 51021 | 35 | | Consultant Public Health Nurse (Rehabilitation} |  | 51018 | 35 | | Consumer Affairs Inspector | Deleted | 33991 | 35 | | Continuity Writer | Deleted | 60612 | 35 | | Contract Reviewer (Office of Labor Services) |  | 40563 | 35 | | Contract Specialist |  | 40561 | 35 | | Contracting Agent | Deleted | 06627 | 35 | | CookJ |  | 90210 | 40 | | Coordinating Manager (HMH} | Accreted | 95948 | 35 | | Correction Administrative Aide |  | 70400 | 35 | | Correctional Counselor |  | 51273 | 35 | | Counselor (Addiction Treatment) |  | 51214 | 35 | | Crew Chief (Pest Control) | Deleted | 90501 | 35 | | Crime Analyst | Accreted | 31175 | 35 | | Crimlnalist | Added | 21849 | 35 | | Crimlnallst | Deleted | 06728 | 35 | | Curator of Jumel Mansion |  | 81709 | 35 | | Custodial Assistant |  | 82015 | 40 | | Custodial Assistant (JDC) | Deleted | 82018 | 40 | | Custodial Supervisor | Deleted | 80510 | 40 | | Custodial Supervisor (JDC) | Deleted | 80515 | 40 | | Custodian |  | 80609 | 40 | | Customer Information Representative | Added | 60888 | 35 | | Cyber Security Analyst | Accreted | 13633 | 35 | | Day Care Eligibility Worker | Deleted | 52305 | 35 | | Debris Remover | Deleted | 81902 | 40 | | Decedent Property Agent |  | 10142 | 35 | | Decedent Property Agent (Queens Co.) | Deleted | 06665 | 35 | | Decendent Property Agent (PANYC) | Added | 06820 | 35 | | Demolition Inspector |  | 32415 | 35 | | Dental Assistant | Deleted | 50101 | 35 | | Dental Hygienist |  | 50102 | 35 | | Dentist | Deleted | 50210 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 72
 22016
 2
 
-
-| Department Librarian |  | 60210 | 35 |
-| --- | --- | --- | --- |
-| Department Library Aide | Deleted | 60101 | 35 |
-| Department Principal Librarian | Deleted | 60265 | 35 |
-| Department Senior Librarian | Deleted | 60235 | 35 |
-| Department Supervising Librarian | Deleted | 60260 | 35 |
-| Deputy Assistant Director (CCRB) (formerly M-I) | Accreted | 1019A | 35 |
-| Deputy Director of Motor Equipment Maintenance (Sanitation) |  | 95251 | 40 |
-| Deputy Sheriff Level I - removed from citywide per legislation | Deleted | 30310 | 40 |
-| Deputy Sheriff Level II- removed from citywide per legislation | Deleted | 30305 | 40 |
-| Dietary Aide (DOC) | Deleted | 05256 | 40 |
-| Dietary Alde J |  | 81801 | 40 |
-| Dietitian |  | 50310 | 35 |
-| Director (Television) |  | 60666 | 35 |
-| Director of Intersection Traffic Control | Deleted | 22347 | 35 |
-| Director of Motor Equipment Maintenance -NM | Accreted | 9525B | 35 |
-| Director of Motor Transport | Accreted | 92580 | 35 |
-| Director of Puppetry |  | 60416 | 35 |
-| Director of Tenant & Community Affairs | Accreted | 55091 | 35 |
-| District Supervising Public Health Nurse | Deleted | 51065 | 35 |
-| Dockmaster (Rule XI) |  | 81610 | 40 |
-| Economist |  | 40910 | 35 |
-| Editorial Assistant | Deleted | 12303 | 35 |
-| Electrical Engineer |  | 20315 | 35 |
-| Electrical Engineer (Electronics) | Deleted | 20316 | 35 |
-| Electrical Engineer (Radio and Television) | Deleted | 20320 | 35 |
-| Electrical Engineer (Radio) | Deleted | 20317 | 35 |
-| Electrical Engineer (Railroad Signals) | Deleted | 20318 | 35 |
-| Electrical Engineering Drafter | Deleted | 20305 | 35 |
-| Electrical Engineering Intern |  | 20302 | 35 |
-| Electrical Engineering Trainee | Deleted | 20301 | 35 |
-| Electrocardiograph Technician | Deleted | 51312 | 35 |
-| Electroencephalograph Technician | Deleted | 51513 | 35 |
-| Elevator Operator | Deleted | 80910 | 40 |
-| Elevator Starter | Deleted | 80935 | 40 |
-| Ellglbility Speclallst | Deleted | 10104 | 35 |
-| Emergency Medical Speciallst Tralnee(removed from Citywide Agreement) |  | 53052 | 37.5 |
-| Emergency Medical Speclallst-EMT(removed from Citywide Agreement) |  | 53053 | 37.5 |
-| Emergency Medical Specialist-Paramedlc(removed from Citywide Agreement) |  | 53054 | 37.5 |
-| Engineer -Assessor (Gas) | Deleted | 20915 | 35 |
-| Engineer -Assessor (Railroad) | Deleted | 20916 | 35 |
-| Engineer -Assessor (Structural) | Deleted | 20917 | 35 |
-| Engineer -Assessor (Telephone) | Deleted | 20918 | 35 |
-| Engineer -Assessor (Utility) | Deleted | 20919 | 35 |
-| Engineer (Accounting) | Deleted | 20715 | 35 |
-| Engineer (College Equipment & Specs) | Deleted | 20815 | 35 |
-| Engineering Aide | Deleted | 20101 | 35 |
-| Engineering Specialist | Deleted | 06019 | 35 |
-| Engineering Technician |  | 20113 | 35 |
-| Engineering Technician (Drafting) | Deleted | 20115 | 35 |
+| Department Librarian |  | 60210 | 35 | | --- | --- | --- | --- | | Department Library Aide | Deleted | 60101 | 35 | | Department Principal Librarian | Deleted | 60265 | 35 | | Department Senior Librarian | Deleted | 60235 | 35 | | Department Supervising Librarian | Deleted | 60260 | 35 | | Deputy Assistant Director (CCRB) (formerly M-I) | Accreted | 1019A | 35 | | Deputy Director of Motor Equipment Maintenance (Sanitation) |  | 95251 | 40 | | Deputy Sheriff Level I - removed from citywide per legislation | Deleted | 30310 | 40 | | Deputy Sheriff Level II- removed from citywide per legislation | Deleted | 30305 | 40 | | Dietary Aide (DOC) | Deleted | 05256 | 40 | | Dietary Alde J |  | 81801 | 40 | | Dietitian |  | 50310 | 35 | | Director (Television) |  | 60666 | 35 | | Director of Intersection Traffic Control | Deleted | 22347 | 35 | | Director of Motor Equipment Maintenance -NM | Accreted | 9525B | 35 | | Director of Motor Transport | Accreted | 92580 | 35 | | Director of Puppetry |  | 60416 | 35 | | Director of Tenant & Community Affairs | Accreted | 55091 | 35 | | District Supervising Public Health Nurse | Deleted | 51065 | 35 | | Dockmaster (Rule XI) |  | 81610 | 40 | | Economist |  | 40910 | 35 | | Editorial Assistant | Deleted | 12303 | 35 | | Electrical Engineer |  | 20315 | 35 | | Electrical Engineer (Electronics) | Deleted | 20316 | 35 | | Electrical Engineer (Radio and Television) | Deleted | 20320 | 35 | | Electrical Engineer (Radio) | Deleted | 20317 | 35 | | Electrical Engineer (Railroad Signals) | Deleted | 20318 | 35 | | Electrical Engineering Drafter | Deleted | 20305 | 35 | | Electrical Engineering Intern |  | 20302 | 35 | | Electrical Engineering Trainee | Deleted | 20301 | 35 | | Electrocardiograph Technician | Deleted | 51312 | 35 | | Electroencephalograph Technician | Deleted | 51513 | 35 | | Elevator Operator | Deleted | 80910 | 40 | | Elevator Starter | Deleted | 80935 | 40 | | Ellglbility Speclallst | Deleted | 10104 | 35 | | Emergency Medical Speciallst Tralnee(removed from Citywide Agreement) |  | 53052 | 37.5 | | Emergency Medical Speclallst-EMT(removed from Citywide Agreement) |  | 53053 | 37.5 | | Emergency Medical Specialist-Paramedlc(removed from Citywide Agreement) |  | 53054 | 37.5 | | Engineer -Assessor (Gas) | Deleted | 20915 | 35 | | Engineer -Assessor (Railroad) | Deleted | 20916 | 35 | | Engineer -Assessor (Structural) | Deleted | 20917 | 35 | | Engineer -Assessor (Telephone) | Deleted | 20918 | 35 | | Engineer -Assessor (Utility) | Deleted | 20919 | 35 | | Engineer (Accounting) | Deleted | 20715 | 35 | | Engineer (College Equipment & Specs) | Deleted | 20815 | 35 | | Engineering Aide | Deleted | 20101 | 35 | | Engineering Specialist | Deleted | 06019 | 35 | | Engineering Technician |  | 20113 | 35 | | Engineering Technician (Drafting) | Deleted | 20115 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 73
 22016
 i
 3
 
-
-| Engineering Technician Trainee | Deleted | 20111 | 35 |
-| --- | --- | --- | --- |
-| Engineering Work Study Trainee |  | 20100 | 35 |
-| Environmental Control Technician | Deleted | 90971 | 35 |
-| Environmenlal Engineer | Added | 20618 | 35 |
-| Environmental Engineering Intern | Added | 20616 | 35 |
-| Environmental Health Technician |  | 51380 | 35 |
-| Eslimator (Electrical) |  | 20121 | 35 |
-| Estimator (General Construction) |  | 20122 | 35 |
-| Estimator (Mechanical) |  | 20123 | 35 |
-| Evidence and Property Control Specialist |  | 71022 | 35 |
-| Executive Director of Fleet Operations (FD) | Accreted | 9503B | 35 |
-| Exterminator |  | 90510 | 35 |
-| Family Preservationist (Juvenile Justice) |  | 51595 | 35 |
-| Family Public Health Nurse (HMH) | Added | 06776 | 35 |
-| Field Investigation Specialist (LO) | Deleted | 06426 | 35 |
-| FIim Editor | Deleled | 90312 | 35 |
-| FIim Manager |  | 90313 | 35 |
-| Fingerprinl Technician | Deleted | 71110 | 35 |
-| Fingerprinl Technician Trainee |  | 71105 | 35 |
-| Fire Alarm Dispatcher- removed from citywide per leg slation |  | 71010 | 40 |
-| Fire Prevention Inspector | Deleted | 31615 | 35 |
-| Fire Protection Inspector- removed from citywide per leglslal,on |  | 31661 | 35 |
-| Fitness Instructor |  | 51225 | 35 |
-| Food Service Administrator (DC) |  | 06593 | 35 |
-| Food Service Manager |  | 05058 | 35 |
-| Food Service Supervisor | Deleted | 90238 | 35 |
-| Forensic Analyst (OCME) | Deleted | 06524 | 35 |
-| Forensic Mortuary Technician | Added | 52040 | 35 |
-| Forensic Scientist (OCME) | Deleted | 06525 | 35 |
-| Forester |  | 81361 | 35 |
-| Fraud Investigator |  | 31113 | 35 |
-| Fraud Investigator (DOSS) | Deleted | 05148 | 35 |
-| Furniture Specifications Writer | Deleted | 12134 | 35 |
-| General Superintendent of Construction and Repairs | Deleted | 91396 | 35 |
-| General Supervisor of Building Maintenance (Construction) | Deleled | 91673 | 35 |
-| General Supervisor of Building Maintenance (Electrical ) | Deleted | 91674 | 35 |
-| General Supervisor of Building Maintenance (Mechanical) | Deleled | 91675 | 35 |
-| Geologist |  | 21915 | 35 |
-| Geologist Trainee | Deleted | 21901 | 35 |
-| Graphic Artist |  | 91415 | 35 |
-| Head Clerk | Deleted | 01568 | 35 |
-| Head Dietitian | Deleted | 50335 | 35 |
-| Head Juvenile Counselor | Deleted | 52299 | 35 |
-| Head Nurse |  | 50935 | 40 |
-| Head Nurse (Sanitation) | Deleted | 06124 | 40 |
-| Health Aide |  | 51102 | 35 |
-| Health Care Program Planner/Analysl |  | 83051 | 35 |
-| Health Facilities Planner | Deleted | 22082 | 35 |
-| Health Resource Coordinator | Deleted | 51111 | 35 |
+| Engineering Technician Trainee | Deleted | 20111 | 35 | | --- | --- | --- | --- | | Engineering Work Study Trainee |  | 20100 | 35 | | Environmental Control Technician | Deleted | 90971 | 35 | | Environmenlal Engineer | Added | 20618 | 35 | | Environmental Engineering Intern | Added | 20616 | 35 | | Environmental Health Technician |  | 51380 | 35 | | Eslimator (Electrical) |  | 20121 | 35 | | Estimator (General Construction) |  | 20122 | 35 | | Estimator (Mechanical) |  | 20123 | 35 | | Evidence and Property Control Specialist |  | 71022 | 35 | | Executive Director of Fleet Operations (FD) | Accreted | 9503B | 35 | | Exterminator |  | 90510 | 35 | | Family Preservationist (Juvenile Justice) |  | 51595 | 35 | | Family Public Health Nurse (HMH) | Added | 06776 | 35 | | Field Investigation Specialist (LO) | Deleted | 06426 | 35 | | FIim Editor | Deleled | 90312 | 35 | | FIim Manager |  | 90313 | 35 | | Fingerprinl Technician | Deleted | 71110 | 35 | | Fingerprinl Technician Trainee |  | 71105 | 35 | | Fire Alarm Dispatcher- removed from citywide per leg slation |  | 71010 | 40 | | Fire Prevention Inspector | Deleted | 31615 | 35 | | Fire Protection Inspector- removed from citywide per leglslal,on |  | 31661 | 35 | | Fitness Instructor |  | 51225 | 35 | | Food Service Administrator (DC) |  | 06593 | 35 | | Food Service Manager |  | 05058 | 35 | | Food Service Supervisor | Deleted | 90238 | 35 | | Forensic Analyst (OCME) | Deleted | 06524 | 35 | | Forensic Mortuary Technician | Added | 52040 | 35 | | Forensic Scientist (OCME) | Deleted | 06525 | 35 | | Forester |  | 81361 | 35 | | Fraud Investigator |  | 31113 | 35 | | Fraud Investigator (DOSS) | Deleted | 05148 | 35 | | Furniture Specifications Writer | Deleted | 12134 | 35 | | General Superintendent of Construction and Repairs | Deleted | 91396 | 35 | | General Supervisor of Building Maintenance (Construction) | Deleled | 91673 | 35 | | General Supervisor of Building Maintenance (Electrical ) | Deleted | 91674 | 35 | | General Supervisor of Building Maintenance (Mechanical) | Deleled | 91675 | 35 | | Geologist |  | 21915 | 35 | | Geologist Trainee | Deleted | 21901 | 35 | | Graphic Artist |  | 91415 | 35 | | Head Clerk | Deleted | 01568 | 35 | | Head Dietitian | Deleted | 50335 | 35 | | Head Juvenile Counselor | Deleted | 52299 | 35 | | Head Nurse |  | 50935 | 40 | | Head Nurse (Sanitation) | Deleted | 06124 | 40 | | Health Aide |  | 51102 | 35 | | Health Care Program Planner/Analysl |  | 83051 | 35 | | Health Facilities Planner | Deleted | 22082 | 35 | | Health Resource Coordinator | Deleted | 51111 | 35 |
 
 2001~2021 CITYWIDE AGREEMENT 74
 22016
 4
 
-
-| Health Services Manager (NM -I) | Accreted | 1006C | 35 |
-| --- | --- | --- | --- |
-| Health Services Manager Non-Managerial Level II | Accreted | 10060 | 35 |
-| Hearing Admln. Services Coordinator (PVB) | Deleted | 10171 | 35 |
-| Highway Transportation Specialist | Deleted | 22315 | 35 |
-| Highways and Sewers Inspector | Accreted | 31626 | 35 |
-| Home Aide |  | 52404 | 35 |
-| Home Economist | Deleted | 50510 | 35 |
-| Home Economist Trainee | Deleted | 50501 | 35 |
-| Homemaker |  | 52405 | 35 |
-| Hostler |  | 81901 | 40 |
-| Housekeeper |  | 80710 | 35 |
-| Housekeeping Aide 1 | Deleted | 81802 | 40 |
-| Houseparent |  | 52437 | 60 |
-| Housing Development Specialist |  | 22507 | 35 |
-| Housing Development Specialist Trainee |  | 22506 | 35 |
-| Hull & Machineiy Inspector | Deleted | 33315 | 35 |
-| Human Resources Aide | Deleted | 56001 | 35 |
-| Human Resources Specialist | Deleted | 56020 | 35 |
-| Human Resources Specialist (EDD . | Deleted | 56021 | 35 |
-| Human Resources Technician |  | 56006 | 35 |
-| Human Resources Technician (EDD | Deleted | 56007 | 35 |
-| Illustrator | Deleted | 91410 | 35 |
-| Industrial Hygienist |  | 31305 | 35 |
-| lnrormalion Assistant | Deleted | 60805 | 35 |
-| Inspector (Boilers) |  | 31620 | 40 |
-| Inspector (Cement Test) | Deleted | 31621 | 40 |
-| Inspector (Construction) |  | 31622 | 40 |
-| Inspector (Consumer and Worker Protection) | Added | 33997 | 35 |
-| Inspector (DCA) | Deleted | 33995 | 35 |
-| Inspector (Electrical) |  | 31623 | 40 |
-| Inspector (Elevator) |  | 31624 | 40 |
-| Inspector (Heating and Ventilation) | Deleted | 31625 | 40 |
-| Inspector (Hoists and Rigging) |  | 31627 | 40 |
-| Inspector (Housing Construction) | Remove from List | 31690 | 40 |
-| lnspeclor (Housing) |  | 31670 | 40 |
-| lnspeclor (Multi-Discipline) | Accreted | 31656 | 40 |
-| Inspector (Plastering) | Deleted | 31628 | 40 |
-| Inspector (Plumbing) |  | 31629 | 40 |
-| Inspector (Steel Construction) | Deleted | 31630 | 40 |
-| Inspector of Fire Alarm Boxes | Deleted | 34315 | 40 |
-| Inspector or Ports & Terminals | Deleted | 33985 | 35 |
-| Institutional Aide (DOC) | Deleted | 06469 | 40 |
-| Institutional Aide 1 |  | 81803 | 40 |
-| Institutional Band Music Instructor | Deleted | 60310 | 35 |
-| lnslilutlonal Farming Instructor | Deleted | 60311 | 35 |
-| Institutional Garment Worker 0uvenlle Justice) |  | 90112 | 35 |
-| lnslilullonal Inspector | Deleled | 31415 | 35 |
-| Institutional Instructor | Deleted | 60309 | 35 |
-| lnslilutlonal Seamstress | Deleted | 90112 | 35 |
+| Health Services Manager (NM -I) | Accreted | 1006C | 35 | | --- | --- | --- | --- | | Health Services Manager Non-Managerial Level II | Accreted | 10060 | 35 | | Hearing Admln. Services Coordinator (PVB) | Deleted | 10171 | 35 | | Highway Transportation Specialist | Deleted | 22315 | 35 | | Highways and Sewers Inspector | Accreted | 31626 | 35 | | Home Aide |  | 52404 | 35 | | Home Economist | Deleted | 50510 | 35 | | Home Economist Trainee | Deleted | 50501 | 35 | | Homemaker |  | 52405 | 35 | | Hostler |  | 81901 | 40 | | Housekeeper |  | 80710 | 35 | | Housekeeping Aide 1 | Deleted | 81802 | 40 | | Houseparent |  | 52437 | 60 | | Housing Development Specialist |  | 22507 | 35 | | Housing Development Specialist Trainee |  | 22506 | 35 | | Hull & Machineiy Inspector | Deleted | 33315 | 35 | | Human Resources Aide | Deleted | 56001 | 35 | | Human Resources Specialist | Deleted | 56020 | 35 | | Human Resources Specialist (EDD . | Deleted | 56021 | 35 | | Human Resources Technician |  | 56006 | 35 | | Human Resources Technician (EDD | Deleted | 56007 | 35 | | Illustrator | Deleted | 91410 | 35 | | Industrial Hygienist |  | 31305 | 35 | | lnrormalion Assistant | Deleted | 60805 | 35 | | Inspector (Boilers) |  | 31620 | 40 | | Inspector (Cement Test) | Deleted | 31621 | 40 | | Inspector (Construction) |  | 31622 | 40 | | Inspector (Consumer and Worker Protection) | Added | 33997 | 35 | | Inspector (DCA) | Deleted | 33995 | 35 | | Inspector (Electrical) |  | 31623 | 40 | | Inspector (Elevator) |  | 31624 | 40 | | Inspector (Heating and Ventilation) | Deleted | 31625 | 40 | | Inspector (Hoists and Rigging) |  | 31627 | 40 | | Inspector (Housing Construction) | Remove from List | 31690 | 40 | | lnspeclor (Housing) |  | 31670 | 40 | | lnspeclor (Multi-Discipline) | Accreted | 31656 | 40 | | Inspector (Plastering) | Deleted | 31628 | 40 | | Inspector (Plumbing) |  | 31629 | 40 | | Inspector (Steel Construction) | Deleted | 31630 | 40 | | Inspector of Fire Alarm Boxes | Deleted | 34315 | 40 | | Inspector or Ports & Terminals | Deleted | 33985 | 35 | | Institutional Aide (DOC) | Deleted | 06469 | 40 | | Institutional Aide 1 |  | 81803 | 40 | | Institutional Band Music Instructor | Deleted | 60310 | 35 | | lnslilutlonal Farming Instructor | Deleted | 60311 | 35 | | Institutional Garment Worker 0uvenlle Justice) |  | 90112 | 35 | | lnslilullonal Inspector | Deleled | 31415 | 35 | | Institutional Instructor | Deleted | 60309 | 35 | | lnslilutlonal Seamstress | Deleted | 90112 | 35 |
 
 2001•2021 CITYWIDE AGREEMENT 75
 1
 5
 22016
 
-
-| Institutional Tailor |  | 90113 | 35 |
-| --- | --- | --- | --- |
-| Institutional Teacher (DJJ) |  | 60371 | 35 |
-| Institutional Trades Instructor | Deleted | 60312 | 35 |
-| lnslitutional Trades Instructor (Carpentry) | Deleted | 60314 | 35 |
-| Institutional Trades Instructor (Tailoring) | Deleted | 60313 | 35 |
-| Instrumentation Specialist | Added | 91000 | 35 |
-| Instrumentation Specialist Trainee | Added | 91001 | 35 |
-| Interpreter (Spanish & Italian) | Deleted | 31010 | 35 |
-| Interpreter (Spanish) |  | 31013 | 35 |
-| Interpreter, Chinese (Cantonese, Mandarin, Taiwanese ) |  | 31017 | 35 |
-| Investigator |  | 31105 | 35 |
-| Investigator (CCRB) | Added | 31165 | 35 |
-| lnvesllgator (CCRB) | Deleled | 06157 | 35 |
-| Investigator (Discipline) |  | 06316 | 35 |
-| Investigator (Discipline) (ACS) | Added | 31174 | 35 |
-| Investigator (Discipline) (DOC) | Added | 31164 | 35 |
-| Investigator (Discipline) (HMH) | Added | 95599 | 35 |
-| Investigator (Employee Compliance) FDNY) | Added | 31171 | 35 |
-| Investigator (Employee Discipline -Buildings) | Added | 31169 | 35 |
-| Investigator (Employee Discipline) |  | 06688 |  |
-| Investigator (Employee Discipline) (DOC) | Added | 31163 | 35 |
-| Investigator (Employee Discipline) (DOP) | Added | 31172 | 35 |
-| Investigator (Employee Discipline) (DOT) | Added | 31173 | 35 |
-| Investigator (Employee Discipline) (Finance) | Added | 31168 | 35 |
-| Investigator (Employee Discipline) (HPD) | Added | 31167 | 35 |
-| Investigator Trainee |  | 31101 | 35 |
-| Investment Analyst |  | 40925 | 35 |
-| Investment Analyst Trainee | Deleted | 40924 | 35 |
-| IT Automation and Monitoring Engineer | Added | 95712 | 35 |
-| IT Automation and Monitoring Engineer | Accreted | 06795 | 35 |
-| IT Infrastructure Engineer | Added | 95714 | 35 |
-| IT Infrastructure Engineer | Accreted | 06796 | 35 |
-| IT Project Specialist | Added | 95710 | 35 |
-| IT Project Specialist | Accreted | 06797 | 35 |
-| 1T Security Specialist | Added | 95622 | 35 |
-| 1T Security Specialist | Accreted | 06798 | 35 |
-| IT Service Management Specialist | Added | 95713 | 35 |
-| IT Service Management Specialist | Accreled | 06799 | 35 |
-| Job opportunity specialist | Added | 52314 | 35 |
-| Junior Architect | Deleted | 21206 | 35 |
-| Junior Bacteriologist | Deleted | 21605 | 35 |
-| Junior Building Custodian | Deleted | 80601 | 40 |
-| Junior Chemist | Deleted | 21B05 | 35 |
-| Junior Civil Engineer | Deleted | 20206 | 35 |
-| Junior Drafter | Deleted | 20102 | 35 |
-| Junior Electrical Engineer | Deleted | 20306 | 35 |
-| Junior Geologist | Deleted | 21905 | 35 |
-| Junior Health Facilities Planner | Deleted | 220B0 | 35 |
-| Junior Mechanical Engineer | Deleted | 20406 | 35 |
+| Institutional Tailor |  | 90113 | 35 | | --- | --- | --- | --- | | Institutional Teacher (DJJ) |  | 60371 | 35 | | Institutional Trades Instructor | Deleted | 60312 | 35 | | lnslitutional Trades Instructor (Carpentry) | Deleted | 60314 | 35 | | Institutional Trades Instructor (Tailoring) | Deleted | 60313 | 35 | | Instrumentation Specialist | Added | 91000 | 35 | | Instrumentation Specialist Trainee | Added | 91001 | 35 | | Interpreter (Spanish & Italian) | Deleted | 31010 | 35 | | Interpreter (Spanish) |  | 31013 | 35 | | Interpreter, Chinese (Cantonese, Mandarin, Taiwanese ) |  | 31017 | 35 | | Investigator |  | 31105 | 35 | | Investigator (CCRB) | Added | 31165 | 35 | | lnvesllgator (CCRB) | Deleled | 06157 | 35 | | Investigator (Discipline) |  | 06316 | 35 | | Investigator (Discipline) (ACS) | Added | 31174 | 35 | | Investigator (Discipline) (DOC) | Added | 31164 | 35 | | Investigator (Discipline) (HMH) | Added | 95599 | 35 | | Investigator (Employee Compliance) FDNY) | Added | 31171 | 35 | | Investigator (Employee Discipline -Buildings) | Added | 31169 | 35 | | Investigator (Employee Discipline) |  | 06688 |  | | Investigator (Employee Discipline) (DOC) | Added | 31163 | 35 | | Investigator (Employee Discipline) (DOP) | Added | 31172 | 35 | | Investigator (Employee Discipline) (DOT) | Added | 31173 | 35 | | Investigator (Employee Discipline) (Finance) | Added | 31168 | 35 | | Investigator (Employee Discipline) (HPD) | Added | 31167 | 35 | | Investigator Trainee |  | 31101 | 35 | | Investment Analyst |  | 40925 | 35 | | Investment Analyst Trainee | Deleted | 40924 | 35 | | IT Automation and Monitoring Engineer | Added | 95712 | 35 | | IT Automation and Monitoring Engineer | Accreted | 06795 | 35 | | IT Infrastructure Engineer | Added | 95714 | 35 | | IT Infrastructure Engineer | Accreted | 06796 | 35 | | IT Project Specialist | Added | 95710 | 35 | | IT Project Specialist | Accreted | 06797 | 35 | | 1T Security Specialist | Added | 95622 | 35 | | 1T Security Specialist | Accreted | 06798 | 35 | | IT Service Management Specialist | Added | 95713 | 35 | | IT Service Management Specialist | Accreled | 06799 | 35 | | Job opportunity specialist | Added | 52314 | 35 | | Junior Architect | Deleted | 21206 | 35 | | Junior Bacteriologist | Deleted | 21605 | 35 | | Junior Building Custodian | Deleted | 80601 | 40 | | Junior Chemist | Deleted | 21B05 | 35 | | Junior Civil Engineer | Deleted | 20206 | 35 | | Junior Drafter | Deleted | 20102 | 35 | | Junior Electrical Engineer | Deleted | 20306 | 35 | | Junior Geologist | Deleted | 21905 | 35 | | Junior Health Facilities Planner | Deleted | 220B0 | 35 | | Junior Mechanical Engineer | Deleted | 20406 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT
 76 22016
 
-
-| Junior Medical Examiner (OCME) |  | 53865 | 35 |
-| --- | --- | --- | --- |
-| Junior Public Health Officer (District Health Administration) | Deleted | 52800 | 35 |
-| Junior Public Health Officer (Medical Services) | Deleted | 52801 | 35 |
-| Juvenile Counselor | Deleted | 52295 | 35 |
-| Keypunch Operator | Deleted | 10907 | 35 |
-| Laboratory Associate |  | 21512 | 35 |
-| Laboratory Helper |  | 82107 | 35 |
-| Laboratory Helper (Competitive) | Deleted | 82104 | 35 |
-| Laboratory Microbiologist |  | 21513 | 35 |
-| Laboratory Technician | Deleted | 21508 | 35 |
-| Landmarks Preservation Speclalist |  | 92242 | 35 |
-| Landmarks Preservationist |  | 92237 | 35 |
-| Landscape Architect |  | 21315 | 35 |
-| Landscape Architectural Intern |  | 21306 | 35 |
-| Latent Print Examiner | Deleted | 71140 | 35 |
-| Laundry Supervisor | Deleted | 80860 | 40 |
-| Laundry Worker | Deleted | 90110 | 37.5 |
-| Law Clerk | Deleted | 30109 | 35 |
-| Lead Abatement Worker |  | 31311 | 40 |
-| Legal Coordinator |  | 30081 | 35 |
-| Legal Secretarial Assistant |  | 10229 | 35 |
-| Legal Secretary | Deleted | 01665 | 35 |
-| Licensed Barber (DOC) |  | 90116 | 35 |
-| Maintenance Supervisor | Deleted | 80684 | 35 |
-| Management Analyst (DOP) | Deleted | 06244 | 35 |
-| Management Auditor |  | 40502 | 35 |
-| Management Auditor Trainee |  | 40501 | 35 |
-| Manager of Radio Repair Operations (Former M-1 & II) | Accreted | 8298E | 35 |
-| Marine Electronics Technician | Added | 06753 | 40 |
-| Marine Electronics Technician (DEP) | Added | 91576 | 40 |
-| Marine Electronics Technician (Don | Added | 91574 | 40 |
-| Marine Maintenance Mechanic |  | 92587 | 35 |
-| Marine Oiler (DC) | Accreted | 91548 | 32 |
-| Market Agent |  | 33972 | 35 |
-| Market Aide | Deleted | 33971 | 35 |
-| Meat Cutter | Deleted | 90213 | 35 |
-| Mechanlcal Engineer |  | 20415 | 35 |
-| Mechanical Engineer (Air Conditioning) | Deleted | 20418 | 35 |
-| Mechanical Engineer (Cars) | Deleted | 20416 | 35 |
-| Mechanical Engineer (Salvage) | Deleted | 20417 | 35 |
-| Mechanical Engineering Drafter | Deleted | 20405 | 35 |
-| Mechanical Engineering Intern |  | 20403 | 35 |
-| Media Services Technician |  | 90622 | 35 |
-| Medical Clerk | Deleted | 10108 | 35 |
-| Medical Equipment Repair Technician | Deleted | 90690 | 35 |
-| Medical Equipment Specialist | Deleted | 90691 | 35 |
-| Medical Investigator |  | 53864 | 35 |
-| Medical Records Librarian |  | 50811 | 35 |
-| Medical Specialist |  | 52895 | 35 |
+| Junior Medical Examiner (OCME) |  | 53865 | 35 | | --- | --- | --- | --- | | Junior Public Health Officer (District Health Administration) | Deleted | 52800 | 35 | | Junior Public Health Officer (Medical Services) | Deleted | 52801 | 35 | | Juvenile Counselor | Deleted | 52295 | 35 | | Keypunch Operator | Deleted | 10907 | 35 | | Laboratory Associate |  | 21512 | 35 | | Laboratory Helper |  | 82107 | 35 | | Laboratory Helper (Competitive) | Deleted | 82104 | 35 | | Laboratory Microbiologist |  | 21513 | 35 | | Laboratory Technician | Deleted | 21508 | 35 | | Landmarks Preservation Speclalist |  | 92242 | 35 | | Landmarks Preservationist |  | 92237 | 35 | | Landscape Architect |  | 21315 | 35 | | Landscape Architectural Intern |  | 21306 | 35 | | Latent Print Examiner | Deleted | 71140 | 35 | | Laundry Supervisor | Deleted | 80860 | 40 | | Laundry Worker | Deleted | 90110 | 37.5 | | Law Clerk | Deleted | 30109 | 35 | | Lead Abatement Worker |  | 31311 | 40 | | Legal Coordinator |  | 30081 | 35 | | Legal Secretarial Assistant |  | 10229 | 35 | | Legal Secretary | Deleted | 01665 | 35 | | Licensed Barber (DOC) |  | 90116 | 35 | | Maintenance Supervisor | Deleted | 80684 | 35 | | Management Analyst (DOP) | Deleted | 06244 | 35 | | Management Auditor |  | 40502 | 35 | | Management Auditor Trainee |  | 40501 | 35 | | Manager of Radio Repair Operations (Former M-1 & II) | Accreted | 8298E | 35 | | Marine Electronics Technician | Added | 06753 | 40 | | Marine Electronics Technician (DEP) | Added | 91576 | 40 | | Marine Electronics Technician (Don | Added | 91574 | 40 | | Marine Maintenance Mechanic |  | 92587 | 35 | | Marine Oiler (DC) | Accreted | 91548 | 32 | | Market Agent |  | 33972 | 35 | | Market Aide | Deleted | 33971 | 35 | | Meat Cutter | Deleted | 90213 | 35 | | Mechanlcal Engineer |  | 20415 | 35 | | Mechanical Engineer (Air Conditioning) | Deleted | 20418 | 35 | | Mechanical Engineer (Cars) | Deleted | 20416 | 35 | | Mechanical Engineer (Salvage) | Deleted | 20417 | 35 | | Mechanical Engineering Drafter | Deleted | 20405 | 35 | | Mechanical Engineering Intern |  | 20403 | 35 | | Media Services Technician |  | 90622 | 35 | | Medical Clerk | Deleted | 10108 | 35 | | Medical Equipment Repair Technician | Deleted | 90690 | 35 | | Medical Equipment Specialist | Deleted | 90691 | 35 | | Medical Investigator |  | 53864 | 35 | | Medical Records Librarian |  | 50811 | 35 | | Medical Specialist |  | 52895 | 35 |
 
 2001 •2021 CITYWIDE AGREEMENT
 77 22016
 
-
-| Medical Subspeciallst (DOHMH) | Deleted | 06637 | 35 |
-| --- | --- | --- | --- |
-| Medlcolegal Investigator (OCME) |  | 53299 | 40 |
-| Mental HeaHh Worker |  | 51262 | 35 |
-| Messenger | Deleted | 12005 | 35 |
-| Metal Work Mechanic | Added | 91225 | 40 |
-| Microbiologist | Deleted | 21670 | 35 |
-| Microbiologist (Bacteriology) | Deleted | 21671 | 35 |
-| Mlcroblologlst (Cytology) | Deleted | 21672 | 35 |
-| Microbiologist (Hematology) | Deleted | 21673 | 35 |
-| Microbiologist (Histology) | Deleted | 21674 | 35 |
-| Microbiologist (lmmunchematology) | Deleted | 21675 | 35 |
-| Microbiologist (Mycology) | Deleted | 21676 | 35 |
-| Microbiologist (Parasitology) | Deleted | 21677 | 35 |
-| Mlcroblologlst (Serology) | Deleted | 21678 | 35 |
-| Microbiologist (Virology) | Deleted | 21679 | 35 |
-| Mortgage Analyst | Deleted | 40550 | 35 |
-| Mortgage Tax Examiner |  | 30505 | 35 |
-| Mortuary Technician | Deleted | 52015 | 35 |
-| Motion Picture Operator | Deleted | 90611 | 35 |
-| Motor Vehicle Operator |  | 91212 | 40 |
-| Motor Vehicle Supervisor |  | 91232 | 40 |
-| Multiple Dwelling Specialist (Buildings) |  | 22401 | 40 |
-| Nurse Practitioner (OOHMH) |  | 06611 | 40 |
-| Nurse Practitioner (Sanitation) | Deleted | 06068 | 40 |
-| Nurse-Midwife | Deleted | 50912 | 40 |
-| Nurse's Aide {DOC) | Deleted | 06415 | 40 |
-| Nurse's Aide (Handicapped Children) 3 |  | 50905 | 40 |
-| Nurse's Aide 3 |  | 50901 | 40 |
-| Nutrition Consultant |  | 50415 | 35 |
-| Nutritionist |  | 50410 | 35 |
-| Nutritionist (PIT) |  | 50411 | 35 |
-| Nutritionist Trainee | Deleted | 50405 | 35 |
-| NYCAPS Process Analyst |  | 06752 | 35 |
-| Occupational Therapist | Deleted | 51210 | 35 |
-| Office Aide | Deleted | 10109 | 35 |
-| Office Appliance Operator | Deleted | 11705 | 35 |
-| Office Assistant |  | 10115 | 35 |
-| Office Associate | Deleted | 10112 | 35 |
-| Office Machine Aide |  | 11702 | 35 |
-| Office Machine Associate | Deleted | 11703 | 35 |
-| Oil Burner Specialist |  | 91237 | 40 |
-| Operations Assistant (C.D.) | Deleted | 71488 | 35 |
-| Operations Communications Specialist |  | 20271 | 35 |
-| Orderly | Deleted | 81804 | 40 |
-| Painting Inspector | Deleted | 32815 | 35 |
-| Paralegal Aide |  | 30080 | 35 |
-| Paralegal Aide Trainee |  | 30076 | 35 |
-| Parking Control Specla!lst(removed from Citywide Agreement coverage through Legislation) | Accreted | 41120 | 40 |
-| Parking Control Specialist Trainee |  | 41117 | 40 |
+| Medical Subspeciallst (DOHMH) | Deleted | 06637 | 35 | | --- | --- | --- | --- | | Medlcolegal Investigator (OCME) |  | 53299 | 40 | | Mental HeaHh Worker |  | 51262 | 35 | | Messenger | Deleted | 12005 | 35 | | Metal Work Mechanic | Added | 91225 | 40 | | Microbiologist | Deleted | 21670 | 35 | | Microbiologist (Bacteriology) | Deleted | 21671 | 35 | | Mlcroblologlst (Cytology) | Deleted | 21672 | 35 | | Microbiologist (Hematology) | Deleted | 21673 | 35 | | Microbiologist (Histology) | Deleted | 21674 | 35 | | Microbiologist (lmmunchematology) | Deleted | 21675 | 35 | | Microbiologist (Mycology) | Deleted | 21676 | 35 | | Microbiologist (Parasitology) | Deleted | 21677 | 35 | | Mlcroblologlst (Serology) | Deleted | 21678 | 35 | | Microbiologist (Virology) | Deleted | 21679 | 35 | | Mortgage Analyst | Deleted | 40550 | 35 | | Mortgage Tax Examiner |  | 30505 | 35 | | Mortuary Technician | Deleted | 52015 | 35 | | Motion Picture Operator | Deleted | 90611 | 35 | | Motor Vehicle Operator |  | 91212 | 40 | | Motor Vehicle Supervisor |  | 91232 | 40 | | Multiple Dwelling Specialist (Buildings) |  | 22401 | 40 | | Nurse Practitioner (OOHMH) |  | 06611 | 40 | | Nurse Practitioner (Sanitation) | Deleted | 06068 | 40 | | Nurse-Midwife | Deleted | 50912 | 40 | | Nurse's Aide {DOC) | Deleted | 06415 | 40 | | Nurse's Aide (Handicapped Children) 3 |  | 50905 | 40 | | Nurse's Aide 3 |  | 50901 | 40 | | Nutrition Consultant |  | 50415 | 35 | | Nutritionist |  | 50410 | 35 | | Nutritionist (PIT) |  | 50411 | 35 | | Nutritionist Trainee | Deleted | 50405 | 35 | | NYCAPS Process Analyst |  | 06752 | 35 | | Occupational Therapist | Deleted | 51210 | 35 | | Office Aide | Deleted | 10109 | 35 | | Office Appliance Operator | Deleted | 11705 | 35 | | Office Assistant |  | 10115 | 35 | | Office Associate | Deleted | 10112 | 35 | | Office Machine Aide |  | 11702 | 35 | | Office Machine Associate | Deleted | 11703 | 35 | | Oil Burner Specialist |  | 91237 | 40 | | Operations Assistant (C.D.) | Deleted | 71488 | 35 | | Operations Communications Specialist |  | 20271 | 35 | | Orderly | Deleted | 81804 | 40 | | Painting Inspector | Deleted | 32815 | 35 | | Paralegal Aide |  | 30080 | 35 | | Paralegal Aide Trainee |  | 30076 | 35 | | Parking Control Specla!lst(removed from Citywide Agreement coverage through Legislation) | Accreted | 41120 | 40 | | Parking Control Specialist Trainee |  | 41117 | 40 |
 
 2001-2021 CITYWIDE AGREEMENT
 78 22016
 
-
-| Parl<lng Enforcement Agent | Deleted | 71612 | 40 |
-| --- | --- | --- | --- |
-| Pediatric Nurse Associate |  | 95440 | 35 |
-| Peer Counselor (HMH) | Accreted | 51218 | 35 |
-| Personnel Investigator | Deleted | 31107 | 35 |
-| Pest Control Aide | Deleted | 90500 | 35 |
-| Pharmacist | Deleted | 50610 | 37.5 |
-| Photographer (Rule XI) |  | 90610 | 35 |
-| Photographer and Photostat Operator |  | 90615 | 35 |
-| Physical Therapist | Deleted | 51211 | 35 |
-| Physician |  | 53010 | 35 |
-| Physician's Assistant • |  | 52700 | 37.5 |
-| Physicist |  | 22015 | 35 |
-| Physicist (Electronics) | Deleted | 22016 | 35 |
-| Physicist (Isotopes) | Deleted | 22017 | 35 |
-| Physicist (Radiation) | Deleted | 22018 | 35 |
-| Physicist Trainee | Deleted | 22001 | 35 |
-| Pipe Laying Inspector | Deleted | 33415 | 35 |
-| Plan Examiner (Buildings) |  | 22410 | 35 |
-| Planner Trainee | Deleted | 22107 | 35 |
-| Planner: Production Control & Scheduling (EMS Motor Transport) |  | 83032 | 35 |
-| Planning & Operations Officer (C O.) | Deleted | 22113 | 35 |
-| Playground Associate |  | 06664 | 35 |
-| Polson Information Specialist | Added | 51023 | 37.5 |
-| Polson Information Specialist (DOHMH) | Deleted | 06663 | 35 |
-| Police Administrative Aide |  | 10144 | 35 |
-| Police Attendant |  | 90202 | 40 |
-| Police Communications Technician |  | 71012 | 35 |
-| Principal Administrative Associate |  | 10124 | 35 |
-| Principal Air Pollution Control Engineer | Deleted | 20620 | 35 |
-| Principal Air Pollution Inspector | Deleted | 31360 | 35 |
-| Principal Chemical Engineer | Deleted | 20550 | 35 |
-| Principal Chemist | Deleted | 21835 | 35 |
-| Principal Chemist (Sanitary) | Deleted | 21836 | 35 |
-| Principal Chemist (To1dcology) | Deleted | 21837 | 35 |
-| Principal Chief Dietitian | Deleted | 50373 | 35 |
-| Principal Children's Counselor | Deleted | 51565 | 35 |
-| Principal Civil Engineer | Deleted | 20250 | 35 |
-| Principal Civil Engineer (Water Supply) | Deleted | 20260 | 35 |
-| Principal Community Liaison Worl<er | Deleted | 56095 | 35 |
-| Principal Computer Operator | Deleted | 13514 | 35 |
-| Principal Computer Programmer | Deleted | 13550 | 35 |
-| Principal Construction Inspector | Deleted | 32260 | 35 |
-| Principal Consumer Affairs Inspector | Deleted | 33994 | 35 |
-| Principal Correctional Counselor | Deleted | 51277 | 35 |
-| Principal Custodial Supervisor | Deleted | 80561 | 40 |
-| Principal Electrical Engineer | Deleted | 20350 | 35 |
-| Principal Electrical Engineer (Railroad Signals) | Deleted | 20351 | 35 |
-| Principal Electrical Inspector | Deleted | 32960 | 35 |
-| Principal Engineer | Deleted | 21130 | 35 |
+| Parl<lng Enforcement Agent | Deleted | 71612 | 40 | | --- | --- | --- | --- | | Pediatric Nurse Associate |  | 95440 | 35 | | Peer Counselor (HMH) | Accreted | 51218 | 35 | | Personnel Investigator | Deleted | 31107 | 35 | | Pest Control Aide | Deleted | 90500 | 35 | | Pharmacist | Deleted | 50610 | 37.5 | | Photographer (Rule XI) |  | 90610 | 35 | | Photographer and Photostat Operator |  | 90615 | 35 | | Physical Therapist | Deleted | 51211 | 35 | | Physician |  | 53010 | 35 | | Physician's Assistant • |  | 52700 | 37.5 | | Physicist |  | 22015 | 35 | | Physicist (Electronics) | Deleted | 22016 | 35 | | Physicist (Isotopes) | Deleted | 22017 | 35 | | Physicist (Radiation) | Deleted | 22018 | 35 | | Physicist Trainee | Deleted | 22001 | 35 | | Pipe Laying Inspector | Deleted | 33415 | 35 | | Plan Examiner (Buildings) |  | 22410 | 35 | | Planner Trainee | Deleted | 22107 | 35 | | Planner: Production Control & Scheduling (EMS Motor Transport) |  | 83032 | 35 | | Planning & Operations Officer (C O.) | Deleted | 22113 | 35 | | Playground Associate |  | 06664 | 35 | | Polson Information Specialist | Added | 51023 | 37.5 | | Polson Information Specialist (DOHMH) | Deleted | 06663 | 35 | | Police Administrative Aide |  | 10144 | 35 | | Police Attendant |  | 90202 | 40 | | Police Communications Technician |  | 71012 | 35 | | Principal Administrative Associate |  | 10124 | 35 | | Principal Air Pollution Control Engineer | Deleted | 20620 | 35 | | Principal Air Pollution Inspector | Deleted | 31360 | 35 | | Principal Chemical Engineer | Deleted | 20550 | 35 | | Principal Chemist | Deleted | 21835 | 35 | | Principal Chemist (Sanitary) | Deleted | 21836 | 35 | | Principal Chemist (To1dcology) | Deleted | 21837 | 35 | | Principal Chief Dietitian | Deleted | 50373 | 35 | | Principal Children's Counselor | Deleted | 51565 | 35 | | Principal Civil Engineer | Deleted | 20250 | 35 | | Principal Civil Engineer (Water Supply) | Deleted | 20260 | 35 | | Principal Community Liaison Worl<er | Deleted | 56095 | 35 | | Principal Computer Operator | Deleted | 13514 | 35 | | Principal Computer Programmer | Deleted | 13550 | 35 | | Principal Construction Inspector | Deleted | 32260 | 35 | | Principal Consumer Affairs Inspector | Deleted | 33994 | 35 | | Principal Correctional Counselor | Deleted | 51277 | 35 | | Principal Custodial Supervisor | Deleted | 80561 | 40 | | Principal Electrical Engineer | Deleted | 20350 | 35 | | Principal Electrical Engineer (Railroad Signals) | Deleted | 20351 | 35 | | Principal Electrical Inspector | Deleted | 32960 | 35 | | Principal Engineer | Deleted | 21130 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT
 79
 22016
 
-
-| Principal Fingerprint Technician |  | 71165 | 35 |
-| --- | --- | --- | --- |
-| Principal Home Economist | Deleted | 50565 | 35 |
-| Principal Housing Inspector | Deleted | 31560 | 35 |
-| Principal Illustrator | Deleted | 91460 | 35 |
-| Principal Institutional Inspector | Deleted | 31465 | 35 |
-| Principal Juvenile Counselor | Deleted | 52297 | 35 |
-| Principal Mechanical Engineer | Deleted | 20450 | 35 |
-| Principal Microbiologist | Deleted | 21690 | 35 |
-| Principal Mortuary Technician | Deleted | 52017 | 35 |
-| Principal MuHiple Dwelling Specialist (Buildings) |  | 22402 | 40 |
-| Principal Nutrition Consultant |  | 50416 | 35 |
-| Principal Nutritionist | Deleted | 50465 | 35 |
-| Principal Pharmacist | Deleted | 50660 | 37.5 |
-| Principal Physicist | Deleted | 22030 | 35 |
-| Principal Police Communications Technician |  | 71014 | 35 |
-| Principal Public Health Sanitarian | Deleted | 31260 | 35 |
-| Principal Research Scientist (Biological Science) | Deleted | 21770 | 35 |
-| Principal Retirement Benefits Examiner | Deleted | 40495 | 35 |
-| Principal Senior Citizen Specialist | Deleted | 09223 | 35 |
-| Principal Shorthand Reporter | Deleted | 10420 | 35 |
-| Principal Special Officer (HRA) | Deleted | 70820 | 40 |
-| Principal Statistician | Deleted | 40625 | 35 |
-| Principal Telephone Operator | Deleted | 10825 | 35 |
-| Principal Title Examiner |  | 30820 | 35 |
-| Principal Veterinarian | Deleted | 50765 | 35 |
-| Probation Assistant |  | 51800 | 35 |
-| Probation Officer |  | 51810 | 37.5 |
-| Probation Officer Trainee |  | 51801 | 37.5 |
-| Process Server | Deleted | 30205 | 35 |
-| Procurement Analyst |  | 12158 | 35 |
-| Program Announcer | Deleted | 60636 | 35 |
-| Program Coordinator (DJJ) |  | 51597 | 35 |
-| Program Evaluator (ACS) | Added | 52416 | 35 |
-| Program Officer (DFTA) |  | 51454 | 35 |
-| Program Producer |  | 60621 | 35 |
-| Program Research Analyst • | Deleted | 60945 | 35 |
-| Program Specialist (DOC) |  | 60948 | 35 |
-| Project Coordinator | Deleled | 22421 | 35 |
-| Project Development Coordinator | Deleted | 22525 | 35 |
-| Project Development Coordinator Trainee | Deleted | 22504 | 35 |
-| Project Manager |  | 22426 | 35 |
-| Project Manager Intern |  | 22425 | 35 |
-| Project Services Specialist | Deleted | 22526 | 35 |
-| Protection Agent | Added | 52368 | 40 |
-| Psychologist |  | 52110 | 35 |
-| Public Health Adviser (CDC) |  | 51191 | 35 |
-| Public Health Assistant |  | 81805 | 35 |
-| Public Health Educator |  | 51110 | 35 |
-| Public Health Educator Trainee |  | 51105 | 35 |
+| Principal Fingerprint Technician |  | 71165 | 35 | | --- | --- | --- | --- | | Principal Home Economist | Deleted | 50565 | 35 | | Principal Housing Inspector | Deleted | 31560 | 35 | | Principal Illustrator | Deleted | 91460 | 35 | | Principal Institutional Inspector | Deleted | 31465 | 35 | | Principal Juvenile Counselor | Deleted | 52297 | 35 | | Principal Mechanical Engineer | Deleted | 20450 | 35 | | Principal Microbiologist | Deleted | 21690 | 35 | | Principal Mortuary Technician | Deleted | 52017 | 35 | | Principal MuHiple Dwelling Specialist (Buildings) |  | 22402 | 40 | | Principal Nutrition Consultant |  | 50416 | 35 | | Principal Nutritionist | Deleted | 50465 | 35 | | Principal Pharmacist | Deleted | 50660 | 37.5 | | Principal Physicist | Deleted | 22030 | 35 | | Principal Police Communications Technician |  | 71014 | 35 | | Principal Public Health Sanitarian | Deleted | 31260 | 35 | | Principal Research Scientist (Biological Science) | Deleted | 21770 | 35 | | Principal Retirement Benefits Examiner | Deleted | 40495 | 35 | | Principal Senior Citizen Specialist | Deleted | 09223 | 35 | | Principal Shorthand Reporter | Deleted | 10420 | 35 | | Principal Special Officer (HRA) | Deleted | 70820 | 40 | | Principal Statistician | Deleted | 40625 | 35 | | Principal Telephone Operator | Deleted | 10825 | 35 | | Principal Title Examiner |  | 30820 | 35 | | Principal Veterinarian | Deleted | 50765 | 35 | | Probation Assistant |  | 51800 | 35 | | Probation Officer |  | 51810 | 37.5 | | Probation Officer Trainee |  | 51801 | 37.5 | | Process Server | Deleted | 30205 | 35 | | Procurement Analyst |  | 12158 | 35 | | Program Announcer | Deleted | 60636 | 35 | | Program Coordinator (DJJ) |  | 51597 | 35 | | Program Evaluator (ACS) | Added | 52416 | 35 | | Program Officer (DFTA) |  | 51454 | 35 | | Program Producer |  | 60621 | 35 | | Program Research Analyst • | Deleted | 60945 | 35 | | Program Specialist (DOC) |  | 60948 | 35 | | Project Coordinator | Deleled | 22421 | 35 | | Project Development Coordinator | Deleted | 22525 | 35 | | Project Development Coordinator Trainee | Deleted | 22504 | 35 | | Project Manager |  | 22426 | 35 | | Project Manager Intern |  | 22425 | 35 | | Project Services Specialist | Deleted | 22526 | 35 | | Protection Agent | Added | 52368 | 40 | | Psychologist |  | 52110 | 35 | | Public Health Adviser (CDC) |  | 51191 | 35 | | Public Health Assistant |  | 81805 | 35 | | Public Health Educator |  | 51110 | 35 | | Public Health Educator Trainee |  | 51105 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT
 80 22016
 
-
-| Public Health Epidemiologist |  | 51181 | 35 |
-| --- | --- | --- | --- |
-| Public Health Nurse |  | 51011 | 35 |
-| Public Health Physician (PHA) | Deleted | 52713 | 35 |
-| Public Health Sanitarian |  | 31215 | 40 |
-| Public Health Sanitarian Trainee | Deleted | 31211 | 40 |
-| Publlc Records Aide |  | 60215 | 35 |
-| Public Records Officer |  | 60216 | 35 |
-| Public Relations Assistant | Deleted | 60810 | 35 |
-| Puppeteer |  | 60414 | 35 |
-| Purchase Inspector | Deleted | 34115 | 35 |
-| Purchase Inspector (Lumber) | Deleted | 34123 | 35 |
-| Purchase Inspector (School Bus Service) | Deleted | 34128 | 35 |
-| Purchase Inspector (Automotive Equipment) | Deleted | 34116 | 35 |
-| Purchase Inspector (Drugs & Chemicals) | Deleted | 34117 | 35 |
-| Purchase Inspector (Equipment) | Deleted | 34118 | 35 |
-| Purchase Inspector (Foods) | Deleted | 34119 | 35 |
-| Purchase Inspector (Fuel & Supplies) | Deleted | 34120 | 35 |
-| Purchase Inspector (Fuel) | Deleted | 34132 | 35 |
-| Purchase Inspector (Furniture) | Deleted | 34121 | 35 |
-| Purchase Inspector (Mill Steel) | Deleted | 34129 | 35 |
-| Purchase Inspector (Piano) | Deleted | 34124 | 35 |
-| Purchase Inspector (Pipes & Castings) | Deleted | 34125 | 35 |
-| Purchase Inspector (Printing & Stallone!)') | Deleted | 34126 | 35 |
-| Purchase Inspector (Repairs & Supplles) | Deleted | 34127 | 35 |
-| Purchase Inspector (Shop Steel) | Deleted | 34130 | 35 |
-| Purchase Inspector (Textiles) | Deleted | 34131 | 35 |
-| Purchasing Agent | Deleted | 12121 | 35 |
-| Quality Assurance Specialist |  | 34171 | 35 |
-| Quality Assurance Specialist (Automotive Equipment) |  | 34172 | 35 |
-| Quality Assurance Specialist (Building Repairs) |  | 34173 | 35 |
-| Quality Assurance Specialist (Drugs & Chemicals) | Deleted | 34174 | 35 |
-| Quality Assurance Specialist (Equipment) | Deleted | 34175 | 35 |
-| Quality Assurance Speciallst (Foods) |  | 34176 | 35 |
-| Quality Assurance Specialist (Fuel & Supplies) | Deleted | 34178 | 35 |
-| Quality Assurance Speciallst (Fuel) |  | 34177 | 35 |
-| Quality Assurance Specialist (Furniture & Supplies) | Deleted | 34179 | 35 |
-| Quality Assurance Speclallst (Lumber) | Deleted | 34180 | 35 |
-| Quality Assurance Speclallst (Metals) | Deleted | 34181 | 35 |
-| Quality Assurance Specialist (Printing & Stationery) | Deleted | 34182 | 35 |
-| Quality Assurance Speclallst (Pupil Transportation) |  | 34183 | 35 |
-| Quality Assurance Speciallst (Textiles) | Deleted | 34184 | 35 |
-| Quality Assurance Specialist Trainee |  | 34170 | 35 |
-| Rackets Investigator | Added | 30830 | 40 |
-| Radio & Television Operator |  | 90411 | 35 |
-| Real Estate Manager | Deleted | 80110 | 35 |
-| Real Estate Repairer | Deleted | 81707 | 35 |
-| Real Estate Repairer (DCAS) | Added | 82111 | 35 |
-| Real Property Assistant |  | 80102 | 35 |
-| Real Property Manager |  | 80112 | 35 |
+| Public Health Epidemiologist |  | 51181 | 35 | | --- | --- | --- | --- | | Public Health Nurse |  | 51011 | 35 | | Public Health Physician (PHA) | Deleted | 52713 | 35 | | Public Health Sanitarian |  | 31215 | 40 | | Public Health Sanitarian Trainee | Deleted | 31211 | 40 | | Publlc Records Aide |  | 60215 | 35 | | Public Records Officer |  | 60216 | 35 | | Public Relations Assistant | Deleted | 60810 | 35 | | Puppeteer |  | 60414 | 35 | | Purchase Inspector | Deleted | 34115 | 35 | | Purchase Inspector (Lumber) | Deleted | 34123 | 35 | | Purchase Inspector (School Bus Service) | Deleted | 34128 | 35 | | Purchase Inspector (Automotive Equipment) | Deleted | 34116 | 35 | | Purchase Inspector (Drugs & Chemicals) | Deleted | 34117 | 35 | | Purchase Inspector (Equipment) | Deleted | 34118 | 35 | | Purchase Inspector (Foods) | Deleted | 34119 | 35 | | Purchase Inspector (Fuel & Supplies) | Deleted | 34120 | 35 | | Purchase Inspector (Fuel) | Deleted | 34132 | 35 | | Purchase Inspector (Furniture) | Deleted | 34121 | 35 | | Purchase Inspector (Mill Steel) | Deleted | 34129 | 35 | | Purchase Inspector (Piano) | Deleted | 34124 | 35 | | Purchase Inspector (Pipes & Castings) | Deleted | 34125 | 35 | | Purchase Inspector (Printing & Stallone!)') | Deleted | 34126 | 35 | | Purchase Inspector (Repairs & Supplles) | Deleted | 34127 | 35 | | Purchase Inspector (Shop Steel) | Deleted | 34130 | 35 | | Purchase Inspector (Textiles) | Deleted | 34131 | 35 | | Purchasing Agent | Deleted | 12121 | 35 | | Quality Assurance Specialist |  | 34171 | 35 | | Quality Assurance Specialist (Automotive Equipment) |  | 34172 | 35 | | Quality Assurance Specialist (Building Repairs) |  | 34173 | 35 | | Quality Assurance Specialist (Drugs & Chemicals) | Deleted | 34174 | 35 | | Quality Assurance Specialist (Equipment) | Deleted | 34175 | 35 | | Quality Assurance Speciallst (Foods) |  | 34176 | 35 | | Quality Assurance Specialist (Fuel & Supplies) | Deleted | 34178 | 35 | | Quality Assurance Speciallst (Fuel) |  | 34177 | 35 | | Quality Assurance Specialist (Furniture & Supplies) | Deleted | 34179 | 35 | | Quality Assurance Speclallst (Lumber) | Deleted | 34180 | 35 | | Quality Assurance Speclallst (Metals) | Deleted | 34181 | 35 | | Quality Assurance Specialist (Printing & Stationery) | Deleted | 34182 | 35 | | Quality Assurance Speclallst (Pupil Transportation) |  | 34183 | 35 | | Quality Assurance Speciallst (Textiles) | Deleted | 34184 | 35 | | Quality Assurance Specialist Trainee |  | 34170 | 35 | | Rackets Investigator | Added | 30830 | 40 | | Radio & Television Operator |  | 90411 | 35 | | Real Estate Manager | Deleted | 80110 | 35 | | Real Estate Repairer | Deleted | 81707 | 35 | | Real Estate Repairer (DCAS) | Added | 82111 | 35 | | Real Property Assistant |  | 80102 | 35 | | Real Property Manager |  | 80112 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT
 22016
 81
 
-
-| Recreation Assistant | Deleted | 60407 | 35 |
-| --- | --- | --- | --- |
-| Recreation Director |  | 60430 | 35 |
-| Recreation Director (Part-Time) |  | 60431 | 35 |
-| Recreation Supervisor |  | 60440 | 35 |
-| Rehabllilation Counselor | Deleted | 51213 | 35 |
-| Rehabilitation Specialist (HPD) |  | 31680 | 40 |
-| Relocation Aide | Deleted | 80097 | 35 |
-| Repair Crew Chief (HDA) |  | 90573 | 35 |
-| Repair Crew Worker (HOA) |  | 90571 | 35 |
-| Repair Shop Manager (HOA) |  | 90576 | 35 |
-| Reporter/Stenographer (DA) |  | 10212 | 35 |
-| Research Assistant |  | 60910 | 35 |
-| Research Assistant (Behavioral Sciences) | Deleted | 21740 | 35 |
-| Research Scientist | Deleted | 21755 | 35 |
-| Retirement Benefits Examiner | Deleted | 40492 | 35 |
-| Righi or Way Negollalor | Deleted | 40430 | 35 |
-| Safety Officer | Deleted | 31617 | 35 |
-| Safely Specialist |  | 31310 | 35 |
-| Salvage Appraiser | Deleted | 12175 | 35 |
-| Sanitation Compliance Agent |  | 71685 | 35 |
-| Sanitation Enforcement Agent(removed from Citywide Agreement coverage through Legislation) |  | 71681 | 40 |
-| Satisfaction Clerk | Deleted | 30405 | 35 |
-| School Computer Technology Specialist (DOE) | Added | 13613 | 35 |
-| Scientist (Radiation Control) |  | 21516 | 35 |
-| Scientist (Water Ecology) |  | 21538 | 35 |
-| Scientist (Waler Ecology) Trainee | Added | 21537 | 35 |
-| Script Writer | Deleted | 60613 | 35 |
-| Secretary |  | 10216 | 35 |
-| Secretary |  | 10252 | 35 |
-| Security Officer (Civil Defense) | Deleted | 71415 | 35 |
-| Senior Accountant | Deleted | 40515 | 35 |
-| Senior Actuary | Deleted | 40715 | 35 |
-| Senior Actuary (Group Chief) | Deleted | 40725 | 35 |
-| Senior Addiction Specialist | Deleted | 56075 | 35 |
-| Senior Addiction Specialist (Methadone) |  | 56072 | 35 |
-| Senior Air Pollution Control Engineer | Deleted | 20615 | 35 |
-| Senior Air Pollution Inspector | Deleted | 31335 | 35 |
-| Senior Appraiser (Real Estate) | Deleted | 40415 | 35 |
-| Senior Architect | Deleted | 21225 | 35 |
-| Senior Architect (M R & SJ | Deleted | 21226 | 35 |
-| Senior Area Services Coordinator | Deleted | 22558 | 35 |
-| Senior Attorney | Deleted | 30125 | 35 |
-| Senior Attorney (Taxes) | Deleted | 30093 | 35 |
-| Senior Audio Visual Aid Technician | Deleted | 90637 | 35 |
-| Senior Auditor of Accounts | Deleted | 40815 | 35 |
-| Senior Automotive Service Worker | Deleted | 92509 | 40 |
-| Senior AIJtomotive Specialist |  | 20131 | 35 |
-| Senior Bacteriologist | no record | 21525 | 35 |
-| Senior Bacteriologist (Serology) | Deleted | 21626 | 35 |
+| Recreation Assistant | Deleted | 60407 | 35 | | --- | --- | --- | --- | | Recreation Director |  | 60430 | 35 | | Recreation Director (Part-Time) |  | 60431 | 35 | | Recreation Supervisor |  | 60440 | 35 | | Rehabllilation Counselor | Deleted | 51213 | 35 | | Rehabilitation Specialist (HPD) |  | 31680 | 40 | | Relocation Aide | Deleted | 80097 | 35 | | Repair Crew Chief (HDA) |  | 90573 | 35 | | Repair Crew Worker (HOA) |  | 90571 | 35 | | Repair Shop Manager (HOA) |  | 90576 | 35 | | Reporter/Stenographer (DA) |  | 10212 | 35 | | Research Assistant |  | 60910 | 35 | | Research Assistant (Behavioral Sciences) | Deleted | 21740 | 35 | | Research Scientist | Deleted | 21755 | 35 | | Retirement Benefits Examiner | Deleted | 40492 | 35 | | Righi or Way Negollalor | Deleted | 40430 | 35 | | Safety Officer | Deleted | 31617 | 35 | | Safely Specialist |  | 31310 | 35 | | Salvage Appraiser | Deleted | 12175 | 35 | | Sanitation Compliance Agent |  | 71685 | 35 | | Sanitation Enforcement Agent(removed from Citywide Agreement coverage through Legislation) |  | 71681 | 40 | | Satisfaction Clerk | Deleted | 30405 | 35 | | School Computer Technology Specialist (DOE) | Added | 13613 | 35 | | Scientist (Radiation Control) |  | 21516 | 35 | | Scientist (Water Ecology) |  | 21538 | 35 | | Scientist (Waler Ecology) Trainee | Added | 21537 | 35 | | Script Writer | Deleted | 60613 | 35 | | Secretary |  | 10216 | 35 | | Secretary |  | 10252 | 35 | | Security Officer (Civil Defense) | Deleted | 71415 | 35 | | Senior Accountant | Deleted | 40515 | 35 | | Senior Actuary | Deleted | 40715 | 35 | | Senior Actuary (Group Chief) | Deleted | 40725 | 35 | | Senior Addiction Specialist | Deleted | 56075 | 35 | | Senior Addiction Specialist (Methadone) |  | 56072 | 35 | | Senior Air Pollution Control Engineer | Deleted | 20615 | 35 | | Senior Air Pollution Inspector | Deleted | 31335 | 35 | | Senior Appraiser (Real Estate) | Deleted | 40415 | 35 | | Senior Architect | Deleted | 21225 | 35 | | Senior Architect (M R & SJ | Deleted | 21226 | 35 | | Senior Area Services Coordinator | Deleted | 22558 | 35 | | Senior Attorney | Deleted | 30125 | 35 | | Senior Attorney (Taxes) | Deleted | 30093 | 35 | | Senior Audio Visual Aid Technician | Deleted | 90637 | 35 | | Senior Auditor of Accounts | Deleted | 40815 | 35 | | Senior Automotive Service Worker | Deleted | 92509 | 40 | | Senior AIJtomotive Specialist |  | 20131 | 35 | | Senior Bacteriologist | no record | 21525 | 35 | | Senior Bacteriologist (Serology) | Deleted | 21626 | 35 |
 
 2001-2021 CITYWIDI! AGREEMENT
 22016
 82
 
-
-| Senior Baker | Deleted | 90236 | 35 |
-| --- | --- | --- | --- |
-| Senior Baker (Correction) | Added | 90234 | 35 |
-| Senior Bio-Medical Equipment Technician | Deleted | 21563 | 35 |
-| Senior Blasting Inspector | Deleted | 31835 | 35 |
-| Senior Boiler Inspector | Deleted | 31935 | 35 |
-| Senior Building Custodian | Deleted | 80635 | 40 |
-| Senior Buyer ( & Approved Specialties) | Deleted | 12140 | 35 |
-| Senior Buyer (Drugs} | Deleted | 12142 | 35 |
-| Senior Buyer (Foods) | Deleted | 12143 | 35 |
-| Senior Buyer (Hardware) | Deleted | 12144 | 35 |
-| Senior Buyer (Instructional Materials) | Deleted | 12145 | 35 |
-| Senior Buyer (Mechanical Equipment) | Deleted | 12149 | 35 |
-| Senior Buyer (Paper & Paper Products) | Deleted | 12146 | 35 |
-| Senior Buyer (Printing) | Deleted | 12147 | 35 |
-| Senior Buyer (School & Office Furniture} | Deleted | 12148 | 35 |
-| Senior Case -Management Nurse (Sanitation) | Deleted | 05207 | 35 |
-| Senior Chemical Engineer | Deleted | 20525 | 35 |
-| Senior Chemist | Deleted | 21825 | 35 |
-| Senior Chemist (Biochemistry) | Deleted | 21826 | 35 |
-| Senior Chemist (Clinical Chemistry) | Deleted | 21830 | 35 |
-| Senior Chemist (Food & Water) | Deleted | 21831 | 35 |
-| Senior Chemist (Microanalysis) | Deleted | 21827 | 35 |
-| Senior Chemist (Sanitary) | Deleted | 21828 | 35 |
-| Senior Chemist (Toxicology) | Deleted | 21829 | 35 |
-| Senior Chief Dietitian | Deleted | 50372 | 35 |
-| Senior Children's Counselor | Deleted | 51535 | 35 |
-| Senior Citizen Specialist I (OFTA) | Deleted | 02735 | 35 |
-| Senior Citizen Speclallst II (DFTA) | Deleted | 02899 | 35 |
-| Senior Citizen Specialist II (JOP) | Deleted | 09538 | 35 |
-| Senior Civil Engineer | Deleted | 20225 | 35 |
-| Senior Civll Engineer (Approaches & Arterial Connections) | Deleted | 20226 | 35 |
-| Senior Civil Engineer (Building Construction) | Deleted | 20232 | 35 |
-| Senior Civil Engineer (Highway Traffic) | Deleted | 20231 | 35 |
-| Senior Civil Engineer (Railroad Valuation) | Deleted | 20227 | 35 |
-| Senior Civil Engineer (Sanitary) | Deleted | 20228 | 35 |
-| Senior Civil Engineer (Water Supply) | Deleted | 20230 | 35 |
-| Senior Civil Engineer( Structural) | Deleted | 20229 | 35 |
-| Senior Clerk | Deleted | 10111 | 35 |
-| Senior Clerk (Income Maintenance) | Deleted | 10099 | 35 |
-| Senior Cllnician | Deleted | 52835 | 35 |
-| Senior Community Liaison Worker | Deleted | 56094 | 35 |
-| Senior Community Organization Specialist (Urban Renewal) | Deleted | 22126 | 35 |
-| Senior Construction Inspector | Deleted | 32235 | 35 |
-| Senior Consultant (Early Childhood Education) | Deleted | 51636 | 35 |
-| Senior Consultant (Mental Health Standards and Services) | Deleted | 54810 | 35 |
-| Senior Consultant (Psychiatric Nursing) | Deleted | 51019 | 35 |
-| Senior Consultant (Public Health Social Work) |  | 51638 | 35 |
-| Senior Consumer Affairs Inspector | Deleted | 33992 | 35 |
-| Senior Cook • |  | 90235 | 40 |
+| Senior Baker | Deleted | 90236 | 35 | | --- | --- | --- | --- | | Senior Baker (Correction) | Added | 90234 | 35 | | Senior Bio-Medical Equipment Technician | Deleted | 21563 | 35 | | Senior Blasting Inspector | Deleted | 31835 | 35 | | Senior Boiler Inspector | Deleted | 31935 | 35 | | Senior Building Custodian | Deleted | 80635 | 40 | | Senior Buyer ( & Approved Specialties) | Deleted | 12140 | 35 | | Senior Buyer (Drugs} | Deleted | 12142 | 35 | | Senior Buyer (Foods) | Deleted | 12143 | 35 | | Senior Buyer (Hardware) | Deleted | 12144 | 35 | | Senior Buyer (Instructional Materials) | Deleted | 12145 | 35 | | Senior Buyer (Mechanical Equipment) | Deleted | 12149 | 35 | | Senior Buyer (Paper & Paper Products) | Deleted | 12146 | 35 | | Senior Buyer (Printing) | Deleted | 12147 | 35 | | Senior Buyer (School & Office Furniture} | Deleted | 12148 | 35 | | Senior Case -Management Nurse (Sanitation) | Deleted | 05207 | 35 | | Senior Chemical Engineer | Deleted | 20525 | 35 | | Senior Chemist | Deleted | 21825 | 35 | | Senior Chemist (Biochemistry) | Deleted | 21826 | 35 | | Senior Chemist (Clinical Chemistry) | Deleted | 21830 | 35 | | Senior Chemist (Food & Water) | Deleted | 21831 | 35 | | Senior Chemist (Microanalysis) | Deleted | 21827 | 35 | | Senior Chemist (Sanitary) | Deleted | 21828 | 35 | | Senior Chemist (Toxicology) | Deleted | 21829 | 35 | | Senior Chief Dietitian | Deleted | 50372 | 35 | | Senior Children's Counselor | Deleted | 51535 | 35 | | Senior Citizen Specialist I (OFTA) | Deleted | 02735 | 35 | | Senior Citizen Speclallst II (DFTA) | Deleted | 02899 | 35 | | Senior Citizen Specialist II (JOP) | Deleted | 09538 | 35 | | Senior Civil Engineer | Deleted | 20225 | 35 | | Senior Civll Engineer (Approaches & Arterial Connections) | Deleted | 20226 | 35 | | Senior Civil Engineer (Building Construction) | Deleted | 20232 | 35 | | Senior Civil Engineer (Highway Traffic) | Deleted | 20231 | 35 | | Senior Civil Engineer (Railroad Valuation) | Deleted | 20227 | 35 | | Senior Civil Engineer (Sanitary) | Deleted | 20228 | 35 | | Senior Civil Engineer (Water Supply) | Deleted | 20230 | 35 | | Senior Civil Engineer( Structural) | Deleted | 20229 | 35 | | Senior Clerk | Deleted | 10111 | 35 | | Senior Clerk (Income Maintenance) | Deleted | 10099 | 35 | | Senior Cllnician | Deleted | 52835 | 35 | | Senior Community Liaison Worker | Deleted | 56094 | 35 | | Senior Community Organization Specialist (Urban Renewal) | Deleted | 22126 | 35 | | Senior Construction Inspector | Deleted | 32235 | 35 | | Senior Consultant (Early Childhood Education) | Deleted | 51636 | 35 | | Senior Consultant (Mental Health Standards and Services) | Deleted | 54810 | 35 | | Senior Consultant (Psychiatric Nursing) | Deleted | 51019 | 35 | | Senior Consultant (Public Health Social Work) |  | 51638 | 35 | | Senior Consumer Affairs Inspector | Deleted | 33992 | 35 | | Senior Cook • |  | 90235 | 40 |
 
 2001-2021 CITYWIDE AGREEMENT
 83
 22016
 J
 
-
-| Senior Counselor (Addiction Treatment) | Deleted | 51216 | 35 |
-| --- | --- | --- | --- |
-| Senior Crew Chief (Pest Control) | Deleted | 90502 | 35 |
-| Senior Custodial Assistant | Deleted | 82016 | 40 |
-| Senior Custodial Supervisor | Deleted | 80535 | 40 |
-| Senior Demolition Inspector | Deleted | 32435 | 35 |
-| Senior Dentist | Deleted | 50235 | 35 |
-| Senior Deputy Sheriff | Deleted | 30310 | 40 |
-| Senior Delective Investigator | Added | 30827 | 40 |
-| Senior Economist | Deleted | 40915 | 35 |
-| Senior Electrical Engineer | Deleted | 20325 | 35 |
-| Senior Electrical Engineer (Radio & TV) | Deleted | 20329 | 35 |
-| Senior Electrical Engineer (RR Signals) | Deleted | 20327 | 35 |
-| Senior Elevator Inspector | Deleted | 33035 | 35 |
-| Senior Engineer (Accounting) | Deleted | 20725 | 35 |
-| Senior Engineer (Cranes) | Deleted | 20234 | 35 |
-| Senior Engineer (Safety) | Deleted | 20825 | 35 |
-| Senior Engineer Assessor | Deleted | 20920 | 35 |
-| Senior Engineering Technician | Deleted | 20114 | 35 |
-| Senior Engineering Technician (Drafting | Deleted | 20116 | 35 |
-| Senior Environmental Control Technician | Deleted | 90972 | 35 |
-| Senior Estimator (Electrical) |  | 20126 | 35 |
-| Senior Estimator (General Construction) |  | 20127 | 35 |
-| Senior Estimator (Mechanical) |  | 20128 | 35 |
-| Senior Fingerprint Technician | Deleted | 71135 | 35 |
-| Senior Fire Prevention Inspector | Deleted | 31635 | 35 |
-| Senior Geologist | Deleted | 21925 | 35 |
-| Senior Health Care Program Planner/Analyst |  | 83052 | 35 |
-| Senior Health Facilities Planner | Deleted | 22083 | 35 |
-| Senior Health Resource Coordinator | Deleted | 51112 | 35 |
-| Senior Highway Transportation Specialist | Deleted | 22325 | 35 |
-| Senior Hoists & Rigging Inspector | Deleted | 33235 | 35 |
-| Senior Homemaker | Deleted | 52407 | 35 |
-| Senior Housekeeper | Deleted | 80735 | 35 |
-| Senior Houseparent |  | 52438 | 60 |
-| Senior Housing Inspector | Deleted | 31535 | 35 |
-| Senior Hull and Machinery Inspector | Deleted | 33335 | 35 |
-| Senior Human Resources Specialist | Deleted | 56030 | 35 |
-| Senior Human Resources Specialist (EDT) | Deleted | 56031 | 35 |
-| Senior Human Resources Technician | Deleted | 56011 | 35 |
-| Senior Industrial Engineer | Deleted | 20625 | 35 |
-| Senior Inspector of Fire Alarm Boxes | Deleted | 34335 | 40 |
-| Senior Inspector or Ports & Terminals | Deleted | 33986 | 35 |
-| Senior Institutional Inspector | Deleted | 31435 | 35 |
-| Senior Institutional Trades Instructor | Deleted | 60330 | 35 |
-| Senior Institutional Trades Instructor (Tailoring) |  | 60331 | 35 |
-| Senior Intergroup Relations Officer |  | 55015 | 35 |
-| Senior Investment Analyst | Deleted | 40926 | 35 |
-| Senior IT Architect | Added | 95711 | 35 |
-| Senior IT Architect IT | Accreted | 06800 | 35 |
+| Senior Counselor (Addiction Treatment) | Deleted | 51216 | 35 | | --- | --- | --- | --- | | Senior Crew Chief (Pest Control) | Deleted | 90502 | 35 | | Senior Custodial Assistant | Deleted | 82016 | 40 | | Senior Custodial Supervisor | Deleted | 80535 | 40 | | Senior Demolition Inspector | Deleted | 32435 | 35 | | Senior Dentist | Deleted | 50235 | 35 | | Senior Deputy Sheriff | Deleted | 30310 | 40 | | Senior Delective Investigator | Added | 30827 | 40 | | Senior Economist | Deleted | 40915 | 35 | | Senior Electrical Engineer | Deleted | 20325 | 35 | | Senior Electrical Engineer (Radio & TV) | Deleted | 20329 | 35 | | Senior Electrical Engineer (RR Signals) | Deleted | 20327 | 35 | | Senior Elevator Inspector | Deleted | 33035 | 35 | | Senior Engineer (Accounting) | Deleted | 20725 | 35 | | Senior Engineer (Cranes) | Deleted | 20234 | 35 | | Senior Engineer (Safety) | Deleted | 20825 | 35 | | Senior Engineer Assessor | Deleted | 20920 | 35 | | Senior Engineering Technician | Deleted | 20114 | 35 | | Senior Engineering Technician (Drafting | Deleted | 20116 | 35 | | Senior Environmental Control Technician | Deleted | 90972 | 35 | | Senior Estimator (Electrical) |  | 20126 | 35 | | Senior Estimator (General Construction) |  | 20127 | 35 | | Senior Estimator (Mechanical) |  | 20128 | 35 | | Senior Fingerprint Technician | Deleted | 71135 | 35 | | Senior Fire Prevention Inspector | Deleted | 31635 | 35 | | Senior Geologist | Deleted | 21925 | 35 | | Senior Health Care Program Planner/Analyst |  | 83052 | 35 | | Senior Health Facilities Planner | Deleted | 22083 | 35 | | Senior Health Resource Coordinator | Deleted | 51112 | 35 | | Senior Highway Transportation Specialist | Deleted | 22325 | 35 | | Senior Hoists & Rigging Inspector | Deleted | 33235 | 35 | | Senior Homemaker | Deleted | 52407 | 35 | | Senior Housekeeper | Deleted | 80735 | 35 | | Senior Houseparent |  | 52438 | 60 | | Senior Housing Inspector | Deleted | 31535 | 35 | | Senior Hull and Machinery Inspector | Deleted | 33335 | 35 | | Senior Human Resources Specialist | Deleted | 56030 | 35 | | Senior Human Resources Specialist (EDT) | Deleted | 56031 | 35 | | Senior Human Resources Technician | Deleted | 56011 | 35 | | Senior Industrial Engineer | Deleted | 20625 | 35 | | Senior Inspector of Fire Alarm Boxes | Deleted | 34335 | 40 | | Senior Inspector or Ports & Terminals | Deleted | 33986 | 35 | | Senior Institutional Inspector | Deleted | 31435 | 35 | | Senior Institutional Trades Instructor | Deleted | 60330 | 35 | | Senior Institutional Trades Instructor (Tailoring) |  | 60331 | 35 | | Senior Intergroup Relations Officer |  | 55015 | 35 | | Senior Investment Analyst | Deleted | 40926 | 35 | | Senior IT Architect | Added | 95711 | 35 | | Senior IT Architect IT | Accreted | 06800 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT
 84 22016
 1
 
-
-| Senior Jwenlle Counselor | Deleted | 52296 | 35 |
-| --- | --- | --- | --- |
-| Senior Key Punch Operator | Deleted | 10917 | 35 |
-| Senior Key Punch Operator (IBM) | Deleted | 10916 | 35 |
-| Senior Key Punch Operator (Univac) | Deleted | 11009 | 35 |
-| Senior Laboratory Technician | Deleted | 21509 | 35 |
-| Senior Laboratory Technician (OCME) | Deleted | 21510 | 35 |
-| Senior Landscape Architect· | Deleted | 21325 | 35 |
-| Senior Laundry Supervisor | Deleted | 80861 | 40 |
-| Senior Laundry Worker | Deleted | 90135 | 37.5 |
-| Senior Management Consultant | Accreted | 12652 | 35 |
-| Senior Meat Cutter | Deleted | 90237 | 35 |
-| Senior Mechanical Engineer (Including spec) | Deleted | 20426 | 35 |
-| Senior Mechanical Engineer (Including spec.) | Deleted | 20427 | 35 |
-| Senior Mechanical Engineer (Including spec.) | Deleted | 20428 | 35 |
-| Senior Mechanical Engineer (Including specialties) | Deleted | 20425 | 35 |
-| Senior Medical Record Librarian | Deleted | 50836 | 35 |
-| Senior Medical Specialist |  | 52896 | 35 |
-| Senior Mental Health Worker |  | 51263 | 35 |
-| Senior Meteorologist | Deleted | 21950 | 35 |
-| Senior Mortuary Technician | Deleted | 52016 | 35 |
-| Senior Motor Vehicle Supervisor | Deleted | 91233 | 40 |
-| Senior Occupational Therapist | Deleted | 51235 | 35 |
-| Senior Office Appliance Maintainer |  | 90836 | 35 |
-| Senior Painting Inspector | Deleted | 32835 | 35 |
-| Senior Parking Enforcement Agent | Deleted | 71622 | 40 |
-| Senior Pharmacist | Deleted | 50635 | 40 |
-| Senior Photographer |  | 90635 | 35 |
-| Senior Physical Therapist | Deleted | 51236 | 35 |
-| Senior Physicist | Deleted | 22025 | 35 |
-| Senior Physicist (Electronics) | Deleted | 22026 | 35 |
-| Senior Physicist (Isotopes) | Deleted | 22027 | 35 |
-| Senior Physicist (Radiation) | Deleted | 22028 | 35 |
-| Senior Physicist (Spectroscopy) | Deleted | 22029 | 35 |
-| Senior Pipe Laying Inspector | Deleted | 33435 | 35 |
-| Senior Plan Examiner (Buildings.) | Deleted | 22411 | 35 |
-| Senior Planner | Deleted | 22125 | 35 |
-| Senior Plumbing Inspector | Deleted | 33635 | 35 |
-| Senior Police Administrative Aide |  | 10147 | 35 |
-| Senior Probation Officer | Deleted | 51835 | 37.5 |
-| Senior Program Specialist (DOC) | Deleted | 60949 | 35 |
-| Senior Project Coordinator | Deleted | 22422 | 35 |
-| Senior Project Development Coordinator | Deleted | 22530 | 35 |
-| Senior Project Services Specialist | Deleted | 22531 | 35 |
-| Senior Psychologist | Deleted | 52135 | 35 |
-| Senior Public Health Adviser (Communicable Disease Control) | Deleted | 51192 | 35 |
-| Senior Public Health Educator | Deleted | 51135 | 35 |
-| Senior Public Health Officer (District Health Administration) | Deleted | 52804 | 35 |
-| Senior Public Health Officer (Medical Services) | Deleted | 52805 | 35 |
-| Senior Public Health Sanitarian | Deleted | 31235 | 40 |
+| Senior Jwenlle Counselor | Deleted | 52296 | 35 | | --- | --- | --- | --- | | Senior Key Punch Operator | Deleted | 10917 | 35 | | Senior Key Punch Operator (IBM) | Deleted | 10916 | 35 | | Senior Key Punch Operator (Univac) | Deleted | 11009 | 35 | | Senior Laboratory Technician | Deleted | 21509 | 35 | | Senior Laboratory Technician (OCME) | Deleted | 21510 | 35 | | Senior Landscape Architect· | Deleted | 21325 | 35 | | Senior Laundry Supervisor | Deleted | 80861 | 40 | | Senior Laundry Worker | Deleted | 90135 | 37.5 | | Senior Management Consultant | Accreted | 12652 | 35 | | Senior Meat Cutter | Deleted | 90237 | 35 | | Senior Mechanical Engineer (Including spec) | Deleted | 20426 | 35 | | Senior Mechanical Engineer (Including spec.) | Deleted | 20427 | 35 | | Senior Mechanical Engineer (Including spec.) | Deleted | 20428 | 35 | | Senior Mechanical Engineer (Including specialties) | Deleted | 20425 | 35 | | Senior Medical Record Librarian | Deleted | 50836 | 35 | | Senior Medical Specialist |  | 52896 | 35 | | Senior Mental Health Worker |  | 51263 | 35 | | Senior Meteorologist | Deleted | 21950 | 35 | | Senior Mortuary Technician | Deleted | 52016 | 35 | | Senior Motor Vehicle Supervisor | Deleted | 91233 | 40 | | Senior Occupational Therapist | Deleted | 51235 | 35 | | Senior Office Appliance Maintainer |  | 90836 | 35 | | Senior Painting Inspector | Deleted | 32835 | 35 | | Senior Parking Enforcement Agent | Deleted | 71622 | 40 | | Senior Pharmacist | Deleted | 50635 | 40 | | Senior Photographer |  | 90635 | 35 | | Senior Physical Therapist | Deleted | 51236 | 35 | | Senior Physicist | Deleted | 22025 | 35 | | Senior Physicist (Electronics) | Deleted | 22026 | 35 | | Senior Physicist (Isotopes) | Deleted | 22027 | 35 | | Senior Physicist (Radiation) | Deleted | 22028 | 35 | | Senior Physicist (Spectroscopy) | Deleted | 22029 | 35 | | Senior Pipe Laying Inspector | Deleted | 33435 | 35 | | Senior Plan Examiner (Buildings.) | Deleted | 22411 | 35 | | Senior Planner | Deleted | 22125 | 35 | | Senior Plumbing Inspector | Deleted | 33635 | 35 | | Senior Police Administrative Aide |  | 10147 | 35 | | Senior Probation Officer | Deleted | 51835 | 37.5 | | Senior Program Specialist (DOC) | Deleted | 60949 | 35 | | Senior Project Coordinator | Deleted | 22422 | 35 | | Senior Project Development Coordinator | Deleted | 22530 | 35 | | Senior Project Services Specialist | Deleted | 22531 | 35 | | Senior Psychologist | Deleted | 52135 | 35 | | Senior Public Health Adviser (Communicable Disease Control) | Deleted | 51192 | 35 | | Senior Public Health Educator | Deleted | 51135 | 35 | | Senior Public Health Officer (District Health Administration) | Deleted | 52804 | 35 | | Senior Public Health Officer (Medical Services) | Deleted | 52805 | 35 | | Senior Public Health Sanitarian | Deleted | 31235 | 40 |
 
 2001-2021 CITYWIDE AGREEMENT
 22016
 85
 t
 
-
 |  | Added | 30831 | 40 |
 | --- | --- | --- | --- |
-| Senior Rehabilitation Counselor | Deleted | 51215 | 35 |
-| Senior Ren! Examiner . | Deleted | 30765 | 35 ! |
-| Senior Repair Crew Chief (HOA) |  | 90574 | 35 |
-| Senior Right of Way Negotiator | Deleted | 40431 | 35 |
-| Senior Salvage Appraiser |  | 12176 | I 35 |
-| Senior Satisfaction Clerk | Deleted | 30410 | 35 ! |
-| Senior Sclenllst(Radlation Control) | Deleted | 21526 | 35 |
-| Senior Secretary |  | 10220 | 35 |
-| Senior Service Inspector (DOT) | Accreted | 33766 | 35 |
-| Senior Special Officer | Deleted | 70815 | 40 |
-| Senior Statistician | Deleted | 40615 | 35 |
-| Senior Student Legal Specialist (Law Department) |  | 06517 | 35 |
-| Senior Supervisor (Exterminators) | Deleted | 90560 | 35 |
-| Senior Supervisor of Mechanical Installations | Deleted | 34235 | 35 |
-| Senior Systems Analysl |  | 12648 | 35 |
-| Senior Systems Analyst (EDP) (HMH) | Added | 12651 | 35 |
-| Senior Tabulator Operator | Deleted | 11033 | 35 |
-| Senior Taxi & Limousine Inspector | Deleted | 35134 | 35 |
-| Senior TIiie Examiner |  | 30810 | 35 |
-| Senior Traffic Conlrol Inspector | Deleled | 31735 | 35 |
-| Senior Transportation Inspector | Deleted | 35135 | 35 |
-| Senior Urban Designer | Deleted | 22094 | 35 |
-| Senior Water Use Inspector | Deleted | 34635 | 35 |
-| Senior Waterfront Construction Inspector | Deleted | 34535 | 35 |
-| Senior X-Ray Technician | Deleted | 51335 | 35 |
-| Service Inspector (DOT) | Accreted | 33765 | 35 |
-| Shoemaker |  | 90740 | 35 |
-| Shop Clerk | Deleted | 10132 | 35 |
-| Site Caretaker | no record | 81175 |  |
-| Social Worker |  | 52613 | 35 |
-| Space Analyst | Added | 80184 | 35 |
-| Special Consultant (Menlal Health Slandards and Services | Accreted | 51001 | 35 |
-| Special Consultant (Mental Health Standards and Services) AL II | Accreted | 5100C | 35 |
-| Special Officer (HRA. ACS. DOHMH OHS, DJJ Special Officers removed from Citywide Aoreemenl coveraoe lhrouoh L""islat onl | Accreted | 70810 | 40 |
-| Special Officer (Aqueduct Patrol) | Deleted | 70501 | 40 |
-| Speech and Hearing Therapist | Deleted | 51212 | 35 |
-| Speech Pathologist (DOHMH) | Deleted | 51252 | 35 |
-| Staff Analyst 1 |  | 12626 | 35 |
-| Staff Analyst Trainee |  | 12749 | 35 |
-| Slaff Audiologist |  | 51239 | 35 |
-| Staff Nurse |  | 50910 | 40 |
-| Slaff Nurse (Depl. for the Aging) | Deleted | 05490 | 40 |
-| Slaff Speech Pathologist | Deleted | 51253 | 35 |
-| Statistical Secretary (0MB) |  | 05363 | 35 |
-| Slalislician |  | 40610 | 35 |
-| Stenographer | Deleted | 10205 | 35 |
-| Stenographer/Secretary | Deleled | 10206 | 35 |
-| Stenographic Specialist |  | 10217 ' | 35 ' |
+| Senior Rehabilitation Counselor | Deleted | 51215 | 35 | | Senior Ren! Examiner . | Deleted | 30765 | 35 ! | | Senior Repair Crew Chief (HOA) |  | 90574 | 35 | | Senior Right of Way Negotiator | Deleted | 40431 | 35 | | Senior Salvage Appraiser |  | 12176 | I 35 | | Senior Satisfaction Clerk | Deleted | 30410 | 35 ! | | Senior Sclenllst(Radlation Control) | Deleted | 21526 | 35 | | Senior Secretary |  | 10220 | 35 | | Senior Service Inspector (DOT) | Accreted | 33766 | 35 | | Senior Special Officer | Deleted | 70815 | 40 | | Senior Statistician | Deleted | 40615 | 35 | | Senior Student Legal Specialist (Law Department) |  | 06517 | 35 | | Senior Supervisor (Exterminators) | Deleted | 90560 | 35 | | Senior Supervisor of Mechanical Installations | Deleted | 34235 | 35 | | Senior Systems Analysl |  | 12648 | 35 | | Senior Systems Analyst (EDP) (HMH) | Added | 12651 | 35 | | Senior Tabulator Operator | Deleted | 11033 | 35 | | Senior Taxi & Limousine Inspector | Deleted | 35134 | 35 | | Senior TIiie Examiner |  | 30810 | 35 | | Senior Traffic Conlrol Inspector | Deleled | 31735 | 35 | | Senior Transportation Inspector | Deleted | 35135 | 35 | | Senior Urban Designer | Deleted | 22094 | 35 | | Senior Water Use Inspector | Deleted | 34635 | 35 | | Senior Waterfront Construction Inspector | Deleted | 34535 | 35 | | Senior X-Ray Technician | Deleted | 51335 | 35 | | Service Inspector (DOT) | Accreted | 33765 | 35 | | Shoemaker |  | 90740 | 35 | | Shop Clerk | Deleted | 10132 | 35 | | Site Caretaker | no record | 81175 |  | | Social Worker |  | 52613 | 35 | | Space Analyst | Added | 80184 | 35 | | Special Consultant (Menlal Health Slandards and Services | Accreted | 51001 | 35 | | Special Consultant (Mental Health Standards and Services) AL II | Accreted | 5100C | 35 | | Special Officer (HRA. ACS. DOHMH OHS, DJJ Special Officers removed from Citywide Aoreemenl coveraoe lhrouoh L""islat onl | Accreted | 70810 | 40 | | Special Officer (Aqueduct Patrol) | Deleted | 70501 | 40 | | Speech and Hearing Therapist | Deleted | 51212 | 35 | | Speech Pathologist (DOHMH) | Deleted | 51252 | 35 | | Staff Analyst 1 |  | 12626 | 35 | | Staff Analyst Trainee |  | 12749 | 35 | | Slaff Audiologist |  | 51239 | 35 | | Staff Nurse |  | 50910 | 40 | | Slaff Nurse (Depl. for the Aging) | Deleted | 05490 | 40 | | Slaff Speech Pathologist | Deleted | 51253 | 35 | | Statistical Secretary (0MB) |  | 05363 | 35 | | Slalislician |  | 40610 | 35 | | Stenographer | Deleted | 10205 | 35 | | Stenographer/Secretary | Deleled | 10206 | 35 | | Stenographic Specialist |  | 10217 ' | 35 ' |
 
 2001-2021 CITYWIDE AGREEMENT
 '
@@ -2675,845 +1492,93 @@ I
 22016 -~
 86
 
-
-| Stenographic/Secretarial Associate | Deleted | 10211 | 35 |
-| --- | --- | --- | --- |
-| Stock Worker |  | 12200 | 35 |
-| Stockman | Deleted | 12210 | 35 |
-| Strategic Initiative Specialist (NC_DEP) | Accreted | 50940 | 35 |
-| Strategic Initiative Specialist (NC_DOT) | Accreted | 50103 | 35 |
-| Strategic lnlllalive Specialist (NC_HRA) | Accreted | 50938 | 35 |
-| Student Legal Specialist (Klngs D.A.) | Deleted | 05310 | 35 |
-| Student Legal Specialist (Law Department) |  | 05072 | 35 |
-| Superintendent Bridge House | Deleted | 52281 | 35 |
-| Superintendent of Adult Institutions |  | 52279 | 35 |
-| Superintendent of Construction and Repairs | Deleted | 91375 | 35 |
-| Superintendent of Laundries |  | 80880 | 40 |
-| Supervising Accountant | Deleted | 40520 | 35 |
-| Supervising Air Pollution Inspector | Deleted | 31355 | 35 |
-| Supervising Appraiser (Real Estate) | Deleted | 40420 | 35 |
-| Supervising Area Services Coordinator | Deleted | 22559 | 35 |
-| Supervising Assessor | Deleted | 40220 | 35 |
-| Supervising Audiologist | Deleted | 51240 | 35 |
-| Supervising Auditor of Accounts | Deleted | 40820 | 35 |
-| Supervising Blasting Inspector |  | 31840 | 35 |
-| Supervising Bookbinder |  | 92170 | 35 |
-| Supervising Clerk | Deleted | 10120 | 35 |
-| Supervising Computer Operator | Deleted | 13513 | 35 |
-| Supervising Computer Service Technician |  | 13616 | 35 |
-| Supervising Consumer Affairs Inspector | Deleted | 33993 | 35 |
-| Supervising Correctional Counselor | Deleted | 51275 | 35 |
-| Supervising Counselor (Addiction Treatment) | Deleted | 51217 | 35 |
-| Supervising Custodian or Children | Deleted | 52298 | 35 |
-| Supervising Demolition Inspector |  | 32455 | 35 |
-| Supervising Deputy Sheriff- removed from citywide per legislation |  | 30315 | 40 |
-| Supervising Dockmaster |  | 81660 | 40 |
-| Supervising Economist | Deleted | 40920 | 35 |
-| Supervising Emergency Medical Service Specialist (removed from Citywide Agreement) |  | 53055 | 35 |
-| Supervising Emergency Medical Service Specialist (Detailed as Deputy Chief or Division Commander) (removed from Citvwide AoreemenO | Added | 5305E | 37.5 |
-| Supervising Environmental Control Technician | Deleted | 90973 | 35 |
-| Supervising Fire Alarm Dispatcher- removed from citywide per legislation |  | 71060 | 40 |
-| Supervising Fire Prevention Inspector | Deleted | 31655 | 35 |
-| Supervising Health Resource Coordinator | Deleted | 51113 | 35 |
-| Supervising Home Economist | Deleted | 50560 | 35 |
-| Supervising Housekeeper |  | 80760 | 35 |
-| Supervising Hull and Machinery Inspector | Deleted | 33355 | 35 |
-| Supervising Human Resources Specialist | Deleted | 56040 | 35 |
-| Supervising Human Resources Specialist (Auditing) | Deleted | 56044 | 35 |
-| Supervising Human Resources Specialist (Community Programs) | Deleted | 56042 | 35 |
-| Supervising Human Resources Specialist (EDT) | Deleted | 56043 | 35 |
-| Supervising Human Resources Specialist (Management) | Deleted | 56041 | 35 |
-| Supervising Institutional Inspector | Deleted | 31455 | 35 |
-| Supervising Investment Analyst | Deleted | 40927 | 35 |
-| Supervising Laundry Worker ' | Deleted | 71494 | 40 |
+| Stenographic/Secretarial Associate | Deleted | 10211 | 35 | | --- | --- | --- | --- | | Stock Worker |  | 12200 | 35 | | Stockman | Deleted | 12210 | 35 | | Strategic Initiative Specialist (NC_DEP) | Accreted | 50940 | 35 | | Strategic Initiative Specialist (NC_DOT) | Accreted | 50103 | 35 | | Strategic lnlllalive Specialist (NC_HRA) | Accreted | 50938 | 35 | | Student Legal Specialist (Klngs D.A.) | Deleted | 05310 | 35 | | Student Legal Specialist (Law Department) |  | 05072 | 35 | | Superintendent Bridge House | Deleted | 52281 | 35 | | Superintendent of Adult Institutions |  | 52279 | 35 | | Superintendent of Construction and Repairs | Deleted | 91375 | 35 | | Superintendent of Laundries |  | 80880 | 40 | | Supervising Accountant | Deleted | 40520 | 35 | | Supervising Air Pollution Inspector | Deleted | 31355 | 35 | | Supervising Appraiser (Real Estate) | Deleted | 40420 | 35 | | Supervising Area Services Coordinator | Deleted | 22559 | 35 | | Supervising Assessor | Deleted | 40220 | 35 | | Supervising Audiologist | Deleted | 51240 | 35 | | Supervising Auditor of Accounts | Deleted | 40820 | 35 | | Supervising Blasting Inspector |  | 31840 | 35 | | Supervising Bookbinder |  | 92170 | 35 | | Supervising Clerk | Deleted | 10120 | 35 | | Supervising Computer Operator | Deleted | 13513 | 35 | | Supervising Computer Service Technician |  | 13616 | 35 | | Supervising Consumer Affairs Inspector | Deleted | 33993 | 35 | | Supervising Correctional Counselor | Deleted | 51275 | 35 | | Supervising Counselor (Addiction Treatment) | Deleted | 51217 | 35 | | Supervising Custodian or Children | Deleted | 52298 | 35 | | Supervising Demolition Inspector |  | 32455 | 35 | | Supervising Deputy Sheriff- removed from citywide per legislation |  | 30315 | 40 | | Supervising Dockmaster |  | 81660 | 40 | | Supervising Economist | Deleted | 40920 | 35 | | Supervising Emergency Medical Service Specialist (removed from Citywide Agreement) |  | 53055 | 35 | | Supervising Emergency Medical Service Specialist (Detailed as Deputy Chief or Division Commander) (removed from Citvwide AoreemenO | Added | 5305E | 37.5 | | Supervising Environmental Control Technician | Deleted | 90973 | 35 | | Supervising Fire Alarm Dispatcher- removed from citywide per legislation |  | 71060 | 40 | | Supervising Fire Prevention Inspector | Deleted | 31655 | 35 | | Supervising Health Resource Coordinator | Deleted | 51113 | 35 | | Supervising Home Economist | Deleted | 50560 | 35 | | Supervising Housekeeper |  | 80760 | 35 | | Supervising Hull and Machinery Inspector | Deleted | 33355 | 35 | | Supervising Human Resources Specialist | Deleted | 56040 | 35 | | Supervising Human Resources Specialist (Auditing) | Deleted | 56044 | 35 | | Supervising Human Resources Specialist (Community Programs) | Deleted | 56042 | 35 | | Supervising Human Resources Specialist (EDT) | Deleted | 56043 | 35 | | Supervising Human Resources Specialist (Management) | Deleted | 56041 | 35 | | Supervising Institutional Inspector | Deleted | 31455 | 35 | | Supervising Investment Analyst | Deleted | 40927 | 35 | | Supervising Laundry Worker ' | Deleted | 71494 | 40 |
 
 2001-2021 CITYWIDE AGREEMENT
 87 22016 1
 
-
-| Supervising Medical Records Librarian | Deleted | 50837 | 35 |
-| --- | --- | --- | --- |
-| Supervising Mental Health Worker | Deleted | 51264 | 35 |
-| Supervising Nutritionist | Deleted | 50460 | 35 |
-| Supervising Parking Meter Collector | Deleted | 41112 | 35 |
-| Supervising Parking Meter Service Worker | Deleted | 41113 | 40 |
-| Supervising Pharmacist | Deleted | 50650 | 37.5 |
-| Supervising Police Communications Technician |  | 71013 | 35 |
-| Supervising Probation Officer |  | 51860 | 37.5 |
-| Supervising Public Health Adviser (CDC) |  | 51193 | 35 |
-| Supervising Public Health Nurse | Deleted | 51060 | 35 |
-| Supervising Public Health Sanitarian | Deleted | 31255 | 40 |
-| Supervising Rackets Investigator | Added | 30832 | 40 |
-| Supervising Special Officer (HRA. ACS. DOHMH, OHS, DJJ Supervising Special Officers removed from Citwr.de Aoreement coveraoe throuoh LeCJlslation) |  | 70817 | 40 |
-| Supervising Speech Pathologist | Deleted | 51254 | 35 |
-| Supervising Systems Analyst (HMH) | Added | 12650 | 35 |
-| Supervising Taxi & Limousine Inspector | Deleted | 35140 | 35 |
-| Supervising Therapist |  | 51241 | 35 |
-| Supervising Traffic Control lnspedor | Deleted | 31750 | 35 |
-| Supervising Water Use Inspector | Deleted | 34655 | 35 |
-| Supervisor (Exterminators) | Deleted | 90535 | 35 |
-| Supervisor (Methadone Treatment Center) | Deleted | 51247 | 35 |
-| Supervisor (Pest Control) |  | 90505 | 35 |
-| Supervisor I (Social Work) |  | 52631 | 35 |
-| Supervisor I (Welfare) |  | 52311 | 35 |
-| Supervisor ll (Social Work) |  | 52632 | 35 |
-| Supervisor 11 (Welfare) |  | 52312 | 35 |
-| Supervisor Ill (Social Work) |  | 52633 | 35 |
-| Supervisor Ill (Welfare) |  | 52313 | 35 |
-| Supervisor of Bridge Operations | Deleted | 91160 | 40 |
-| Supervisor of Building Custodians | Deleted | 80660 | 40 |
-| Supervisor of Child Care |  | 52315 | 35 |
-| Supervisor of Electrical Installations and Maintenance |  | 34205 | 35 |
-| Supervisor or Ironwork |  | 92376 | 40 |
-| Supervisor of Mechanical Installations and Maintenance |  | 34221 | 35 |
-| Supervisor of Mechanics (Mechanical Equipment) |  | 92575 | 40 |
-| Supervisor of Motor Transport |  | 91279 | 40 |
-| Supervisor of Nurses 3 |  | 50960 | 40 |
-| Supervisor of Office Machine Operations |  | 11704 | 35 |
-| Supervisor of Radio & Television Operations |  | 90436 | 35 |
-| Supervisor of School Security |  | 60820 | 40 |
-| Supervisor of Stock Workers |  | 12202 | 35 |
-| Supervisor of Traffic Device Maintainers |  | 90904 | 40 |
-| Supervisor of Traffic Safety Education | Deleted | 60818 | 35 |
-| Supervisor of X-Ray Technician Services | Deleted | 51360 | 35 |
-| Supervisor of Youth Services | Deleted | 51444 | 35 |
-| Supervisor of Youth Services (Research) | Deleted | 51446 | 35 |
-| Supervisors of Investigators | Accreted | 31166 | 35 |
-| Surveyor |  | 21015 | 35 |
-| Systems Administrator (CFB) |  | 06602 | 35 |
+| Supervising Medical Records Librarian | Deleted | 50837 | 35 | | --- | --- | --- | --- | | Supervising Mental Health Worker | Deleted | 51264 | 35 | | Supervising Nutritionist | Deleted | 50460 | 35 | | Supervising Parking Meter Collector | Deleted | 41112 | 35 | | Supervising Parking Meter Service Worker | Deleted | 41113 | 40 | | Supervising Pharmacist | Deleted | 50650 | 37.5 | | Supervising Police Communications Technician |  | 71013 | 35 | | Supervising Probation Officer |  | 51860 | 37.5 | | Supervising Public Health Adviser (CDC) |  | 51193 | 35 | | Supervising Public Health Nurse | Deleted | 51060 | 35 | | Supervising Public Health Sanitarian | Deleted | 31255 | 40 | | Supervising Rackets Investigator | Added | 30832 | 40 | | Supervising Special Officer (HRA. ACS. DOHMH, OHS, DJJ Supervising Special Officers removed from Citwr.de Aoreement coveraoe throuoh LeCJlslation) |  | 70817 | 40 | | Supervising Speech Pathologist | Deleted | 51254 | 35 | | Supervising Systems Analyst (HMH) | Added | 12650 | 35 | | Supervising Taxi & Limousine Inspector | Deleted | 35140 | 35 | | Supervising Therapist |  | 51241 | 35 | | Supervising Traffic Control lnspedor | Deleted | 31750 | 35 | | Supervising Water Use Inspector | Deleted | 34655 | 35 | | Supervisor (Exterminators) | Deleted | 90535 | 35 | | Supervisor (Methadone Treatment Center) | Deleted | 51247 | 35 | | Supervisor (Pest Control) |  | 90505 | 35 | | Supervisor I (Social Work) |  | 52631 | 35 | | Supervisor I (Welfare) |  | 52311 | 35 | | Supervisor ll (Social Work) |  | 52632 | 35 | | Supervisor 11 (Welfare) |  | 52312 | 35 | | Supervisor Ill (Social Work) |  | 52633 | 35 | | Supervisor Ill (Welfare) |  | 52313 | 35 | | Supervisor of Bridge Operations | Deleted | 91160 | 40 | | Supervisor of Building Custodians | Deleted | 80660 | 40 | | Supervisor of Child Care |  | 52315 | 35 | | Supervisor of Electrical Installations and Maintenance |  | 34205 | 35 | | Supervisor or Ironwork |  | 92376 | 40 | | Supervisor of Mechanical Installations and Maintenance |  | 34221 | 35 | | Supervisor of Mechanics (Mechanical Equipment) |  | 92575 | 40 | | Supervisor of Motor Transport |  | 91279 | 40 | | Supervisor of Nurses 3 |  | 50960 | 40 | | Supervisor of Office Machine Operations |  | 11704 | 35 | | Supervisor of Radio & Television Operations |  | 90436 | 35 | | Supervisor of School Security |  | 60820 | 40 | | Supervisor of Stock Workers |  | 12202 | 35 | | Supervisor of Traffic Device Maintainers |  | 90904 | 40 | | Supervisor of Traffic Safety Education | Deleted | 60818 | 35 | | Supervisor of X-Ray Technician Services | Deleted | 51360 | 35 | | Supervisor of Youth Services | Deleted | 51444 | 35 | | Supervisor of Youth Services (Research) | Deleted | 51446 | 35 | | Supervisors of Investigators | Accreted | 31166 | 35 | | Surveyor |  | 21015 | 35 | | Systems Administrator (CFB) |  | 06602 | 35 |
 
 2001•2021 CITYWIDE AGREEMENT 88 22016
 
-
-| Systems Analyst |  | 12647 | 35 |
-| --- | --- | --- | --- |
-| Tabulator Operator | Deleted | 11032 | 35 |
-| Tax Auditor | Deleted | 40521 | 35 |
-| Tax Map Cartographer | Added | 21006 | 35 |
-| Taxi & Limousine lnspector(removed from Citywide Agreement coverage through Legislation) | Accreted | 35116 | 35 |
-| Teacher (DOC) | no record | 00101 | 35 |
-| Technical Support Aide | Deleted | 13610 | 35 |
-| Telecommunications Associate | Deleted | 20243 | 35 |
-| Telecommunications Associate (Data) | Accreted | 20246 | 35 |
-| Telecommunications Associate (Voice) | Accreted | 20247 | 35 |
-| Telecommunications Manager (Former M I & II) | Accreted | 8298A | 35 |
-| Telecommunications Specialist | Deleted | 20245 | 35 |
-| Telephone Operator | Deleted | 10805 | 35 |
-| Telephone Service Technician | Added | 92590 | 35 |
-| Television Equipment Operator | Deleted | 90311 | 35 |
-| Television Lighting Technician |  | 90310 | 35 |
-| Tesls & Measurement Intern | Deleted | 12700 | 35 |
-| Tests & Measurement Specialist |  | 12704 | 35 |
-| Title Examiner |  | 30805 | 35 |
-| Traffic Control Inspector |  | 31715 | 35 |
-| Traffic Device Maintainer |  | 90910 | 40 |
-| Traffic Enforcement Agent (removed from Citywide Agreement coverage through Legislation) | Accreted | 71651 | 40 |
-| Training Coordinator ( C.O. ) | Deleted | 71496 | 35 |
-| Training Development Specialist | Deleted | 12618 | 35 |
-| Training Development Specialist Trainee | Deleted | 12616 | 35 |
-| Transcribing Typist | Deleted | 10308 | 35 |
-| Transportation Inspector | Deleted | 35115 | 35 |
-| Transportation Speclalsll | Added | 22316 | 35 |
-| Typist | Deleted | 10305 | 35 |
-| Urban Archeologlst |  | 92248 | 35 |
-| Urban Designer | Deleted | 22093 | 35 |
-| Urban Park Ranger(removed from Citywide Agreement coverage through Legislation) |  | 60421 | 35 |
-| Veterinarian | Deleted | 50710 | 35 |
-| Washer | Deleted | 90111 | 37.5 |
-| Watch Person | Deleted | 81010 | 40 |
-| water Meter Reader | Deleted | 34600 | 35 |
-| water Plant Operator | Deleted | 91010 | 40 |
-| water Treatment Plant Operator | Accreted | 91013 | 40 |
-| water Use Inspector |  | 34615 | 35 |
-| Water Use Inspector Trainee | Deleted | 34601 | 35 |
-| Waterfront Construction Inspector | Deleted | 34515 | 35 |
-| Watershed Maintainer |  | 91011 | 40 |
-| VVindow Cleaner | Deleted | 90749 | 40 |
-| Word Processor | Deleted | 10302 | 35 |
-| Workers' Compensation Benefits Examiner |  | 40482 | 35 |
-| X-Ray Technician |  | 51310 | 35 |
-| Youth Coordinator (Youth Services) |  | 51402 | 35 |
-| Youth Development Specialist | Added | 52287 | 35 |
-| Youth Services Specialist | Deleted | 51438 | 35 |
+| Systems Analyst |  | 12647 | 35 | | --- | --- | --- | --- | | Tabulator Operator | Deleted | 11032 | 35 | | Tax Auditor | Deleted | 40521 | 35 | | Tax Map Cartographer | Added | 21006 | 35 | | Taxi & Limousine lnspector(removed from Citywide Agreement coverage through Legislation) | Accreted | 35116 | 35 | | Teacher (DOC) | no record | 00101 | 35 | | Technical Support Aide | Deleted | 13610 | 35 | | Telecommunications Associate | Deleted | 20243 | 35 | | Telecommunications Associate (Data) | Accreted | 20246 | 35 | | Telecommunications Associate (Voice) | Accreted | 20247 | 35 | | Telecommunications Manager (Former M I & II) | Accreted | 8298A | 35 | | Telecommunications Specialist | Deleted | 20245 | 35 | | Telephone Operator | Deleted | 10805 | 35 | | Telephone Service Technician | Added | 92590 | 35 | | Television Equipment Operator | Deleted | 90311 | 35 | | Television Lighting Technician |  | 90310 | 35 | | Tesls & Measurement Intern | Deleted | 12700 | 35 | | Tests & Measurement Specialist |  | 12704 | 35 | | Title Examiner |  | 30805 | 35 | | Traffic Control Inspector |  | 31715 | 35 | | Traffic Device Maintainer |  | 90910 | 40 | | Traffic Enforcement Agent (removed from Citywide Agreement coverage through Legislation) | Accreted | 71651 | 40 | | Training Coordinator ( C.O. ) | Deleted | 71496 | 35 | | Training Development Specialist | Deleted | 12618 | 35 | | Training Development Specialist Trainee | Deleted | 12616 | 35 | | Transcribing Typist | Deleted | 10308 | 35 | | Transportation Inspector | Deleted | 35115 | 35 | | Transportation Speclalsll | Added | 22316 | 35 | | Typist | Deleted | 10305 | 35 | | Urban Archeologlst |  | 92248 | 35 | | Urban Designer | Deleted | 22093 | 35 | | Urban Park Ranger(removed from Citywide Agreement coverage through Legislation) |  | 60421 | 35 | | Veterinarian | Deleted | 50710 | 35 | | Washer | Deleted | 90111 | 37.5 | | Watch Person | Deleted | 81010 | 40 | | water Meter Reader | Deleted | 34600 | 35 | | water Plant Operator | Deleted | 91010 | 40 | | water Treatment Plant Operator | Accreted | 91013 | 40 | | water Use Inspector |  | 34615 | 35 | | Water Use Inspector Trainee | Deleted | 34601 | 35 | | Waterfront Construction Inspector | Deleted | 34515 | 35 | | Watershed Maintainer |  | 91011 | 40 | | VVindow Cleaner | Deleted | 90749 | 40 | | Word Processor | Deleted | 10302 | 35 | | Workers' Compensation Benefits Examiner |  | 40482 | 35 | | X-Ray Technician |  | 51310 | 35 | | Youth Coordinator (Youth Services) |  | 51402 | 35 | | Youth Development Specialist | Added | 52287 | 35 | | Youth Services Specialist | Deleted | 51438 | 35 |
 
 2001 •2021 CITYWIDE AGREEMENT
 89
 
-
-| TITLE | TITLE CODE | WORK WEEK |
-| --- | --- | --- |
-| Accountable Care Manaaer (Established March 20 2017) | 509530 | 37.5 |
-| Accountant | 405100 | 35 |
-| Activltv Theraolst - Deleted Seatember 8, 2006 | 004780 | 35 |
-| Activitv Theraaist Level I (Est Seotember 8 2006) | 004780 | 35 |
-| Activity Therapist Level II (Est September 8, 2006) | 004790 | 35 |
-| Activity Therapist Level Ill (Est September 8, 2006) | 004800 | 35 |
-| Addiction Counselor -Level I | 000550 | 35 |
-| Addiction Counselor -Level II | 000530 | 35 |
-| Addiction Pl'OQram Administrator (Accreted March 6, 2012) | 000560 | 35 |
-| Addiction Specialist-Deleted June 15. 2019 | 560700 | 35 |
-| Administrative Manaaer (Non Manaaeriall !Est Julv 31. 2015! | 100250 | 35 |
-| Administrative Staff Analvst Level I (Est Julv 31, 2015l | 100260 | 35 |
-| Administrative Staff Analvst level II !Est Julv 31, 2015! | 100270 | 35 |
-| Aaencv Attomev Intern !Est Julv 31, 2015; Deleted June 15, 2019l | 300860 | 35 |
-| Ambulance Technician - Deleted Mav 13, 2021 | 001060 | 37.5 |
-| Ambulatorv Care Technician | 001850 | 37.5 |
-| Anesthetist - Deleted June 15. 2019 | 531010 | 35 |
-| Architect-Deleted June 15. 2019 | 212150 | 35 |
-| Architectural Intern | 212050 | 35 |
-| Assistant Accountant-Deleted June 15. 2019 | 405050 | 35 |
-| Assistant Addiction Counselor | 000540 | 35 |
-| Assistant Architect | 212100 | 35 |
-| Assistant Bio-Medical Eauloment Technician | 215610 | 35 |
-| Assistant Chemist | 218100 | 35 |
-| Assistant Civil Ennlneer | 202100 | 35 |
-| Assistant Community Liaison Worker - Deleted Julv 15, 2013 | 560920 | 35 |
-| Assistant Coordinatina Manaaer | 003820 | 35 |
-| Assistant Director of Trainlmi and Develooment Level A (Accreted September 9, 2015) | 107500 | 35 |
-| Assistant Director or Tralnlnci and Development Level B (Accreted September 9. 2015) | 107600 | 35 |
-| Assistant Electrical Enalneer | 203100 | 35 |
-| Assistant Head Nurse | 000480 | 37.5 |
-| Assistant Health Care Proaram Planner/Analvst | 000300 | 35 |
-| Assistant Heallh Facilities Planner | 220810 | 35 |
-| Assistant Laundrv Supervisor - Deleted June 15. 2019 | 808100 | 37.5 |
-| Assistant Mechanical EllQlneer | 204100 | 35 |
-| Assistant Media Services Technician | 005020 | 35 |
-| Assistant Phvslclst | 220100 | 35 |
-| Assistant Phvslcist (Electronics) | 220110 | 35 |
+| TITLE | TITLE CODE | WORK WEEK | | --- | --- | --- | | Accountable Care Manaaer (Established March 20 2017) | 509530 | 37.5 | | Accountant | 405100 | 35 | | Activltv Theraolst - Deleted Seatember 8, 2006 | 004780 | 35 | | Activitv Theraaist Level I (Est Seotember 8 2006) | 004780 | 35 | | Activity Therapist Level II (Est September 8, 2006) | 004790 | 35 | | Activity Therapist Level Ill (Est September 8, 2006) | 004800 | 35 | | Addiction Counselor -Level I | 000550 | 35 | | Addiction Counselor -Level II | 000530 | 35 | | Addiction Pl'OQram Administrator (Accreted March 6, 2012) | 000560 | 35 | | Addiction Specialist-Deleted June 15. 2019 | 560700 | 35 | | Administrative Manaaer (Non Manaaeriall !Est Julv 31. 2015! | 100250 | 35 | | Administrative Staff Analvst Level I (Est Julv 31, 2015l | 100260 | 35 | | Administrative Staff Analvst level II !Est Julv 31, 2015! | 100270 | 35 | | Aaencv Attomev Intern !Est Julv 31, 2015; Deleted June 15, 2019l | 300860 | 35 | | Ambulance Technician - Deleted Mav 13, 2021 | 001060 | 37.5 | | Ambulatorv Care Technician | 001850 | 37.5 | | Anesthetist - Deleted June 15. 2019 | 531010 | 35 | | Architect-Deleted June 15. 2019 | 212150 | 35 | | Architectural Intern | 212050 | 35 | | Assistant Accountant-Deleted June 15. 2019 | 405050 | 35 | | Assistant Addiction Counselor | 000540 | 35 | | Assistant Architect | 212100 | 35 | | Assistant Bio-Medical Eauloment Technician | 215610 | 35 | | Assistant Chemist | 218100 | 35 | | Assistant Civil Ennlneer | 202100 | 35 | | Assistant Community Liaison Worker - Deleted Julv 15, 2013 | 560920 | 35 | | Assistant Coordinatina Manaaer | 003820 | 35 | | Assistant Director of Trainlmi and Develooment Level A (Accreted September 9, 2015) | 107500 | 35 | | Assistant Director or Tralnlnci and Development Level B (Accreted September 9. 2015) | 107600 | 35 | | Assistant Electrical Enalneer | 203100 | 35 | | Assistant Head Nurse | 000480 | 37.5 | | Assistant Health Care Proaram Planner/Analvst | 000300 | 35 | | Assistant Heallh Facilities Planner | 220810 | 35 | | Assistant Laundrv Supervisor - Deleted June 15. 2019 | 808100 | 37.5 | | Assistant Mechanical EllQlneer | 204100 | 35 | | Assistant Media Services Technician | 005020 | 35 | | Assistant Phvslclst | 220100 | 35 | | Assistant Phvslcist (Electronics) | 220110 | 35 |
 
 New York City Health & Hospital Corporation Title Codes
 22016
 ~
 2001-2021 CITYWIDE AGREEMENT 90
 
-
-| Assistant Physicist (lsoloDes) | 220120 | 35 |
-| --- | --- | --- |
-| Assistant Phvslcist /Radiation) | 220130 | 35 |
-| Assistant PlannlnQ-Schedulina Analvst | 039660 | 35 |
-| Assistant Prlnlina Press Ooerator | 921220 | 40 |
-| Assistant Purchasina Aaent - Deleted Januarv 21. 2001 | 963400 | 35 |
-| Assistant Statistician - Deleted Mav 13, 2021 | 406050 | 35 |
-| Assistant Stock Handler - Deleted October 10. 2008 | 122070 | 35 |
-| Assistant Svstems Analvst | 039270 | 35 |
-| Assistant Svstems Analvst IEDPl | 040010 | 35 |
-| Assistant Svstems Analvst (Finance} | 039310 | 35 |
-| Associate Accountant | 405170 | 35 |
-| Associate Bookkeener - Deleted March 23. 2010 | 405270 | 35 |
-| Associate Chemist -Level I | 963010 | 35 |
-| Associate Chemist -Level II | 963020 | 35 |
-| Associate Chemist• Level Ill | 963030 | 35 |
-| Associate Correctional Counselor Level I <Est Julv 31, 20151 | 512740 | 35 |
-| Associate Correctional Counselor Level II IEst Julv 31. 20151 | 512750 | 35 |
-| Associate Enaineerlna Technician -Level I | 961710 | 35 |
-| Associate Enaineerlna Technician -Level II | 961720 | 35 |
-| Associate Laboratory MlcrobioliQ!st -Level 1-Deleted June 15. 2019 | 962910 | 35 |
-| Associate Laboratorv Mlcroblolialst • Level II -Deleted June 15, 2019 | 962920 | 35 |
-| Associate Laboratorv Microblolioist -Level Ill - Deleted June 15. 2019 | 962930 | 35 |
-| Associate Medical Record SDeclalist | 508360 | 35 |
-| Associate Nurse Midwife • Level A | 965130 | 37.5 |
-| Associate Nurse Midwife -Level B | 965140 | 37.5 |
-| Associate Nurse Practitioner• Level I-Deleted Mav 13, 2021 | 966410 | 37.5 |
-| Associate Nurse Practitioner• Level II - Deleted Mav 13. 2021 | 966420 | 37.5 |
-| Associate Pharmacist -Level I - Deleted November 27. 2006 | 985110 | 37.5 |
-| Associate Pharmacist• Level II - Deleted November 27, 2006 | 985120 | 37.5 |
-| Associate Pharmacist• Level 111-Deleted November 27. 2006 | 985130 | 37,5 |
-| Associate Pharmacist • Level IV - Deleted November 27. 2006 | 985140 | 37.5 |
-| Associate Radloaraoher -Level I -Deleted Januarv 11. 2021 | 966110 | 35 |
-| Associate RadioQraDher • Level II - Deleted Januarv 21, 2021 | 966120 | 35 |
-| Associate ResDlratorv Theraoist -Level I | 980210 | 35 |
-| Associate ResDiratorv TheraDlst -Level II | 980220 | 35 |
-| Associate Staff Analvst 1 | 126270 | 35 |
-| Associate Staff Analvst (Est Julv 31 2015} | 126270 | 35 |
-| Associate Staff Anesthetist -Level I (Not Al Deleted Mav 13, 2021 | 965110 | 35 |
-| Associate Staff Anesthetist - Level I CNot Bl Deleted Mav 13, 2021 | 965120 | 35 |
-| Associate Staff Audloloalst • Level I Deleted Mav 13. 2021 | 965910 | 35 |
-| Associate Staff Audioloaist -Level II | 965920 | 35 |
+| Assistant Physicist (lsoloDes) | 220120 | 35 | | --- | --- | --- | | Assistant Phvslcist /Radiation) | 220130 | 35 | | Assistant PlannlnQ-Schedulina Analvst | 039660 | 35 | | Assistant Prlnlina Press Ooerator | 921220 | 40 | | Assistant Purchasina Aaent - Deleted Januarv 21. 2001 | 963400 | 35 | | Assistant Statistician - Deleted Mav 13, 2021 | 406050 | 35 | | Assistant Stock Handler - Deleted October 10. 2008 | 122070 | 35 | | Assistant Svstems Analvst | 039270 | 35 | | Assistant Svstems Analvst IEDPl | 040010 | 35 | | Assistant Svstems Analvst (Finance} | 039310 | 35 | | Associate Accountant | 405170 | 35 | | Associate Bookkeener - Deleted March 23. 2010 | 405270 | 35 | | Associate Chemist -Level I | 963010 | 35 | | Associate Chemist -Level II | 963020 | 35 | | Associate Chemist• Level Ill | 963030 | 35 | | Associate Correctional Counselor Level I <Est Julv 31, 20151 | 512740 | 35 | | Associate Correctional Counselor Level II IEst Julv 31. 20151 | 512750 | 35 | | Associate Enaineerlna Technician -Level I | 961710 | 35 | | Associate Enaineerlna Technician -Level II | 961720 | 35 | | Associate Laboratory MlcrobioliQ!st -Level 1-Deleted June 15. 2019 | 962910 | 35 | | Associate Laboratorv Mlcroblolialst • Level II -Deleted June 15, 2019 | 962920 | 35 | | Associate Laboratorv Microblolioist -Level Ill - Deleted June 15. 2019 | 962930 | 35 | | Associate Medical Record SDeclalist | 508360 | 35 | | Associate Nurse Midwife • Level A | 965130 | 37.5 | | Associate Nurse Midwife -Level B | 965140 | 37.5 | | Associate Nurse Practitioner• Level I-Deleted Mav 13, 2021 | 966410 | 37.5 | | Associate Nurse Practitioner• Level II - Deleted Mav 13. 2021 | 966420 | 37.5 | | Associate Pharmacist -Level I - Deleted November 27. 2006 | 985110 | 37.5 | | Associate Pharmacist• Level II - Deleted November 27, 2006 | 985120 | 37.5 | | Associate Pharmacist• Level 111-Deleted November 27. 2006 | 985130 | 37,5 | | Associate Pharmacist • Level IV - Deleted November 27. 2006 | 985140 | 37.5 | | Associate Radloaraoher -Level I -Deleted Januarv 11. 2021 | 966110 | 35 | | Associate RadioQraDher • Level II - Deleted Januarv 21, 2021 | 966120 | 35 | | Associate ResDlratorv Theraoist -Level I | 980210 | 35 | | Associate ResDiratorv TheraDlst -Level II | 980220 | 35 | | Associate Staff Analvst 1 | 126270 | 35 | | Associate Staff Analvst (Est Julv 31 2015} | 126270 | 35 | | Associate Staff Anesthetist -Level I (Not Al Deleted Mav 13, 2021 | 965110 | 35 | | Associate Staff Anesthetist - Level I CNot Bl Deleted Mav 13, 2021 | 965120 | 35 | | Associate Staff Audloloalst • Level I Deleted Mav 13. 2021 | 965910 | 35 | | Associate Staff Audioloaist -Level II | 965920 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 91
 
-
-| Associate Staff Soeech Patholooist - Level I | 966010 | 35 |
-| --- | --- | --- |
-| Associate Staff Soeech Patholoolst - Level 11 | 966020 | 35 |
-| Associate Suoervlslna Dietitian Level A-Deleted Julv 23, 1999 | 962310 | 35 |
-| Associate Suoervislna Dietitian Level B - Deleted Julv 23, 1999 | 962320 | 35 |
-| Associate Su=rvisorv Radloaraoher -Level I Deleted May 13, 2021 | 966310 | 35 |
-| Associate Suoervisorv Radloaraoher -Level II | 966320 | 35 |
-| Associate Ultrasound Technoloaist | 005050 | 35 |
-| Allendlno Dentist Level I IEst Seotember 4, 2001) | 970310 | 40 |
-| Attendlno Dentist Level II IEst Seotember 4. 2001) | 970320 | 40 |
-| Attendino DenUst Level Ill (Est September 4, 2001) | 970330 | 40 |
-| Attendlna Phvslcian tAnnroved S.,..claltles) -Level I | 970210 | 40 |
-| Attendina Phvslcian (Aooroved Soeclaltlesl -Level II | 970220 | 40 |
-| Attendlno Phvslcian IAnnroved S.,..cialtlesl -Level Ill | 970230 | 40 |
-| Audloloav Clinician | 003800 | 35 |
-| Automotive Service Worker - Deleted June 19, 2006 | 925080 | 40 |
-| Beautician | 001360 | 37.5 |
-| Behavioral Health Associate (Accreted Mav 19 2010) | 039810 | 37.5 |
-| Bio-Medical Eauloment Technician | 215620 | 35 |
-| Bio-Medical Eauloment Technician Trainee - Deleted June 15, 2019 | 215600 | 35 |
-| Bookkeecer - Level I | 405260 | 35 |
-| Bookkeecer - Level II | 405360 | 35 |
-| Bookkeecer Level Ill IEst March 23. 2010) | 405270 | 35 |
-| Care Manager, Registered Nurse Level I (Accreted July 28, 2010, Deleted March 17, 2017 by OCB\ | 509410 | 35 |
-| Care Manager, Registered Nurse Level II (Accreted July 28, 2010; Deleted March 17. 2017 by OCBI | 509420 | 35 |
-| Caseworker | 523040 | 35 |
-| Cashier | 106050 | 35 |
-| Central Service Technician Level I (Est Januarv 1, 2015) | 004560 | 37.5 |
-| Central Service Technician Level I (Title Redassilication 1/1/2015) | 004560 | 37.5 |
-| Central Service Technician Level II (Est Januarv 1, 2015\ | 004680 | 37.5 |
-| Certified IT Administrator !Databases\ Level I !Established Julv 31, 2015: Deleted Mav 13, 2021) | 136440 | 35 |
-| Certified IT Develooer (Aaolicatlonsl Level I IEst Julv 31, 2015\ | 136430 | 35 |
-| Certified Phvslcal Theraov Assistant | 003840 | 35 |
-| Certified Resolratorv Theraov Technician IDeleted March 13, 1998) | 003350 | 35 |
-| Chemist !Deleted June 26. 1998\ | 218150 | 35 |
-| Chief Dietician (Deleted Julv 3. 19971 | 503700 | 35 |
-| Chief Psvcholoaist !Deleted Seotember 25. 1998\ | 521700 | 35 |
-| Children's Counselor | 515100 | 35 |
-| Cltv Custodial Assistant | 906440 | 40 |
-| Cltv Research Scientist Level II IEst Julv 31, 2015\ | 217450 | 35 |
-| Cltv Research Scientist Level Ill IEst Julv 31, 2015\ | 217460 | 35 |
-| Cltv Research Scientist Level IV-A IEst Julv 31, 2015) | 217470 | 35 |
+| Associate Staff Soeech Patholooist - Level I | 966010 | 35 | | --- | --- | --- | | Associate Staff Soeech Patholoolst - Level 11 | 966020 | 35 | | Associate Suoervlslna Dietitian Level A-Deleted Julv 23, 1999 | 962310 | 35 | | Associate Suoervislna Dietitian Level B - Deleted Julv 23, 1999 | 962320 | 35 | | Associate Su=rvisorv Radloaraoher -Level I Deleted May 13, 2021 | 966310 | 35 | | Associate Suoervisorv Radloaraoher -Level II | 966320 | 35 | | Associate Ultrasound Technoloaist | 005050 | 35 | | Allendlno Dentist Level I IEst Seotember 4, 2001) | 970310 | 40 | | Attendlno Dentist Level II IEst Seotember 4. 2001) | 970320 | 40 | | Attendino DenUst Level Ill (Est September 4, 2001) | 970330 | 40 | | Attendlna Phvslcian tAnnroved S.,..claltles) -Level I | 970210 | 40 | | Attendina Phvslcian (Aooroved Soeclaltlesl -Level II | 970220 | 40 | | Attendlno Phvslcian IAnnroved S.,..cialtlesl -Level Ill | 970230 | 40 | | Audloloav Clinician | 003800 | 35 | | Automotive Service Worker - Deleted June 19, 2006 | 925080 | 40 | | Beautician | 001360 | 37.5 | | Behavioral Health Associate (Accreted Mav 19 2010) | 039810 | 37.5 | | Bio-Medical Eauloment Technician | 215620 | 35 | | Bio-Medical Eauloment Technician Trainee - Deleted June 15, 2019 | 215600 | 35 | | Bookkeecer - Level I | 405260 | 35 | | Bookkeecer - Level II | 405360 | 35 | | Bookkeecer Level Ill IEst March 23. 2010) | 405270 | 35 | | Care Manager, Registered Nurse Level I (Accreted July 28, 2010, Deleted March 17, 2017 by OCB\ | 509410 | 35 | | Care Manager, Registered Nurse Level II (Accreted July 28, 2010; Deleted March 17. 2017 by OCBI | 509420 | 35 | | Caseworker | 523040 | 35 | | Cashier | 106050 | 35 | | Central Service Technician Level I (Est Januarv 1, 2015) | 004560 | 37.5 | | Central Service Technician Level I (Title Redassilication 1/1/2015) | 004560 | 37.5 | | Central Service Technician Level II (Est Januarv 1, 2015\ | 004680 | 37.5 | | Certified IT Administrator !Databases\ Level I !Established Julv 31, 2015: Deleted Mav 13, 2021) | 136440 | 35 | | Certified IT Develooer (Aaolicatlonsl Level I IEst Julv 31, 2015\ | 136430 | 35 | | Certified Phvslcal Theraov Assistant | 003840 | 35 | | Certified Resolratorv Theraov Technician IDeleted March 13, 1998) | 003350 | 35 | | Chemist !Deleted June 26. 1998\ | 218150 | 35 | | Chief Dietician (Deleted Julv 3. 19971 | 503700 | 35 | | Chief Psvcholoaist !Deleted Seotember 25. 1998\ | 521700 | 35 | | Children's Counselor | 515100 | 35 | | Cltv Custodial Assistant | 906440 | 40 | | Cltv Research Scientist Level II IEst Julv 31, 2015\ | 217450 | 35 | | Cltv Research Scientist Level Ill IEst Julv 31, 2015\ | 217460 | 35 | | Cltv Research Scientist Level IV-A IEst Julv 31, 2015) | 217470 | 35 |
 
 22016
 2001-2021 CITYWIDE AGREEMENT 92
 
-
-| Citv Ressearch Scientist Level I (Est July 31, 2015) | 217440 | 35 |
-| --- | --- | --- |
-| Civil Enalneer | 202150 | 35 |
-| Civil Enalneerina Intern | 202020 | 35 |
-| Claim Soecialist Level I (Est Januarv 7, 20071 | 307260 | 35 |
-| Claim Soecialist Level II (Est January 7, 2007) | 307270 | 35 |
-| Claim Soecialist Level Ill (Est January 7, 2007) | 307280 | 35 |
-| Clerical Associate -Level la (Deleted March 23, 20101 | 102510 | 35 |
-| Clerical Associate• Level lb (Deleted March 23, 2010) | 102610 | 35 |
-| Clerical Associate • Level II | 102620 | 35 |
-| Clerical Associate -Level Ill | 102630 | 35 |
-| Clerical Associate -Level IV | 102640 | 35 |
-| Clerical Associate • Level IVa | 102650 | 35 |
-| Client Naviaator Level I /Est November 26, 2002l | 985510 | 35 |
-| Client Naviaator Level II (Est November 26. 2002 | 985520 | 35 |
-| Clinical Business Analvst Level I <Accreted Mav 23, 2016) | 001450 | 35 |
-| Clinical Business Analvst Level II (Accreted Mav 23, 2016l | 001460 | 35 |
-| Clinical Business Analvst Level Ill (Accreted Mav 23. 2016) | 001470 | 35 |
-| Clinical Dietetic Technician | 966610 | 35 |
-| Clinical Documentation Srv>clalist Level I (Accreted May 8. 2019) | 342750 | 35 |
-| Clinical Documentation Saeclalist Level II (Accreted May 8. 2019) | 342760 | 35 |
-| Clinical Laboratorv Technician Lever I tEst Mav 6, 2009) | 971110 | 35 |
-| Clinical Laboratorv Technician Level 11 IEst May 6, 2009) | 971120 | 35 |
-| Clinical Laboratorv Technoloaist Level r (Est May 6. 2009) | 971210 | 35 |
-| Clinical Laboratorv Technolnnist Level II (Est Mav 6, 2009) | 971220 | 35 |
-| Clinical Laboratory Technolo!list Level Ill (Est May 6. 2009) | 971230 | 35 |
-| Clinical Laboratorv Technolo!llst Level IV (Est Mav 6, 2009) | 971240 | 35 |
-| Clinical Laboratorv Technolo!list Level V /Est May 6, 20091 | 971250 | 35 |
-| Clinical Nurse Specialist. Educational Coordinator (CHS) (Est December 21, 20151 | 000980 | 37.5 |
-| Collaborative Dnin Theraoy Mana!lement Pharmacist (Accreted Auaust 7. 20191 | 940000 | 37.5 |
-| Communitv Assistant 2 | 560560 | 40 |
-| Communitv Associate | 560570 | 35 |
-| Communltv Coordinator | 560580 | 35 |
-| Communltv Liaison Trainee - Deleted Julv 15. 2013 | 560910 | 35 |
-| Communitv Liaison Worker - Deleted Julv 15. 2013 | 560930 | 35 |
-| Communltv Uaison Worker Level I /Est Julv 15, 2013) | 560920 | 35 |
-| Communitv Liaison Worker Level II /Est Julv 15. 20131 | 560930 | 35 |
-| Communltv Liaison Worker Level Ill (Est Julv 15, 2013) | 560940 | 35 |
-| Communitv Liaison Worker Level IV tEst Julv 15, 2013l | 560950 | 35 |
-| Communitv Service Aide /Est l | 524060 | 35 |
-| Comouter Aide -Level I | 961410 | 35 |
-| Comouter Aide -Level II | 961420 | 35 |
+| Citv Ressearch Scientist Level I (Est July 31, 2015) | 217440 | 35 | | --- | --- | --- | | Civil Enalneer | 202150 | 35 | | Civil Enalneerina Intern | 202020 | 35 | | Claim Soecialist Level I (Est Januarv 7, 20071 | 307260 | 35 | | Claim Soecialist Level II (Est January 7, 2007) | 307270 | 35 | | Claim Soecialist Level Ill (Est January 7, 2007) | 307280 | 35 | | Clerical Associate -Level la (Deleted March 23, 20101 | 102510 | 35 | | Clerical Associate• Level lb (Deleted March 23, 2010) | 102610 | 35 | | Clerical Associate • Level II | 102620 | 35 | | Clerical Associate -Level Ill | 102630 | 35 | | Clerical Associate -Level IV | 102640 | 35 | | Clerical Associate • Level IVa | 102650 | 35 | | Client Naviaator Level I /Est November 26, 2002l | 985510 | 35 | | Client Naviaator Level II (Est November 26. 2002 | 985520 | 35 | | Clinical Business Analvst Level I <Accreted Mav 23, 2016) | 001450 | 35 | | Clinical Business Analvst Level II (Accreted Mav 23, 2016l | 001460 | 35 | | Clinical Business Analvst Level Ill (Accreted Mav 23. 2016) | 001470 | 35 | | Clinical Dietetic Technician | 966610 | 35 | | Clinical Documentation Srv>clalist Level I (Accreted May 8. 2019) | 342750 | 35 | | Clinical Documentation Saeclalist Level II (Accreted May 8. 2019) | 342760 | 35 | | Clinical Laboratorv Technician Lever I tEst Mav 6, 2009) | 971110 | 35 | | Clinical Laboratorv Technician Level 11 IEst May 6, 2009) | 971120 | 35 | | Clinical Laboratorv Technoloaist Level r (Est May 6. 2009) | 971210 | 35 | | Clinical Laboratorv Technolnnist Level II (Est Mav 6, 2009) | 971220 | 35 | | Clinical Laboratory Technolo!list Level Ill (Est May 6. 2009) | 971230 | 35 | | Clinical Laboratorv Technolo!llst Level IV (Est Mav 6, 2009) | 971240 | 35 | | Clinical Laboratorv Technolo!list Level V /Est May 6, 20091 | 971250 | 35 | | Clinical Nurse Specialist. Educational Coordinator (CHS) (Est December 21, 20151 | 000980 | 37.5 | | Collaborative Dnin Theraoy Mana!lement Pharmacist (Accreted Auaust 7. 20191 | 940000 | 37.5 | | Communitv Assistant 2 | 560560 | 40 | | Communitv Associate | 560570 | 35 | | Communltv Coordinator | 560580 | 35 | | Communltv Liaison Trainee - Deleted Julv 15. 2013 | 560910 | 35 | | Communitv Liaison Worker - Deleted Julv 15. 2013 | 560930 | 35 | | Communltv Uaison Worker Level I /Est Julv 15, 2013) | 560920 | 35 | | Communitv Liaison Worker Level II /Est Julv 15. 20131 | 560930 | 35 | | Communltv Liaison Worker Level Ill (Est Julv 15, 2013) | 560940 | 35 | | Communitv Liaison Worker Level IV tEst Julv 15, 2013l | 560950 | 35 | | Communitv Service Aide /Est l | 524060 | 35 | | Comouter Aide -Level I | 961410 | 35 | | Comouter Aide -Level II | 961420 | 35 |
 
 22016
 2001 •2021 CITYWIDE AGREEMENT 93
 
-
-| Comouter Associate COoerallonsl - Level I | 961310 | 35 |
-| --- | --- | --- |
-| Comouter Associate CO=rallonsl • Level II | 961320 | 36 |
-| Comouter Associate <O=rallonsl - Level Ill | 961330 | 35 |
-| Comouter Associate (Software) -Level I | 963110 | 35 |
-| Comouter Associate (Software\ -Level II | 963120 | 35 |
-| Comouter Associate fSoftwarel -Level Ill | 963130 | 35 |
-| Comouter Associate !Technical Sunnortl -Level I | 961210 | 35 |
-| Comouter Associate (Technical Suooort) -Level II | 961220 | 35 |
-| Comouter Associate !Technical Sunnort) -Level Ill | 961230 | 35 |
-| Comouler Prnnrammer Analvst -Level I | 961110 | 35 |
-| Comouter Prnnrammer Analvst • Level II | 961120 | 35 |
-| Comouter Proorammer Analvst Trainee | 961500 | 35 |
-| Comouter Soecialist (Software) -Level I | 966710 | 35 |
-| Comouter SMcialist (Software) • Level II | 966720 | 35 |
-| Comouter $Mcialist (Software) Level Ill CEst Julv 31, 2015) | 966730 | 35 |
-| Conslruction Manaaemenl Assistant | 001030 | 35 |
-| Construction Prolect Manaaer -Level I | 962510 | 35 |
-| Construction Proiect Manaaer • Level II | 962520 | 35 |
-| Construction Proiect Manaaer -Level Ill | 962530 | 35 |
-| Consultant !Public Health/Social Work} (Est Julv 31, 2015} | 516130 | 35 |
-| Consultant Public Health Nurse (Child Health\ Deleted Mav 13, 2021 | 510150 | 35 |
-| Consultant Public Health Nurse lHoscital Services\ Deleted Mav 13. 2021 | 510170 | 35 |
-| Cook | 902100 | 37.5 |
-| Coordinatino Manaaer Level A !Est Auoust 1, 20061 | 980130 | 35 |
-| Coordinalina Manaaer Level B !Est Auaust 1. 20061 | 980140 | 35 |
-| Correctional Counselor !Est Julv 31, 20151 | 512730 | 35 |
-| Creative Arts Theracist Level I (Est June 26. 2006) | 005780 | 35 |
-| Creative Arts Theraoist Level II IEst June 26, 20061 | 005790 | 35 |
-| Creative Arts Theraoist Level 111 CEst June 26, 20061 | 005800 | 35 |
-| Custodial Assistant Deleted Mav 13. 2021 | 820150 | 40 |
-| Dental Assistant | 501010 | 35 |
-| Dental Hvoienist | 501020 | 35 |
-| Dentist - Deleted June 15, 2019 | 502100 | 40 |
-| Dentist -Level A - Deleted June 15. 2019 | 963910 | 40 |
-| Dentist -Level B - Deleted June 15, 2019 | 963920 | 40 |
-| Dentist -Level I | 964410 | 40 |
-| Dentist -Level II Deleted Mav 13, 2021 | 964420 | 40 |
-| Oeoartment Librarian | 602100 | 35 |
-| Deoartment Senior Librarian | 602350 | 35 |
-| Deoartment Supervisino Librarian | 602600 | 35 |
-| Dletarv Aide | 818010 | 37,5 |
+| Comouter Associate COoerallonsl - Level I | 961310 | 35 | | --- | --- | --- | | Comouter Associate CO=rallonsl • Level II | 961320 | 36 | | Comouter Associate <O=rallonsl - Level Ill | 961330 | 35 | | Comouter Associate (Software) -Level I | 963110 | 35 | | Comouter Associate (Software\ -Level II | 963120 | 35 | | Comouter Associate fSoftwarel -Level Ill | 963130 | 35 | | Comouter Associate !Technical Sunnortl -Level I | 961210 | 35 | | Comouter Associate (Technical Suooort) -Level II | 961220 | 35 | | Comouter Associate !Technical Sunnort) -Level Ill | 961230 | 35 | | Comouler Prnnrammer Analvst -Level I | 961110 | 35 | | Comouter Prnnrammer Analvst • Level II | 961120 | 35 | | Comouter Proorammer Analvst Trainee | 961500 | 35 | | Comouter Soecialist (Software) -Level I | 966710 | 35 | | Comouter SMcialist (Software) • Level II | 966720 | 35 | | Comouter $Mcialist (Software) Level Ill CEst Julv 31, 2015) | 966730 | 35 | | Conslruction Manaaemenl Assistant | 001030 | 35 | | Construction Prolect Manaaer -Level I | 962510 | 35 | | Construction Proiect Manaaer • Level II | 962520 | 35 | | Construction Proiect Manaaer -Level Ill | 962530 | 35 | | Consultant !Public Health/Social Work} (Est Julv 31, 2015} | 516130 | 35 | | Consultant Public Health Nurse (Child Health\ Deleted Mav 13, 2021 | 510150 | 35 | | Consultant Public Health Nurse lHoscital Services\ Deleted Mav 13. 2021 | 510170 | 35 | | Cook | 902100 | 37.5 | | Coordinatino Manaaer Level A !Est Auoust 1, 20061 | 980130 | 35 | | Coordinalina Manaaer Level B !Est Auaust 1. 20061 | 980140 | 35 | | Correctional Counselor !Est Julv 31, 20151 | 512730 | 35 | | Creative Arts Theracist Level I (Est June 26. 2006) | 005780 | 35 | | Creative Arts Theraoist Level II IEst June 26, 20061 | 005790 | 35 | | Creative Arts Theraoist Level 111 CEst June 26, 20061 | 005800 | 35 | | Custodial Assistant Deleted Mav 13. 2021 | 820150 | 40 | | Dental Assistant | 501010 | 35 | | Dental Hvoienist | 501020 | 35 | | Dentist - Deleted June 15, 2019 | 502100 | 40 | | Dentist -Level A - Deleted June 15. 2019 | 963910 | 40 | | Dentist -Level B - Deleted June 15, 2019 | 963920 | 40 | | Dentist -Level I | 964410 | 40 | | Dentist -Level II Deleted Mav 13, 2021 | 964420 | 40 | | Oeoartment Librarian | 602100 | 35 | | Deoartment Senior Librarian | 602350 | 35 | | Deoartment Supervisino Librarian | 602600 | 35 | | Dletarv Aide | 818010 | 37,5 |
 
 22016
 2001-2021 CITYWIDE AGREEMENT
 
-
-| Dietitian -Level I | 503100 | 35 |
-| --- | --- | --- |
-| Dietitian -Level II | 503350 | 35 |
-| Dietitian -Level Ill | 962310 | 35 |
-| Dietitian -Level IV | 962320 | 35 |
-| Director of Plannlna Level I (Accreted Julv 19 2020) | 350810 | 35 |
-| Director of Plannirn, Level II /Accreted Julv 19, 2020) | 350820 | 35 |
-| Director of Workforce Tralnlna and Staff Develoornent /Accreted September 9, 20151 | 107700 | 35 |
-| Discharae Plannlna Assessment Soeciallsl -Level I | 005100 | 35 |
-| Dlscharae Plannlna Assessment Soecia1ist -Level II | 005200 | 35 |
-| District Sucervisinn Public Health Nurse (Deleted 9/3/1999) | 510650 | 35 |
-| Electrical Enalneer | 203150 | 35 |
-| Electrical Enaineer /Electronics) | 203160 | 35 |
-| Electrical Enalneerina lntem | 203020 | 35 |
-| Electrocardinnraoh Technician | 513120 | 35 |
-| Electroenceohalo11raph Technician | 515130 | 35 |
-| Elevator Ocerator | 809100 | 37.5 |
-| Elevator Starter | 809350 | 37.5 |
-| Ememencv Medical Sceclallst -EMT (Deleted Julv 31. 1996) | 002220 | 37.5 |
-| Emeraencv Medical Soeclallst -Paramedic (Deleted Julv 31. 1996) | 002240 | 37.5 |
-| Emeraencv Medical Soeclalist Cadet Trainee /Deleted Julv 31. 19961 | 005030 | 37.5 |
-| Emeraencv Medicine Phvslcian Soecialist Level I /Established Julv 1. 20171 | 005400 | 40 |
-| Emeraencv Medicine Phvslcian Soeclalist Level II (Established Julv 1, 20171 | 005410 | 40 |
-| Enalneerina Technician -Level I | 961610 | 35 |
-| Enalneerina Technician -Level II | 961620 | 35 |
-| Enaineerina Technician Trainee | 201110 | 35 |
-| Enrollment Sales Recresentallve <Medicare\ Level I /Est Januarv 29. 20081 | 103810 | 35 |
-| Enrollment Sales Reoresentatlve /Medicare) Level II /Est Januarv 29. 20081 | 103820 | 35 |
-| Enrollment Sales Recresentallve IMedlcarel Level Ill (Est Januarv 29, 20081 | 103830 | 35 |
-| Enrollment Sales Reoresentatlve Assistant IEst Auaust 14, 20071 | 103610 | 35 |
-| Enrollment Sales Recresentatlve Level I /Est Auaust 14. 20071 | 103710 | 35 |
-| Enrollment Sales Recresentatlve Level 11 IEst Auaust 14. 20071 | 103720 | 35 |
-| Enrollment Sales Reoresentative Level Ill !Est Auaust 14, 20071 | 103730 | 35 |
-| Eaulcment Control Planner !Remove !Hoscilalll | 000780 | 35 |
-| Exterminator Deleted Mav 13, 2021 | 905100 | 35 |
-| Food Service Sucervisor | 902380 | 35 |
-| Foreman of Gardeners /Deleted! | 002720 | 37.5 |
-| Gardener - Deleted Mav 13, 2021 | 002710 | 37.5 |
-| Head Dietitian lDeleled Julv 23, 1999) | 503350 | 35 |
-| Head Nurse | 509350 | 37.5 |
-| Health Care Prnnram Planner/Analvst | 000310 | 35 |
-| Health Facilities Planner | 220820 | 35 |
+| Dietitian -Level I | 503100 | 35 | | --- | --- | --- | | Dietitian -Level II | 503350 | 35 | | Dietitian -Level Ill | 962310 | 35 | | Dietitian -Level IV | 962320 | 35 | | Director of Plannlna Level I (Accreted Julv 19 2020) | 350810 | 35 | | Director of Plannirn, Level II /Accreted Julv 19, 2020) | 350820 | 35 | | Director of Workforce Tralnlna and Staff Develoornent /Accreted September 9, 20151 | 107700 | 35 | | Discharae Plannlna Assessment Soeciallsl -Level I | 005100 | 35 | | Dlscharae Plannlna Assessment Soecia1ist -Level II | 005200 | 35 | | District Sucervisinn Public Health Nurse (Deleted 9/3/1999) | 510650 | 35 | | Electrical Enalneer | 203150 | 35 | | Electrical Enaineer /Electronics) | 203160 | 35 | | Electrical Enalneerina lntem | 203020 | 35 | | Electrocardinnraoh Technician | 513120 | 35 | | Electroenceohalo11raph Technician | 515130 | 35 | | Elevator Ocerator | 809100 | 37.5 | | Elevator Starter | 809350 | 37.5 | | Ememencv Medical Sceclallst -EMT (Deleted Julv 31. 1996) | 002220 | 37.5 | | Emeraencv Medical Soeclallst -Paramedic (Deleted Julv 31. 1996) | 002240 | 37.5 | | Emeraencv Medical Soeclalist Cadet Trainee /Deleted Julv 31. 19961 | 005030 | 37.5 | | Emeraencv Medicine Phvslcian Soecialist Level I /Established Julv 1. 20171 | 005400 | 40 | | Emeraencv Medicine Phvslcian Soeclalist Level II (Established Julv 1, 20171 | 005410 | 40 | | Enalneerina Technician -Level I | 961610 | 35 | | Enalneerina Technician -Level II | 961620 | 35 | | Enaineerina Technician Trainee | 201110 | 35 | | Enrollment Sales Recresentallve <Medicare\ Level I /Est Januarv 29. 20081 | 103810 | 35 | | Enrollment Sales Reoresentatlve /Medicare) Level II /Est Januarv 29. 20081 | 103820 | 35 | | Enrollment Sales Recresentallve IMedlcarel Level Ill (Est Januarv 29, 20081 | 103830 | 35 | | Enrollment Sales Reoresentatlve Assistant IEst Auaust 14, 20071 | 103610 | 35 | | Enrollment Sales Recresentatlve Level I /Est Auaust 14. 20071 | 103710 | 35 | | Enrollment Sales Recresentatlve Level 11 IEst Auaust 14. 20071 | 103720 | 35 | | Enrollment Sales Reoresentative Level Ill !Est Auaust 14, 20071 | 103730 | 35 | | Eaulcment Control Planner !Remove !Hoscilalll | 000780 | 35 | | Exterminator Deleted Mav 13, 2021 | 905100 | 35 | | Food Service Sucervisor | 902380 | 35 | | Foreman of Gardeners /Deleted! | 002720 | 37.5 | | Gardener - Deleted Mav 13, 2021 | 002710 | 37.5 | | Head Dietitian lDeleled Julv 23, 1999) | 503350 | 35 | | Head Nurse | 509350 | 37.5 | | Health Care Prnnram Planner/Analvst | 000310 | 35 | | Health Facilities Planner | 220820 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 95
 22016
 4
 
-
-| Health Information Manaaement Soecialist Level I (Accreted March 26. 2015l | 001040 | 35 |
-| --- | --- | --- |
-| Health Information Manaaement Soecialist Level II (Accreted March 26. 2015) | 001050 | 35 |
-| Health Svstem Pharmacist Level I (Est November 27, 2006l | 930010 | 37.5 |
-| Health Svstem Pharmacist Level II CEst November 27, 20061 | 930020 | 37.5 |
-| Health Svstem Pharmacist Level Ill (Est November 27, 2006 | 930030 | 37.5 |
-| Hemodlalvsls Patient Care Technician /Accreted Auoust 17. 2010) | 039840 | 37.5 |
-| Home Health Aide - Deleted June 15, 2019 | 004860 | 37.5 |
-| Hosoltal Care lnvestlaator | 523420 | 35 |
-| Hosollal Pavroll Accounts Mana11er | 039030 | 35 |
-| Hosoital Security Officer - Deleted July 22, 2010 | 708300 | 37.5 |
-| Housekee""r | 807100 | 35 |
-| Housekeeoln11 Aide | 818020 | 37.5 |
-| Illustrator | 914100 | 35 |
-| Infection Control Nurse (CHS) (Established December 15, 2015: Deleted May 13, 2021) | 000960 | 37.5 |
-| Institutional Aide | 818030 | 37.5 |
-| Institutional Garment Worker | 901120 | 35 |
-| Institutional Tailor | 901130 | 35 |
-| Instrument Maker !RadioloaYl | 907220 | 35 |
-| lnvesllaator (Est July 31, 2015) | 311060 | 35 |
-| IV Technician !Deleted December 11. 2007l | 005000 | 35 |
-| Junior Architect (Deleted July 3. 1997l | 212060 | 35 |
-| Junior Bacterioloalst !Deleted Julv 3, 1997l | 216050 | 35 |
-| Junior Chemist | 218050 | 35 |
-| Junior Civil Enolneer (Deleted Julv 3, 1997l | 202060 | 35 |
-| Junior Clinical Business Analvst (Accreted Februarv 11, 2016l | 001440 | 35 |
-| Junior Electrical Enalneer <Deleted Julv 3. 19971 | 203060 | 35 |
-| Junior Health Facilities Planner | 220800 | 35 |
-| Junior Mechanical Enalneer IDeleted Julv 3, 1997l | 204060 | 35 |
-| Junior Public Health Nurse /Est Julv 31, 2015l | 510080 | 35 |
-| Laboratorv Assistant | 004960 | 35 |
-| Laboratorv Associate -Level 1-Deleted June 15, 2019 | 962710 | 35 |
-| Laboratorv Associate-Level II -Deleted June 15. 2019 | 962720 | 35 |
-| Laboratorv Mlcrobioloaist -Level 1-Deleted June 15. 2019 | 962810 | 35 |
-| Laboratorv Microbiologist -Level II-Deleted June 15, 2019 | 962820 | 35 |
-| Laboratorv Technician - Deleted December 11, 2007 | 215080 | 35 |
-| Laundrv Suoervisor - Deleted June 15. 2019 | 808600 | 37.5 |
-| Laundrv Worker -Deleted June 15, 2019 | 901100 | 37.5 |
-| Licensed Barber Deleted Mav 13. 2021 | 901140 | 37.5 |
-| Licensed Practical Nurse | 003150 | 37.5 |
-| Maintenance and Control Planner | 039TTO | 35 |
-| Maintenance Control Scheduler | 039760 | 35 |
+| Health Information Manaaement Soecialist Level I (Accreted March 26. 2015l | 001040 | 35 | | --- | --- | --- | | Health Information Manaaement Soecialist Level II (Accreted March 26. 2015) | 001050 | 35 | | Health Svstem Pharmacist Level I (Est November 27, 2006l | 930010 | 37.5 | | Health Svstem Pharmacist Level II CEst November 27, 20061 | 930020 | 37.5 | | Health Svstem Pharmacist Level Ill (Est November 27, 2006 | 930030 | 37.5 | | Hemodlalvsls Patient Care Technician /Accreted Auoust 17. 2010) | 039840 | 37.5 | | Home Health Aide - Deleted June 15, 2019 | 004860 | 37.5 | | Hosoltal Care lnvestlaator | 523420 | 35 | | Hosollal Pavroll Accounts Mana11er | 039030 | 35 | | Hosoital Security Officer - Deleted July 22, 2010 | 708300 | 37.5 | | Housekee""r | 807100 | 35 | | Housekeeoln11 Aide | 818020 | 37.5 | | Illustrator | 914100 | 35 | | Infection Control Nurse (CHS) (Established December 15, 2015: Deleted May 13, 2021) | 000960 | 37.5 | | Institutional Aide | 818030 | 37.5 | | Institutional Garment Worker | 901120 | 35 | | Institutional Tailor | 901130 | 35 | | Instrument Maker !RadioloaYl | 907220 | 35 | | lnvesllaator (Est July 31, 2015) | 311060 | 35 | | IV Technician !Deleted December 11. 2007l | 005000 | 35 | | Junior Architect (Deleted July 3. 1997l | 212060 | 35 | | Junior Bacterioloalst !Deleted Julv 3, 1997l | 216050 | 35 | | Junior Chemist | 218050 | 35 | | Junior Civil Enolneer (Deleted Julv 3, 1997l | 202060 | 35 | | Junior Clinical Business Analvst (Accreted Februarv 11, 2016l | 001440 | 35 | | Junior Electrical Enalneer <Deleted Julv 3. 19971 | 203060 | 35 | | Junior Health Facilities Planner | 220800 | 35 | | Junior Mechanical Enalneer IDeleted Julv 3, 1997l | 204060 | 35 | | Junior Public Health Nurse /Est Julv 31, 2015l | 510080 | 35 | | Laboratorv Assistant | 004960 | 35 | | Laboratorv Associate -Level 1-Deleted June 15, 2019 | 962710 | 35 | | Laboratorv Associate-Level II -Deleted June 15. 2019 | 962720 | 35 | | Laboratorv Mlcrobioloaist -Level 1-Deleted June 15. 2019 | 962810 | 35 | | Laboratorv Microbiologist -Level II-Deleted June 15, 2019 | 962820 | 35 | | Laboratorv Technician - Deleted December 11, 2007 | 215080 | 35 | | Laundrv Suoervisor - Deleted June 15. 2019 | 808600 | 37.5 | | Laundrv Worker -Deleted June 15, 2019 | 901100 | 37.5 | | Licensed Barber Deleted Mav 13. 2021 | 901140 | 37.5 | | Licensed Practical Nurse | 003150 | 37.5 | | Maintenance and Control Planner | 039TTO | 35 | | Maintenance Control Scheduler | 039760 | 35 |
 
 22016
 2001-2021 CITYWIDE AGREEMENT 96
 
-
-| Maintenance Plannlna and Control Supervisor | 039780 | 35 |
-| --- | --- | --- |
-| Mana11er. Schedulln11 and Control (EDP) (Accreted November 23. 2009} | 102810 | 35 |
-| Maternal and Childcare Technician | 001860 | 37.5 |
-| Meat Cutter Deleted Mav 13, 2021 | 902130 | 35 |
-| Mechanical En11ineer | 204150 | 35 |
-| Mechanical Enolneertno Intern | 204030 | 35 |
-| Media Services Technician -Level I | 966910 | 35 |
-| Media Services Technician -Level II | 966920 | 35 |
-| Medical Eaulpment Repair Technician | 906900 | 35 |
-| Medical Eauloment Soeciallst | 906910 | 35 |
-| Medical Record Soecialist | 508110 | 35 |
-| Medical Utilization Review Analvst | 001210 | 35 |
-| Medical Waste Technician | 005060 | 35 |
-| Medlcine-Suraerv Technician | 001890 | 37.5 |
-| Mental Health Assistant | 001610 | 35 |
-| Mental Health Counselor Level I CAccreled Anril 19. 20181 | 306110 | 35 |
-| Mental Health Counselor Level II /Accreted Anrtl 19 20181 | 306120 | 35 |
-| Mental Health Counselor Level Ill /Accreted Anril 19 20181 | 306130 | 35 |
-| MetroPlus Care Coordinator Level I <Accreted Sentember 13. 20191 | 343000 | 35 |
-| MetroPlus Care Coordinator Level II /Accreted Sentember 13. 2019) | 343020 | 35 |
-| MetroPlus Utilization Review/Management Coordinator Level I (Accreted Seotember 13. 2019) | 343010 | 35 |
-| MetroPlus Ulilizallon Review/Manaaement Coordinator Level II /Accreted Seotember 13, 2019) | 343030 | 35 |
-| Midwife | 509120 | 37.5 |
-| Mortuanr Technician - TIiie Code Chaooe Sentember 16. 2011 | 104110 | 35 |
-| Motion Picture Onerator /Receives a Sessional Rate at H+H: Is it sUII under the CW A11t?l | 906110 | 35 |
-| Motor Vehicle Operator | 912120 | 37.5 |
-| MotorVehlc!e Sunervlsor | 912320 | 37.5 |
-| Nuclear Medicine Technolooist -Level I | 964310 | 35 |
-| Nuclear Medicine Technolooist -Level II | 964320 | 35 |
-| Nurse Practitioner - Deleted Januarv 5. 2020 | 001960 | 37.5 |
-| Nurse Practitioner (Accreted January 5. 20201 | 970010 | 37.5 |
-| Nurse Practitioner (CHS) (Est December 21. 20151 | 000990 | 37.5 |
-| Nurse Practitioner (Primarv Care/Behavioral Health) (Accreted January 5. 2020l | 970020 | 37.5 |
-| Nurse-Midwife | 961050 | 37.5 |
-| Nurse's Aide | 509010 | 37.5 |
-| Nurse's Aide (Transoort Escort! | 001160 | 37.5 |
-| Occupational Therapist | 512100 | 35 |
-| Occupational Theraov Assistant mue Chanae 4/2/20081 | 003430 | 35 |
-| Office Aide Level I -Deleted Seotember 19. 1997 | 960010 | 35 |
-| Office Aide Level II -Deleted | 960020 | 35 |
-| Office Aide Level 111 - Deleted September 19. 1997 | 960030 | 35 |
+| Maintenance Plannlna and Control Supervisor | 039780 | 35 | | --- | --- | --- | | Mana11er. Schedulln11 and Control (EDP) (Accreted November 23. 2009} | 102810 | 35 | | Maternal and Childcare Technician | 001860 | 37.5 | | Meat Cutter Deleted Mav 13, 2021 | 902130 | 35 | | Mechanical En11ineer | 204150 | 35 | | Mechanical Enolneertno Intern | 204030 | 35 | | Media Services Technician -Level I | 966910 | 35 | | Media Services Technician -Level II | 966920 | 35 | | Medical Eaulpment Repair Technician | 906900 | 35 | | Medical Eauloment Soeciallst | 906910 | 35 | | Medical Record Soecialist | 508110 | 35 | | Medical Utilization Review Analvst | 001210 | 35 | | Medical Waste Technician | 005060 | 35 | | Medlcine-Suraerv Technician | 001890 | 37.5 | | Mental Health Assistant | 001610 | 35 | | Mental Health Counselor Level I CAccreled Anril 19. 20181 | 306110 | 35 | | Mental Health Counselor Level II /Accreted Anrtl 19 20181 | 306120 | 35 | | Mental Health Counselor Level Ill /Accreted Anril 19 20181 | 306130 | 35 | | MetroPlus Care Coordinator Level I <Accreted Sentember 13. 20191 | 343000 | 35 | | MetroPlus Care Coordinator Level II /Accreted Sentember 13. 2019) | 343020 | 35 | | MetroPlus Utilization Review/Management Coordinator Level I (Accreted Seotember 13. 2019) | 343010 | 35 | | MetroPlus Ulilizallon Review/Manaaement Coordinator Level II /Accreted Seotember 13, 2019) | 343030 | 35 | | Midwife | 509120 | 37.5 | | Mortuanr Technician - TIiie Code Chaooe Sentember 16. 2011 | 104110 | 35 | | Motion Picture Onerator /Receives a Sessional Rate at H+H: Is it sUII under the CW A11t?l | 906110 | 35 | | Motor Vehicle Operator | 912120 | 37.5 | | MotorVehlc!e Sunervlsor | 912320 | 37.5 | | Nuclear Medicine Technolooist -Level I | 964310 | 35 | | Nuclear Medicine Technolooist -Level II | 964320 | 35 | | Nurse Practitioner - Deleted Januarv 5. 2020 | 001960 | 37.5 | | Nurse Practitioner (Accreted January 5. 20201 | 970010 | 37.5 | | Nurse Practitioner (CHS) (Est December 21. 20151 | 000990 | 37.5 | | Nurse Practitioner (Primarv Care/Behavioral Health) (Accreted January 5. 2020l | 970020 | 37.5 | | Nurse-Midwife | 961050 | 37.5 | | Nurse's Aide | 509010 | 37.5 | | Nurse's Aide (Transoort Escort! | 001160 | 37.5 | | Occupational Therapist | 512100 | 35 | | Occupational Theraov Assistant mue Chanae 4/2/20081 | 003430 | 35 | | Office Aide Level I -Deleted Seotember 19. 1997 | 960010 | 35 | | Office Aide Level II -Deleted | 960020 | 35 | | Office Aide Level 111 - Deleted September 19. 1997 | 960030 | 35 |
 
 22016
 2001•2021 CITYWIDE AGREEMENT 97
 
-
-| Office Associate - Deleted Sectember 19. 1997 | 960100 | 35 |
-| --- | --- | --- |
-| Office Machine Aide -Level II | 960320 | 35 |
-| Office Machine Associate - Deleted Sectember 19. 1997 | 960400 | 35 |
-| Ooeratlna Room Technician-Deleted Januarv 1. 2015 | 001900 | 37.5 |
-| Paraleoal Aide -Level I | 964010 | 35 |
-| Paraleoal Aide -Level II | 964020 | 35 |
-| Patient Care Associate | 988010 | 37.5 |
-| Patient Care Coordinator !CHSl tEst December 21. 2015) | 001520 | 37.5 |
-| Patlent Care Tectmician | 986010 | 37.5 |
-| Patient R=resentative (Accreted November 30. 201 Bl | 003500 | 35 |
-| Pedlalric Nurse Associate - Deleted Mav 13. 2021 | 954400 | 35 |
-| Pediatric Nurse Practitioner (Family Health Services) (Es! August 16. 2996: Deleted May 13, 2021) | 001970 | 37.5 |
-| Peer Counselor Level I (Est October 18. 19991 | 983510 | 35 |
-| Peer Counselor Level II (Est October 1B . 19991 | 983520 | 35 |
-| Peer Counselor Level Ill (Est Julv 13. 20061 | 983530 | 35 |
-| Pharmacist-Deleted June 26, 1998 | 506100 | 37.5 |
-| Pharmacist Intern !Removed e from Intern) | 002410 | 37.5 |
-| Pharmacv Technician | 002420 | 37.5 |
-| Phlebolomisl | 004950 | 35 |
-| Photooraoher | 906100 | 35 |
-| Phvslcal Theracist | 512110 | 35 |
-| Phvsician Assistant | 001730 | 37.5 |
-| Phvsiclan Assistant -Level II !HHCl -Removed (HCF) | 004730 | 37.5 |
-| Phvsician S.,..clallsl | 005300 | 40 |
-| Phvsicist | 220150 | 35 |
-| Phvsicist !lsolorv>sl | 220170 | 35 |
-| Phvslclsl tRadlallonl | 220180 | 35 |
-| Plannino -Scheduling Analyst | 039670 | 35 |
-| Polson lnfonnallon Soecialist Level I tEsl May 20, 2011) | 100760 | 37.5 |
-| Polson lnfonnalion Soecialist Level II (Est May 20. 2011) | 100770 | 37.5 |
-| Poison lnformatlon Soeclalist Level Ill (Est Mav 20. 2011) | 100780 | 37.5 |
-| Poison Information Soeclalist Level IV (Est Mav 20. 2011) | 100790 | 37.5 |
-| Prevenllve Maintenance lnsoector | 000170 | 35 |
-| Primarv Care Phvsiclan (Communicare/Manaaed Carel | 005070 | 37.5 |
-| Princioal Administrative Associate -Level I | 960210 | 35 |
-| Principal Administrative Associate -Level II | 960220 | 35 |
-| Principal Administrative Associate -Level Ill | 960230 | 35 |
-| Princloal Chemist - Deleted July 3. 1997 | 218350 | 35 |
-| Princioal Children's Counselor | 515650 | 35 |
-| Principal Communilv Liaison Worker - Deleted Julv 15. 2013 | 560950 | 35 |
-| Princioal Hosoital Care lnvesliaator | 523450 | 35 |
+| Office Associate - Deleted Sectember 19. 1997 | 960100 | 35 | | --- | --- | --- | | Office Machine Aide -Level II | 960320 | 35 | | Office Machine Associate - Deleted Sectember 19. 1997 | 960400 | 35 | | Ooeratlna Room Technician-Deleted Januarv 1. 2015 | 001900 | 37.5 | | Paraleoal Aide -Level I | 964010 | 35 | | Paraleoal Aide -Level II | 964020 | 35 | | Patient Care Associate | 988010 | 37.5 | | Patient Care Coordinator !CHSl tEst December 21. 2015) | 001520 | 37.5 | | Patlent Care Tectmician | 986010 | 37.5 | | Patient R=resentative (Accreted November 30. 201 Bl | 003500 | 35 | | Pedlalric Nurse Associate - Deleted Mav 13. 2021 | 954400 | 35 | | Pediatric Nurse Practitioner (Family Health Services) (Es! August 16. 2996: Deleted May 13, 2021) | 001970 | 37.5 | | Peer Counselor Level I (Est October 18. 19991 | 983510 | 35 | | Peer Counselor Level II (Est October 1B . 19991 | 983520 | 35 | | Peer Counselor Level Ill (Est Julv 13. 20061 | 983530 | 35 | | Pharmacist-Deleted June 26, 1998 | 506100 | 37.5 | | Pharmacist Intern !Removed e from Intern) | 002410 | 37.5 | | Pharmacv Technician | 002420 | 37.5 | | Phlebolomisl | 004950 | 35 | | Photooraoher | 906100 | 35 | | Phvslcal Theracist | 512110 | 35 | | Phvsician Assistant | 001730 | 37.5 | | Phvsiclan Assistant -Level II !HHCl -Removed (HCF) | 004730 | 37.5 | | Phvsician S.,..clallsl | 005300 | 40 | | Phvsicist | 220150 | 35 | | Phvsicist !lsolorv>sl | 220170 | 35 | | Phvslclsl tRadlallonl | 220180 | 35 | | Plannino -Scheduling Analyst | 039670 | 35 | | Polson lnfonnallon Soecialist Level I tEsl May 20, 2011) | 100760 | 37.5 | | Polson lnfonnalion Soecialist Level II (Est May 20. 2011) | 100770 | 37.5 | | Poison lnformatlon Soeclalist Level Ill (Est Mav 20. 2011) | 100780 | 37.5 | | Poison Information Soeclalist Level IV (Est Mav 20. 2011) | 100790 | 37.5 | | Prevenllve Maintenance lnsoector | 000170 | 35 | | Primarv Care Phvsiclan (Communicare/Manaaed Carel | 005070 | 37.5 | | Princioal Administrative Associate -Level I | 960210 | 35 | | Principal Administrative Associate -Level II | 960220 | 35 | | Principal Administrative Associate -Level Ill | 960230 | 35 | | Princloal Chemist - Deleted July 3. 1997 | 218350 | 35 | | Princioal Children's Counselor | 515650 | 35 | | Principal Communilv Liaison Worker - Deleted Julv 15. 2013 | 560950 | 35 | | Princioal Hosoital Care lnvesliaator | 523450 | 35 |
 
 1
 2001-2021 CITYWIDE AGREEMENT 98 22016
 
-
-| Prlncloal Mlcrobloloaist - Deleted Julv 3, 1997 | 216900 | 35 |
-| --- | --- | --- |
-| Prlncloal Mortuarv Technician - Deleted Seotember 16, 2011 | 520170 | 35 |
-| Prlncloal Research Scientist CBloloalcal Science) | 217700 | 35 |
-| Prlncloal Statistician Deleted Mav 13, 2021 | 406250 | 35 |
-| Procurement Analvst Level I <Est Januarv 21, 2001\ | 963510 | 35 |
-| Procurement Analvst Level II <Est Januarv 21. 2001) | 963520 | 35 |
-| Procurement Analvst Level Ill !Est Januarv 21, 2001) | 963530 | 35 |
-| Procurement and Materials Analvst | 039440 | 35 |
-| Procurement and Materials Soecialist !Annroved Soecialties) | 039420 | 35 |
-| Procurement and Materials Soecialist (Bio-Med. EQulp. & Suoolies) | 002510 | 35 |
-| Procurement and Materials Soeclalist !Pharmaceuticals & Sunnlies) | 002520 | 35 |
-| Proaram Manaaer, Tralnlno and Development Level I (Accreted September 9. 20151 | 107300 | 35 |
-| Proaram Manaoer. Tralnlno and Develooment Level II !Accreted September 9, 2015) | 107400 | 35 |
-| Prolect Manaoer - Deleted April 16. 2009 | 039710 | 35 |
-| Proiect ManaQer Level I (Est April 16, 2009) | 224260 | 35 |
-| Prolect Manaaer Level II <Est Aoril 16, 2009) | 224270 | 35 |
-| Psvchlatric Nurse Practitioner (Correctional Health Services) (Accreted Seotember 7, 20171 | 009990 | 37.5 |
-| Psvchiatric/Soclal Health Technician | 001870 | 37.5 |
-| PsvcholoQlst -Level I | 521100 | 35 |
-| Psvcholoaist -Level II | 521350 | 35 |
-| Psvcholaalst -Level Ill | 521700 | 35 |
-| Public Health Adviser Level I (Est March 15. 2004) | 511910 | 35 |
-| Public Health Advisor Level II (Est March 15, 2004\ | 511920 | 35 |
-| Public Health Assistant | 818050 | 35 |
-| Public Health Educator - Deleted Januarv 16, 2009 | 511110 | 35 |
-| Public Health Educator Level I !Est Januarv 16, 2009) | 511100 | 35 |
-| Public Health Educator Level II (Est Januarv 16, 2009) | 511350 | 35 |
-| Public Health Eoldemloloaist Level I /Est Julv 31, 20151 | 511810 | 35 |
-| Public Health Nurse -Level I | 510110 | 35 |
-| Public Health Nurse -Level II Deleted Mav 13, 2021 | 510600 | 35 |
-| Public Health Nurse -Level Ill Deleted Mav 13, 2021 | 510650 | 35 |
-| Purchasino Aoent -Level 1-Deleted Januarv 21, 2001 | 963510 | 35 |
-| Purchaslno Aaent -Level II - Deleted Januarv 21, 2001 | 963520 | 35 |
-| Purchaslno Aaent -Level 111-Deleted Januarv 21, 2001 | 963530 | 35 |
-| Qualitv Assurance Nurse ICHSl !Est December 21, 2015\ | 000930 | 40 |
-| Qualitv Assurance Soecialist-Level I !Automotive Eaulomenl) Deleted June 15, 2019 | 964210 | 35 |
-| Qualitv Assurance Soecialist -Level II <Automotive Eaulomenll Deleted June 15. 2019 | 964220 | 35 |
-| Radio Reoalr Technician Deleted Mav 13. 2021 | 004570 | 37.5 |
-| Radloaraoher - Deleted January 11. 2021 | 004890 | 35 |
-| Radlaaraoher Level I /Accreted Seotember 6. 20201 | 967110 | 35 |
-| Radloaraoher Level II /Accreted Seolember 6. 2020) | 967120 | 35 |
+| Prlncloal Mlcrobloloaist - Deleted Julv 3, 1997 | 216900 | 35 | | --- | --- | --- | | Prlncloal Mortuarv Technician - Deleted Seotember 16, 2011 | 520170 | 35 | | Prlncloal Research Scientist CBloloalcal Science) | 217700 | 35 | | Prlncloal Statistician Deleted Mav 13, 2021 | 406250 | 35 | | Procurement Analvst Level I <Est Januarv 21, 2001\ | 963510 | 35 | | Procurement Analvst Level II <Est Januarv 21. 2001) | 963520 | 35 | | Procurement Analvst Level Ill !Est Januarv 21, 2001) | 963530 | 35 | | Procurement and Materials Analvst | 039440 | 35 | | Procurement and Materials Soecialist !Annroved Soecialties) | 039420 | 35 | | Procurement and Materials Soecialist (Bio-Med. EQulp. & Suoolies) | 002510 | 35 | | Procurement and Materials Soeclalist !Pharmaceuticals & Sunnlies) | 002520 | 35 | | Proaram Manaaer, Tralnlno and Development Level I (Accreted September 9. 20151 | 107300 | 35 | | Proaram Manaoer. Tralnlno and Develooment Level II !Accreted September 9, 2015) | 107400 | 35 | | Prolect Manaoer - Deleted April 16. 2009 | 039710 | 35 | | Proiect ManaQer Level I (Est April 16, 2009) | 224260 | 35 | | Prolect Manaaer Level II <Est Aoril 16, 2009) | 224270 | 35 | | Psvchlatric Nurse Practitioner (Correctional Health Services) (Accreted Seotember 7, 20171 | 009990 | 37.5 | | Psvchiatric/Soclal Health Technician | 001870 | 37.5 | | PsvcholoQlst -Level I | 521100 | 35 | | Psvcholoaist -Level II | 521350 | 35 | | Psvcholaalst -Level Ill | 521700 | 35 | | Public Health Adviser Level I (Est March 15. 2004) | 511910 | 35 | | Public Health Advisor Level II (Est March 15, 2004\ | 511920 | 35 | | Public Health Assistant | 818050 | 35 | | Public Health Educator - Deleted Januarv 16, 2009 | 511110 | 35 | | Public Health Educator Level I !Est Januarv 16, 2009) | 511100 | 35 | | Public Health Educator Level II (Est Januarv 16, 2009) | 511350 | 35 | | Public Health Eoldemloloaist Level I /Est Julv 31, 20151 | 511810 | 35 | | Public Health Nurse -Level I | 510110 | 35 | | Public Health Nurse -Level II Deleted Mav 13, 2021 | 510600 | 35 | | Public Health Nurse -Level Ill Deleted Mav 13, 2021 | 510650 | 35 | | Purchasino Aoent -Level 1-Deleted Januarv 21, 2001 | 963510 | 35 | | Purchaslno Aaent -Level II - Deleted Januarv 21, 2001 | 963520 | 35 | | Purchaslno Aaent -Level 111-Deleted Januarv 21, 2001 | 963530 | 35 | | Qualitv Assurance Nurse ICHSl !Est December 21, 2015\ | 000930 | 40 | | Qualitv Assurance Soecialist-Level I !Automotive Eaulomenl) Deleted June 15, 2019 | 964210 | 35 | | Qualitv Assurance Soecialist -Level II <Automotive Eaulomenll Deleted June 15. 2019 | 964220 | 35 | | Radio Reoalr Technician Deleted Mav 13. 2021 | 004570 | 37.5 | | Radloaraoher - Deleted January 11. 2021 | 004890 | 35 | | Radlaaraoher Level I /Accreted Seotember 6. 20201 | 967110 | 35 | | Radloaraoher Level II /Accreted Seolember 6. 2020) | 967120 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 99
 22016
 '
 
-
-| Radloqra0her Level Ill !Accreted Seotember 6, 20201 | 967130 | 35 |
-| --- | --- | --- |
-| Refriqeratlon Service Heiner | 000650 | 37.5 |
-| Refriqeratlon Service Mechanic | 000660 | 37.5 |
-| Rehabilitation Counselor | 512130 | 35 |
-| Rehabilitation Technician | 001880 | 37.5 |
-| Research Assistant | 609100 | 35 |
-| Resolratorv Care Theraolst • Level I - Deleted Ju!v 3, 1997 | 000790 | 37.5 |
-| Resolratorv Care Theraolst -Level II - Deleted Julv 3, 1997 | 000800 | 375 |
-| Resoirat~ Theraoist -Level I | 980110 | 35 |
-| Resoiratorv Theraolst • Level l1 | 980120 | 35 |
-| Resolratorv Theraov Aide | 980000 | 35 |
-| Resolratorv Therapy Technician - Deleted March 13, 1998 | 003340 | 37.5 |
-| Resolratorv Theraov Technician -Level I | 980010 | 35 |
-| Resoiratorv Therapy Technician -Level l1 | 980020 | .35 |
-| Resoiratorv Theraov Technician Trainee - Deleted March 13. 1998 | 003330 | 37.5 |
-| Safetv Officer | 316170 | 35 |
-| Secretary • Level Ila | 102720 | 35 |
-| Secretary - Level lib | 102730 | 35 |
-| Secretary • Level Illa | 102740 | 35 |
-| Secretary -Level lllb | 102750 | 35 |
-| Senior Accountant-Deleted June 15, 2019 | 405150 | 35 |
-| Senior Activitv Therapist - Deleted September 8. 2006 | 004790 | 35 |
-| Senior Addiction Counselor -Level I | 966970 | 35 |
-| Senior Addiction Counselor -Level II | 966980 | 35 |
-| Senior Architect - Deleted Julv 3, 1997 | 212250 | 35 |
-| Senior Associate Accountant | 002630 | 35 |
-| Senior Associate Occuoalional Theraolst -Level I | 965810 | 35 |
-| Senior Associate Occu0alional Theraolst -Level II | 965820 | 35 |
-| Senior Associate Pharmacist -Level A - Deleted June 15, 2019 | 962210 | 37.5 |
-| Senior Associate Pharmacist -Level B - Deleted June 15, 2019 | 962220 | 37.5 |
-| Senior Associate Pharmacist -Level C-Deleted June 15, 2019 | 962230 | 37,5 |
-| Senior Associate Pharmacist -Level 0-Deleted June 15. 2019 | 962240 | 37.5 |
-| Senior Assoclale Phvslcal Theraoist -Level 1 | 965710 | 35 |
-| Senior Associate Phvsical Theraoist -Level II | 965720 | 35 |
-| Senior Automotive Service Worker - Deleted June 19, 2006 | 925090 | 40 |
-| Senior Bio-Medical Eouloment Technician | 215630 | 35 |
-| Senior Buver - Deleted Julv 3. 1997 | 121400 | 35 |
-| Senior Children's Counselor | 515350 | 35 |
-| Senior Civil Enolneer Deleted Mav 13. 2021 | 202250 | 35 |
-| Senior Clinician Educator• Level 1-Deleted Julv 31. 1996 | 966510 | 37.5 |
-| Senior Clinician Educator -Level II - Deleted July 31, 1996 | 966520 | 37.5 |
+| Radloqra0her Level Ill !Accreted Seotember 6, 20201 | 967130 | 35 | | --- | --- | --- | | Refriqeratlon Service Heiner | 000650 | 37.5 | | Refriqeratlon Service Mechanic | 000660 | 37.5 | | Rehabilitation Counselor | 512130 | 35 | | Rehabilitation Technician | 001880 | 37.5 | | Research Assistant | 609100 | 35 | | Resolratorv Care Theraolst • Level I - Deleted Ju!v 3, 1997 | 000790 | 37.5 | | Resolratorv Care Theraolst -Level II - Deleted Julv 3, 1997 | 000800 | 375 | | Resoirat~ Theraoist -Level I | 980110 | 35 | | Resoiratorv Theraolst • Level l1 | 980120 | 35 | | Resolratorv Theraov Aide | 980000 | 35 | | Resolratorv Therapy Technician - Deleted March 13, 1998 | 003340 | 37.5 | | Resolratorv Theraov Technician -Level I | 980010 | 35 | | Resoiratorv Therapy Technician -Level l1 | 980020 | .35 | | Resoiratorv Theraov Technician Trainee - Deleted March 13. 1998 | 003330 | 37.5 | | Safetv Officer | 316170 | 35 | | Secretary • Level Ila | 102720 | 35 | | Secretary - Level lib | 102730 | 35 | | Secretary • Level Illa | 102740 | 35 | | Secretary -Level lllb | 102750 | 35 | | Senior Accountant-Deleted June 15, 2019 | 405150 | 35 | | Senior Activitv Therapist - Deleted September 8. 2006 | 004790 | 35 | | Senior Addiction Counselor -Level I | 966970 | 35 | | Senior Addiction Counselor -Level II | 966980 | 35 | | Senior Architect - Deleted Julv 3, 1997 | 212250 | 35 | | Senior Associate Accountant | 002630 | 35 | | Senior Associate Occuoalional Theraolst -Level I | 965810 | 35 | | Senior Associate Occu0alional Theraolst -Level II | 965820 | 35 | | Senior Associate Pharmacist -Level A - Deleted June 15, 2019 | 962210 | 37.5 | | Senior Associate Pharmacist -Level B - Deleted June 15, 2019 | 962220 | 37.5 | | Senior Associate Pharmacist -Level C-Deleted June 15, 2019 | 962230 | 37,5 | | Senior Associate Pharmacist -Level 0-Deleted June 15. 2019 | 962240 | 37.5 | | Senior Assoclale Phvslcal Theraoist -Level 1 | 965710 | 35 | | Senior Associate Phvsical Theraoist -Level II | 965720 | 35 | | Senior Automotive Service Worker - Deleted June 19, 2006 | 925090 | 40 | | Senior Bio-Medical Eouloment Technician | 215630 | 35 | | Senior Buver - Deleted Julv 3. 1997 | 121400 | 35 | | Senior Children's Counselor | 515350 | 35 | | Senior Civil Enolneer Deleted Mav 13. 2021 | 202250 | 35 | | Senior Clinician Educator• Level 1-Deleted Julv 31. 1996 | 966510 | 37.5 | | Senior Clinician Educator -Level II - Deleted July 31, 1996 | 966520 | 37.5 |
 
 2001-2021 CITYWIDE AGREEMENT 100 22016
 
-
-| Senior Clinician Educator -Level Ill - Deleted July 31, 1996 | 966530 | 37.5 |
-| --- | --- | --- |
-| Senior Clinician Educator -Level IV - Deleted July 31, 1996 | 966540 | 37.5 |
-| Senior Communltv Liaison Worker - Deleted July 15, 2013 | 560940 | 35 |
-| Senior Consultant (Earty Childhood Education) | 516360 | 35 |
-| Senior Consultant, Manaaement Information Services Level A (Accreted November 17, 2015) | 985010 | 35 |
-| Senior Consultant. Manaaement Information Services Level B (Accreted November 17, 2015) | 985020 | 35 |
-| Senior Consultant Manaaement Information Services Level C !Accreted November 17. 2015) | 985030 | 35 |
-| Senior Cook | 902350 | 37.5 |
-| Senior Dentist - Deleted Julv 3. 1997 | 502350 | 35 |
-| Senior Electrical Enalneer Deleted Mav 13, 2021 | 203250 | 35 |
-| Senior Electrocardloaraoh Technician | 001600 | 35 |
-| Senior Health Care Pronram Planner/Analvst -Level A | 000320 | 35 |
-| Senior Health Care Proaram Planner/Analvst -Level B | 000330 | 35 |
-| Senior Health Facilities Planner | 220830 | 35 |
-| Senior Hosoltal Care lnvestlaator | 523430 | 35 |
-| Senior Housekee""r | 807350 | 35 |
-| Senior Illustrator | 914350 | 35 |
-| Senior LaundN SuoeNisor Deleted June 15 2019 | 808610 | 37.5 |
-| Senior LaundN Worker-Deleted June 15, 2019 | 901350 | 37.5 |
-| Senior Management Consultant (Business Organization and Methods) Level I (Accreted March 24, 2006\ | 983710 | 35 |
-| Senior Management Consultant (Business Organization and Methods) Level II (Accreted March 24, 2006) | 983720 | 35 |
-| Senior Meat Cutter Deleted Mav 13. 2021 | 902370 | 35 |
-| Senior Mechanical Enaineer | 204250 | 35 |
-| Senior Medical Utilization Review Analvst | 002750 | 35 |
-| Senior MortuaN Technician - Title Code Chanoe Effective Seotember 16. 2011 | 104120 | 35 |
-| Senior Motor Vehicle Su=rvisor | 912330 | 37.5 |
-| Senior Pharmacist Deleted Julv 3. 1997 | 506350 | 40 |
-| Senior Photonraoher | 906350 | 35 |
-| Senior Phvslcist | 220250 | 35 |
-| Senior Phvslcist !Electronicsl | 220260 | 35 |
-| Senior Phvsicist llsotooesl | 220270 | 35 |
-| Senior Plannina -Schedulina Analyst | 039680 | 35 |
-| Senior Psvcholoalst - Deleted Seotember 25, 1998 | 521350 | 35 |
-| Senior Public Health Educator - Deleted JanuaN 16. 2009 | 511350 | 35 |
-| Senior Purchase Inspector - Deleted December 13, 1999 | 341350 | 35 |
-| Senior Radiation Technician Deleted October 16, 1998 | 513360 | 35 |
-| Senior Rehabilitation Counselor | 512150 | 35 |
-| Senior ResoiratoN Care Theraoist -Level I Deleted Julv 3. 1997 | 966930 | 35 |
-| Senior Resoiratorv Care Theraolst -Level II Deleted Julv 3. 1997 | 966940 | 35 |
-| Senior Social Worker (HCF)-Deleted June 15, 2019 | 004770 | 35 |
-| Senior Soecial Officer - Deleted Julv 22 201 O | 708150 | 37.5 |
+| Senior Clinician Educator -Level Ill - Deleted July 31, 1996 | 966530 | 37.5 | | --- | --- | --- | | Senior Clinician Educator -Level IV - Deleted July 31, 1996 | 966540 | 37.5 | | Senior Communltv Liaison Worker - Deleted July 15, 2013 | 560940 | 35 | | Senior Consultant (Earty Childhood Education) | 516360 | 35 | | Senior Consultant, Manaaement Information Services Level A (Accreted November 17, 2015) | 985010 | 35 | | Senior Consultant. Manaaement Information Services Level B (Accreted November 17, 2015) | 985020 | 35 | | Senior Consultant Manaaement Information Services Level C !Accreted November 17. 2015) | 985030 | 35 | | Senior Cook | 902350 | 37.5 | | Senior Dentist - Deleted Julv 3. 1997 | 502350 | 35 | | Senior Electrical Enalneer Deleted Mav 13, 2021 | 203250 | 35 | | Senior Electrocardloaraoh Technician | 001600 | 35 | | Senior Health Care Pronram Planner/Analvst -Level A | 000320 | 35 | | Senior Health Care Proaram Planner/Analvst -Level B | 000330 | 35 | | Senior Health Facilities Planner | 220830 | 35 | | Senior Hosoltal Care lnvestlaator | 523430 | 35 | | Senior Housekee""r | 807350 | 35 | | Senior Illustrator | 914350 | 35 | | Senior LaundN SuoeNisor Deleted June 15 2019 | 808610 | 37.5 | | Senior LaundN Worker-Deleted June 15, 2019 | 901350 | 37.5 | | Senior Management Consultant (Business Organization and Methods) Level I (Accreted March 24, 2006\ | 983710 | 35 | | Senior Management Consultant (Business Organization and Methods) Level II (Accreted March 24, 2006) | 983720 | 35 | | Senior Meat Cutter Deleted Mav 13. 2021 | 902370 | 35 | | Senior Mechanical Enaineer | 204250 | 35 | | Senior Medical Utilization Review Analvst | 002750 | 35 | | Senior MortuaN Technician - Title Code Chanoe Effective Seotember 16. 2011 | 104120 | 35 | | Senior Motor Vehicle Su=rvisor | 912330 | 37.5 | | Senior Pharmacist Deleted Julv 3. 1997 | 506350 | 40 | | Senior Photonraoher | 906350 | 35 | | Senior Phvslcist | 220250 | 35 | | Senior Phvslcist !Electronicsl | 220260 | 35 | | Senior Phvsicist llsotooesl | 220270 | 35 | | Senior Plannina -Schedulina Analyst | 039680 | 35 | | Senior Psvcholoalst - Deleted Seotember 25, 1998 | 521350 | 35 | | Senior Public Health Educator - Deleted JanuaN 16. 2009 | 511350 | 35 | | Senior Purchase Inspector - Deleted December 13, 1999 | 341350 | 35 | | Senior Radiation Technician Deleted October 16, 1998 | 513360 | 35 | | Senior Rehabilitation Counselor | 512150 | 35 | | Senior ResoiratoN Care Theraoist -Level I Deleted Julv 3. 1997 | 966930 | 35 | | Senior Resoiratorv Care Theraolst -Level II Deleted Julv 3. 1997 | 966940 | 35 | | Senior Social Worker (HCF)-Deleted June 15, 2019 | 004770 | 35 | | Senior Soecial Officer - Deleted Julv 22 201 O | 708150 | 37.5 |
 
 22016
 2001-2021 CITYWIDE AGREEMENT IOI
 
-
-| Senior StatlsUcian Deleted Mav 13. 2021 | 406150 | 35 |
-| --- | --- | --- |
-| Senior Svsterns Analvst | 039290 | 35 |
-| Senior Svslems Analvst !EDP) | 040030 | 35 |
-| Senior Systems Analyst (Finance) | 039330 | 35 |
-| Service Aide | 987010 | 37.5 |
-| Social Worker | 526130 | 35 |
-| Social Worker - Mental Health Service Coros (Accreted Auaust 14. 2019) | 526110 | 35 |
-| Social Worker Level I !Est Auausl 10, 2006) | 526140 | 35 |
-| Social Worker Level II (Est Auaust 10, 2006) | 526150 | 35 |
-| o. Social Worker Level Ill (Est AUQust 1 2006) | 526160 | 35 |
-| o. Social Worker Level IV (Est AUQUSI 1 2006) | 526170 | 35 |
-| Social Worker Level V (Est AUQUSI 10, 2006} | 526180 | 35 |
-| Soecial Consultant (Mental Health Standards and Services! Level II (Est Julv 31. 20151 | 510010 | 35 |
-| Soecial Officer | 708100 | 37.5 |
-| Soeech Clinician | 003790 | 35 |
-| Staff Analvsl-Level 1-Deleted June 15. 2019 1 | 126260 | 35 |
-| Staff Analvst -Level II - Deleted June 15 2019 1 | 126460 | 35 |
-| Staff Nurse | 509100 | 37.5 |
-| Slaff Nurse ICHSl Level I IEsl December 21. 20151 | 000900 | 37.5 |
-| Staff Nurse ICHSl Level II (Est December 21. 2015) | 000910 | 37.5 |
-| Statistician Deleted Mav 13. 2021 | 406100 | 35 |
-| Stenoaraoher/Secretarv Level II Deleted Seotember 19, 1997 | 960520 | 35 |
-| Stenoaraohlc Soecialist -Level I | 960710 | 35 |
-| Stenoaraohic $N>cialisl -Level II | 960720 | 35 |
-| Stenooraohic S.,..cialisl -Level Ill | 960730 | 35 |
-| Stenoaraohic/Secretarial Associate Level I Deleted Seotember 19. 1997 | 960600 | 35 |
-| Stock Worker -Level I | 960910 | 35 |
-| Stock Worker -Level II | 960920 | 35 |
-| Suoervislna Activitv Theraolst Deleted Seotember 8. 2006 | 004800 | 35 |
-| Supervising Ambulance Corpsman Deleted 1982 | 002230 | 37.5 |
-| Suoervislna Audioloaist | 512400 | 35 |
-| Suoervlsina Children's Counselor | 515600 | 35 |
-| Suoervisinci Dental Assistant | 002210 | 35 |
-| Suoervislnci Emerciencv Medical Service Specialist Level I Deleted Julv 31. 1996 | 963310 | 37.5 |
-| Suoervisina Emeraencv Medical Service Soecialist Level II Deleted Julv 31, 1996 | 963320 | 37.5 |
-| Suoervislnq Hosoital Care lnveslioator | 523440 | 35 |
-| Suoervislno Housekeeoer | 807600 | 35 |
-| Sunervislna Laundrv Worker - Deleted June 15, 2019 | 001150 | 37.5 |
-| Suoervislna Medical Record Soeciallst | 508370 | 35 |
-| Sunervislna Nuclear Medicine Technoloaist | 004910 | 35 |
-| Suoervislna Pharmacist Deleted Julv 3. 1997 | 506500 | 37.5 |
+| Senior StatlsUcian Deleted Mav 13. 2021 | 406150 | 35 | | --- | --- | --- | | Senior Svsterns Analvst | 039290 | 35 | | Senior Svslems Analvst !EDP) | 040030 | 35 | | Senior Systems Analyst (Finance) | 039330 | 35 | | Service Aide | 987010 | 37.5 | | Social Worker | 526130 | 35 | | Social Worker - Mental Health Service Coros (Accreted Auaust 14. 2019) | 526110 | 35 | | Social Worker Level I !Est Auausl 10, 2006) | 526140 | 35 | | Social Worker Level II (Est Auaust 10, 2006) | 526150 | 35 | | o. Social Worker Level Ill (Est AUQust 1 2006) | 526160 | 35 | | o. Social Worker Level IV (Est AUQUSI 1 2006) | 526170 | 35 | | Social Worker Level V (Est AUQUSI 10, 2006} | 526180 | 35 | | Soecial Consultant (Mental Health Standards and Services! Level II (Est Julv 31. 20151 | 510010 | 35 | | Soecial Officer | 708100 | 37.5 | | Soeech Clinician | 003790 | 35 | | Staff Analvsl-Level 1-Deleted June 15. 2019 1 | 126260 | 35 | | Staff Analvst -Level II - Deleted June 15 2019 1 | 126460 | 35 | | Staff Nurse | 509100 | 37.5 | | Slaff Nurse ICHSl Level I IEsl December 21. 20151 | 000900 | 37.5 | | Staff Nurse ICHSl Level II (Est December 21. 2015) | 000910 | 37.5 | | Statistician Deleted Mav 13. 2021 | 406100 | 35 | | Stenoaraoher/Secretarv Level II Deleted Seotember 19, 1997 | 960520 | 35 | | Stenoaraohlc Soecialist -Level I | 960710 | 35 | | Stenoaraohic $N>cialisl -Level II | 960720 | 35 | | Stenooraohic S.,..cialisl -Level Ill | 960730 | 35 | | Stenoaraohic/Secretarial Associate Level I Deleted Seotember 19. 1997 | 960600 | 35 | | Stock Worker -Level I | 960910 | 35 | | Stock Worker -Level II | 960920 | 35 | | Suoervislna Activitv Theraolst Deleted Seotember 8. 2006 | 004800 | 35 | | Supervising Ambulance Corpsman Deleted 1982 | 002230 | 37.5 | | Suoervislna Audioloaist | 512400 | 35 | | Suoervlsina Children's Counselor | 515600 | 35 | | Suoervisinci Dental Assistant | 002210 | 35 | | Suoervislnci Emerciencv Medical Service Specialist Level I Deleted Julv 31. 1996 | 963310 | 37.5 | | Suoervisina Emeraencv Medical Service Soecialist Level II Deleted Julv 31, 1996 | 963320 | 37.5 | | Suoervislnq Hosoital Care lnveslioator | 523440 | 35 | | Suoervislno Housekeeoer | 807600 | 35 | | Sunervislna Laundrv Worker - Deleted June 15, 2019 | 001150 | 37.5 | | Suoervislna Medical Record Soeciallst | 508370 | 35 | | Sunervislna Nuclear Medicine Technoloaist | 004910 | 35 | | Suoervislna Pharmacist Deleted Julv 3. 1997 | 506500 | 37.5 |
 
 22016
 2001-2021 CITYWIDE AGREEMENT 102
 
-
-| Suoervlsln11 Public Health Adviser | 511930 | 35 |
-| --- | --- | --- |
-| Supervlsln11 Public Health Nurse Deleled September 3, 1999 | 510600 | 35 |
-| Suoervlsln11 Refri11eraUon Service Technician Deleted Mav 13. 2021 | 000670 | 37.5 |
-| Supervlslna Special Officer Level I (Est Julv 22, 2010! | 103210 | 37,5 |
-| SuDervlslm1 Special Officer Level II (EstJulv 22, 2010l | 103220 | 37.5 |
-| Supervlslna Speech Patholoaist | 512540 | 35 |
-| Supervlsln11 Svslems Analvst <Accreted June 29, 20001 | 000680 | 35 |
-| Supervislna Therapist | 512410 | 35 |
-| SuDervislna Tralnln11 and Develooment Associate !Accreted December 8. 20121 | 107200 | 35 |
-| Suoervisor I !Social Workl | 526310 | 35 |
-| Supervisor II !Social Workl | 526320 | 35 |
-| Suoervisor Ill !Social Workl-Deleted June 15. 2019 | 526330 | 35 |
-| Supervisor of Gardeners Deleted Mav 13. 2021 | 002720 | 37.5 |
-| Supervisor of Mechanics !Mechanical Eaulomenll Level I Deleled March 19. 2008 | 925750 | 40 |
-| Suoervisor of Mechanics !Mechanical Eoulomenll Level II Deleted March 19. 2008 | 925760 | 40 |
-| Suoervisor of Mechanics (Mechanical Equipment) Level Ill Deleted March 19. 2008 | 925770 | 40 |
-| Suoervlsor of Mechanics /Mechanical Eouiomentl Level IV Deleted March 19. 2008 | 925780 | 40 |
-| Suoervisor of Motor Transoort IEstAu11ust 9 ·2015· Deleted Mav 13. 2021) | 912790 | 37.5 |
-| Suoervlsor of Nurses | 509600 | 37.5 |
-| Suoervlsor of Nurses Duplicate | 509600 | 37.5 |
-| Supervisor of Office Machine Operations -Level I | 117010 | 35 |
-| Suoervlsor of Office Machine Ooeratlons -Level II | 117020 | 35 |
-| Suoervisor of Radio Repair OperaUons | 907600 | 37.5 |
-| Suoervisor of Stock Workers -Level 1 | 962410 | 35 |
-| Supervisor of Slack Workers -Level II | 962420 | 35 |
-| Suoervisor of Stock Workers -Level Ill | 962430 | 35 |
-| Suoervisor, Schedulimi & Control (EDP! Deleted | 039910 | 35 |
-| Sut11lcal Technolo11ist Level I (Est Januarv 1, 2015) | 001900 | 37.5 |
-| Sut11lcal Technolo11lst Level II (Est Januarv 1, 2015) | 001980 | 37.5 |
-| Svstems Analvst | 039280 | 35 |
-| Svstems Analvst !EDP> | 040020 | 35 |
-| Svslems Analvst (Finance) | 039320 | 35 |
-| Svstems Prolect Leader IEDPl !Accreted October 31, 20061 | 961810 | 35 |
-| Teacher Aide IDav Care Center) | 029330 | 35 |
-| Technical Sunnort Aide Level II Deleted Seolember 19. 1997 | 960820 | 35 |
-| Technical Suooort Aide Level Ill Deleted Seotember 19, 1997 | 960830 | 35 |
-| Telecommunications Associate -Level I Deleted June 16, 2004 | 966210 | 35 |
-| Telecommunications Associate• level II Deleted June 16. 2004 | 966220 | 35 |
-| Telecommunications Associate !Dalal Level I CEsl June 16, 20041 | 202410 | 35 |
-| Telecommunications Associate !Dalal Level II IEsl June 16, 2004) | 202420 | 35 |
-| Telecommunications Associate /Dalal Level Ill /Est June 16. 20041 | 202430 | 35 |
+| Suoervlsln11 Public Health Adviser | 511930 | 35 | | --- | --- | --- | | Supervlsln11 Public Health Nurse Deleled September 3, 1999 | 510600 | 35 | | Suoervlsln11 Refri11eraUon Service Technician Deleted Mav 13. 2021 | 000670 | 37.5 | | Supervlslna Special Officer Level I (Est Julv 22, 2010! | 103210 | 37,5 | | SuDervlslm1 Special Officer Level II (EstJulv 22, 2010l | 103220 | 37.5 | | Supervlslna Speech Patholoaist | 512540 | 35 | | Supervlsln11 Svslems Analvst <Accreted June 29, 20001 | 000680 | 35 | | Supervislna Therapist | 512410 | 35 | | SuDervislna Tralnln11 and Develooment Associate !Accreted December 8. 20121 | 107200 | 35 | | Suoervisor I !Social Workl | 526310 | 35 | | Supervisor II !Social Workl | 526320 | 35 | | Suoervisor Ill !Social Workl-Deleted June 15. 2019 | 526330 | 35 | | Supervisor of Gardeners Deleted Mav 13. 2021 | 002720 | 37.5 | | Supervisor of Mechanics !Mechanical Eaulomenll Level I Deleled March 19. 2008 | 925750 | 40 | | Suoervisor of Mechanics !Mechanical Eoulomenll Level II Deleted March 19. 2008 | 925760 | 40 | | Suoervisor of Mechanics (Mechanical Equipment) Level Ill Deleted March 19. 2008 | 925770 | 40 | | Suoervlsor of Mechanics /Mechanical Eouiomentl Level IV Deleted March 19. 2008 | 925780 | 40 | | Suoervisor of Motor Transoort IEstAu11ust 9 ·2015· Deleted Mav 13. 2021) | 912790 | 37.5 | | Suoervlsor of Nurses | 509600 | 37.5 | | Suoervlsor of Nurses Duplicate | 509600 | 37.5 | | Supervisor of Office Machine Operations -Level I | 117010 | 35 | | Suoervlsor of Office Machine Ooeratlons -Level II | 117020 | 35 | | Suoervisor of Radio Repair OperaUons | 907600 | 37.5 | | Suoervisor of Stock Workers -Level 1 | 962410 | 35 | | Supervisor of Slack Workers -Level II | 962420 | 35 | | Suoervisor of Stock Workers -Level Ill | 962430 | 35 | | Suoervisor, Schedulimi & Control (EDP! Deleted | 039910 | 35 | | Sut11lcal Technolo11ist Level I (Est Januarv 1, 2015) | 001900 | 37.5 | | Sut11lcal Technolo11lst Level II (Est Januarv 1, 2015) | 001980 | 37.5 | | Svstems Analvst | 039280 | 35 | | Svstems Analvst !EDP> | 040020 | 35 | | Svslems Analvst (Finance) | 039320 | 35 | | Svstems Prolect Leader IEDPl !Accreted October 31, 20061 | 961810 | 35 | | Teacher Aide IDav Care Center) | 029330 | 35 | | Technical Sunnort Aide Level II Deleted Seolember 19. 1997 | 960820 | 35 | | Technical Suooort Aide Level Ill Deleted Seotember 19, 1997 | 960830 | 35 | | Telecommunications Associate -Level I Deleted June 16, 2004 | 966210 | 35 | | Telecommunications Associate• level II Deleted June 16. 2004 | 966220 | 35 | | Telecommunications Associate !Dalal Level I CEsl June 16, 20041 | 202410 | 35 | | Telecommunications Associate !Dalal Level II IEsl June 16, 2004) | 202420 | 35 | | Telecommunications Associate /Dalal Level Ill /Est June 16. 20041 | 202430 | 35 |
 
 2001-2021 CITYWIDE AGREEMENT 103
 22016
 
-
-| Telecommunications Associate Nolcel Level I !Est June 16. 2004) | 202510 | 35 |
-| --- | --- | --- |
-| Telecommunications Associate Noice! Level II /Est June 16, 20041 | 202520 | 35 |
-| Telecommunications Associate Nolcel Level Ill /Est June 16. 2004) | 202530 | 35 |
-| Telecommunications Soecialist /Dalal !Est June 16, 20041 | 202440 | 35 |
-| Telecommunications Soecialist Nolcel !Est June 16. 2004) | 202540 | 35 |
-| Trainina and Develooment Associate -Level A | 984710 | 35 |
-| Tralnlna and Develooment Associate -Level B | 984720 | 35 |
-| Trainina and Development Representative (Accreted December 8. 2012) | 107100 | 35 |
-| Ultrasound Technolnnlst -Level l | 966950 | 35 |
-| Ultrasound Technoloaist -Level II | 966960 | 35 |
-| Utilization Review/Management Coordinator -Level I | 005080 | 35 |
-| Utilization Review/ManaQement Coordinator -Level II | 005090 | 35 |
-| Washer - Deleted June 15. 2019 | 901110 | 37.5 |
-| Walch Person | 810100 | 37.5 |
-| Window Washer (Health Care Facilitlesl Deleted Mav 13. 2021 | 004420 | 37.5 |
+| Telecommunications Associate Nolcel Level I !Est June 16. 2004) | 202510 | 35 | | --- | --- | --- | | Telecommunications Associate Noice! Level II /Est June 16, 20041 | 202520 | 35 | | Telecommunications Associate Nolcel Level Ill /Est June 16. 2004) | 202530 | 35 | | Telecommunications Soecialist /Dalal !Est June 16, 20041 | 202440 | 35 | | Telecommunications Soecialist Nolcel !Est June 16. 2004) | 202540 | 35 | | Trainina and Develooment Associate -Level A | 984710 | 35 | | Tralnlna and Develooment Associate -Level B | 984720 | 35 | | Trainina and Development Representative (Accreted December 8. 2012) | 107100 | 35 | | Ultrasound Technolnnlst -Level l | 966950 | 35 | | Ultrasound Technoloaist -Level II | 966960 | 35 | | Utilization Review/Management Coordinator -Level I | 005080 | 35 | | Utilization Review/ManaQement Coordinator -Level II | 005090 | 35 | | Washer - Deleted June 15. 2019 | 901110 | 37.5 | | Walch Person | 810100 | 37.5 | | Window Washer (Health Care Facilitlesl Deleted Mav 13. 2021 | 004420 | 37.5 |
 
 GENERAL NOTES:
 • A position for which n tempornry title code hos been issued pending its fonnnl clnssificntion shnll be deemed to be presumptively included in this Appendix A provided such temporary position has been certified for collective bargaining (see Article IX, Section 14 ).
@@ -3521,14 +1586,10 @@ GENERAL NOTES:
 • Please contnct the NYC Office of Labor Relations if there is n question nbout the specific dntc 11 City title wns Accreted, Added or Deleted.
 • Ruic XI titles certified by the Board of Collective 811rg11ining subsequent to the drafting of this Agreement shnll be deemed included in this Appendix A.
 TITLE SPECIFIC NOTES:
-1. Applies to positions certified lo the Orgnnizntion ofStnlT Annlyst pursunnt to BCB Decision No. 3-
-88 (Moy 19, 1988).
-2. Except I) employees assigned to positions in shelters run by the Dcpllrtments of Homeless Services
-or Socinl Services ,,hose work week shall be 37½ hours and 2) incumbent employees who were reclnssilied from either Assistant Community Specialist or Office Aide (CETA) whose work week shall continue to be 35 hours.
-3. Except for employees assigned to positions in the Department of Social Services whose work week
-shnll be 37V, hours.
-4. Except for incumbent employees hired prior to September I, 1982, whose work week was
-35 hours. Said incumbents shall continue lo have a 35-hour work week.
+1. Applies to positions certified lo the Orgnnizntion ofStnlT Annlyst pursunnt to BCB Decision No. 3- 88 (Moy 19, 1988).
+2. Except I) employees assigned to positions in shelters run by the Dcpllrtments of Homeless Services or Socinl Services ,,hose work week shall be 37½ hours and 2) incumbent employees who were reclnssilied from either Assistant Community Specialist or Office Aide (CETA) whose work week shall continue to be 35 hours.
+3. Except for employees assigned to positions in the Department of Social Services whose work week shnll be 37V, hours.
+4. Except for incumbent employees hired prior to September I, 1982, whose work week was 35 hours. Said incumbents shall continue lo have a 35-hour work week.
 22016
 2001-2021 CITYWIDE AGREEMENT 104
 
@@ -3553,22 +1614,17 @@ ANSWER: Under certain circumstances. If such an employee is ordered to work.hour
 105
 22016
 
-
-4. Article IV, Section 3(d): Cen the Employer reschedule the normal workweek of employees lo regularly include
-Saturdays nnd/or Sundays as nonnal workdays without vioh1ting this Section?
+4. Article IV, Section 3(d): Cen the Employer reschedule the normal workweek of employees lo regularly include Saturdays nnd/or Sundays as nonnal workdays without vioh1ting this Section?
 ANSWER: Yes.
 5. Article IV, Section ll(b): How is the cash payment of standby pay calculated?
 ANSWER: Except es mey be otheiwlse provided by FLSA, the cash payment for s1a.ndby is always compensated at the ralo of one-half (½X) of the hourly rate us determined pursuant to Article IV, Section 6.
-6. Article V, Section 3: May an agency head issue a blnnket prohibition or limitation on the use of approved sick
-leave and annual leave In units ofo ne hour?
+6. Article V, Section 3: May an agency head issue a blnnket prohibition or limitation on the use of approved sick leave and annual leave In units ofo ne hour?
 ANSWER: No. The agency must consider each request on its merits.
 7, Ardcle V, Section S: Do these sick leave provisions apply to pregnant employees?
 ANSWER: Ye&. These provisions arc applicable to pregnancy-connected disability under the same terms and conditions as they are applicable to any conditions requiring or permitting the use ofs ick leave.
-8. Article V, SeetJon 16(d): May an Agency opply a fixed time-based standard in determining whether to excuse
-lateness beyond the five-minute grace period?
+8. Article V, SeetJon 16(d): May an Agency opply a fixed time-based standard in determining whether to excuse lateness beyond the five-minute grace period?
 ANSWl!R: No. Ee.ch detennination shall be made on a cnse by case basis.
-9. Article V, Section 17: Is the following provision in Section 2.9 of the Leave Regulations superseded by this
-Section?
+9. Article V, Section 17: Is the following provision in Section 2.9 of the Leave Regulations superseded by this Section?
 For an agency whose presently existing rules (as of June 30, 19S6) permit the use of sick lenve credits of an employee in connection with tenninal leave with pay upon n:tirement, the agency is authorittd to grant an employee on staff prior to the effective dote of these Regulations but who retires subsequent thereto, either tcnninol leave with pay as specified in Regulation 2.9 or lerminal leave with pay calculated under such presently existing agency rules, whichever is the most liberal for the employee; provided that the sick leave balance used in the application of the agency formula does not exceed the sick leave balance to the credit of the employee et the time these Regulations go into effect (July I, 19S6).
 ANSWER: No,
 JO. Article V, Section 18(b): Arc a.II outdoor and field employees who traditiooally enjoyed shortened workday schedules and who are required to retwn to an office location entitled to summer schedules?
@@ -3582,9 +1638,7 @@ ANSWER: No. It refers to any cvaluatory slntemeot.
 22016
 106
 
-
-13. Article X, Section l: Are the requirements on cvaluatory stotements contained in this Section limited only ta those
-statements to be placed in the pennanent pen;onnel folder in the cenlral office?
+13. Article X, Section l: Are the requirements on cvaluatory stotements contained in this Section limited only ta those statements to be placed in the pennanent pen;onnel folder in the cenlral office?
 ANSWER: No. They apply to evaluatory statements to be placed in any employee pcrsoMel folder maintained in the agency.
 14, ArUclc XIII, Section 4: Would an employee, who a1 the time of separation from City service wns, and thereafter continued lo be covered by the State Health Insurance Program, be eligible to continue receiving the Welfare Fund contribution on bis behalfl ANSWER: Yes. Such an employee shall continue to receive the Welfare Fund contribution in the employee's behalf provided said employee has five years NYCERS membership service at U1e time of the employee's separation and said employee remains a primary beneficiary oftbe Stale Program and is entitled to receive benefits paid for by the State through such program.
 15, Article XXI: Does this Article intend to preclude the Union from engaging in activity to secure the enactment of the New Career Pension Pion lcgislntion during the tcnn ofthc Agreement?
@@ -3658,11 +1712,8 @@ Re: 2001-2021 Citywide Agreement
 Dear M&. Lovaglio-MIiier:
 Toil is lo confirm our mutual understanding and ai:n,ement that employees who are affected by the personnel actions set forth below shall not lose or GB in seniority for tha purposes of lmplenu:.nting the accniel rntes sci forth in Article V, Settion, I and 19(b), and Article Vl, Section 6 of the 2001-2021 Citywide Agreement.
 I, An employee who rcrum, ID active service fi'om on opproved leave ofab,cnce.
-2. An employee who is In pay status (wbclher full-time or part-time) and is permanently appointed in the same title
-or e new title.
-3. Employel:5 wbo w~ laid of or tenninalcd for economic reasons who are appoioted fiorn prefcm:d/recaJI list
-II
-or referred by the PRC.
+2. An employee who is In pay status (wbclher full-time or part-time) and is permanently appointed in the same title or e new title.
+3. Employel:5 wbo w~ laid of or tenninalcd for economic reasons who are appoioted fiorn prefcm:d/recaJI list II or referred by the PRC.
 A provisional employee who we terminated because or the cxi9tcnce of a civil service li9t and appointed from a ◄, civil service list Mlbin one year ofs uch fa'minatioo.
 S, A pemuncnt employee who 1uigns end is reinstated or who is appointed from a civil service list wiU1in one year ofs uch resignation.
 ~- An employee who resigns aod rc1um11 within JI days.
@@ -3679,10 +1730,10 @@ _Page 110_
 
 AGREED AND ACCEPTED ON BERALV OF DC 37:
 ~ _/ l,.?r.14_
-BY:._' __~- ------ ROSE LOVAGLlO-MlLLER
+BY:._' __~- ------
+ROSE LOVAGLlO-MlLLER
 109
 22016 ,
-
 
 E
 
@@ -3700,24 +1751,16 @@ Thls letter is to confinn that during lhe negotiations for the above captioned a
 1, The following committees shall be continued:
 a, The Payroll Issues Committee (including a separate Health and Hospital Corporation subcommittee); b. The Job Evaluation Procedures Issues Committee; and '
 c:, TI1c Committee for rssucs Affecting Employees with Disabilities.
-2. A temporary committee to implement a dedicated sick leave contribution plan shall be
-crented.
-3. Issues rclotcd to the timely placement of new and returning employees on payroll; the
-timely pnyment of shift differential, overtime and holiday pay; the timely input of time and leave records on pay stubs; and the clearer reflection on payroll stubs of these and other additioos-to•grose payments shall be referred lo the standing Payroll Committee
-4. A tempornry Legal Committee to sludy and make recommendations concerning an
-alternative to the health and safety grievance procedures shall be estnblisbed.
-5. Issues related to the protection and security of employees shall be referred to the standing
-CityWide Health and Safety Commitlee.
-6. The Workers Compensation Committee shall study and make recommendations to modify
-the procedures set forth in Article V, Sections 10 and 11 of this CityWidc Agreement within
+2. A temporary committee to implement a dedicated sick leave contribution plan shall be crented.
+3. Issues rclotcd to the timely placement of new and returning employees on payroll; the timely pnyment of shift differential, overtime and holiday pay; the timely input of time and leave records on pay stubs; and the clearer reflection on payroll stubs of these and other additioos-to•grose payments shall be referred lo the standing Payroll Committee 4. A tempornry Legal Committee to sludy and make recommendations concerning an alternative to the health and safety grievance procedures shall be estnblisbed.
+5. Issues related to the protection and security of employees shall be referred to the standing CityWide Health and Safety Commitlee.
+6. The Workers Compensation Committee shall study and make recommendations to modify the procedures set forth in Article V, Sections 10 and 11 of this CityWidc Agreement within
 90 days of commencing said committee.
 110
 22016
 ~
 
-
-7. The issue of the application of Article I, Section 5 of the Citywide Agreement to employees
-covered by the Clinicians Agreement and lo employees of the Department of Health assigned to work at Board of Education facilities on a school year based schedule shall be referred to a high level labor/management committee.
+7. The issue of the application of Article I, Section 5 of the Citywide Agreement to employees covered by the Clinicians Agreement and lo employees of the Department of Health assigned to work at Board of Education facilities on a school year based schedule shall be referred to a high level labor/management committee.
 8, The issuo of the exclusion of employees covered by the Clinicians Agreement from the provisions of Article ill of this Citywide shall be referred lo a high level labor/management committee.
 9, Issues related to the assignment of overtime in lhe Fire Department shall be referred to a high-level labor/management committee.
 l 0. After implcmcntntlon oft he Metrocard program, other issues related to transit checks shall be referred to a high-level labor/management committee.
@@ -3772,8 +1815,7 @@ ll2
 _Page 114_ · _Topics: wages_
 
 satisfactorily complete the new probationary period. Employees serving pennanently in a competitive, non-competitive, or labor class title in the NYC Health + Hospitals that is covered by the Citywide Agreement {''H+H covered position''} who arc appointed to another H+H covered position in lhe competitive, non-competitive, or lnbor class that requires serving a new probationary period, shall have the right to return to their former H+H title if they do not satisfactorily complete the new probationary period.
-3. Effective November 26, 1999, when competitive class prom9tionol titles arc consolidated with
-lower titles as assignment levels, any permanent competitive class employees who arc serving as step-up provisionals in the affected promotional titJes shall have up to twenty-four {24) month& of prior provisional service credit towards the "salary lock-in" provisions set forth in the Alternative Career and Salary Pay Plan. Notwithstanding such credited service, such employees must serve at least 12 months in the higher assignment level to gain full solary lock-in rights The provisions of this letter shall be deemed part of the 2001-2021 Citywide Agreement as if fully set forth therein. E,tccpt as is otherwise provided herein, the contents of this letter shall be effective the date of execution of the 2001-2021 Citywide Agreement and shall be coterminous therewith.
+3. Effective November 26, 1999, when competitive class prom9tionol titles arc consolidated with lower titles as assignment levels, any permanent competitive class employees who arc serving as step-up provisionals in the affected promotional titJes shall have up to twenty-four {24) month& of prior provisional service credit towards the "salary lock-in" provisions set forth in the Alternative Career and Salary Pay Plan. Notwithstanding such credited service, such employees must serve at least 12 months in the higher assignment level to gain full solary lock-in rights The provisions of this letter shall be deemed part of the 2001-2021 Citywide Agreement as if fully set forth therein. E,tccpt as is otherwise provided herein, the contents of this letter shall be effective the date of execution of the 2001-2021 Citywide Agreement and shall be coterminous therewith.
 lfyou concur with the contents set forth herein, please execute the signature line provided below.
 v ~
 
@@ -3781,7 +1823,8 @@ v ~
 ### AGREED AND ACCEPTED
 _Page 114_
 
-ON BEHALF OF DlSTRICT COUNCIL 37 ;;.-;4~-~
+ON BEHALF OF DlSTRICT COUNCIL 37
+;;.-;4~-~
 BY:
 
 <a id="rose-lovaglio-miller-p114"></a>
@@ -3811,7 +1854,6 @@ service be counted as service:
 Page I of5 ··1
 tu
 
-
 J. Exceptions
 a No provisional employee shall be deemed to be pennanently appointed under any circumstances, nor shall this disciplinary procedure be deemed to preclude removal of any provisional employee as a result of the establishment of, or appointment from. an appropriate eligible list, or in accordance with any other provision of law.
 b. Notwithstanding the provisions in Section 2, Eligibility Criteria, above, this Disc:iplinary Procedure $hall not be available to any employee appointed on a provisional basis to any position for which one or more appropriate eligil>le lists have been established including but not limited to any list established pursuant, to a plan approved in accordance with NYS Civil Service Law Section 65(5)(b).
@@ -3826,7 +1868,6 @@ then the employee may choose to proceed in accordance with the Grievance Procedu
 .Page2
 115
 
-
 and the Unipn for review of the griev,µice and shall issue a determination to the employee and the Union by the end of the tenth work day following 'the day on which the appeal was filed, The agency head or designated representative shall have the power to impose the discipline, if any~ decided upon. up to and including .tennination of the accused employee's employment. In the event of such termination or suspension .without pay totaling more than thirty (30) days·; the Union with the consent of the grievant may elect to skip STEP C of this Section and proceed directly to STEP D.
 S'rEPC If the gricvant is not satisfied with the detertnination of the agency head or ·designated representative the grievant or the Onion may appeQI to the Commissioner of Labor Relations in writiqg wiUrin ten (10) days of the determination of the agency head or designated representative. The a Commissi9ner of Labor Relations slutll issue written reply to the grievant and the Union within fifteen (15) work days.
 STEPD If the grievant is not ~tisfied with the determination of the Commissioner of Labor Relations, the Union with the consent of the grievant may proceed to arbitration p~suant to the· procedures set forth in STEP IV of the Grievance Procedure set forth in Article XV of this Agreement.
@@ -3839,22 +1880,25 @@ This limitation ~I not preclude a monetary remedy for arty portion of the period
 Page 3 ofS
 116
 
-
 6. Expiration Date
 This Disciplinary Procedure shall e~pire on Uie earlier of either of.the following:
-~- the ~piration or termination of a plan approved pursuant to subdivision 5 of section 65 of the Civil Service Law; or b. December 31, 2014.
-FOR THE CITY OF NEW YORK FOR DISTRICT COUNCIL 37, AFSCME, AFL-CIO BY: "ht/~
+~- the ~piration or termination of a plan approved pursuant to subdivision 5 of
+section 65 of the Civil Service Law; or
+b. December 31, 2014.
+FOR THE CITY OF NEW YORK FOR DISTRICT COUNCIL 37,
+AFSCME, AFL-CIO
+BY: "ht/~
 
 <a id="lil-ian-roberts-p118"></a>
 ### LIL IAN ROBERTS
 _Page 118_ · _Topics: wages, grievance, discipline, hours, promotion_
 
 Executive Director
-BY:--J---"=+-f-=='4fl--------- Acting o .
+BY:--J---"=+-f-=='4fl---------
+Acting o .
 22016,
 P~gc 4 ofS
 117
-
 
 Attachmeni A
 Scbool l3ased Employees
@@ -3865,7 +1909,6 @@ e. SBEs meeting the above criteria shall be(:ome eligible for the provisional di
 1
 Pages ors 22016
 118
-
 
 August 10, 2011
 Evelyn Seinfeld
@@ -3897,7 +1940,6 @@ service or be counted us service:
 220161
 120
 
-
 3. Exceptions
 a. No provisional employee shall be deemed to be pennanently appointed under any circumstances, nor shall this disciplinary procedure be deemed to preclude removal of nny provisional employee as a result of the establishment of, or appointment from, an appropriate eligible list, or in accordance with any other provision of law.
 h. Notwithstanding the provisions in Section 2, EligibiJity Criteria, above, this Disciplinary Procedure shall not be available to any employee appointed on a provisional basis to any position for which one or more appropriate eligible lists have been established including but not limited to any list established pursuant to a plan approved in accordance with NYS Civil Service Law Section 65(5).
@@ -3912,7 +1954,6 @@ then the employee may choose to proceed in nccon.lance with the Gricvunce Proced
 Sn-:1" B(ll) An uppeul from the detenninatinn ur S 11 1 1 A uhnve shull be made to the ngcncy hencl or dcsignnted rcpresentntive. The appcnl must he mndc in writing within live (5) work duys or the receipt of the dctcn11in11tinn. The ugency hcud or designated reprt.-sentutive shall meet with the employee 1 lkfcrcn1;i: i:1 10 I 1 ) 1}5-:!IHH l'nywidc At1rcc111cn1.
 22016 .,
 121
-
 
 and the Union for review of the grievance and shall issue a determination to the employee and the Union by the end of the tenth work day following the day on which the appeal was filed. The agency head or designated representative shall have the power to impose the discipline, if any, decided upon, up to and including termination of the accused employee's employment. In the event of such termination or suspension without pay totaling more than thirty (30) days, the Union with the consent of the grievant may elect to skip STEP C of this Section nnd proceed directly to STEP D.
 If the gricvant is not satisfied with the determination of the agency head or
@@ -3930,12 +1971,19 @@ This limitation shall not preclude u monetary remedy for nny portion or the peri
 22016
 122
 
-
 6. Expiration Date
-This Disciplinary Procedure shall be deemed to have been in force and effect on and after the expiration date of the original Disciplinary Procedure for Provisional Employees, as
+This Disciplinary Procedure shall be deemed to have been in force and effect on and after
+the expiration date of the original Disciplinary Procedure for Provisional Employees, as
 approved on August 30, 2011, and shall expire on the earlier of the following:
-a. the expiration, final disapproval or tennination of a revised plan to reduce provisional appointments submitted to the New York State Civil Service Commission in accordance with Section 65(5)(c-3) of the Civil Service Law; -Or b. November I, 2018.
-FOR THE CITY OF NEW YORK FOR DISTRICT COUNCIL 37, AFSCME, AFL-CIO r a :::::::---...
+a. the expiration, final disapproval or tennination of a revised plan to reduce
+provisional appointments submitted to the New York State Civil Service
+Commission in accordance with Section 65(5)(c-3) of the Civil Service Law;
+-Or
+b. November I, 2018.
+FOR THE CITY OF NEW YORK FOR DISTRICT COUNCIL 37,
+AFSCME, AFL-CIO
+r a
+:::::::---...
 BY:~ BY:
 ~
 <
@@ -3943,7 +1991,8 @@ R0BERTW.LINN HEN Y GARRIDO
 Commissioner of Labor Relations Executive Director
 4/tzt.,/18:
 Date:
---,1--+.,~ ----k
+--,1--+.,~ -----
+k
 ArrROVJ-:;a TO 1-·oRM:
 BY: ~ ,
 Eric Eichcnholtz
@@ -3952,7 +2001,6 @@ j145P/r
 Oulc:
 22016 t
 123
-
 
 Attachment A
 School Based Employees
@@ -3966,11 +2014,37 @@ c. SBEs mL-cting the above criteria shall become eligible for the provisional di
 220161
 124
 
+<a id="ii-10-p126"></a>
+### II 10
+_Page 126_ · _Topics: discipline_
+
+n
+1 he Parties 111111II append lhc "Disciplinary Prm:edurc fur Pruvisionul 1:mployec.-." and attadunents and C 10 lhe Citywide Agrel!ment and the unit ngn-. . cments pmvuJcd such unit agrcl!nu:nts pn:vmusly ex1endcd such coverage
+10
+In pnl\'isionnl employees.
+lflhe uhuve lenm1 an: ncccp111hlc 10 IX: 37. plense execute lhc signature lme provided hclmv Agn:cd nnJ Acccp! • lrJtalf of IJt,;tricl t'oundl 37
+1111
+UY: ~,-...;,,.--...._,,, \ ~ • !>avid P1L~km 1 lly l,11,. . 11111\:\111~111 du••" s.,,.. ..., h,T I"· 2111 ~-N~"' Y111I. ('11y JI t II lli11111,,ly ~"" ""' "' 1111<'1 \:llll'fL'll ltllll II l'lll~l•IIIIIHI Ji,.-rn..:. ..., Dlll\'1.'111\'III *llh l>t•ln.l ( '111111,:il )7
+22016
+125
+
+-
+:.llie OFFICE OF LABOR RELATIONS
+Cffi
+-10 Rector Srrccr, New York, N Y 10006-1705
+'Or~
+Wewiork.._. n) c.1111v / nlr
+ROBERTW. LINN MAYRA E. BELL
+Commissioner General Counsel
+
 <a id="office-of-labor-relations-p126"></a>
 ### OFFICE OF LABOR RELATIONS
 _Page 126_
 
-.JO Rector Suc:cr, New York, N. Y. 10006-1705 nrc:•h'OI' / 11l r ROBERT W. LINN MAYRA E. BELL Cammls:slDIIIH' G&neral C:ounsal
+.JO Rector Suc:cr, New York, N. Y. 10006-1705
+nrc:•h'OI' / 11l r
+ROBERT W. LINN MAYRA E. BELL
+Cammls:slDIIIH' G&neral C:ounsal
 
 <a id="renee-campion-georgette-gestel-y-p126"></a>
 ### RENEE CAMPION GEORGETTE GESTEL Y
@@ -3992,23 +2066,6 @@ This leller serves lo convey the City orNew York's position rcgardmg due process
 The Office of labor Relalions (OLR) shall apply lhc cermii ofchc attached "Disciplinary Procedure for Provisional Employees" and side letter agreement between the City and DC 37 to 01111:r unions covered by the Career 1ind S.ifary Pinn, llowc:vcr, lhis "Disciplinary Procedure: for Provi111onol Employees" and side letter ogrcemcnl !!hull not expand righls prcviou:ily embodied in Article XVI oflhe January I, 199S lhrough June JO, 2001 Cilywide Agrcemenl. a~ amended, nor shall ii confer any righls or bcnclits 1h111 provisiomd employees did nol enjoy under 1hc Citywide Agreement, or under on applicable unit agreement, before the decision in CSEA Lt111g B,•,rd,.
 1·.
 The "Disciplinary Procedure for Provision11I Employc:1:s" and side letter ogrcement spccilicolly exclude the New York Cily 1l eohh and llospilols Corporation ("I IIIC") even though 111 IC is liignatory the Citywide Agreement 1
-
-<a id="ii-10-p126"></a>
-### II 10
-_Page 126_ · _Topics: discipline_
-
-n
-1 he Parties 111111II append lhc "Disciplinary Prm:edurc fur Pruvisionul 1:mployec.-." and attadunents and C 10 lhe Citywide Agrel!ment and the unit ngn-. . cments pmvuJcd such unit agrcl!nu:nts pn:vmusly ex1endcd such coverage
-10
-In pnl\'isionnl employees.
-lflhe uhuve lenm1 an: ncccp111hlc 10 IX: 37. plense execute lhc signature lme provided hclmv Agn:cd nnJ Acccp! • lrJtalf of IJt,;tricl t'oundl 37
-1111
-UY: ~,-...;,,.--...._,,, \ ~ • !>avid P1L~km 1 lly l,11,. . 11111\:\111~111 du••" s.,,.. ..., h,T I"· 2111 ~-N~"' Y111I. ('11y JI t II lli11111,,ly ~"" ""' "' 1111<'1 \:llll'fL'll ltllll II l'lll~l•IIIIIHI Ji,.-rn..:. ..., Dlll\'1.'111\'III *llh l>t•ln.l ( '111111,:il )7
-22016
-125
-
-
-- :.llie OFFICE OF LABOR RELATIONS Cffi -10 Rector Srrccr, New York, N Y 10006-1705 'Or~ Wewiork.._. n) c.1111v / nlr ROBERTW. LINN MAYRA E. BELL Commissioner General Counsel
 
 <a id="renee-campion-georgette-gestely-p127"></a>
 ### RENEE CAMPION GEORGETTE GESTELY

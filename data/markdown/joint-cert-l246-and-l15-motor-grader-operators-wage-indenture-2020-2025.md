@@ -6,25 +6,28 @@ term_start: 2020
 term_end: 2025
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf"
 pages: 3
-ocr_pages: 3
-ocr_engine: google-cloud-vision
+ocr_pages: 2
+pages_with_tables: 0
 clauses: 3
-sector: "other"
+sector: "skilled-trades"
 ---
 
 # Joint Cert L246 and L15 Motor Grader Operators Wage Indenture, 2020-2025
 
 **Term:** 2020–2025  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf)  
-**Pages:** 3 (re-OCR'd via Google Cloud Vision)
+**Pages:** 3 (2 OCR-reconstructed)  
+**Clauses extracted:** 3
 
-> This contract was originally OCR'd via macOS Vision and contained heavy transcription errors. It was re-processed with Google Cloud Vision's DOCUMENT_TEXT_DETECTION on 2026-05-06. The text below is the re-OCR'd output. Verify quotations against the source PDF before publishing.
+**Workforce:** Joint Cert L246 and L15 Motor Grader Operators Wage Indenture, 2020-2025 — see contract for the full recognition clause defining covered titles.
+
+> This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 
 ---
 
-<a id="page-1"></a>
+<a id="page-1-p1"></a>
 ### Page 1
-_OCR via Google Cloud Vision_
+_Page 1_ · _OCR-reconstructed_
 
 2020-2025 Memorandum of Agreement
 Motor Grader Operator
@@ -69,9 +72,9 @@ soon as practicable upon ratification of this MOA.
 b. The general wage increases pursuant to Section 2.a., 2.b., 2.c., 2.d., and 2.e. of this
 MOA shall be payable as soon as practicable upon ratification of this MOA.
 
-<a id="page-2"></a>
+<a id="page-2-p2"></a>
 ### Page 2
-_OCR via Google Cloud Vision_
+_Page 2_ · _OCR-reconstructed_
 
 5. Annuity
 a.
@@ -106,9 +109,9 @@ Mayoral agencies, the Department of Education, and the New York City Housing
 Authority who receive paychecks via direct deposit shall be opted out of receiving paper
 2
 
-<a id="page-3"></a>
+<a id="page-3-p3"></a>
 ### Page 3
-_OCR via Google Cloud Vision_
+_Page 3_ · _OCR-reconstructed_
 
 pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS
 Employee Self-Service or the appropriate method at employers not on NYCAPS.
@@ -134,3 +137,5 @@ BY:
 JOSEPH COLANGELO
 President
 
+---
+_End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/motor-grader-operator-L246SEIU-L15-IUOE-2020-2025.pdf>_

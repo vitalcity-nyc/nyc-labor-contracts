@@ -14,9 +14,9 @@ sector: "other"
 
 # Local 306 Audiovisual Aide Technicians Memorandum of Agreement, 2022-2027
 
-**Term:** 2022–2027
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2027-iatse-l306moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2027-iatse-l306moa.pdf)
-**Pages:** 3 (3 OCR-reconstructed)
+**Term:** 2022–2027  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2027-iatse-l306moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2022-2027-iatse-l306moa.pdf)  
+**Pages:** 3 (3 OCR-reconstructed)  
 **Clauses extracted:** 3
 
 **Workforce:** Local 306 Audiovisual Aide Technicians MOA, 2022-2027 — see contract for the full recognition clause defining covered titles.
@@ -37,7 +37,10 @@ BY:
 ### RENEE CAMPION
 _Page 3_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations March Dated: February_12, 2024 Піг
+Commissioner of Labor Relations
+March
+Dated: February_12, 2024
+Піг
 
 <a id="michael-fewx-p3"></a>
 ### MICHAEL FEWX

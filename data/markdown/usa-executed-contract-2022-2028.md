@@ -18,9 +18,9 @@ wage_cumulative_pct: 18.77
 
 # Uniformed Sanitationmen's Association (USA) — Executed Contract, 2022-2028
 
-**Term:** 2022–2028
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/sanitation-workers-12-28-2022- 02-27-2028.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/sanitation-workers-12-28-2022- 02-27-2028.pdf)
-**Pages:** 67 (67 OCR-reconstructed)
+**Term:** 2022–2028  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/sanitation-workers-12-28-2022- 02-27-2028.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/sanitation-workers-12-28-2022- 02-27-2028.pdf)  
+**Pages:** 67 (67 OCR-reconstructed)  
 **Clauses extracted:** 79
 
 **Workforce:** Represents all uniformed sanitation workers below supervisor rank — the core of DSNY's collection, plowing, and street-cleaning workforce.
@@ -140,7 +140,6 @@ NO:
 DATE:
 10/22/2024
 
-
 AGREEMENT entered into this 22nd day of October 2024, by and between the City of New York (hereinafter referred to as the "Employer"), and the Uniformed Sanitationmen's Association, Local 831, International Brotherhood of Teamsters (hereinafter referred to as the "Union"), for the period from December 28, 2022 to February 27, 2028.
 WITNESSETH:
 WHEREAS, the parties hereto have entered into collective bargaining and desire to reduce the
@@ -170,7 +169,6 @@ Section 1.
 The Union shall have the exclusive right to the checkoff and transmittal of dues on behalf of each Employee in accordance with the Mayor's Executive Order No. 98, dated May 15, 1969, entitled "Regulations Relating to the Checkoff of Union Dues" and in accordance with the Mayor's Executive Order No. 107, dated December 29, 1986, entitled "Regulations Governing Procedures for Orderly Payroll Checkoff of Union Dues" or any successors) thereto.
 (b) Any Employee may consent in writing to the authorization of the deduction of dues from the Employee's wages and to the designation of the Union as the recipient thereof. Such consent, if given, shall be in a proper form acceptable to the City, which bears the signature of the Employee.
 25003
-
 
 Section 2.
 The parties agree to an agency shop to the extent permitted by applicable law, as described in a supplemental agreement hereby incorporated by reference into this Agreement.
@@ -235,7 +233,8 @@ $54,425
 $52,334
 $49,662
 * Employees hired before January 1, 2006 are at the maximum salary step.
-(b) Annual salary adjustments as enumerated above shall accrue from the date of appointment of each of she Employees and shall be payable on the regular first pay period following annual anniversary date of
+(b) Annual salary adjustments as enumerated above shall accrue from the date of appointment of each of
+she Employees and shall be payable on the regular first pay period following annual anniversary date of
 
 <a id="section-2-longevity-p3"></a>
 ### Section 2 — Longevity
@@ -244,14 +243,19 @@ _Page 3_ · _OCR-reconstructed_ · _Topics: wages, longevity, pension, hours, sh
 (a)
 Sanitation Workers who have completed 5, 10, 15, or 20 years of service shall receive an annual
 longevity differential payment according to the following schedule:
-Longevity Differential Payment Years of Service Five Ten Fifteen Effective
+Longevity Differential Payment
+Years of
+Service
+Five
+Ten
+Fifteen
+Effective
 12/28/22
 $2,000
 $2,495
 $3,395
 2
 25003
-
 
 Twenty
 L$5,000
@@ -266,7 +270,7 @@ Calculation of night shift differential payments shall be based upon the old lon
 _Page 4_ · _OCR-reconstructed_ · _Topics: wages, overtime, holidays, hours, shift-differential, uniform-allowance, recognition_
 
 (a) Effective December 28, 2022, a per annum Uniform Allowance of $1,000 shall continue to be provided pursuant to provisions of the appropriate certificate of the Director of Management and Budget.
-Ettective December 28, 2027, the Uniform Allowance shall be increased by $100 for a new total Uniform Allowance of $1,100 per annum.
+Effective December 28, 2027, the Uniform Allowance shall be increased by $100 for a new total Uniform Allowance of $1,100 per annum.
 (b) Dress Uniform. Bargaining unit employees shall have the option to purchase a dress uniform to represent the Department at certain ceremonial functions. Representatives of Labor and Management shall meet and confer concerning all aspects of the uniform, and the Department shall retain the right to issue policies and regulations related to the wearing of the dress uniform.
 Section 4.
 The Employer also agrees to compensate any of the Employees for the period of this Agreement, for
@@ -276,7 +280,6 @@ Saturday Work - to be paid for at straight time (1x) for the first six (6) hours
 Chart Day - work performed on chart days to be paid for at double time (2x) the respective pro-rated daily rate. This provision shall not be applicable to snow removal activities performed on Chart Days.
 3
 25003
-
 
 (b) Snow Removal Activities - in accordance with the respective budget certificates relating thereto; it being understood that, should any of the Employees be required to report for legal emergencies and/or snow work, on other than the Employee's regularly scheduled tours, the Employee shall be guaranteed and paid a minimum of eight (8) hours pay at time and one-half (1-1/2x) the pro-rated daily rate if the Employee reports for such work.
 (c) Holiday Work - in addition to the compensations referred to herein, the Employer hereby also agrees to provide additional payment to each Employee of one and one-half (1-1/2) day's pay for each eight
@@ -313,11 +316,14 @@ the increases in Section 5a. (ii) shall be based upon the base rates (which shal
 4
 25003
 
-
-the increases in Section 5a. (iii) shall be based upon the base rates (which shall include salary or incremental schedules) of the applicable titles in effect on December 27, 2024.
-the increases in Section 5a. (iv) shall be based upon the base rates (which shall include salary or incremental schedules) of the applicable titles in effect on December 27, 2025.
-the increases in Section 5a. (v) shall be based upon the base rates (which shall include salary or incremental schedules) of the applicable titles in effect on December 27, 2026.
-The general increase provided in Section 5(a) shall be applied to the base rates and salary grades herein fixed for the applicable titles.
+the increases in Section 5a. (iii) shall be based upon the base rates (which shall include
+salary or incremental schedules) of the applicable titles in effect on December 27, 2024.
+the increases in Section 5a. (iv) shall be based upon the base rates (which shall include
+salary or incremental schedules) of the applicable titles in effect on December 27, 2025.
+the increases in Section 5a. (v) shall be based upon the base rates (which shall include
+salary or incremental schedules) of the applicable titles in effect on December 27, 2026.
+The general increase provided in Section 5(a) shall be applied to the base rates and salary grades
+herein fixed for the applicable titles.
 Section 6.
 Service Differential
 Effective December 28, 2022, after 5 years of service as a Sanitation Worker, members shall
@@ -347,7 +353,8 @@ $890
 $921
 $953
 $991
-This differential shall be pensionable, subject to applicable law and rules concerning wages, and increase with future general wage increases.
+This differential shall be pensionable, subject to applicable law and rules concerning wages, and increase
+with future general wage increases.
 5
 25003
 
@@ -368,8 +375,11 @@ As additional compensation to each Employee, the City shall, during the term of 
 6
 25003
 
-
-For employees with less than fifteen (15) years of service Effective Date Daily Amount New Portion Adjusted by GWI
+For employees with less than fifteen (15) years of service
+Effective Date
+Daily Amount
+New Portion
+Adjusted by GWI
 12/28/22
 12/28/23
 12/28/24
@@ -429,7 +439,10 @@ $3,907.17
 $3,995.91
 $4,087.26
 $4,196.88
-Supplemental Annuity Fund for those Sanitation Workers, represented by the Unformed Sanitationer 3 Association ("051), who have attained normal serie retirement fer wenty 120) veers The parties agree that, effective January 20, 2019, the contribution to the Supplemental Annuity Fund shall be increased by $49 per annum. This increase shall be subject to future collective bargaining increases. As such, the
+Supplemental Annuity Fund for those Sanitation Workers, represented by the Unformed
+Sanitationer 3 Association ("051), who have attained normal serie retirement fer twenty 120) veers
+The parties agree that, effective January 20, 2019, the contribution to the Supplemental Annuity Fund shall be
+increased by $49 per annum. This increase shall be subject to future collective bargaining increases. As such, the
 ber annum lump sum supplemental annuity contributions shall be as follows:
 Effective Date
 12/28/2022
@@ -443,11 +456,18 @@ $588.10
 $608.68
 $629.98
 $655.18
-The parties further agree that, as soon as practicable after the ratification of the 2019-2022 Sanitation Workers Memorandum of Economic Agreement dated May 5, 2020, the City shall make a one-time lump-sum contribution of $2,178,133 into the Supplemental Annuity Fund The annual lump-sum amounts to be contributed shall be adjusted by any future across-the board wage increases and shall be predicated upon the active headcount as of the cycle used for the payment of annuity monies encompassing the July 1 date in each succeeding year and paid in accordance with the terms of the supplemental agreement. These amounts shall be paid into a separate Supplemental Annuity Fund maintained for this purpose.
-The Fund shall be maintained in accordance with the provisions of a supplemental agreement to be entered into between the City and the Union approved as to form by the Corporation Counsel and shall be subject to periodic audit by the Comptroller of the City of New York.
+The parties further agree that, as soon as practicable after the ratification of the 2019-2022 Sanitation
+Workers Memorandum of Economic Agreement dated May 5, 2020, the City shall make a one-time lump-sum
+contribution of $2,178,133 into the Supplemental Annuity Fund
+The annual lump-sum amounts to be contributed shall be adjusted by any future across-the board wage
+increases and shall be predicated upon the active headcount as of the cycle used for the payment of annuity monies
+encompassing the July 1 date in each succeeding year and paid in accordance with the terms of the supplemental
+agreement. These amounts shall be paid into a separate Supplemental Annuity Fund maintained for this purpose.
+The Fund shall be maintained in accordance with the provisions of a supplemental agreement to be entered into
+between the City and the Union approved as to form by the Corporation Counsel and shall be subject to periodic
+audit by the Comptroller of the City of New York.
 7
 25003
-
 
 In the event that enabling legislation is required to achieve the above outcome, the City and the Uniformed Sanitationmen's Association agree to jointly support such legislation subject to approval by both the City and the union of the language and other terms of the said legislation and the understanding that the City shall not bear any other costs of the benefit improvement except to provide the annual amount set forth herein. In such case, the provisions of the above agreement shall not become final and binding unless and until the State Legislature and the Governor enact into law the provisions of the enabling legislation. In the event that the parties are unable to effectuate the above, the parties agree to meet to discuss what actions might be necessary or to determine a substitute benefit of equivalent value.
 In the event that this agreement jeopardizes the tax qualifications of the City's pension systems, the City and the Uniformed Sanitationmen's Association agree to jointly work to resolve such issues, and, if necessary, to renegotiate the terms of this agreement.
@@ -467,7 +487,6 @@ Section 6.
 (b) If a replacement plan is offered to Employees and retirees under age 65 which exceeds the cost of the HIP/HMO equalization provided in Section 6(a) hereof, the City shall not bear the additional costs.
 8
 25003
-
 
 (c) The City shall continue to contribute on a City Employee benefits program-wide basis the additional annual amount of $30 million to maintain the Health Insurance Stabilization Reserve Fund which shall be used to continue equalization and protect the integrity of health insurance benefits.
 (d) The Health Insurance Stabilization Reserve Fund shall be used: to provide a sufficient reserve; to maintain to the extent possible the current level of health insurance benefits provided under the Blue Cross/GHI-CBP plan; and, if sufficient funds are available, to fund new benefits.
@@ -499,7 +518,6 @@ Sick leave and/or line-of-duty injury benefits shall be granted to Employees in 
 9
 25003
 
-
 Section 2.
 (a) For Employees Hired Prior to July 1, 1988 The Employer agrees to continue to grant to each Employee an annual vacation allowance of twentyfive (25) days. Effective January 1, 2016, employees after the tenth year of service shall receive one (1) additional day of annual leave, or twenty-six (26) total. Effective January 1, 2017, employees after their fifteenth year of service shall receive one more additional day of annual leave, or twentyseven (27) total. The Employer further agrees to continue to grant terminal leave of one (1) month for every ten (10) years of service prior to retirement.
 (b) For Employees Hired On or After July 1, 1988 Employees shall accrue an annual vacation allowance at a rate of eighteen (18) days in each of their first four (4) years of service, at a rate of twenty (20) days in their fifth year of service and at a rate of twenty-five (25) days in their sixth year of service. Effective January 1, 2016, employees after the tenth year of service shall receive one (1) additional day of annual leave, or twenty-six (26) total.
@@ -515,7 +533,6 @@ New Year's Day
 Martin Luther King, Jr.'s Birthday Lincoln's Birthday Washington's Birthday Memorial Day Juneteenth Independence Day Labor Day Columbus Day Election Day Veterans Day Thanksgiving Day Christmas Day
 10
 25003
-
 
 In the event that another day is officially designated as the day of observance of any of the above-listed holidays, that day shall be considered the holiday for the purpose of this Section.
 Section 4.
@@ -543,7 +560,6 @@ _Page 12_ · _OCR-reconstructed_ · _Topics: overtime, hours_
 11
 25003
 
-
 modify the then existing chart system.
 (c) In the event of an emergency caused by accident, fire, flood, riot or a potential danger to health, life or property, the Employees, when called, shall report to work, and shall be compensated at the premium rate as set forth in Article III hereof. The Employer shall inform the Union of the nature of the emergency and the reason for changing the normal starting time.
 (d) In the event a change in the lunch period is deemed necessary, the Employee shall be notified at roll call except in case of a snow or other emergency requiring such change. An entry shall be made in the blotter noting the reasons for the change. Information relating to such changes shall be made available to the Union upon request.
@@ -560,7 +576,6 @@ The Employer shall inform the Union of the nature of the new shift and the reaso
 12
 25003
 
-
 shift. Except in an emergency, no shift will overlap into a premium day. An emergency, for these purposes, shall be declared in writing by the Commissioner or the Commissioner's designee who shall be guided generally by the standards fixed by the Health Code and what constitutes an "Act of God." With respect to all night shifts, night picks will be conducted every six (6) months. A night shift, as that term is used in this Agreement, will be any shift in which four (4) or more hours worked by the Employee fall between the hours of 3:00 p.m. and 7:00 a.m.
 (k) In accordance with existing practice, the Department will request a list of volunteers in each Sanitation District who would be willing to work on their chart days if the need arises. Available personnel shall be taken from the volunteer list.
 
@@ -574,7 +589,6 @@ _Page 14_ · _OCR-reconstructed_ · _Topics: overtime, holidays, layoff_
 (d) There shall be a "Special Emergency List" established in each Sanitation District. Such list shall be used on a priority basis for Employees called in during an emergency. There shall be no less than ten (10) Employees so assigned. Assignments to such a "Special Emergency List" shall be made annually during the month of November, in accordance with this Subsection (d). Such work shall not affect an Employee's position on the regular Sunday and Holiday work rotation list. The Employee who signs for such "Special Emergency List" must call his work location during any snow alert. If the Employee is not at home during a snow alert and the Employer calls his home, whoever answers the call must contact the Employee. Discretion must be used when notifying whoever answers the phone in that a child may not be expected to notify her/his father/mother who is not at home. Messages left on an "answering machine" or a "voicemail system" shall be considered sufficient notification. The Employee will not have the right to refuse to report to work. The provisions of this Subsection (d) shall apply only to those districts having a
 13
 25003
-
 
 list of ten (10) or more Employees so assigned. If this number is not obtained, no list shall be posted. The location will then use the regular established Sunday and Holiday list for personnel for emergencies.
 However, the provisions of this Subsection (d) which pertain to call in and reporting when contacted during emergencies shall apply to the regular list during such emergencies.
@@ -604,7 +618,6 @@ a four-week training and evaluation period Shop Stewards, designated by the Unio
 (iii) When it becomes necessary to assign any Employees to a location other than the Employee's regular work location, the assignment will be offered on a seniority basis. In the event a sufficient number of Employees have not volunteered, the Employer will order the required change on the basis of inverse
 14
 25003
-
 
 seniority, the Shop Steward to exercise the right as the most senior Employee. The provisions of this Subsection (b)(iii) shall also apply to transfers between sections that are ordered prior to the beginning of the shift.
 (iv) Out-of-Town work means work done out of zone. There will be four (4) hours of time in the book for the first day that such work is performed in each zone. In the event the instances of such work occur at times other than after holidays, more than occasionally, the Union will seek to negotiate similar compensation with the Commissioner. If that proves unsuccessful, the issue shall be taken to binding arbitration. The parties recognize that this provision applies to employees assigned to the Lot Cleaning Unit, in the same manner as it has been applied to employees in collection.
@@ -636,7 +649,6 @@ Temporary vacancies, due to Employees being sick, on compensation, on vacation, 
 15
 25003
 
-
 Steward's starting time, whenever practicable, shall be the same as that of the majority of the Employees the Steward represents. In the event the Garage Shop Steward does not so elect, the temporary vacancy shall be filled by assignment by the District Superintendent, provided, however, that such selection shall not result in a more senior Employee being required to go on the night shift or out of location.
 (11)
 An Employee assigned to a permanent special assignment may request a transfer to any other such assignment. Such request shall be processed in accordance with Section 4(d) of this Article.
@@ -657,7 +669,6 @@ In the event the Union holds the Employer to be in default of this Subsection (a
 (b) Two (2) qualified Sanitation Workers shall respond to any call for a large wrecker in cases involving arterial highways. One (1) of these will operate the wrecker to the scene, the other shall operate
 16
 25003
-
 
 a back-up vehicle to the scene for safety purposes and then assist the wrecker operator. On all other calls where a back-up vehicle is not required one (1) Employee may respond to the call.
 (c) The Employer shall maintain complete medical records on injured Employees.
@@ -682,7 +693,6 @@ Interest on wage increases shall accrue at the rate of three percent (3%) per an
 Interest on shift differentials, holiday and overtime pay, shall accrue at the rate of three
 17
 25003
-
 
 percent (3%) per annum from one-hundred-twenty (120) days following their earning or one-hundred-twenty (120) days after the execution of this Agreement, whichever is later, to the date of actual payment.
 (c)
@@ -714,7 +724,6 @@ Effective upon the date of execution of this Agreement, if the Employer determin
 18
 25003
 
-
 time which the Sanitation Worker failed to complete the designated refuse collection route.
 The
 implementation of this provision shall be consistent with Section 3 of this Article.
@@ -741,7 +750,6 @@ The Employer and the Union, having recognized that cooperation between managemen
 There shall be one general Labor-Management Committee to consider and recommend to the
 19
 25003
-
 
 Commissioner changes in working conditions of the Employees within the agency who are covered by this Agreement. Matters subject to the Grievance Procedure shall not be appropriate items for consideration by the Labor-Management Committee. This Labor-Management Committee shall consist of six (6) members who shall serve for the term of this Agreement. The Union's three (3) members shall be the Union President, the Union Vice President and one other executive board member. The Department's three (3)
 members shall be the Commissioner, the First Deputy Commissioner and one other deputy commissioner.
@@ -799,7 +807,6 @@ and job locations:
 One (1) Shop Steward shall be duly designated by the Union for the following work shifts
 25003
 
-
 (i)
 Bureau of Cleaning and Collection: Days - One (1) Steward for each section, garage, and any other field location.
 Nights - One (1) Steward for each district.
@@ -821,7 +828,6 @@ working days after its presentation, the duly designated officers and/or staff o
 22
 25003
 
-
 right to present the unresolved grievance to the respective Bureau head involved.
 Step 4. - If a grievance has not been resolved within three (3) working days after its presentation to the Bureau head (Step 3), the duly designated officers and/or staff of the Union shall have the right to process the grievance with the Director of Operations or the Director's duly designated representative.
 Step 5. - If the grievance has not been resolved at Step 4 within five (5) working days after its presentation, the President of the Union and/or the President's duly designated representative shall have the right to process the grievance with the Commissioner of Department of Sanitation and/or the Commissioner's duly designated representative.
@@ -839,7 +845,6 @@ Each of the steps in the grievance procedure, as well as time limits prescribed 
 The grievance and arbitration procedure contained in this Agreement shall be the exclusive remedy for the resolution of disputes defined as "grievances" herein. The sole remedy for alleged violations of this Agreement shall be a grievance pursuant to this Article. This Section shall not be construed in any manner to limit the statutory rights and obligations of the Employer under Article XIV of the Civil Service Law.
 23
 25003
-
 
 In the event an officer in a job location seeks to suspend a Sanitation Worker summarily, the officer cannot do so of his own accord. He must refer the recommendation to the Officer-in-charge of the Borough Office. That Officer must then try to resolve the dispute with both parties - the officer recommending the suspension and the Sanitation Worker, together with the Union representative - before ordering the suspension. The only exception to the foregoing is when there is an immediate threat of life, limb or property or an imminent violation of civil or criminal law.
 
@@ -882,7 +887,6 @@ This Agreement expresses all agreements and understandings between the parties a
 24
 25003
 
-
 agreement, understanding or practice shall be of any force or effect.
 
 <a id="article-xvi-captions-p26"></a>
@@ -892,7 +896,6 @@ _Page 26_ · _OCR-reconstructed_
 Captions and Table of Contents are included for purposes of indexing.
 25
 25003
-
 
 WHEREFORE, we have hereunto set our hands and seals this22nd day of October
 2024.
@@ -945,15 +948,16 @@ _Page 27_ · _OCR-reconstructed_
 _Page 27_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, pension, hours, shift-differential_
 
 26
-2%0n3- DATE:
+2%0n3-
+DATE:
 10/22/2024
-
 
 AGREEMENT made this 22nd
 day of
 October
 2024 by and between
-the Uniformed Sanitationmen's Association, Local 831, IBT and the City of New York for the period December 28, 2022 to February 27, 2028.
+the Uniformed Sanitationmen's Association, Local 831, IBT and the City of New York for the period
+December 28, 2022 to February 27, 2028.
 WHEREAS, it is the desire and intent of the parties to continue the two-worker collection program
 NOW, THEREFORE, it is agreed as follows:
 That the following shift differentials shall be paid by shift per individual for the operation of
@@ -968,17 +972,74 @@ $48.28
 $49.97
 $51.72
 $53.79
-A Side loading collection vehicles when engaged in regular collection functions Rear loading "20 yd" collection vehicles when engaged in side loading collection districts.
-C Rear loading "20 ya'" collection vehicles when engaged in regular collection operations D Rear loading "25 yd'" collection vehicles when engaged in regular collection operations.
-E Cut down" collection vehicles engaged in bulk collection; Rear loading vehicles assigned to "basket" collection F "EZ Pack" collection vehicles, when engaged in paper/cardboard and metal/glass/plastic recycling operations.
-G "Route Extension" Differential under previous contract $46.76 $46.76 $56.16 $0.00 $31.78 $48.28 $48.28 $57.99 $0.00 $32.81 $49.97 $49.97 $51.72 $51.72 $53.79 $53.79 $60.02 $0.00 $62.12 $0.00 $64.60 $0.00 $33.96 $35.15 $36.56 $16.44 $16.97 $17.56 $18.17 $18.90
+A Side loading collection vehicles
+when
+engaged in regular collection
+functions
+Rear loading "20 yd" collection
+vehicles when engaged in side
+loading collection districts.
+C Rear loading "20 ya'" collection
+vehicles when engaged in regular
+collection operations
+D Rear loading "25 yd'" collection
+vehicles when engaged in regular
+collection operations.
+E Cut down" collection vehicles
+engaged in bulk collection; Rear
+loading vehicles assigned to
+"basket" collection
+F "EZ Pack" collection vehicles,
+when
+engaged in paper/cardboard and
+metal/glass/plastic recycling
+operations.
+G "Route Extension" Differential
+under previous contract
+$46.76
+$46.76
+$56.16
+$0.00
+$31.78
+$48.28
+$48.28
+$57.99
+$0.00
+$32.81
+$49.97
+$49.97
+$51.72
+$51.72
+$53.79
+$53.79
+$60.02
+$0.00
+$62.12
+$0.00
+$64.60
+$0.00
+$33.96
+$35.15
+$36.56
+$16.44
+$16.97
+$17.56
+$18.17
+$18.90
 2.
 3.
-That the collection shift differential be paid on those shifts a Sanitation Worker actually performs collection functions on a collection vehicle manned by two workers which excludes payment for such days not worked as holidays, annual leave, sick and terminal leave.
-Further, it is agreed that the foregoing standard shall be implemented in accordance with the "Agreed Upon Productivity Standard" described in the Memorandum of Robert Shrank to Bruce Mclver and Jack Bigel dated June 30, 1981. Consistent with current policy the standards will be established for the Districts and may be reviewed by the parties at regular quarterly intervals after the implementation of the program in the District.
-That, effective March 1, 1992, collection shift differential earned in the previous year shall be pensionable and shall be treated for pension purposes in the same manner as the night shift differential. Deductions for pension contributions will be made on all shift differential payments.
+That the collection shift differential be paid on those shifts a Sanitation Worker actually performs
+collection functions on a collection vehicle manned by two workers which excludes payment for
+such days not worked as holidays, annual leave, sick and terminal leave.
+Further, it is agreed that the foregoing standard shall be implemented in accordance with the "Agreed
+Upon Productivity Standard" described in the Memorandum of Robert Shrank to Bruce Mclver and
+Jack Bigel dated June 30, 1981. Consistent with current policy the standards will be established for
+the Districts and may be reviewed by the parties at regular quarterly intervals after the
+implementation of the program in the District.
+That, effective March 1, 1992, collection shift differential earned in the previous year shall be
+pensionable and shall be treated for pension purposes in the same manner as the night shift
+differential. Deductions for pension contributions will be made on all shift differential payments.
 25003
-
 
 4.
 6.
@@ -996,18 +1057,30 @@ An equipment committee shall be established to assist in the Department's purcha
 This agreement shall constitute part of the collective bargaining agreement entered into between the parties for all purposes.
 25003
 
-
 Dated:
 October 22, 2024
 New York, New York
 CITY OF NEW YORK,
 By: Renee Campion
-UNIFORMED SANITATIONMEN'S ASSOCIATION, New hoopol- Зу: Harry Nespoli
+UNIFORMED SANITATIONMEN'S ASSOCIATION,
+New hoopol-
+Зу: Harry Nespoli
 25003
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Commissioner Daniel Pollak First Deputy Commissioner Nicole Andrade General Counsel Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Program
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion
+Commissioner
+Daniel Pollak
+First Deputy Commissioner
+Nicole Andrade
+General Counsel
+Claire Levitt
+Deputy Commissioner
+Health Care Strategy
+Georgette Gestely
+Director, Employee Benefits Program
 Dear Mr. Nespoli:
 This side letter amends the productivity initiatives side letter with regard to the applicable rates at follows:
 • Reuse and Bearing colorior chide vite 8.
@@ -1024,8 +1097,10 @@ $3.18
 12/28/26
 $3.29
 $3.42
-"Dump-on-Shift" when engaged in regular collection and recycling operations.
-"Roll-on/Roll-off" collection vehicles when engaged in one-person collection operations.
+"Dump-on-Shift" when engaged in regular collection and
+recycling operations.
+"Roll-on/Roll-off" collection vehicles when engaged in
+one-person collection operations.
 Effective Date
 12/28/22
 12/28/23
@@ -1066,27 +1141,67 @@ President
 ### OFFICE OF LABOR RELATIONS
 _Page 32_ · _OCR-reconstructed_ · _Topics: recognition_
 
-40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR Ars Depur Commassemer Mr. Harry Nespoli President Uniformed Sanitationmen's Association Local 831, IBT
+40 Rector Street, New York, NY 10006-1705
+http://nyc.gov/olr
+JAMES F. HANLEY
+Commissioner
+MARGARET M. CONNOR
+Ars Depur Commassemer
+Mr. Harry Nespoli
+President
+Uniformed Sanitationmen's Association
+Local 831, IBT
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-This is to confirm that the Ciry of New York, as employer of the bargaining unit Sanitation Workers (she "Employer"), agrees. in accordance with applicable law, that any conversion of the functions) of the Department of Sanitation to any public authority established by or at the request of the Mayor, City Council or other Governmental body.
+This is to confirm that the Ciry of New York, as employer of the bargaining unit Sanitation Workers (she
+"Employer"), agrees. in accordance with applicable law, that any conversion of the functions) of the Department of
+Sanitation to any public authority established by or at the request of the Mayor, City Council or other Governmental body.
 insofar as such functions pertain to that bargaining unit, shall be conditioned upon the public authority's acceptance of (i)
-its obligation to recognize and bargain with the Uniformed Sanitationmen's Association, Local 831, IB] (the "Union") and (ii) the terms of the then existing collective bargaining agreement between the Employer and the Union for the remainder of that agreement's effective period Very truly yours, parent Many Agreed and Accepted on Behalf of Local 831, IBT President
+its obligation to recognize and bargain with the Uniformed Sanitationmen's Association, Local 831, IB] (the "Union") and
+(ii) the terms of the then existing collective bargaining agreement between the Employer and the Union for the remainder of
+that agreement's effective period
+Very truly yours,
+parent Many
+Agreed and Accepted on Behalf
+of Local 831, IBT
+President
 25003
 
 <a id="office-of-labor-relations-p33"></a>
 ### OFFICE OF LABOR RELATIONS
 _Page 33_ · _OCR-reconstructed_ · _Topics: health-welfare, pension, recognition_
 
-40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR first Deputy Comnessener Mr Harry Nespoli President Uniformed Sanitationmen's Association Local 831, IBT
+40 Rector Street, New York, NY 10006-1705
+http://nyc.gov/olr
+JAMES F. HANLEY
+Commissioner
+MARGARET M. CONNOR
+first Deputy Comnessener
+Mr Harry Nespoli
+President
+Uniformed Sanitationmen's Association
+Local 831, IBT
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr Nespoli
-This is to confum vur mutual understanding and agreement regarding the legislation enacted providing Tiers Town and Four Sanitation Workers, represented by the Uniformed Sanitationmen's Association ("USA"), with halt pay pension after twenty (20) years of service and the right to vest after fificen (15) years of service.
-Said Sanitation Workers shall be required to make additional pension contributions in the amount of 5.35%, effective July 1, 1992. These additional amounts shall not be subject to social security offset or loans.
-There shall also be an additional employee contribution of 55% of payroll to fund the increased cost of health insurance and welfare fund coverage for this new category of retirees. These amounts shall be paid into « separate fund maintained for this purpose.
-In no event shall the enabling legislation result in a variation of the agreement between the Ciry and the Uniformed Sanitationmen's Association In the event that any provision of the enabling legislation once enacted into law shall for any reason be adjudged to be invalid or unconstitutional by a Court of competent jurisdiction, the above agreement shall cease nuns pre lunç and the parties shall be required to negotiate a new agreement It is further agreed and understood that this legislation shall also apply to Uniformed Sanitation employees outside the bargaining unit Il' the above accords with your understanding, please execute the signature line provided below Very ensly yours.
+This is to confum vur mutual understanding and agreement regarding the legislation enacted providing
+Tiers Town and Four Sanitation Workers, represented by the Uniformed Sanitationmen's Association ("USA"), with halt
+pay pension after twenty (20) years of service and the right to vest after fifteen (15) years of service.
+Said Sanitation Workers shall be required to make additional pension contributions in the amount of 5.35%,
+effective July 1, 1992. These additional amounts shall not be subject to social security offset or loans.
+There shall also be an additional employee contribution of 55% of payroll to fund the increased cost of
+health insurance and welfare fund coverage for this new category of retirees. These amounts shall be paid into « separate
+fund maintained for this purpose.
+In no event shall the enabling legislation result in a variation of the agreement between the Ciry and the
+Uniformed Sanitationmen's Association
+In the event that any provision of the enabling legislation once enacted into law shall for any reason be
+adjudged to be invalid or unconstitutional by a Court of competent jurisdiction, the above agreement shall cease nuns pre
+lunç and the parties shall be required to negotiate a new agreement
+It is further agreed and understood that this legislation shall also apply to Uniformed Sanitation employees
+outside the bargaining unit
+Il' the above accords with your understanding, please execute the signature line provided below
+Very ensly yours.
 /James F. Hanl
 Conimission
 Hant Maley
@@ -1095,7 +1210,6 @@ of Local 831, IBT
 arry Nespo
 President
 25003
-
 
 The
 Cigf
@@ -1120,14 +1234,26 @@ Haallh Care Cost Management
 ### OFFICE OF LABOR RELATIONS
 _Page 34_ · _OCR-reconstructed_ · _Topics: training_
 
-40 Rector Street, New Yock, N.Y. 10006-1705 Diedo, Empaye Bonal Program • February 26, 2016 Harry Nespoli President Uniformed Sanitationmen's Association Interacional Brotherhood of Teamsters, Local 831
+40 Rector Street, New Yock, N.Y. 10006-1705
+Diedo, Empaye Bonal Program
+•
+February 26, 2016
+Harry Nespoli
+President
+Uniformed Sanitationmen's Association
+Interacional Brotherhood of Teamsters, Local 831
 25 Cliff Street
 New York, New York 10038
 Dear Mr. Nespoli:
-Thig letter is to memorialize what was discussed at the February 11, 2011 meeting with respect to the Work Experience Program ("WEP") paricipans al the City of New York, Department of Sanitation ("DSNY").
-The City of New York shall convert all full-lime equivalent (FTE) WEP positions at DSNY (currently 250 FTEg) 10 the tille of Job Training Participant (Per Diem) ("JP"), Tille Code No. 80633, pursuant 1o the side letter agreement with District Council 37, dated February 16, 2016.
+Thig letter is to memorialize what was discussed at the February 11, 2011 meeting with respect to the
+Work Experience Program ("WEP") paricipans al the City of New York, Department of Sanitation
+("DSNY").
+The City of New York shall convert all full-lime equivalent (FTE) WEP positions at DSNY (currently
+250 FTEg) 10 the title of Job Training Participant (Per Diem) ("JP"), Title Code No. 80633, pursuant 1o the
+side letter agreement with District Council 37, dated February 16, 2016.
 No more than the 250 FTE WET positions will be converted to JP positions, and there will be no bi.
-change in job assignments and duties for these amployces. DSNY will opcrale the program in accordance wish its current structure.
+change in job assignments and duties for these employees. DSNY will operate the program in accordance wish
+its current structure.
 Rober W. Linn
 Sob Training Participant
 Page 1 of 1 Pages
@@ -1137,14 +1263,26 @@ Page 1 of 1 Pages
 ### OFFICE OF LABOR RELATIONS
 _Page 35_ · _OCR-reconstructed_
 
-40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR firse Deputy Compassioner Mir. Harry Nespoli President Uniformed Sanitationmen's Association Local 831. IBT
+40 Rector Street, New York, NY 10006-1705
+http://nyc.gov/olr
+JAMES F. HANLEY
+Commissioner
+MARGARET M. CONNOR
+First Deputy Commissioner
+Mir. Harry Nespoli
+President
+Uniformed Sanitationmen's Association
+Local 831. IBT
 23-25 Cliff Street
 Nay York. New York 10038
 Rc
-Study of Feasibility of DSNY Performing Conmercial Refuse Removal In Residential Buildings
+Study of Feasibility of DSNY Performing
+Conmercial Refuse Removal In Residential Buildings
 Dear Mr. Nespoli:
-This is to confirm our mutual understanding and agreement that the City and the Union will study the feasibility of the Deparunent of Sanitation's performing commercial refuse removal functions in residential buildings.
-Ir'the above accords with your understanding, please execute the signature line provided below Very, truly yours.
+This is to confirm our mutual understanding and agreement that the City and the Union will study the
+feasibility of the Department of Sanitation's performing commercial refuse removal functions in residential buildings.
+Ir'the above accords with your understanding, please execute the signature line provided below
+Very, truly yours.
 You Stanly
 Agreed and Accepted on Behalf
 of Local 831, IBT
@@ -1156,13 +1294,25 @@ President
 ### OFFICE OF LABOR RELATIONS
 _Page 36_ · _OCR-reconstructed_ · _Topics: pension_
 
-40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR Arst Deputy Cumnessoner Mr. Harry Nespoli President Uniformed Sanitationmen's Association Local 831, IBT
+40 Rector Street, New York, NY 10006-1705
+http://nyc.gov/olr
+JAMES F. HANLEY
+Commissioner
+MARGARET M. CONNOR
+Arst Deputy Cumnessoner
+Mr. Harry Nespoli
+President
+Uniformed Sanitationmen's Association
+Local 831, IBT
 23-25 Cliff Street
 New York, New York 10038
 Dear Mr Nespoli:
-A Libor-Management Pension Commited will be established to investigate pension enhancement leyisiazion fur eligible Sanitation Workers.
+A Libor-Management Pension Commited will be established to investigate pension enhancement leyisiazion fur
+eligible Sanitation Workers.
 without any cost to the City.
-The Committee will analyze the actual costs and additional contribution rates required to provide this benefit Upon mutual acceptance of the Committee's recommendations, including plan design and costs. the parties agree to jointly support the legislation necessary to implement the benefit changes.
+The Committee will analyze the actual costs and additional contribution rates required to provide this benefit
+Upon mutual acceptance of the Committee's recommendations, including plan design and costs. the parties agree
+to jointly support the legislation necessary to implement the benefit changes.
 If' the above accords with your understanding, please execute the signature line below.
 Very truly yours,
 Agreed and Accepted on Behalf
@@ -1170,7 +1320,6 @@ of Local 831, IBT
 Marry NesDo
 President
 25003
-
 
 The
 New York
@@ -1193,7 +1342,8 @@ Marsh
 February 3,2017
 Mr. Harry Nespoli
 President
-Uniformed Sanitationmen's Association Local 831, IBT
+Uniformed Sanitationmen's Association
+Local 831, IBT
 23-25 Cliff Street
 New York, NY 10038
 
@@ -1201,7 +1351,10 @@ New York, NY 10038
 ### OFFICE OF LABOR RELATIONS
 _Page 37_ · _OCR-reconstructed_
 
-40 Rector Street, New York, N.Y. 10000-1705 nyc.gov/olr MAYRA E. BEL General Counsel
+40 Rector Street, New York, N.Y. 10000-1705
+nyc.gov/olr
+MAYRA E. BEL
+General Counsel
 
 <a id="georgette-gestely-p37"></a>
 ### GEORGETTE GESTELY
@@ -1209,9 +1362,20 @@ _Page 37_ · _OCR-reconstructed_ · _Topics: wages, hours_
 
 Director, Employee Benefits Program
 Dear Mr. Nespoli:
-There will be an assignment differential, not to exceed 12% above the basic maximum salary, payable in accordance with the schedule shown below, to certain Sanitation Workers detailed on "special assignment!" in the Citywide Transportation Unit (CTU) upon satisfactory completion of a twenty-four month review period in CTU.
+There will be an assignment differential, not to exceed 12% above the basic maximum salary, payable in
+accordance with the schedule shown below, to certain Sanitation Workers detailed on "special assignment!" in the Citywide
+Transportation Unit (CTU) upon satisfactory completion of a twenty-four month review period in CTU.
 Criteria:
-• Employee must have 24 months of satisfactory service in CTU before eligibility begins for differential • Special Assignment is revocable without review/appeal; non-transferable, i.e., at Commissioner's discretion; assignment differential ends when assignment ends • Employee must maintain all licenses, certifications, etc. required during assignment 10 CTU "Special Assignment" - CTU after 6 months after 12 months after 18 months after 24 months
+• Employee must have 24 months of satisfactory service in CTU before eligibility begins for
+differential
+• Special Assignment is revocable without review/appeal; non-transferable, i.e., at
+Commissioner's discretion; assignment differential ends when assignment ends
+• Employee must maintain all licenses, certifications, etc. required during assignment 10 CTU
+"Special Assignment" - CTU
+after 6 months
+after 12 months
+after 18 months
+after 24 months
 3%
 6%
 9%
@@ -1219,7 +1383,8 @@ Criteria:
 very troy yours,
 Robert W. Linn
 Commissioner
-Agreed and Accepted on Behalf of Local 831, IBI By Ten Inesed.
+Agreed and Accepted on Behalf of Local 831, IBI
+By Ten Inesed.
 Harry Nespoli
 President
 25003
@@ -1228,15 +1393,31 @@ President
 ### OFFICE OF LABOR RELATIONS
 _Page 38_ · _OCR-reconstructed_ · _Topics: wages, grievance, hours, recognition_
 
-40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY MARGARET M. CONNOR Frst Repury Commissioner Mr. Harry Nespoli President Uniformed Sanitationmen's Association Local 831, IBT
+40 Rector Street, New York, NY 10006-1705
+http://nyc.gov/olr
+JAMES F. HANLEY
+MARGARET M. CONNOR
+Frst Repury Commissioner
+Mr. Harry Nespoli
+President
+Uniformed Sanitationmen's Association
+Local 831, IBT
 23-25 Cliff Street
 New York, NY 10038
-Re Agreement covering the period from March 2. 2007 through September 20, 2011 Dear Mr. Nespoli If another uniformed collective bargaining unit has an adjustment made to their salary schedule through the collective bargaining or arbitration process or otherwise during the tire period covering March 2, 2007 through September 20. 2011, which results in a greater percentage wage increase, then, at the Uniformed Sanitationmen's Association's request, this agreement will be reopened for the purposes of nagotiating the effect of that adjustment - through the final steps of the bargaining process.
-If the above conforms to your understanding, please crecure the signature line below Very truly yours.
+Re Agreement covering the period from March 2. 2007 through September 20, 2011
+Dear Mr. Nespoli
+If another uniformed collective bargaining unit has an adjustment made to their salary schedule through the collective
+bargaining or arbitration process or otherwise during the tire period covering March 2, 2007 through September 20. 2011,
+which results in a greater percentage wage increase, then, at the Uniformed Sanitationmen's Association's request, this
+agreement will be reopened for the purposes of nagotiating the effect of that adjustment - through the final steps of the
+bargaining process.
+If the above conforms to your understanding, please crecure the signature line below
+Very truly yours.
 Penne Mady
-Agreed and Accepted on Behalf of Local 831, IBT Harry Nespt President
+Agreed and Accepted on Behalf of Local 831, IBT
+Harry Nespt
+President
 25003
-
 
 The i
 New York
@@ -1245,7 +1426,11 @@ New York
 ### OFFICE OF LABOR RELATIONS
 _Page 39_ · _OCR-reconstructed_
 
-40 Rector Street, New York, N.Y. 1000G-1705 nуc.gov/olr RODERT W. LINN Commissioner He Deputy Caribsioner
+40 Rector Street, New York, N.Y. 1000G-1705
+nуc.gov/olr
+RODERT W. LINN
+Commissioner
+He Deputy Caribsioner
 
 <a id="claire-levitt-p39"></a>
 ### CLAIRE LEVITT
@@ -1254,21 +1439,20 @@ _Page 39_ · _OCR-reconstructed_
 Deputy Commissioner
 Health Cara Cost Management
 MAYRA E. BELL
-Gonaral Counsel
+General Counsel
 
 <a id="georgette-gestely-p39"></a>
 ### GEORGETTE GESTELY
 _Page 39_ · _OCR-reconstructed_ · _Topics: sick-leave, discipline, hours, safety_
 
-Diracior, Employaa Benals Program November 21, 2016 RE: Sick Leave Program
+Director, Employaa Benals Program November 21, 2016 RE: Sick Leave Program
 Dear Mr. Nespoli:
-In light of the successful Sick Leave Pilor Program, regarding reduction of chronic sick leave absenteeism, set out in the June 17, 2009 letter agreement related to Index No. 117281/01, this letter now confirms the parties' agreement 1o continue the program as part of the Collective
+In light of the successful Sick Leave Pilot Program, regarding reduction of chronic sick leave absenteeism, set out in the June 17, 2009 letter agreement related to Index No. 117281/01, this letter now confirms the parties' agreement 1o continue the program as part of the Collective
 Bargaining Agreement as follows:
 (1) The Department will not apply or enforce those portions of PAP 2007-04 relating 1o the "Chronic Sick" category challenged in the above-referenced suit. No Sanitation Worker will be designated as falling within that category for the duration of this program. PAP 2007-04 shall be amended to specify that an employee who abuses sick leave may be subject to discipline up to and including termination. Such amendment shall remain in place for the length of this program.
 (2) The Department will create a monthly list of Sanitation Workers who have (twelve (12) or more incidents of sick leave use or fifty (50) or more sick days in the trailing twelve-month period. The Department will exclude from the list those Sanitation Workers for whom a meaningful portion of the 12 or more incidents or 50 or more days is related to an identifiable injury or ailment resulting in hospitalization. Additionally, it is agreed that an absence attributable to an injury such as a broken leg or broken arm will nor be included in the count of sick days or sick leave incidents for purposes of creating the monthly list pursuant to this paragraph and paragraph (3) of this agreement.
 (3) The Department will, each month, provide the Monthly Sick List described in (2) above lo the Union along with any information reasonably necessary for the Union to counsel the individuals on the list with regard to their use of sick leave. If the Department provides the Union with medical information regarding a Sanitation Worker, the Sanitation Worker will be asked to sign a release authorizing such medical information to be forwarded 1o the Union.
 25003
-
 
 (4) The Union will, as part of the program, counsel the individuals on the Monthly Sick List as io appropriate use of sick leave.
 (5) Nothing shall prevent the Depurtment's Medical Division from conducting an initial interview with an employee regarding the use of sick leave, provided that the Union is notified of the meeting and the results are documented and sent to the Union.
@@ -1280,7 +1464,6 @@ The Department and the Union shall work together to coordinate the scheduling of
 (10) The Department shall pay the cost of having the Medical Panel Doctor examine inc Sanitation Worker. If the Medical Panel Doctor deierines that medical tests are necessary lo evaluate the health of the Worker, the Panel Doctor and/or the Department's Medical Division will contact the Worker's treating physician regarding such tests. The treating physician will be asked to perform or arrange for the requested tests. With regard to any such tests, the
 25003
 
-
 Department will, in the first instance, look to the Sanitation Worker's health insurance provider for payment. If the insurer will not agree to pay for all or part of the tests, the Department will determine whether it will. The Sanitation Worker will not be asked or be required to personally pay for part or all of any such tests. Where the Department opts not to pay for the tests, the absence of such tests may not be used to prejudice the position of the Sanitation Worker or the (11) In conjunction with the referral of any Sanitation Worker to a Medical Panel Doctor, the Sanitation Worker will be requested to provide a Health Insurance Portability and Accountability Act ("HIPPA") compliant release permitting the Medical Panel Doctor to review the Sanitation Worker's medical files maintained by the Department and any doctor who treated the Worker within the past 24 months as well as any other medical file deemed relevant by the Medical Panel Doctor. The Medical Panel Doctor shall provide his or her findings to the Department and the Sanitation Worker will be asked to sign a HIPPA compliant release allowing the Department to forward the findings of the Medical Panel Doctor to the Union. Any such findings will be held as confidential by the Department and the Union, except that should the Department pursue disciplinary charges against the Sanitation Worker for abuse of sick leave, any such findings may be introduced as evidence before the Office of Administrative Trials and Hearings ("OATH").
 Counsel for the parties may discuss how any such findings will be released and kept confidential.
 (12) This agreement may not be modified or orally changed and may be amended only by an agreement signed by both parties.
@@ -1289,7 +1472,6 @@ Robert Linn
 Commissioner
 Agreed and Accepted on Behalf of Local 831, IBT for hoo
 25003
-
 
 Uniformed Sanitationmen's Association
 
@@ -1353,7 +1535,7 @@ N.Y.C. Department of Sanitation
 ew York, N.Y. 1001:
 Dear Commissioner Garcia,
 GasCard Program Letter
-This letter will confirm our understanding regarding the EJ Ward/WEX Gascard Program and the issuance of Gascurd PIN nunbers to Sanitation Workers. The use of Gascard PIN numbers shall be limited
+This letter will confirm our understanding regarding the EJ Ward/WEX Gascard Program and the issuance of Gascurd PIN numbers to Sanitation Workers. The use of Gascard PIN numbers shall be limited
 as follows:
 (1) Gascard PIN numbers shall be utilized solely for purposes of the EJWard/WEX Gascure Program; (2) Gascurd PIN numbers shall first be issued to all Sanitation Workers assigned to Gas and Oil or Garage Utility Posts, prior to being assigned to Sanitation Workers in other assignments; (3) All Sanitation Workers issued a Gascard PIN shall be instructed in proper usage of them; (4) Sanitation Workers assigned to Gas and Oil or Garage Utility posts shall continue to be responsible for fueling vehicles in the gurages; (5) a Sanitation Worker assigned to duties other than Gas and Oil or Garage Utility posts shall only be required to fuel a vehicle when no gas and Oil or Garage Utility personnel are available (for cion era in night shits, or wien such as and Oil or Carage Willy personnel are fully engaged in (6) except in extraordinary circumstances, Sanitation Workers shall not be ordered lo luel vehicles in the field at other than Department of Sanitation facilities, and with the exception of filing at established CNG locations.
 Il is further understood that current staffing levels of Gas and Oil and/or Garage Utility posts shall be maintained and the fueling procedures and requirements of the EJWard Fuel/WEX Gascard Program will in no way reduce those numbers.
@@ -1402,7 +1584,6 @@ _Page 43_ · _OCR-reconstructed_
 New York's Strongest
 25003
 
-
 This letter shall subject to the currently effective collective bargaining agreement between the City of New York and Local 831 IBT and constitute part of the Agreement entered into between the parties.
 Very truly yours,
 Kathryn Garcia
@@ -1430,15 +1611,23 @@ Uniformed Sanitationmen's Association
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-This will confirm the Department of Sanitation's intention to apply the following procedure for lunch time truck diversion.
-Where the need arises to divert a collection truck and crew to another area at lunch time, seniority will prevail for the loaders. Seniority will not prevail for the operator, unless the truck is diverted out of the district.
-This procedure shall only apply at the specific lunch location, wherever it is that day, that the officer and crew are present.
-This letter shall constitute part of the Agreement entered into between the parties for all purposes, including without limitation, the grievance procedure.
+This will confirm the Department of Sanitation's intention to apply the following procedure for lunch time
+truck diversion.
+Where the need arises to divert a collection truck and crew to another area at lunch time, seniority will
+prevail for the loaders. Seniority will not prevail for the operator, unless the truck is diverted out of the district.
+This procedure shall only apply at the specific lunch location, wherever it is that day, that the officer and crew are
+present.
+This letter shall constitute part of the Agreement entered into between the parties for all purposes, including
+without limitation, the grievance procedure.
 Very truly yours,
 Kare Gare
 Kathryn Garcia
 Commissioner
-c: Robert Linn, Commissioner, Office of Labor Relations Dennis Diggins, First Deputy Commissioner Dan Hagevik, Director of Labor Relations Alan M. Klinger, Esq., Counsel for Local 831 New York's Strongest
+c: Robert Linn, Commissioner, Office of Labor Relations
+Dennis Diggins, First Deputy Commissioner
+Dan Hagevik, Director of Labor Relations
+Alan M. Klinger, Esq., Counsel for Local 831
+New York's Strongest
 25003
 
 <a id="heh-york-cite-p46"></a>
@@ -1460,13 +1649,19 @@ Uniformed Sanitationmen's Association
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-Please be advised that Sanitation Workers will not be moved between locations to replace Sanitation Workers on the same shift who have been temporarily transferred to another location.
-This letter shall constitute part of the agreement entered into between the parties for all purposes, including without limitation, the grievance procedure.
+Please be advised that Sanitation Workers will not be moved between locations to replace Sanitation
+Workers on the same shift who have been temporarily transferred to another location.
+This letter shall constitute part of the agreement entered into between the parties for all purposes, including
+without limitation, the grievance procedure.
 Very truly yours,
 Kir a farcer
 Kathryn Garcia
 Commissioner
-c: Robert Linn, Commissioner, Office of Labor Relations Dennis Diggins, First Deputy Commissioner Dan Hagevik, Director of Labor Relations Alan M. Klinger, Esq., Counsel for Local 831 New York's Strongest
+c: Robert Linn, Commissioner, Office of Labor Relations
+Dennis Diggins, First Deputy Commissioner
+Dan Hagevik, Director of Labor Relations
+Alan M. Klinger, Esq., Counsel for Local 831
+New York's Strongest
 25003
 
 <a id="then-york-city-p47"></a>
@@ -1488,15 +1683,23 @@ Uniformed Sanitationmen's Association
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-The Department of Sanitation expects that, except as provided below, there should be no further need for cancellation of chart days off provided that the number of volunteers does not decrease.
-Further provided that fifty percent (50%) of the Sanitation Workers scheduled to be off on Mondays as a chart day will be subject to mandatory chart day cancellation.
-Further provided that in the event of snow or other emergency, all chart day off cancellations will be on a mandatory basis.
-This letter shall constitute part of the Agreement entered into between the parties for all purposes, including without limitation, the grievance procedure.
+The Department of Sanitation expects that, except as provided below, there should be no further need for
+cancellation of chart days off provided that the number of volunteers does not decrease.
+Further provided that fifty percent (50%) of the Sanitation Workers scheduled to be off on Mondays as a
+chart day will be subject to mandatory chart day cancellation.
+Further provided that in the event of snow or other emergency, all chart day off cancellations will be on a
+mandatory basis.
+This letter shall constitute part of the Agreement entered into between the parties for all purposes, including
+without limitation, the grievance procedure.
 Very truly yours,
 Endu a Garcis
 Kathryn Garcia
 Commissioner
-c: Robert Linn, Commissioner, Office of Labor Relations Dennis Diggins, First Deputy Commissioner Dan Hagevik, Director of Labor Relations A lan M. Klinger, Esq., Counsel for Local 83l New York's Strongest
+c: Robert Linn, Commissioner, Office of Labor Relations
+Dennis Diggins, First Deputy Commissioner
+Dan Hagevik, Director of Labor Relations
+A lan M. Klinger, Esq., Counsel for Local 83l
+New York's Strongest
 25003
 
 <a id="heh-york-cutt-p48"></a>
@@ -1518,12 +1721,19 @@ Uniformed Sanitationmen's Association
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-This will confirm our understanding that the "minimum qualifications' and "four week training and evaluation period" referred to in Article VI, Section 4 (b)(i) shall apply only to employees newly transferred to the Bureau of Solid Waste Management and shall not apply to assignments in the Bureau of Cleaning and Collection or 1o employees presently assigned to the Bureau of Solid Waste Management.
+This will confirm our understanding that the "minimum qualifications' and "four week training and
+evaluation period" referred to in Article VI, Section 4 (b)(i) shall apply only to employees newly transferred to the
+Bureau of Solid Waste Management and shall not apply to assignments in the Bureau of Cleaning and Collection or
+1o employees presently assigned to the Bureau of Solid Waste Management.
 Very truly yours,
 Can garae
 Kathryn Garcia
 Commissioner
-c: Robert Linn, Commissioner, Office of Labor Relations Dennis Diggins, First Deputy Commissioner Dan Hagevik, Director of Labor Relations A lan M. Klinger, Esq., Counsel for Local 831 New York's Strongest
+c: Robert Linn, Commissioner, Office of Labor Relations
+Dennis Diggins, First Deputy Commissioner
+Dan Hagevik, Director of Labor Relations
+A lan M. Klinger, Esq., Counsel for Local 831
+New York's Strongest
 25003
 
 <a id="hew-york-cutt-p49"></a>
@@ -1545,12 +1755,18 @@ Uniformed Sanitationmen's Association
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-Please be advised that, notwithstanding the provisions of Article VI, Section 4(bX(iii), work assignments outside of location ordered after the beginning of a shift shall first be offered on a seniority basis to employees who are not presently involved in their assignments and are physically available. If a sufficient number of employees have not volunteered, inverse seniority among employees then available shall be utilized to determine such work This letter shall constitute part of the Agreement entered into between the parties for all purposes, including without limitation, the grievance procedure.
+Please be advised that, notwithstanding the provisions of Article VI, Section 4(bX(iii), work assignments
+outside of location ordered after the beginning of a shift shall first be offered on a seniority basis to employees who
+are not presently involved in their assignments and are physically available. If a sufficient number of employees
+have not volunteered, inverse seniority among employees then available shall be utilized to determine such work
+This letter shall constitute part of the Agreement entered into between the parties for all purposes, including
+without limitation, the grievance procedure.
 Very truly yours,
 Leo Garci
 Kathryn Garcia
 Commissioner
-Alan M. Klinger, Esq., Counsel for Local 831 New York's Strongest
+Alan M. Klinger, Esq., Counsel for Local 831
+New York's Strongest
 25003
 
 <a id="hen-york-city-p50"></a>
@@ -1572,12 +1788,18 @@ Uniformed Sanitationmen's Association
 23-25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-This letter is in response to your inquiry concerning the target for payment of the "Dump-on-Shift differential prior to the Staten Island Transfer Station becoming operation Should you have any other questions on the matter please do not hesitate in contacting me.
+This letter is in response to your inquiry concerning the target for payment of the "Dump-on-Shift
+differential prior to the Staten Island Transfer Station becoming operation
+Should you have any other questions on the matter please do not hesitate in contacting me.
 Very truly yours,
 Katen Gara
 Kathryn Garcia
 Commissioner
-c: Robert Linn, Commissioner, Office of Labor Relations Dennis Diggins, First Deputy Commissioner Dan Hagevik, Director of Labor Relations A lan M. Klinger, Esq., Counsel for Local 831 New York's Strongest
+c: Robert Linn, Commissioner, Office of Labor Relations
+Dennis Diggins, First Deputy Commissioner
+Dan Hagevik, Director of Labor Relations
+A lan M. Klinger, Esq., Counsel for Local 831
+New York's Strongest
 25003
 
 <a id="hieh-york-city-p51"></a>
@@ -1610,7 +1832,6 @@ Commissioner
 c: Robert Linn, Commissioner, Office of Labor Relations Dennis Diggins, First Deputy Commissioner Dan Hagevik, Director of Labor Relations Alan M. Klinger, Esq., Counsel for Local 83l New York's Strongest
 25003
 
-
 The
 New York
 ROBERT W. LINN
@@ -1633,7 +1854,10 @@ Health Care Cost Management
 ### OFFICE OF LABOR RELATIONS
 _Page 52_ · _OCR-reconstructed_
 
-40 Rector Street, New York, N.Y. 10006-1705 nyc.gov/olr MAYRA E. BELL General Counsel
+40 Rector Street, New York, N.Y. 10006-1705
+nyc.gov/olr
+MAYRA E. BELL
+General Counsel
 
 <a id="georgette-gestely-p52"></a>
 ### GEORGETTE GESTELY
@@ -1658,30 +1882,24 @@ ili. In any event, the $600 million pursuant to 1(a)(iv) must be recurring and a
 1
 25003
 
-
 c. Savings attributable to CBP programs will continue to be transferred to the City by offsetting the savings amounts documented by Empire Blue Cross and GHI against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this offset to expire, any savings achieved in this manner must be replaced in order to meet the recurring obligation under 1(a)(iv) above.
 The parties agree that any savings within the period of FY 2015 - 2018 over $3.4 billion arising from the 2014 City/MLC Health Agreement will be counted towards the FY 2019 goal. This is currently estimated at approximately $131 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the City's and the MLC's actuaries.
 e. The parties agree that recurring savings over $1.3 billion for FY 2018 arising under the 2014 City/MLC Health Agreement will be counted toward the goal for Fiscal Years 2019, 2020, 2021 and for purposes of the recurring obligation under 1(a)(iv)
 above. This is currently estimated at approximately $40 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the City's and the MLC's actuaries. Once the amount is finalized, that amount shall be applied to Fiscal Years 2019, 2020, 2021 and to the obligation under 1(a)(iv).
-2. After the conclusion of Fiscal Year 2021, the parties shall calculate the savings realized during
-the 3 year period. In the event that the MLC has generated more than $600 million in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings
+2. After the conclusion of Fiscal Year 2021, the parties shall calculate the savings realized during the 3 year period. In the event that the MLC has generated more than $600 million in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings
 shall be utilized as follows:
 The first $68 million will be used by the City to make a $100 per member per year increase to welfare funds (actives and retirees) effective July 1, 2021. If a savings amount over $600 million but less than $668 million is achieved, the $100 per member per year (actives and retirees) increase will be prorated.
 b. Any savings thereafter shall be split equally between the City and the MLC and applied in a manner agreed to by the parties.
-3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the
-parties shall authorize the quarterly provision of the following data to the City's and MLC's actuaries on an ongoing quarterly basis: (1) detailed claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
+3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the parties shall authorize the quarterly provision of the following data to the City's and MLC's actuaries on an ongoing quarterly basis: (1) detailed claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
 utilization data under the HIP-HMO plan. Such data shall be provided within 60 days of the end of each quarterly period. The HIP-HMO utilization data will also be provided to the City's and MLC's actuaries within 60 days of the execution of this letter agreement for City Fiscal Year 2018 as baseline information to assess ongoing savings. The HIP-HMO data shall include: (i)
 utilization by procedure for site of service benefit changes; (ii) utilization by disease state, by procedure (for purposes of assessing Centers of Excellence); and (iii) member engagement data for the Wellness program, including stratifying members by three tranches (level I, Il and II).
 The data shall include baseline data as well as data regarding the assumptions utilized in determining expected savings for comparison. The data described in this paragraph shall be provided pursuant to a data sharing agreement entered into by the City and MLC, akin to prior data agreements, which shall provide for the protection of member privacy and related concerns, shall cover all periods addressed by this Agreement (i.e., through June 30, 2021 and thereafter), and shall be executed within thirty days of the execution of this letter agreement.
 2
 25003
 
-
-4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
-payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
+4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
 2018 and July 1, 2019.
-5. The parties recognize that despite extraordinary savings to health costs accomplished in the last
-round of negotiations through their efforts and the innovation of the MLC, and the further savings which shall be implemented as a result of this agreement, that the longer term sustainability of health care for workers and their families, requires further study, savings and efficiencies in the method of health care delivery. To that end, the parties will within 90 days establish a Tripartite Health Insurance Policy Committee of MLC and City members, chaired by one member each appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study the issues using appropriate data and recommend for implementation as soon as practicable during the term of this Agreement but no later than June 30, 2020, modifications to the way in which health care is currently provided or funded. Among the topics the Committee shall
+5. The parties recognize that despite extraordinary savings to health costs accomplished in the last round of negotiations through their efforts and the innovation of the MLC, and the further savings which shall be implemented as a result of this agreement, that the longer term sustainability of health care for workers and their families, requires further study, savings and efficiencies in the method of health care delivery. To that end, the parties will within 90 days establish a Tripartite Health Insurance Policy Committee of MLC and City members, chaired by one member each appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study the issues using appropriate data and recommend for implementation as soon as practicable during the term of this Agreement but no later than June 30, 2020, modifications to the way in which health care is currently provided or funded. Among the topics the Committee shall
 discuss:
 a. Self-insurance and/or minimum premium arrangements for the HIP HMO plan.
 b. Medicare Advantage- adoption of a Medicare Advantage benchmark plan for retirees c. Consolidated Drug Purchasing- welfare funds, PICA and health plan prescription costs pooling their buying power and resources to purchase prescription drugs.
@@ -1691,15 +1909,12 @@ f. Other areas- Centers of Excellence for specific conditions; Hospital and prov
 g. Potential RFPs for all medical and hospital benefits.
 h. Status of the Stabilization Fund.
 The Committee will make recommendations to be considered by the MLC and the City.
-6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee
-(THIPC) and shall be independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address areas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC Will each be responsible for the costs of its actuary.
-7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer
-in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
+6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee (THIPC) and shall be independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address areas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC Will each be responsible for the costs of its actuary.
+7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
 2014 City/MLC Health Agreement:
 a. Such dispute shall be resolved within 90 days.
 3
 25003
-
 
 b. The arbitrator shall have the authority to impose interim relief that is consistent with the parties' intent.
 c. The arbitrator shall have the authority to meet with the parties as such times as is appropriate to enforce the terms of this agreement.
@@ -1728,7 +1943,6 @@ There shall be a joint committee formed that will engage in a process to select 
 1
 25003
 
-
 S.
 The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced in Paragraph 2 above and generated in the individual fiscal years as follows: (i) $400 million in Fiscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) $1 billion in Fiscal Year 2017; (iv)
 $1.3 billion in Fiscal Year 2018; and (v) for every fiscal year thereafter, the savings on a citywide basis in health care costs shall continue on a recurring basis. At the conclusion of Fiscal Year 2018, the parties shall calculate the savings realized during the prior four-year period. In the event that the MILC has generated more than $3.4 billion in cumulative healthcare savings during the four-year period, as determined by the jointly selected healthcare actuary, up to the first $365 million of such additional savings shall be credited proportionately to each union as a one-time lump sum pensionable bonus payment for its members. Should the union desire to use these funds for other purposes, the parties shall negotiate in good faith to attempt to agree on an appropriate alternative use. Any additional savings generated for the four-year period beyond the first $365 million will be shared equally with the City and the MIC for the same purposes and subject to the same procedure as the first $365 million. Additional savings beyond $1.3 billion in FY 2018 that carry over into FY 2019 shall be subject to negotiations between the parties.
@@ -1747,8 +1961,8 @@ The parties shall share the costs for the arbitrator and the actuary the arbitra
 2
 25003
 
-
-If the above accords with your understanding and agreement, kindly execute the signature line provided.
+If the above accords with your understanding and agreement, kindly execute the signature
+line provided.
 Sincerely,
 Robert W. Linn
 Commissioner
@@ -1763,7 +1977,7 @@ amy heapol
 ### OFFICE OF LABOR RELATIONS
 _Page 59_ · _OCR-reconstructed_ · _Topics: wages, holidays, hours_
 
-40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY Comnessioner MARGARET M. CONNOR Mrs Repan Cosmisstoner Mr Harry Nespoli President Uniformed Sanitationmen's Association Local 831, IBT
+40 Rector Street, New York, NY 10006-1705 http://nyc.gov/olr JAMES F. HANLEY Commissioner MARGARET M. CONNOR Mrs Repan Commissioner Mr Harry Nespoli President Uniformed Sanitationmen's Association Local 831, IBT
 23-35 Cliff Street
 New York, New Yurk 10038
 Dear Mr. Nespoli.
@@ -1771,16 +1985,15 @@ The Uniformed Sanitationmen's Association. Local 831, IBT ("the Union") and the 
 (together, the "Parties") mutually understand and agree that the general wage increases, the new supplemental payinents to the Uniformed Sanitationmen's Association Compensation Accrual Fund, and the new productivity differentials are funded.
 in part, through savings to be achieved through increased productivity and other cost-savings mechanisms including the new salary schedule for new hires.
 The Parties mutually agree thas should the productivity initiatives ser forth in the new 10.7 tons refuse and 6 2 tons recycling Tons Per Truck Shift Program and/or the Dumping-on-Shifl Program and/or the One-Worker Roll-on/Roll-of Program fail to achieve the savings agreed upon herein to fund the 1.3% waye increases in this and subsequent collective bargaining agreements, the Parties agree to meet and confer to evaluate whether or not operational changes may be made to facilitate achieving the agreed-upon savings Should such savings not be able to be realized, the Parties agree to consider new or alternative funding mechanisms to address any shorfalls) in projected savings. In the event that the pares are unable to agree, the matter shall be submitted to the Tripartite Dispute Resolution Panel formed pursuant to the Kelly Impose Award dated December 10, 1980 (the "Tripartite Panel") for resolution.
-The Parties agree that the program will be revised periodically after implementation and thereafter excluding the four (4) monsh break-in period. The Parties will meet to discuss chunges in productivity standards and/or shift differentials or other forns of compensation, if the agreed upon standards are exceeded or are not met. Any disagreements. not Otherwise precluded by the parties" collective bargaining agreement and/or by prior decision or law, will be determined by the Tripartite Panel.
+The Parties agree that the program will be revised periodically after implementation and thereafter excluding the four (4) month break-in period. The Parties will meet to discuss changes in productivity standards and/or shift differentials or other forns of compensation, if the agreed upon standards are exceeded or are not met. Any disagreements. not Otherwise precluded by the parties" collective bargaining agreement and/or by prior decision or law, will be determined by the Tripartite Panel.
 Refuse and Recycling Targets
 In accordance with Section? of the Two-Worker Truck Agreement, the Parties have mutually agreed to have the Citywide and local district labor management committees recalibrate the Citywide target average tons per truck shift in the refuse collection and recycling programs to 107 tons per truck shift for refuse collection and to 62 tons per truck shul for recveling collection, respectively.
-Individual district goals will be established for each program after the Sanitation Depunment (the "Department")
+Individual district goals will be established for each program after the Sanitation Department (the "Department")
 and the Union, through the Citywide and district labor management committees, reach agreement on the individual district goals The Cirywide target may be more (or less) than the 10.7 refuse / 6 2 recycling tons per truck shift subject to the agreement of the Paries, and the number of truck shifts shall be adjusted accordingly.
 25003
 
-
 The Parties agree to eliminate the 4.8, 5.4 and 72 targets for recycling and the 10.6 target for refuse. The Panics recognize that there are now iwo components of the collection productivity differentials, one for the underlying "noworker truck" program as indicated in the Two-Worker Truck Agreement Paragraphs 1A. through F). and one for the new 107 lons per truck shift for refuse collection and the 6.2 tons per truck shift for recycling collection targuts that combines the payment provided under Paragraph G with the supplemental payment to the Uniformed Sanitationmen's Association Compensation Accrual Fund. Il is therefore possible for a Sanitation Worker to receive neither component, only the "iwoworker truck" component, or both the "two-worker truck" component and the new 10.7i6.2 "combined" component.
-The docking trigger for the 10.7:6 2 combined component is 10 7/6 2, and the docking trigger for the "iwo-worker truck" component, is 10.1/60 The 10.7 tons per truck shif for refuse collection and the 6.2 tons per truck shift for recycling collections, as well as the 45.6% of trucks dumped on shift, are the agreed upon targets to be reached for the new tons per nick shift and dumping-on-shift programs It is agreed that the Citywide bank for refuse and recycling will be used to address unexpected circumstances and ¡temporary difficulties in a district If the district 2%% bank is frequently exceed, then the Department and the Union shall meet promptly to resolve the truck shift issue in the affected district while maintaining the Citywide 10.7 and 6 2 tons per truck shifi taryets. The number uf trucks assigned on a holiday shall have no effect on the bank for that week The parties agret to review the adequacy of the "banks" on a district-by-district basis The Parties have mutually agreed that the combined differential for the 10.7 and 62 collection targets consists of the component indicated in Paragraph I. G of the Two-Worker Truck Agreement and a separate contribution in the flat amount of $2.00 per qualifying shift to be paid to the Uniformed Sanitationmen's Association Compensation Accrual Fund (the "Supplemental Payment"). The $2.00 per shift Supplemental Payment shall be adjusted by future across-the-board increases, if any, but the Supplemental Payment shall not be subject 1o any premium payments. Eligibility for payment will begin in a district once the district begins the new program.
+The docking trigger for the 10.7:6 2 combined component is 10 7/6 2, and the docking trigger for the "iwo-worker truck" component, is 10.1/60 The 10.7 tons per truck shif for refuse collection and the 6.2 tons per truck shift for recycling collections, as well as the 45.6% of trucks dumped on shift, are the agreed upon targets to be reached for the new tons per nick shift and dumping-on-shift programs It is agreed that the Citywide bank for refuse and recycling will be used to address unexpected circumstances and ¡temporary difficulties in a district If the district 2%% bank is frequently exceed, then the Department and the Union shall meet promptly to resolve the truck shift issue in the affected district while maintaining the Citywide 10.7 and 6 2 tons per truck shift taryets. The number uf trucks assigned on a holiday shall have no effect on the bank for that week The parties agree to review the adequacy of the "banks" on a district-by-district basis The Parties have mutually agreed that the combined differential for the 10.7 and 62 collection targets consists of the component indicated in Paragraph I. G of the Two-Worker Truck Agreement and a separate contribution in the flat amount of $2.00 per qualifying shift to be paid to the Uniformed Sanitationmen's Association Compensation Accrual Fund (the "Supplemental Payment"). The $2.00 per shift Supplemental Payment shall be adjusted by future across-the-board increases, if any, but the Supplemental Payment shall not be subject 1o any premium payments. Eligibility for payment will begin in a district once the district begins the new program.
 The Supplemental Payment component will be paid on a stas. frur-weuk cycle subject to a determination that the standards for receiving the payment have been met If the rons per truck shift targets for a given District are unmet, the combined differential shall be paid provided that she it trict has met its targeted number of truck shills and the new routes, designed to achieve a Citywide average of in apons: truck shift for refuse and 6 2 tons per truck shift for recycling, have been completed The Supplemental Payment shall not be paid to any member subject to the established docking procedure unless and until the employee appeals such decision and such appeal is upheld "Refuse and Recycling" collection vehicles when engaged in regular collection operations under the 10. 7/6.2 TTS programs Effective Date
 03/02/07
 03/02/08
@@ -1791,15 +2004,14 @@ $2.23
 $2.32
 $241
 Dumping-on-Shift Targets
-The Parties have mutually agreed to a new program for refuse and recycling crews that shall be par of a comprehensive productivity agreement, the purpose of which is to establish new performance measurements fur attaining savings to be derived from "dumping on shift" and to provide a differential payment for achieving and maintaining thase performance standards.
-The Citywide and district targets and cut-off times will be adjusted through labor management committees as is the current practice. The productivity program assumes that a "dumping-on-shif" performance standard of at least 456% (combined standard for refuse and recycling) shall be maintained The Parties agree that payment will be made based on a weekly target of 45.6% of loads dumped on shill as long as a foor of 40% is attained Citywide. The floor of 40% is intended to address circumstances and difficulties thai may occur. When the 40% floor is not attained Cityride (excluding non-normai operations, eg.. snow and transfer station issues), the differential payment will not be paid to any employee for that week. The Union may appeal such a decision to the Tripartite Panel The Parties have mutually agreed that a new differential in the amount of $5 00 per qualifying shiff will he paid for each dump made on shift (only one payment shall be made for a split-body truck) when the route is cleaned Eligibility for
+The Parties have mutually agreed to a new program for refuse and recycling crews that shall be par of a comprehensive productivity agreement, the purpose of which is to establish new performance measurements fur attaining savings to be derived from "dumping on shift" and to provide a differential payment for achieving and maintaining these performance standards.
+The Citywide and district targets and cut-off times will be adjusted through labor management committees as is the current practice. The productivity program assumes that a "dumping-on-shif" performance standard of at least 456% (combined standard for refuse and recycling) shall be maintained The Parties agree that payment will be made based on a weekly target of 45.6% of loads dumped on shill as long as a foor of 40% is attained Citywide. The floor of 40% is intended to address circumstances and difficulties thai may occur. When the 40% floor is not attained Cityride (excluding non-normai operations, eg.. snow and transfer station issues), the differential payment will not be paid to any employee for that week. The Union may appeal such a decision to the Tripartite Panel The Parties have mutually agreed that a new differential in the amount of $5 00 per qualifying shift will he paid for each dump made on shift (only one payment shall be made for a split-body truck) when the route is cleaned Eligibility for
 25003
-
 
 payment will begin during the initial monitoring period of four (4) months. During the four month monitoring period, the Panies agree to a trial program in which supervisors in the district, after consultation with the designated shop steward.
 shall determine which sections and trucks will be sent to the dump site first if they have finished the route.
 The dumping-on-shif differential shalt not be paid if the route is incomplete except as otherwise provided below The "dump-on-shift" differential payment shall be paid in all cases where the employee is disparched to dump by assigned supervision. Payment shall not be made for exigencies such as, but not limited to, longer term operational issues such as a facility being closed for an extended period of time and/or going off-line in which case the program shall be suspended in the affected location(s)
-Any Sanitation Worker who has been denied the "dump-on-shift" differential pursuant to this Agreement shall have the right to appeal the denial to a review committee consisting of the First Deputy Commissioner or designee(s) and the President of Local 831, IBT, or designee(s) If the matter is still unresolved, the Union may appeal the Employer's determination to the Tripartite Panel for a hearing to be held within forty-eight (48) to seventy-swo (72) hours of the Department's notification to the Sanitation Worker pursuant to the provisions of Article VII of the collective bargaining agreement between the City of New York and the Uniformed Sanitationmen's Association, Local 831. IBT, covering the The standards to be established Citywide and for the Boroughs under the new productivity program shall be revierved (monitored) at regular quarterly intervals, or at the request of either Party, after the implementation of the program to determine whether or not the agreed upon targets are continuing to be met. The Parties shall promptly meet and make any necessary adjustments to ensure continuing savings are being attained The "dumping-on-shift" differential shall not become part of the employee's basic salary rate nur be added to the the District beyins the new program This agreement shall not supersede the provisions of Article VIL, Sections 1 (a), 2 (a) and 3 ol the Collective Bargaining Agreement.
+Any Sanitation Worker who has been denied the "dump-on-shift" differential pursuant to this Agreement shall have the right to appeal the denial to a review committee consisting of the First Deputy Commissioner or designee(s) and the President of Local 831, IBT, or designee(s) If the matter is still unresolved, the Union may appeal the Employer's determination to the Tripartite Panel for a hearing to be held within forty-eight (48) to seventy-swo (72) hours of the Department's notification to the Sanitation Worker pursuant to the provisions of Article VII of the collective bargaining agreement between the City of New York and the Uniformed Sanitationmen's Association, Local 831. IBT, covering the The standards to be established Citywide and for the Boroughs under the new productivity program shall be reviewed (monitored) at regular quarterly intervals, or at the request of either Party, after the implementation of the program to determine whether or not the agreed upon targets are continuing to be met. The Parties shall promptly meet and make any necessary adjustments to ensure continuing savings are being attained The "dumping-on-shift" differential shall not become part of the employee's basic salary rate nur be added to the the District beyins the new program This agreement shall not supersede the provisions of Article VIL, Sections 1 (a), 2 (a) and 3 ol the Collective Bargaining Agreement.
 "Dumping-on-Shift" when engaged in regular collection and recycling operations Efecave Date
 03/02/07
 03/02/08
@@ -1812,18 +2024,20 @@ $5 80
 $G.03
 Roll-on/Roll-off Program
 management comminee created through the productivity programs (the "Labor-Management Committees").
-Current assigned locations shail remain the same unless changed through the Labor-Management Committees The Parties have mutually agreed that a new differential in the amount of 580 00 per qualifying shift will be paid in the same manner as other differentials Current productivity standards shall be maintained The "Roll-on/Roll-olf" differential shall not become par of the employee's basic salary rate nor be added to the Employee's basic salary for the calculation of any salary-based benefits. The differemial shall be adjusted by future acrossthe-board collective bargaining increases, if any, and shall be subject to any premium payments The differential shall be pensionable consistent with applicable law. Eligibility for the "Roll-on/Roll-of" differential will begin in a District once the District begins the new program The "Roll-on/Roll-off" vehicles will be added to the list of permanent special assignments contained in Article VI.
+Current assigned locations shail remain the same unless changed through the Labor-Management Committees The Parties have mutually agreed that a new differential in the amount of 580 00 per qualifying shift will be paid in the same manner as other differentials Current productivity standards shall be maintained The "Roll-on/Roll-olf" differential shall not become par of the employee's basic salary rate nor be added to the Employee's basic salary for the calculation of any salary-based benefits. The differential shall be adjusted by future acrossthe-board collective bargaining increases, if any, and shall be subject to any premium payments The differential shall be pensionable consistent with applicable law. Eligibility for the "Roll-on/Roll-of" differential will begin in a District once the District begins the new program The "Roll-on/Roll-off" vehicles will be added to the list of permanent special assignments contained in Article VI.
 
 <a id="section-4-c-and-treated-in-accordance-with-the-provisions-of-p61"></a>
 ### Section 4 — (c) and treated in accordance with the provisions of such Anicle for all subsequent assignments 1o such vehicles
 _Page 61_ · _OCR-reconstructed_ · _Topics: wages_
 
-The current side letter concerning "Roll-on Roll-uff" assignments is hereby rescinded and is replaced by the terms of a new side letter (arached)
+The current side letter concerning "Roll-on Roll-uff" assignments is hereby rescinded and is replaced by the terms
+of a new side letter (attached)
 25003
 
-
-This agreement is subject 1o the ferms of the currently effective collective bargaining agreement between the Cily uf New York and Local 831 of the International Brotherhood of Teamsters.
-"Roll-on/Roll-off collection vehicles when engaged in one-person collection operations.
+This agreement is subject 1o the ferms of the currently effective collective bargaining agreement between the Cily
+uf New York and Local 831 of the International Brotherhood of Teamsters.
+"Roll-on/Roll-off collection vehicles
+when engaged in one-person collection operations.
 Effective Date
 03/02/07
 03/02/08
@@ -1834,7 +2048,9 @@ Amount
 589 25
 $92 82
 $96 53
-Any dispute, controversy, or claim not otherwise precluded by the parties' collective bargaining agreement and/or by prior decision or law concerning or arising out of the execution, application, interpretation or performance of any of th terms or conditions of this agreement shail be submitted to the Tripartite Panel.
+Any dispute, controversy, or claim not otherwise precluded by the parties' collective bargaining agreement and/or
+by prior decision or law concerning or arising out of the execution, application, interpretation or performance of any of th
+terms or conditions of this agreement shail be submitted to the Tripartite Panel.
 If the above accords with your understanding, please execute the signature line below.
 Very truly yours,
 Goos Manly
@@ -1842,7 +2058,6 @@ Agreed and Accepted on Behalf
 of Local 831, IBT
 President
 25003
-
 
 The
 New York
@@ -1852,11 +2067,24 @@ Steven H. Banks
 First Deputy Commissioner
 General Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 пус.gov/olr Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Program May 5, 2020 Mr. Harry Nespoli President Uniformed Sanitationmen's Association Local 831, IBT
+22 Cortlandt Street, New York, NY 10007
+пус.gov/olr
+Claire Levitt
+Deputy Commissioner
+Health Care Strategy
+Georgette Gestely
+Director, Employee Benefits Program
+May 5, 2020
+Mr. Harry Nespoli
+President
+Uniformed Sanitationmen's Association
+Local 831, IBT
 23-25 Cliff Street
 New York, New York 10038
 Dear Mr. Nespoli:
-The City reaffirms its commitment to the existing parity relationship between the uniformed forces of Police, Fire, Correction, and Sanitation, which is measured at the basic maximum salary.
+The City reaffirms its commitment to the existing parity relationship between the
+uniformed forces of Police, Fire, Correction, and Sanitation, which is measured at the
+basic maximum salary.
 Very truly yours,
 O see for pe
 Renee Campion
@@ -1885,7 +2113,6 @@ Jessica Tisch
 125 Worth Street, 7c Floor | New York, NY 10013 | nyc.gov/dsny
 25003
 
-
 The
 Liyf
 New York
@@ -1909,27 +2136,52 @@ The Department will adjust truck allotments when normal operations are disrupted
 The parties acknowledge that, from time to time, the Department may alter its multi-stream collection programs as a result of policy shifts, changes in equipment/technology and/or legislation. Where such change could materially impact the operation of this program, the parties will meet to discuss such impact.
 25003
 
-
 If the above accords with your understanding, please execute the signature line below.
 Sincerely,
 Rul
-Rence Campias
-Agreed and Accepted on Behalf of Local 831, IBT on parent President
+Rence Campion
+Agreed and Accepted on Behalf of Local 831, IBT
+on parent
+President
 25003
-
 
 The
 New York
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Commissioner Daniel Pollak First Deputy Commissioner Nicole Andrade General Counsel Claire Levitt Deputy Commissioner Health Core Strategy Georgette Gestely Director, Employee Benefits Program September 11, 2024 Harry Nespoli President Uniformed Sanitationmen's Association, IBT Local 831
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion
+Commissioner
+Daniel Pollak
+First Deputy Commissioner
+Nicole Andrade
+General Counsel
+Claire Levitt
+Deputy Commissioner
+Health Core Strategy
+Georgette Gestely
+Director, Employee Benefits Program
+September 11, 2024
+Harry Nespoli
+President
+Uniformed Sanitationmen's Association, IBT Local 831
 25 Cliff Street
 New York, NY 10038
 Dear Mr. Nespoli:
-This side letter serves to confirm the parties' agreement regarding certain procedures to be employed under the 8.2 tons per truck shift (TPTS) productivity standard.
-The Department Operations Order 2024-03 shall apply in circumstances where the productivity standards are not met. In such circumstances, the Chief of Department will notify the President of Local 831, or their designee, that crews in one or more Districts may have their truck differentials docked due to failure to complete their routes. The Department and the Union shall meet within one (1)
+This side letter serves to confirm the parties' agreement regarding certain procedures to be
+employed under the 8.2 tons per truck shift (TPTS) productivity standard.
+The Department Operations Order 2024-03 shall apply in circumstances where the productivity
+standards are not met. In such circumstances, the Chief of Department will notify the President of
+Local 831, or their designee, that crews in one or more Districts may have their truck differentials
+docked due to failure to complete their routes. The Department and the Union shall meet within one (1)
 calendar day of notification and seek to resolve the challenges in the affected district.
-The Union shall have up to five (5) calendar days to resolve the matter. If the matter remains unresolved at the conclusion of the specified time period, then the Department will determine whether to proceed with any action. If the determination is to proceed with docking, the Local 831 President will be notified, and the procedure will commence in accordance with the attached Operations Order and the Tripartite Dispute Resolution Process.
-Any disputes regarding this procedure shall be submitted to the Tripartite Dispute Resolution Panel.
+The Union shall have up to five (5) calendar days to resolve the matter. If the matter remains
+unresolved at the conclusion of the specified time period, then the Department will determine whether
+to proceed with any action. If the determination is to proceed with docking, the Local 831 President
+will be notified, and the procedure will commence in accordance with the attached Operations Order
+and the Tripartite Dispute Resolution Process.
+Any disputes regarding this procedure shall be submitted to the Tripartite Dispute Resolution
+Panel.
 If the above accords with your understanding, please execute the signature line below.
 Sincerely,
 Reg

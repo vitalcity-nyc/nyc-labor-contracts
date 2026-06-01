@@ -2,29 +2,44 @@
 contract_id: oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021
 label: "Oilers Stationary Eng Steam Sr Stationary Engineer Steam Fully Executed Moa 2021 2026"
 expanded_label: "Oilers Stationary Eng Steam Sr Stationary Engineer Steam Fully Executed Moa 2021 2026"
-term_start: None
-term_end: None
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021-2026.pdf"
 pages: 9
 ocr_pages: 9
-ocr_engine: google-cloud-vision
+pages_with_tables: 0
 clauses: 9
-sector: "other"
+sector: "skilled-trades"
 ---
 
 # Oilers Stationary Eng Steam Sr Stationary Engineer Steam Fully Executed Moa 2021 2026
 
-**Term:** None–None  
+**Term:** term n/a  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021-2026.pdf)  
-**Pages:** 9 (re-OCR'd via Google Cloud Vision)
+**Pages:** 9 (9 OCR-reconstructed)  
+**Clauses extracted:** 9
 
-> This contract was originally OCR'd via macOS Vision and contained heavy transcription errors. It was re-processed with Google Cloud Vision's DOCUMENT_TEXT_DETECTION on 2026-05-06. The text below is the re-OCR'd output. Verify quotations against the source PDF before publishing.
+**Workforce:** Oilers Stationary Eng Steam Sr Stationary Engineer Steam Fully Executed Moa 2021 2026 — see contract for the full recognition clause defining covered titles.
+
+> This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 
 ---
 
-<a id="page-1"></a>
+## Contents
+
+- [Page 1](#page-1-p1)
+- [Page 2](#page-2-p2)
+- [Page 3](#page-3-p3)
+- [Page 4](#page-4-p4)
+- [Page 5](#page-5-p5)
+- [Page 6](#page-6-p6)
+- [Page 7](#page-7-p7)
+- [Page 8](#page-8-p8)
+- [Page 9](#page-9-p9)
+
+---
+
+<a id="page-1-p1"></a>
 ### Page 1
-_OCR via Google Cloud Vision_
+_Page 1_ · _OCR-reconstructed_
 
 2021-2026 Local 15/ Local 30
 Oilers, Stationary Engineer and Senior Stationary Engineer
@@ -63,9 +78,9 @@ this section.
 a. The lump sum cash payment pursuant to Section 3 of this MOA shall be payable as
 soon as practicable upon ratification of this MOA.
 
-<a id="page-2"></a>
+<a id="page-2-p2"></a>
 ### Page 2
-_OCR via Google Cloud Vision_
+_Page 2_ · _OCR-reconstructed_
 
 b. The general wage increases pursuant to Section 2.a., 2.b. and 2.c. of this MOA shall
 be payable as soon as practicable upon ratification of this MOA.
@@ -96,9 +111,9 @@ The terms of the predecessor Consent Determination and related agreements shall 
 continued except as modified pursuant to this MOA.
 2
 
-<a id="page-3"></a>
+<a id="page-3-p3"></a>
 ### Page 3
-_OCR via Google Cloud Vision_
+_Page 3_ · _OCR-reconstructed_
 
 10. Approval of Agreement
 This MOA is subject to union ratification.
@@ -118,9 +133,9 @@ Local 15, I.U.O.E.
 Date: November 14, 2023
 3
 
-<a id="page-4"></a>
+<a id="page-4-p4"></a>
 ### Page 4
-_OCR via Google Cloud Vision_
+_Page 4_ · _OCR-reconstructed_
 
 The
 City of
@@ -163,9 +178,9 @@ Very truly yours,
 Raul
 Renee Campion
 
-<a id="page-5"></a>
+<a id="page-5-p5"></a>
 ### Page 5
-_OCR via Google Cloud Vision_
+_Page 5_ · _OCR-reconstructed_
 
 AGREED AND ACCEPTED BY
 LOCAL 15
@@ -178,12 +193,12 @@ William Lynn
 Business Manager
 5
 
-<a id="page-6"></a>
+<a id="page-6-p6"></a>
 ### Page 6
-_OCR via Google Cloud Vision_
+_Page 6_ · _OCR-reconstructed_
 
 The
-Cityf
+City
 New York
 Renee Campion
 Commissioner
@@ -218,7 +233,7 @@ Stationary Engineer (Outside NYC) (Steam), and Senior Stationary Engineer (Steam
 1. The parties agree that for the period beginning April 1, 2026, and continuing until a date
 to be determined through negotiations, the parties will negotiate one Consent
 Determination covering all the above referenced titles.
-2. Consistent with the terms necgotiated by the parties to be incorporated into the Consent
+2. Consistent with the terms negotiated by the parties to be incorporated into the Consent
 Determination for the period March 1, 2021 through March 31, 2026, the following
 benefits, achieved previously by Oilers through bargaining, will be provided to the titles
 Oiler, Plant Maintainer/Oiler, Stationary Engineer, Stationary Engineer (Outside NYC),
@@ -226,9 +241,9 @@ and Senior Stationary Engineer consistent with the terms of the 2017 to 2021 Con
 Determination:
 6
 
-<a id="page-7"></a>
+<a id="page-7-p7"></a>
 ### Page 7
-_OCR via Google Cloud Vision_
+_Page 7_ · _OCR-reconstructed_
 
 Annual Welfare Fund contribution
 Hourly Annuity contribution
@@ -266,9 +281,9 @@ Engineer “A” rate.
 3.b.i, through v. resolve issues of concern to the parties and that the wage and benefit rates
 7
 
-<a id="page-8"></a>
+<a id="page-8-p8"></a>
 ### Page 8
-_OCR via Google Cloud Vision_
+_Page 8_ · _OCR-reconstructed_
 
 negotiated for the period commencing March 1, 2026 through a date to be determined by
 the parties will be consistent with the wage and benefit formulas in 2. and 3.b.i. through v.
@@ -301,9 +316,9 @@ restructuring of the plant classifications, appended to the July 1, 2017 through
 28, 2021 Local 30 and Local 15 Oilers et.al Consent Determination.
 80
 
-<a id="page-9"></a>
+<a id="page-9-p9"></a>
 ### Page 9
-_OCR via Google Cloud Vision_
+_Page 9_ · _OCR-reconstructed_
 
 If the above accords with your understanding, please execute the signature line provided below.
 Very truly yours,
@@ -322,3 +337,5 @@ William Lynn
 Business Manager
 9
 
+---
+_End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/oilers-stationary-eng-steam-sr-stationary-engineer-steam-fully-executed-moa-2021-2026.pdf>_

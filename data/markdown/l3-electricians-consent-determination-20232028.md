@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # IBEW Local 3 (L3) — Electricians Consent Determination, 2023–2028
 
-**Term:** 2023–2028
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electricians-executed-moa-2023-2028.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electricians-executed-moa-2023-2028.pdf)
-**Pages:** 37 (28 OCR-reconstructed)
+**Term:** 2023–2028  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electricians-executed-moa-2023-2028.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electricians-executed-moa-2023-2028.pdf)  
+**Pages:** 37 (28 OCR-reconstructed)  
 **Clauses extracted:** 49
 
 **Workforce:** L3 Electricians Consent Determination, 2023–2028 — see contract for the full recognition clause defining covered titles.
@@ -95,7 +95,6 @@ LOCAL UNION 3, INTERNATIONAL BROTHERHOOD OF OF ELECTRICAL WORKERS, FILING Agains
 Brad Lander
 Comptroller of the City of New York One Centre Street New York, NY 10007 By: ______________________ Paul Brumlik Director of Classifications Bureau of Labor Law Tel: (212) 669-2161 Fax: (212) 815-8681
 
-
 TO: RENEE CAMPION
 Commissioner
 City of New York Office of Labor Relations
@@ -109,7 +108,8 @@ _Page 2_
 Business Representative
 Local Union 3
 International Brotherhood of Electrical Workers
-158-11 Harry Van Arsdale, Jr. Avenue Flushing, NY 11365
+158-11 Harry Van Arsdale, Jr. Avenue
+Flushing, NY 11365
 
 <a id="before-the-comptroller-of-the-city-of-new-york-p3"></a>
 ### BEFORE THE COMPTROLLER OF THE CITY OF NEW YORK
@@ -133,7 +133,6 @@ A Complaint under Section 220 of the New York State Labor Law, having been filed
 NOW, THEREFORE, IT IS HEREBY DETERMINED BY CONSENT that:
 The compromised basic rate of wages and supplemental benefits agreed upon are and have
 been for the above mentioned employees of the City of New York, et al., as follows:
-
 
 Electrician, Electrician (ONYC) and Electrician (Westchester)
 Period
@@ -216,10 +215,12 @@ $67.37
 $67.37
 $69.56
 $69.56
-Work performed by employees employed by the Human Resources Administration, the Health and Hospitals Corporation, the Department of Sanitation, the Department of Transportation, The New York City Housing Authority, or the City University of New York, regularly scheduled between 4 p.m. to 12 midnight and 12 midnight to 8 a.m. shall be compensated in the following
+Work performed by employees employed by the Human Resources Administration, the
+Health and Hospitals Corporation, the Department of Sanitation, the Department of Transportation,
+The New York City Housing Authority, or the City University of New York, regularly scheduled
+between 4 p.m. to 12 midnight and 12 midnight to 8 a.m. shall be compensated in the following
 manner:
 2
-
 
 Between 4 p.m. and 12 midnight there shall be a differential of 17.33% of the hourly rate for all work actually performed during this time period.
 Between 12 midnight and 8 a.m. there shall be a differential of 31.4% of the hourly rate for all work actually performed during this time period With regard to the overtime rate, employees shall be paid in cash or compensatory time at the rate of one and one-half times (1.5x) the hourly rate for all work performed in excess of a regularly scheduled seven (7) hour tour. The hourly rate shall not include the differential paid to employees for those hours worked between 4 p.m. to 12 midnight and 12 midnight to 8 a.m. Employees working an alternative work schedule at the New York City Housing Authority shall be paid in cash or compensatory time at the rate of one and one-half times (1.5x) the hourly rate for all work performed in excess of a regularly scheduled eight-hour and 45 minute (8:45) tour or in excess of 35 straighttime hours per week.
@@ -232,7 +233,6 @@ Effective:
 March 11, 2023:
 12 days per annum
 3
-
 
 Supervisor Electrician:
 Effective:
@@ -252,7 +252,6 @@ Any annual leave accrual provisions set forth in Article I, Section 2 of Appendi
 annexed hereto shall be modified to provide for the following:
 4
 
-
 A) Electrician, Electrician (ONYC) and Electrician (Westchester):
 Effective March 11, 2023, the annual leave allowance for employees in these titles who work
 at least a 249-day year shall accrue as follows:
@@ -267,9 +266,13 @@ Annual Allowance
 27 work days
 29 work days
 Monthly Accrual
-1 ⅓ days per month plus one additional day at the end of the leave year 1¾ days per month plus one additional day at the end of the leave year
+1 ⅓ days per month plus one additional day at
+the end of the leave year
+1¾ days per month plus one additional day at
+the end of the leave year
 2 ¼ days per month
-2 ⅓ days per month plus one additional day at the end of the leave year
+2 ⅓ days per month plus one additional day at
+the end of the leave year
 B) Supervisor Electricians:
 Effective March 11, 2023, the annual leave allowance for employees in the title Supervisor
 Electrician who work at least a 249-day year shall accrue as follows:
@@ -284,12 +287,17 @@ Annual Allowance
 27 work days
 29 work days
 Monthly Accrual
-1 ⅓ days per month plus one additional day at 1¾ days per month plus one additional day at 2 ⅓ days per month plus one additional day at
+1 ⅓ days per month plus one additional day at
+1¾ days per month plus one additional day at
+2 ⅓ days per month plus one additional day at
 C) Electricians Helper:
 Effective March 11, 2023, the annual leave allowance for employees in the title Electricians
 Helper who work at least a 249-day year shall accrue as follows:
 Years In Service
-t the beginning of the employee st vea Annual Allowance Monthly Accrual
+t the beginning of the employee
+st vea
+Annual Allowance
+Monthly Accrual
 17 work days
 5th year
 22 work days
@@ -297,11 +305,14 @@ t the beginning of the employee st vea Annual Allowance Monthly Accrual
 15th year
 27 work days
 29 work days
-1 1/3 days per month plus one additional day at the end of the leave year 1¾ days per month plus one additional day at the end of the leave year
+1 1/3 days per month plus one additional day
+at the end of the leave year
+1¾ days per month plus one additional day at
+the end of the leave year
 2¼ days per month
-2-1/3 days per month plus one additional day at the end of the leave year
+2-1/3 days per month plus one additional day
+at the end of the leave year
 5
-
 
 Leave Reg. Days
 Effective March 11, 2023, the paid leave benefits set forth in Article III, Sections (1)(a) -(f) of Appendix A annexed hereto shall continue to apply.
@@ -311,7 +322,6 @@ Additionally, employees who have been separated from service subsequent to July 
 Effective March 11, 2023, the City of New York et al. shall increase the retiree welfare fund contribution by $250.00, from $1,906.25 to $2,156.25 per annum per employee. Contributions shall be made to the to the Local Union No. 3, I.B.E.W. New York City Retired Electricians Health and Welfare Fund ("the Retiree Welfare Fund").
 Effective March 11, 2027, the Retiree Welfare Fund contribution shall be increased by $71.42 per annum per employee from $2,156.25 to $2,227.67. Contributions shall be made only for such time as said individuals remain primary beneficiaries of the New York City Health Insurance program and are entitled to benefits paid by the City of New York through said program; or are retirees of the New York City Employee's Retirement System who have completed at least five (5)
 years of full-time service with the City of New York, except that contributions for those employees
-
 
 hired after December 27, 2001 shall be governed by the provisions of § 12-126 of the Administrative Code of the City of New York, as amended.
 Compensation Accrual Fund
@@ -333,7 +343,6 @@ $4.00 per hour actually worked to a maximum of $28.00 per day.
 This Compensation Accrual Fund will be subject to a separate agreement between the City of New York et al. and the Complainant. The liability of the City of New York et al., shall in no event exceed the amount hereinabove set forth for each effective day payable, irrespective of any upward modification by reason of imposition of any taxes, liens, attorneys' fees or otherwise, and provided further that the amount of contributions by the City shall be limited solely to the payment as
 7
 
-
 provided herein.
 a)
 The provisions of this Consent Determination shall be consistent with the applicable provisions of the New York State Financial Emergency Act for the City of New York, as amended.
@@ -343,7 +352,6 @@ The Complainant agrees to waive any and all interest on all differentials of bas
 Interest on wage increases shall accrue at the rate of three percent (3%) per annum from one hundred twenty (120) days after the filing date of this Consent Determination, or one hundred twenty (120) days after the effective date of the increase, whichever is later, to the date of actual payment, (2)
 Interest on shift differentials, holiday and overtime pay shall accrue at the rate of three percent (3%) per annum from one hundred twenty (120) days following their earning, or one hundred twenty (120) days after the filing date of this Consent Determination, whichever is later, to the date of actual payment and s after the filing date of this Consent Determination, whichever is later, to the date of actual
 8
-
 
 payment and
 (3)
@@ -358,7 +366,6 @@ h)
 Any legal claims of any nature, including specifically, but not limited thereto, premium rates, holiday rates, shift rates, overtime rates or any other legal claims affecting rates and supplemental benefits of any kind whatsoever, are merged in this compromise and settlement for the period of compromise and settlement contained herein.
 9
 
-
 The foregoing basic rates of wages and supplemental benefits are due and payable to each and every Employee of the City of New York, et al., serving in the above-referenced titles beginning as of the effective date of the complaint filed herein, and shall be applicable to all Employees of the City of New York, et al., serving in the above-referenced titles who are represented by the Complainant.
 need titles beginning as of the effective date of the complaint filed herein, and shall be applicable to all Employees of the City of New York, et al., serving in the above-referenced titles who are represented by the Complainant.
 j)
@@ -366,7 +373,6 @@ The basic rates of supplemental benefits herein are not to be construed as true 
 It is further understood and agreed that in consideration of the compromise and settlement reached herein, the complaint in this matter is hereby settled.
 The submission of any Labor Law complaint, effective on April 11, 2028, can be made at the Bureau of Labor Law, Office of the Comptroller on or after that date.
 10
-
 
 fN WITNESS WHEREOF, the parties have executed this Agreement on the day and year first above written.
 CONSENTED TO:
@@ -384,7 +390,8 @@ Comptroller
 Dated: April 30, 2024
 New York, New York
 UNIT: Electricians et al
-TERM: March 11, 2023 through April 10, 2028 I I
+TERM: March 11, 2023 through April 10, 2028
+I I
 
 <a id="general-release-and-w-aiyer-p14"></a>
 ### GENERAL RELEASE AND W AIYER
@@ -392,14 +399,10 @@ _Page 14_ · _Topics: wages, discipline_
 
 Local #3, l.B.E.W. (hereinafter refened to as the "Union"), as the certified collective bargaining representative of employees in the titles, ELECTRICIAN, ELECTRICIAN'S HELPER and SUPERVISOR ELECTRIC LAN for and in consideration of the wage rates and supplemental benefit package negotiated and agreed upon by the Union and the City ofNew York as set forth in a collective bargaining agreement for the period beginning March 11, 2023 and terminating April IO, 2028, a copy of which has been made available to the Union, hereby voluntarily and knowingly
 agrees to:
-1. Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any claim for
-wages, supplements or other benefits, or any right, remedy, action or proceeding, which the Union has or may have under Section 220 of the Labor Law.
-2. Discontinue any and all action or proceedings, if any, heretofore commenced by me or on
-my behalf of the above mentioned titles under and pursuant to Section 220 of the Labor Law applicable to the period March 11, 2023 through April 1O , 2028.
-3. Waive any and all interest on all differentials of basic rates of wages and supplemental
-benefits from March 11, 2023 through April 10, 2028 except as expressly agreed upon in writing by the Union and the City. It is expressly understood that such waiver shall include the waiver of any right to interest payments pursuant to Subdivision 8c of Section 220 of the Labor Law (L. 1967,c. 502, Section 1 ).
-4. Release and forever discharge the City of New York from all manner of actions, cause and
-causes of actions, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, specialties, covenants, contracts, controversies, agreements, promises, cariances, trespasses, damages, judgments, extents, executions, claims and demands whatsoever in law or in equity which the Union, on behalf of employees in the above titles, shall or may have, by reason of any claim for wages or supplemental benefits pursuant to Section 220 of the Labor Law from March 11, 2023 through April 10, 2028 except as expressly agreed upon in writing by the Union and the City for that period.
+1. Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any claim for wages, supplements or other benefits, or any right, remedy, action or proceeding, which the Union has or may have under Section 220 of the Labor Law.
+2. Discontinue any and all action or proceedings, if any, heretofore commenced by me or on my behalf of the above mentioned titles under and pursuant to Section 220 of the Labor Law applicable to the period March 11, 2023 through April 1O , 2028.
+3. Waive any and all interest on all differentials of basic rates of wages and supplemental benefits from March 11, 2023 through April 10, 2028 except as expressly agreed upon in writing by the Union and the City. It is expressly understood that such waiver shall include the waiver of any right to interest payments pursuant to Subdivision 8c of Section 220 of the Labor Law (L. 1967,c. 502, Section 1 ).
+4. Release and forever discharge the City of New York from all manner of actions, cause and causes of actions, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, specialties, covenants, contracts, controversies, agreements, promises, cariances, trespasses, damages, judgments, extents, executions, claims and demands whatsoever in law or in equity which the Union, on behalf of employees in the above titles, shall or may have, by reason of any claim for wages or supplemental benefits pursuant to Section 220 of the Labor Law from March 11, 2023 through April 10, 2028 except as expressly agreed upon in writing by the Union and the City for that period.
 LOCAL #3, T.B.E.W.
 5
 J::riTzf-iikr
@@ -415,33 +418,56 @@ LOCAL #3, I.B.E.W .
 . Jiffm�
 13
 
-
 :llie
 Office of Labor Relations
 Q
 �
 wJ:.r
 York..,
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy Commissioner Health Care Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Progrom Nicole Andrade General Counsel April 15, 2024 Sean Fitzpatrick Business Representative International Brotherhood of Electrical Workers - Local 3 I 58-1 l Harry Van Arsdale Ave., Room 402 Flushing, NY 11365 Re: NYCHA Alternate Work Schedules
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Claire Levitt
+Commissioner Deputy Commissioner
+Health Care Strategy
+Daniel Pollak
+Georgette Gestely
+First Deputy Commissioner
+Director, Employee Benefits Progrom
+Nicole Andrade
+General Counsel
+April 15, 2024
+Sean Fitzpatrick
+Business Representative
+International Brotherhood of Electrical Workers - Local 3
+I 58-1 l Harry Van Arsdale Ave., Room 402
+Flushing, NY 11365
+Re: NYCHA Alternate Work Schedules
 2023-2028 Electricians Agreement
 Dear Mr. Fitzpatrick:
-This is to confirm the understanding and agreement of the parties concerning alternate work schedules at the New York City Housing Authority for employees covered under the Electricians Consent Determination for the period March 11, 2023 through April 10, 2028.
+This is to confirm the understanding and agreement of the parties concerning alternate work
+schedules at the New York City Housing Authority for employees covered under the Electricians
+Consent Determination for the period March 11, 2023 through April 10, 2028.
 1. The New York City Housing Authority shall have the right to establish the following
 alternative work schedules ("A WS"):
-a. Suppo1t Services Helpers, Electricians, and Supervisors 6:00 a.m. to 3: 15 p.m. four days a week, with every other weekend
+a. Suppo1t Services Helpers, Electricians, and Supervisors
+6:00 a.m. to 3: 15 p.m. four days a week, with every other weekend
 1.
-included in the regular 35-hour workweek; 10:45 a.m. to 8:00 p.m. four days a week, with every other weekend
+included in the regular 35-hour workweek;
+10:45 a.m. to 8:00 p.m. four days a week, with every other weekend
 11.
-included in the regular 35-hour workweek; b. Borough Electricians Helpers, and Supervisors A WS 9:45 a.m. to 7:00 p.m. four days a week, with every other Saturday included
+included in the regular 35-hour workweek;
+b. Borough Electricians Helpers, and Supervisors A WS
+9:45 a.m. to 7:00 p.m. four days a week, with every other Saturday included
 1.
-in the regular 35-hour workweek; Borough Supervisors who work the Traditional or the 11: 30 am - 7:00 pm
+in the regular 35-hour workweek;
+Borough Supervisors who work the Traditional or the 11: 30 am - 7:00 pm
 11.
-schedules may have scheduled overtime from 9:45 am - 7:00 pm every fomth Saturday.
+schedules may have scheduled overtime from 9:45 am - 7:00 pm every
+fomth Saturday.
 2. The next job pick following ratification of this agreement shall include the opportunity for
 employees (Electricians, Helpers, and Supervisors) to pick an alternate work schedule by
 seniority, pursuant to the following procedure:
 14
-
 
 a. Volunteers within each managing department (i.e., support services or borough operations) will be placed on the AWS in seniority order.
 b. In the event there are not sufficient employees to staff each shift, NYCHA shall mandate that temporary employees, then provisional employees and lastly new hires are to work the traditional schedule or an AWS, as staffing needs require. For these purposes, an employee recently promoted into a title shall be considered a new hire.
@@ -454,16 +480,13 @@ a. Employees shall work 8 hours and 45 minutes per day, four days per week, comp
 b. Work after 35 straight-time hours per week shall be compensated at a rate of one and one-half (1.5x) the regular hourly rate (e.g., an employee who works 8 hours and 45 minutes per day Monday through Thursday and is called upon to work on Friday would be entitled to 1.5x for all hours worked on Friday).
 15
 
-
 c. Work on Saturdays, Sundays and holidays shall be compensated at the rate of one and one-half ( l .5x) the regular hourly rate.
 d. Between 4 p.m. and 12 midnight there shall be a differential of 17.33% oft he hourly rate for all work actually perfonned during this time period.
 e. Between 12 midnight and 8 a.m. there shall be a differential of3 l.4% of the hourly rate for all work actually performed during this time period.
 f. Employees shall continue to accrue the same leave, in hours and minutes, as employees working traditional schedules.
 g. Holidays
-1. For employees whose regular work day is scheduled for a holiday and the
-employee does not report to work on the holiday, NYCHA shall deduct 1.75 hours of leave from the employees annual leave balance in order for the employee to receive a full paycheck for that day. To the extent the employee works on that holiday, they will be compensated pursuant to regular holiday payment rules in addition to their regular paycheck.
-11. If a holiday falls on an employee's regular day off, such employee shall have
-7 hours of leave credited to his or her leave balance. To the extent the employee works on that holiday, they will be compensated pursuant to regular holiday payment rules in addition to their credited leave.
+1. For employees whose regular work day is scheduled for a holiday and the employee does not report to work on the holiday, NYCHA shall deduct 1.75 hours of leave from the employees annual leave balance in order for the employee to receive a full paycheck for that day. To the extent the employee works on that holiday, they will be compensated pursuant to regular holiday payment rules in addition to their regular paycheck.
+11. If a holiday falls on an employee's regular day off, such employee shall have 7 hours of leave credited to his or her leave balance. To the extent the employee works on that holiday, they will be compensated pursuant to regular holiday payment rules in addition to their credited leave.
 If the above accords with your understanding, kindly execute the signature line provided below.
 Very truly yow-s,
 Renee Campion
@@ -478,7 +501,6 @@ SEAN
 FIT�K
 16
 
-
 The
 New York
 Renee Campion
@@ -488,21 +510,41 @@ First Deputy Commissioner
 Nicole Andrade
 General Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Program April /≤ 2024 Sean Fitzpatrick Business Representative International Brotherhood of Electrical Workers - Local 3
-158-11 Harry Van Arsdale Ave., Room 402 Flushing, NY 11365 RE: Electricians et al. $3,000 One-Time Lump Sum Ratification Bonus
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Claire Levitt
+Deputy Commissioner
+Health Care Strategy
+Georgette Gestely
+Director, Employee Benefits Program
+April /≤ 2024
+Sean Fitzpatrick
+Business Representative
+International Brotherhood of Electrical Workers - Local 3
+158-11 Harry Van Arsdale Ave., Room 402
+Flushing, NY 11365
+RE: Electricians et al. $3,000 One-Time Lump Sum Ratification Bonus
 Dear Mr. Fitzpatrick:
-This is to confirm the understanding and agreement of the parties concerning the lump sum cash payment for the Electricians et. al covered by the Consent Determination for the period of March 11,
+This is to confirm the understanding and agreement of the parties concerning the lump sum cash
+payment for the Electricians et. al covered by the Consent Determination for the period of March 11,
 2023 to April 10, 2028.
 i.
 ii.
 iii.
 iv.
-A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification of this Agreement to those bargaining unit members who were in active payroll status as of - October 26, 2023, the date of ratification. Active payroll status is defined as being in active payroll status ("B Status"), military leave with pay ("K status"), or on paid family leave.
-Employees who were terminated for cause, resigned, retired, or otherwise separated from service, for any other reason, prior to the date of ratification of this Agreement shall not be eligible for the lump sum cash payment.
-In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this agreement.
+A lump sum cash payment in the amount of $3,000, pro-rated for other than full time
+employees, shall be payable as soon as practicable upon ratification of this
+Agreement to those bargaining unit members who were in active payroll status as of -
+October 26, 2023, the date of ratification. Active payroll status is defined as being in
+active payroll status ("B Status"), military leave with pay ("K status"), or on paid
+family leave.
+Employees who were terminated for cause, resigned, retired, or otherwise separated
+from service, for any other reason, prior to the date of ratification of this Agreement
+shall not be eligible for the lump sum cash payment.
+In no event shall any employee receive greater than $3,000 in bonus payments
+pursuant to this agreement.
 The lump sum cash payment shall be pensionable, consistent with applicable law.
 17
-
 
 v. The lump sum cash payment shall not become part of the employee's basic salary rate, nor will it be added to the employee's basic salary for the calculation of any salary-based benefits, including but not limited to the calculation of future collective bargaining increases.
 v1. For circumstances not covered by this agreement, the First Deputy Commissioner of Labor Relations may elect to issue, on a case-by-case basis, interpretations concerning the payment of the lump sum ratification bonus. Such interpretations shall not be subject to any dispute resolution procedures.
@@ -516,17 +558,43 @@ _Page 20_
 
 OF LOCAL 3:
 zBtC
-l� �--- :J
+l� �---
+:J
 m
 BY
 18
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Deputy Commissioner Commissioner Health Care Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Program Nicole Andrade General Counsel ApriltJ, 2024 Sean Fitzpatrick Business Representative International Brotherhood of Electrical Workers - Local 3
-158-11 Han-y Van Arsdale Ave., Room 402 Flushing, NY 11365 RE: Payroll Paper Pay Stubs Electricians et al. 2023-2028 Dear Mr. Fitzpatrick This is to confirm the understanding and agreement of the parties concerning payroll and paper pay stubs for the employees covered by the Electricians et. al Consent Determination for the period of March 11, 2023 to April l 0, 2028.
-Effective as soon as practicable, following ratification of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housing Authority who receive paychecks via direct deposit shall be opted out ofreceiving paper pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate method at employers not on NYCAPS.
-If the above accords with your understanding, please indicate your acceptance by signing below.
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Claire Levitt
+Deputy Commissioner
+Commissioner
+Health Care Strategy
+Daniel Pollak
+Georgette Gestely
+First Deputy Commissioner
+Director, Employee Benefits Program
+Nicole Andrade
+General Counsel
+ApriltJ, 2024
+Sean Fitzpatrick
+Business Representative
+International Brotherhood of Electrical Workers - Local 3
+158-11 Han-y Van Arsdale Ave., Room 402
+Flushing, NY 11365
+RE: Payroll Paper Pay Stubs Electricians et al. 2023-2028
+Dear Mr. Fitzpatrick
+This is to confirm the understanding and agreement of the parties concerning payroll and
+paper pay stubs for the employees covered by the Electricians et. al Consent Determination for the
+period of March 11, 2023 to April l 0, 2028.
+Effective as soon as practicable, following ratification of this agreement, all employees of
+Mayoral agencies, the Department of Education, and the New York City Housing Authority who
+receive paychecks via direct deposit shall be opted out ofreceiving paper pay stubs. Employees may
+choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate
+method at employers not on NYCAPS.
+If the above accords with your understanding, please indicate your acceptance by signing
+below.
 Very Truly Yours,
 Renee Campion
 
@@ -542,7 +610,6 @@ ld
 r
 K
 19
-
 
 •
 
@@ -612,7 +679,6 @@ _Page 22_ · _OCR-reconstructed_ · _Topics: wages, vacation_
 For the earning of annual leave credits, the time recorded on the payroll at the full rat of pay, and the first six months of absence while receiving Workmen's Compensation payment shall be considered as time "served" by the employee.
 In the calculation of annual leave credits, a full month's credit shall be given to an
 
-
 2
 employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits earnable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period; and (b) if an employee loses annual leave credits under this rule for several months in the vacation year because he has been total of a or us re calendar days in all pay stars he shal be cried dirt the annual leave credits earnable in 1 month for each 30 days of such full pay status.
 
@@ -636,9 +702,10 @@ _Page 23_ · _OCR-reconstructed_ · _Topics: vacation_
 
 The normal unit of charge against annual leave allowance for vacation and personal
 
-
 3
-business shall be one-half day. Smaller units of charge are authorized for time lost due to tardiness, religious observance, and for the time lost by employee representatives duly designated by employee organizations operating under the Mayor's Executive Order No. 38 dated May 16,
+business shall be one-half day. Smaller units of charge are authorized for time lost due to
+tardiness, religious observance, and for the time lost by employee representatives duly designated
+by employee organizations operating under the Mayor's Executive Order No. 38 dated May 16,
 1957, engaged in the following types of union activity:
 8.
 b.
@@ -676,9 +743,9 @@ _Page 24_ · _OCR-reconstructed_ · _Topics: wages, sick-leave_
 Terminal Leave shall be allowed to employees who work at least 250 days per year at the rate of one month for every ten years of service, (a) the rates of which are fixed in accordance with a Comptroller's determination made under Section 220 of the Labor Law of the State of New York, and (b) of service under the Career and Salary Plan Leave Regulations, prorated for a fractional part thereof.
 If the employee so selects, and as an alternative to the above method of computation, his Terminal Leave allowance may be computed on the basis of one day of Terminal Leave for each two days of unused sick leave accumulation, to a maximum of one hundred (100) days Terminal
 
-
 4
-Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of work days, rather than calendar days.
+Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of
+work days, rather than calendar days.
 
 <a id="section-1-p25"></a>
 ### Section 1
@@ -705,7 +772,6 @@ _Page 25_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
 The normal unit for computation of sick leave shall be not less than one-half day. The agency head may authorize smaller units of charge in exceptional and unusual circumstances.
 Credits cannot be earned for the period an employee is on leave of absence without pay. For the earning of sick leave credits, the time recorded on the payroll at the full rate of pay, and the first six months of absence while receiving Workmen's Compensation payments shall be considered as time "served" by the employee.
 In the calculation of sick leave credits, a fuli month's credit shall be given to an employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the sick leave credits earable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
-
 
 5
 credits under this rule for several months in the vacation year because he has been in full pay status for fewer than 15 days in each month, but accumulates during said months a total of 30 or more calendar days in full pay status, he shall be credited with the sick leave credits earnable in one month for each 30 days of such full pay status.
@@ -735,7 +801,6 @@ Absence not to exceed four work-days in the case of death in the immediate famil
 he endorses his check for jury day fother dur shall be granted to the employee provided that For Court Attendance Under Subpoena or Court Order. Leave to attend court shall be granted when neither the employee nor anyone related to him has a personal interest in the case, and where said attendance at court is not related to any other employment of the employee.
 d.
 Absence required because of Health Department ruling with respect to quarantine.
-
 
 6
 e.
@@ -768,14 +833,14 @@ _Page 27_ · _OCR-reconstructed_
 
 Leaves of absence without pay for reasons not covered in the foregoing rules may be granted to permanent employees by the agency head not to exceed one year. Extension of such leave may be granted by an agency head not to exceed an additional period of one year. Further extensions may be granted by an elected official, in an agency headed by such official, of by the City Personnel Director for agencies headed by appointed officials.
 
-
 7
 
 <a id="section-3-p28"></a>
 ### Section 3
 _Page 28_ · _OCR-reconstructed_ · _Topics: other-leave_
 
-Agencies shall grant any leave of absence without pay, such as military leave, required by law.
+Agencies shall grant any leave of absence without pay, such as military leave, required
+by law.
 V.
 
 <a id="section-1-p28"></a>
@@ -802,7 +867,6 @@ _Page 28_ · _OCR-reconstructed_ · _Topics: wages, sick-leave_
 
 Whenever an employee, not covered by Workmen's Compensation, is physically disabled relation to such disability, reimbursement in the amount of such pay shall be made to the City or the agency concerned, as the case may be, from the proceeds of the recovery by such
 
-
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form and manner prescribed by the Corporation Counsel or other duly empowered counsel. The Agency head may have the injured employee examined by a physician employed by the City in order to determine the extent of the employee's disability and the approval of said physician from a medical viewpoint shall be required for the time granted with pay under this rule. The agency head may require periodic medical examinations of the disabled employee to ascertain the need for continued leave of absence with pay. Notwithstanding the provisions of Article 1, Section 4 and Article II, Section 5 annual and sick leave shall accrue during the first six months only of such absence, and shall be credited upon the employee's return to duty.
 
@@ -826,14 +890,12 @@ The injured employee or any authorized person acting in his behalf agrees that a
 The injured employee has the necessary accrued sick leave and/or annual leave balance or has been advanced credits in accordance with the Comptroller's Leave Regulations which the supplementary pay can be charged, and d.
 The injured employee was not guilty of willful gross disobedience of safety rules or willful failure to use a safety device, or was not under the influence of alcohol or narcotics at the time of injury, or did not willfully intend to bring about injury or death upon himself or another, and
 
-
 9
 The injured employee undergoes such medical examinations as are requested by the Workmen's Compensation Division of the Law Department and his agency; and when found fie for duty by said physicians, returns to his employment.
 2. To take annual leave and receive full pay and Workmen's Compensation medical
 coverage, provided that:
 request in writing, injured employer or any authorized person acting in his behalf makes the The injured employee or any authorized person acting in his behalf agrees to have his annual leave balance charged for such absence, and The injured employee has the necessary accrued annual leave balance.
-3. To receive Workmen's Compensation benefits in their entirety with no charge against sick
-leave and/or annual leave.
+3. To receive Workmen's Compensation benefits in their entirety with no charge against sick leave and/or annual leave.
 During the period when an injured employee is receiving Workmen's Compensation and the differential to bring him to full pay, he will be carried on full-pay status and this time shall be counted for retirement benefits.
 
 <a id="section-1-p30"></a>
@@ -870,7 +932,6 @@ If the parties decide to engage in a centralized purchase of Prescription Drugs,
 4.
 There shall be a joint committee formed that will engage in a process to select an independent healthcare actuary, and any other mutually agreed upon additional outside expertise, to develop an accounting system to measure and calculate savings.
 
-
 The MLC agrees to generate cumulative healthcare savings of S3.4 billion over the course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced in Paragraph 2 above and generated in the individual fiscal years as follows: (i) $400 million in Fiscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) $1 billion in Fiscal Year 2017; (iv)
 $1.3 billion in Fiscal Year 2018; and (v) for every fiscal year thereafter, the savings on a citywide basis in health care costs shall continue on a recurring basis. At the conclusion of Fiscal Year 2018, the parties shall calculate the savings realized during the prior four-year period. In the event that the MILC has generated more than $3.4 billion in cumulative healthcare savings during the four-year period, as determined by the jointly selected healthcare actuary, up to the first $365 million of such additional savings shall be credited proportionately to each union as a one-time lump sum pensionable bonus payment for its members. Should the union desire to use these funds for other purposes, the parties shall negotiate in good faith to attempt to agree on an appropriate alternative use. Any additional savings generated for the four-year period beyond the first $365 million will be shared equally with the City and the MLC for the same purposes and subject to the same procedure as the first $365 million. Additional savings beyond $1.3 billion in FY 2018 that carry over into FY 2019 shall be subject to negotiations between the parties.
 6.
@@ -885,13 +946,13 @@ d. The arbitrator shall have the authority to meet with the parties at such time
 e. If the parties are unable to agree on the independent health care actuary described above, the arbitrator shall select the impartial health care actuary to be retained by f. The parties shall share the costs for the arbitrator and the actuary the arbitrator selects.
 2
 
-
-If the above accords with your understanding and agreement, kindly execute the signature line provided.
+If the above accords with your understanding and agreement, kindly execute the signature
+line provided.
 Sincerely,
 Robert W. Linn
 Commissioner
-Agreed and Accepted on behalf of the Municipal Labor Committee ' or haml
-
+Agreed and Accepted on behalf of the Municipal Labor Committee
+' or haml
 
 The
 City f
@@ -916,7 +977,10 @@ Health Care Cost Management
 ### OFFICE OF LABOR RELATIONS
 _Page 34_ · _OCR-reconstructed_
 
-40 Rector Street, New York, N.Y. 10006-1705 nyc.gov/olr MAYRA E. BELL General Counsel
+40 Rector Street, New York, N.Y. 10006-1705
+nyc.gov/olr
+MAYRA E. BELL
+General Counsel
 
 <a id="georgette-gestely-p34"></a>
 ### GEORGETTE GESTELY
@@ -942,30 +1006,24 @@ ii. $210 million in FY 2019, $310 million in FY 2020, and $580 million in FY 202
 ili. In any event, the $600 million pursuant to 1(a)(iv) must be recurring and agreed to by the parties within FY 2021, and may not be borrowed from other years.
 1
 
-
 c. Savings attributable to CBP programs will continue to be transferred to the City by offsetting the savings amounts documented by Empire Blue Cross and GHI against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this offset to expire, any savings achieved in this manner must be replaced in order to meet the recurring obligation under 1(a)(iv) above.
 d.
 The parties agree that any savings within the period of FY 2015 - 2018 over $3.4 billion arising from the 2014 City/MLC Health Agreement will be counted towards the FY 2019 goal. This is currently estimated at approximately $131 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries.
 The parties agree that recurring savings over $1.3 billion for FY 2018 arising under the 2014 City/MLC Health Agreement will be counted toward the goal for Fiscal Years 2019, 2020, 2021 and for purposes of the recurring obligation under 1(a)(iv)
 above. This is currently estimated at approximately $40 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the City's and the MLC's actuaries. Once the amount is finalized, that amount shall be applied to Fiscal Years 2019, 2020, 2021 and to the obligation under 1(a)(iv).
-2. After the conclusion of Fiscal Year 2021, the parties shall calculate the savings realized during
-the 3 year period. In the event that the MLC has generated more than $600 million in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings
+2. After the conclusion of Fiscal Year 2021, the parties shall calculate the savings realized during the 3 year period. In the event that the MLC has generated more than $600 million in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings
 shall be utilized as follows:
 a. The first $68 million will be used by the City to make a $100 per member per year increase to welfare funds (actives and retirees) effective July 1, 2021. If a savings amount over $600 million but less than $668 million is achieved, the $100 per member per year (actives and retirees) increase will be prorated.
 b. Any savings thereafter shall be split equally between the City and the MLC and applied in a manner agreed to by the parties.
-3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the
-parties shall authorize the quarterly provision of the following data to the City's and MC's actuaries on an ongoing quarterly basis: (1) detailed claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
+3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the parties shall authorize the quarterly provision of the following data to the City's and MC's actuaries on an ongoing quarterly basis: (1) detailed claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
 utilization data under the HIP-HMO plan. Such data shall be provided within 60 days of the end of each quarterly period. The HIP-HMO utilization data will also be provided to the City's and MLC's actuaries within 60 days of the execution of this letter agreement for City Fiscal Year 2018 as baseline information to assess ongoing savings. The HIP-HMO data shall include: (i)
 utilization by procedure for site of service benefit changes; (ii) utilization by disease state, by procedure (for purposes of assessing Centers of Excellence); and (ill) member engagement data for the Wellness program, including stratifying members by three tranches (level I, II and II).
 The data shall include baseline data as well as data regarding the assumptions utilized in determining expected savings for comparison. The data described in this paragraph shall be provided pursuant to a data sharing agreement entered into by the City and MLC, akin to prior data agreements, which shall provide for the protection of member privacy and related concerns, shall cover all periods addressed by this Agreement (i.e., through June 30, 2021 and thereafter), and shall be executed within thirty days of the execution of this letter agreement.
 2
 
-
-4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
-payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
+4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
 2018 and July 1, 2019.
-5. The parties recognize that despite extraordinary savings to health costs accomplished in the last
-round of negotiations through their efforts and the innovation of the MLC, and the further savings which shall be implemented as a result of this agreement, that the longer term sustainability of health care for workers and their families, requires further study, savings and efficiencies in the method of health care delivery. To that end, the parties will within 90 days establish a Tripartite Health Insurance Policy Committee of MLC and City members, chaired by one member each appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study the issues using appropriate data and recommend for implementation as soon as practicable during the term of this Agreement but no later than June 30, 2020, modifications to the way in which health care is currently provided or funded. Among the topics the Committee shall
+5. The parties recognize that despite extraordinary savings to health costs accomplished in the last round of negotiations through their efforts and the innovation of the MLC, and the further savings which shall be implemented as a result of this agreement, that the longer term sustainability of health care for workers and their families, requires further study, savings and efficiencies in the method of health care delivery. To that end, the parties will within 90 days establish a Tripartite Health Insurance Policy Committee of MLC and City members, chaired by one member each appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study the issues using appropriate data and recommend for implementation as soon as practicable during the term of this Agreement but no later than June 30, 2020, modifications to the way in which health care is currently provided or funded. Among the topics the Committee shall
 discuss:
 a. Self-insurance and/or minimum premium arrangements for the HIP HMO plan.
 b. Medicare Advantage- adoption of a Medicare Advantage benchmark plan for retirees c. Consolidated Drug Purchasing- welfare funds, PICA and health plan prescription costs pooling their buying power and resources to purchase prescription drugs.
@@ -974,14 +1032,11 @@ e. Audits and Coordination of Benefits- audit insurers for claims and financial 
 f. Other areas- Centers of Excellence for specific conditions; Hospital and provider tiering; Precertification Fees; Amendment of Medicare Part B reimbursement; Reduction of cost for Pre-Medicare retirees who have access to other coverage; Changes to the Senior Care rate; Changes to the equalization formula.
 g. Potential RFPs for all medical and hospital benefits.
 h. Status of the Stabilization Fund The Committee will make recommendations to be considered by the MLC and the City.
-6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee
-(THIPC) and shall be independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address areas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC will each be responsible for the costs of its actuary.
-7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer
-in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
+6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee (THIPC) and shall be independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address areas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC will each be responsible for the costs of its actuary.
+7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
 2014 City/MLC Health Agreement:
 a. Such dispute shall be resolved within 90 days.
 3
-
 
 b. The arbitrator shall have the authority to impose interim relief that is consistent with the parties' intent.
 The arbitrator shall have the authority to meet with the parties as such times as is appropriate to enforce the terms of this agreement.

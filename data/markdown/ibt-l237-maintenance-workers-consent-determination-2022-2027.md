@@ -1,30 +1,69 @@
 ---
 contract_id: ibt-l237-maintenance-workers-consent-determination-2022-2027
 label: "IBT L237 Maintenance Workers Consent Determination, 2022-2027"
-expanded_label: "IBT L237 Maintenance Workers Consent Determination, 2022-2027"
+expanded_label: "International Brotherhood of Teamsters (IBT) — L237 Maintenance Workers Consent Determination, 2022-2027"
 term_start: 2022
 term_end: 2027
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/det-maintenance-worker-22-27.pdf"
 pages: 31
 ocr_pages: 31
-ocr_engine: google-cloud-vision
+pages_with_tables: 0
 clauses: 31
 sector: "other"
 ---
 
-# IBT L237 Maintenance Workers Consent Determination, 2022-2027
+# International Brotherhood of Teamsters (IBT) — L237 Maintenance Workers Consent Determination, 2022-2027
 
 **Term:** 2022–2027  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/det-maintenance-worker-22-27.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/det-maintenance-worker-22-27.pdf)  
-**Pages:** 31 (re-OCR'd via Google Cloud Vision)
+**Pages:** 31 (31 OCR-reconstructed)  
+**Clauses extracted:** 31
 
-> This contract was originally OCR'd via macOS Vision and contained heavy transcription errors. It was re-processed with Google Cloud Vision's DOCUMENT_TEXT_DETECTION on 2026-05-06. The text below is the re-OCR'd output. Verify quotations against the source PDF before publishing.
+**Workforce:** IBT L237 Maintenance Workers Consent Determination, 2022-2027 — see contract for the full recognition clause defining covered titles.
+
+> This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 
 ---
 
-<a id="page-1"></a>
+## Contents
+
+- [Page 1](#page-1-p1)
+- [Page 2](#page-2-p2)
+- [Page 3](#page-3-p3)
+- [Page 4](#page-4-p4)
+- [Page 5](#page-5-p5)
+- [Page 6](#page-6-p6)
+- [Page 7](#page-7-p7)
+- [Page 8](#page-8-p8)
+- [Page 9](#page-9-p9)
+- [Page 10](#page-10-p10)
+- [Page 11](#page-11-p11)
+- [Page 12](#page-12-p12)
+- [Page 13](#page-13-p13)
+- [Page 14](#page-14-p14)
+- [Page 15](#page-15-p15)
+- [Page 16](#page-16-p16)
+- [Page 17](#page-17-p17)
+- [Page 18](#page-18-p18)
+- [Page 19](#page-19-p19)
+- [Page 20](#page-20-p20)
+- [Page 21](#page-21-p21)
+- [Page 22](#page-22-p22)
+- [Page 23](#page-23-p23)
+- [Page 24](#page-24-p24)
+- [Page 25](#page-25-p25)
+- [Page 26](#page-26-p26)
+- [Page 27](#page-27-p27)
+- [Page 28](#page-28-p28)
+- [Page 29](#page-29-p29)
+- [Page 30](#page-30-p30)
+- [Page 31](#page-31-p31)
+
+---
+
+<a id="page-1-p1"></a>
 ### Page 1
-_OCR via Google Cloud Vision_
+_Page 1_ · _OCR-reconstructed_
 
 THE COMPTROLLER OF THE CITY OF NEW YORK
 In the matter of the Complaint of
@@ -53,9 +92,9 @@ Bureau of Labor Law
 Tel: (212) 669-2161
 Fax: (212) 815-8681
 
-<a id="page-2"></a>
+<a id="page-2-p2"></a>
 ### Page 2
-_OCR via Google Cloud Vision_
+_Page 2_ · _OCR-reconstructed_
 
 TO: RENEE CAMPION
 Commissioner.
@@ -68,9 +107,9 @@ City Employees Union Local 237, I.B.T.
 216 West 141h Street
 New York, NY 10011-7296
 
-<a id="page-3"></a>
+<a id="page-3-p3"></a>
 ### Page 3
-_OCR via Google Cloud Vision_
+_Page 3_ · _OCR-reconstructed_
 
 BEFORE THE COMPTROLLER OF THE CITY OF NEW YORK
 In the Matter of the Complaints on behalf of employees in the title:
@@ -91,9 +130,9 @@ NOW, THEREFORE, IT IS HEREBY DETERMINED BY CONSENT that:
 The compromised basic rate of wages and supplemental benefits agreed upon are and have
 been for the above mentioned employees of the City of New York, et al., as follows:
 
-<a id="page-4"></a>
+<a id="page-4-p4"></a>
 ### Page 4
-_OCR via Google Cloud Vision_
+_Page 4_ · _OCR-reconstructed_
 
 MAINTENANCE WORKER
 PERIOD
@@ -219,9 +258,9 @@ Saturday and Sunday rates shall be paid for days worked on a Saturday or Sunday 
 day is part of the regular work week.
 2
 
-<a id="page-5"></a>
+<a id="page-5-p5"></a>
 ### Page 5
-_OCR via Google Cloud Vision_
+_Page 5_ · _OCR-reconstructed_
 
 Work performed in excess of the regularly scheduled forty (40) hours shall be paid for in
 cash at the aforesaid overtime rate. For the purposes of this paragraph, paid holidays shall be
@@ -236,7 +275,7 @@ Appendix A is modified to provide for:
 Annual Leave:
 Effective January 2, 2022:
 The annual leave allowance for Employees who were hired on or after December 15, 1985
-shall accruc as follows:
+shall accrue as follows:
 Years In Service
 At the beginning of the employee's 1st year
 At the beginning of the employee's 5th year
@@ -268,9 +307,9 @@ At the beginning of the employee's 9th year
 23:20
 3
 
-<a id="page-6"></a>
+<a id="page-6-p6"></a>
 ### Page 6
-_OCR via Google Cloud Vision_
+_Page 6_ · _OCR-reconstructed_
 
 *Annual Leave at the Housing Authority includes vacation, sick, personal business and religious observance days.
 These provisions supersede the annual leave accrual schedule set forth in the Personnel Rules and Regulations of the
@@ -294,7 +333,7 @@ It is the intention of the parties that work actually performed on a holiday sha
 holiday rate in addition to the paid holiday.
 In the event that subsequent to the date of this determination, and prior to the entry of the
 next determination, additional paid holidays are granted to the City employees covered under the
-Carcer and Salary Plan, then in that event such additional holidays shall be deemed to be included in
+Career and Salary Plan, then in that event such additional holidays shall be deemed to be included in
 the List of Holidays for which holiday premium rates are to be paid.
 Leave Reg. Days: Effective January 2, 2022, the leave benefits set forth in Article III, Sections
 (1)(a)-(f) of Appendix A annexed hereto shall continue to apply.
@@ -304,9 +343,9 @@ $1,855 per annum active employee and at the rate of $2,055 per annum per retired
 Effective January 2, 2026, there shall be an increase of $31.25 per employee per annum, for a rate of
 4
 
-<a id="page-7"></a>
+<a id="page-7-p7"></a>
 ### Page 7
-_OCR via Google Cloud Vision_
+_Page 7_ · _OCR-reconstructed_
 
 $1,886.25 per annum per active employee and $2,086.25 per annum per retiree. Effective January 2,
 2027, there shall be an increase of $168.75 per employee per annum, for a rate of $2,055 per annum
@@ -332,9 +371,9 @@ For part-time employees who work less than eight hours a day, the amount paid sh
 prorated amount, which is calculated against an eight hour day, up to a maximum of $1,615.59 per
 5
 
-<a id="page-8"></a>
+<a id="page-8-p8"></a>
 ### Page 8
-_OCR via Google Cloud Vision_
+_Page 8_ · _OCR-reconstructed_
 
 annum. For the purposes of these payments, excluded from paid working days are all scheduled
 days off, all days in non-pay status, and all paid overtime.
@@ -362,13 +401,13 @@ from one hundred twenty (120) days after the filing date of this Consent
 Determination, or one hundred twenty (120) days after the effective date of the
 increase, whichever is later, to the date of actual payment,
 
-<a id="page-9"></a>
+<a id="page-9-p9"></a>
 ### Page 9
-_OCR via Google Cloud Vision_
+_Page 9_ · _OCR-reconstructed_
 
 (2) Interest on shift differentials, holiday and overtime pay shall accrue at the rate of
 three percent (3%) per annum from one hundred twenty (120) days following their
-carning, or one hundred twenty (120) days after the filing date of this Consent
+earning, or one hundred twenty (120) days after the filing date of this Consent
 Determination, whichever is later, to the date of actual payment and
 (3)
 Interest accrued under (1) or (2) above shall be payable only if the amount of interest
@@ -395,9 +434,9 @@ premium rates, holiday rates, shift rates, overtime rates or any other legal cla
 supplemental benefits of any kind whatsoever, are merged in this compromise and settlement for the
 7
 
-<a id="page-10"></a>
+<a id="page-10-p10"></a>
 ### Page 10
-_OCR via Google Cloud Vision_
+_Page 10_ · _OCR-reconstructed_
 
 period of the compromise and settlement contained herein.
 i) The foregoing basic rates of wages and supplemental benefits are due and payable to
@@ -432,9 +471,9 @@ City Employees Union,
 Local 237, I.B.T.
 8
 
-<a id="page-11"></a>
+<a id="page-11-p11"></a>
 ### Page 11
-_OCR via Google Cloud Vision_
+_Page 11_ · _OCR-reconstructed_
 
 The basic rates and supplemental benefits agreed to herein between the parties are not to be
 construed as true prevailing rates and supplemental benefits, but shall be deemed substitute rates and
@@ -449,9 +488,9 @@ New York, New York
 UNIT: Maintenance Worker
 TERM: January 2, 2022 through February 1, 2027
 
-<a id="page-12"></a>
+<a id="page-12-p12"></a>
 ### Page 12
-_OCR via Google Cloud Vision_
+_Page 12_ · _OCR-reconstructed_
 
 GENERAL RELEASE AND WAIVER
 Local 237, I.B.T. (hereinafter referred to as the "Union"), as the certified collective
@@ -478,7 +517,7 @@ Labor Law (L. 1967,c. 502, Section 1).
 Release and forever discharge the City of New York from all manner of actions, cause and
 causes of actions, suits, debts, ducs, sums of money, accounts, reckonings, bonds, bills,
 specialties, covenants, contracts, controversies, agreements, promises, cariances, trespasses,
-damages, judgments, extents, executions, claims and demands whatsoever in law or in cquity
+damages, judgments, extents, executions, claims and demands whatsoever in law or in equity
 which the Union, on behalf of employees in the above titles, shall or may have, by reason of
 any claim for wages or supplemental benefits pursuant to Section 220 of the Labor Law from
 January 2, 2022 to February 1, 2027 except as expressly agreed upon in writing by the
@@ -490,9 +529,9 @@ President
 City Employees Union,
 Local 237, I.B.T.
 
-<a id="page-13"></a>
+<a id="page-13-p13"></a>
 ### Page 13
-_OCR via Google Cloud Vision_
+_Page 13_ · _OCR-reconstructed_
 
 The
 City of
@@ -541,9 +580,9 @@ pursuant to this agreement.
 The lump sum cash payment shall be pensionable, consistent with applicable law.
 11
 
-<a id="page-14"></a>
+<a id="page-14-p14"></a>
 ### Page 14
-_OCR via Google Cloud Vision_
+_Page 14_ · _OCR-reconstructed_
 
 below.
 V.
@@ -567,9 +606,9 @@ Very Truly Yours
 Renee Campion
 12
 
-<a id="page-15"></a>
+<a id="page-15-p15"></a>
 ### Page 15
-_OCR via Google Cloud Vision_
+_Page 15_ · _OCR-reconstructed_
 
 The
 City of
@@ -615,9 +654,9 @@ BY:
 GREGORY FLOYD
 13
 
-<a id="page-16"></a>
+<a id="page-16-p16"></a>
 ### Page 16
-_OCR via Google Cloud Vision_
+_Page 16_ · _OCR-reconstructed_
 
 IN THE EVENT OF ANY INCONSISTENCY BETWEEN APPENDIX A AND
 REQUIREMENTS IMPOSED BY FEDERAL, STATE, OR LOCAL LAW, SUCH AS
@@ -662,9 +701,9 @@ of pay, and the first six months of absence while receiving Workmen's Compensati
 shall be considered as time "served" by the employee.
 In the calculation of annual leave credits, a full month's credit shall be given to an
 
-<a id="page-17"></a>
+<a id="page-17-p17"></a>
 ### Page 17
-_OCR via Google Cloud Vision_
+_Page 17_ · _OCR-reconstructed_
 
 2
 employee who has been in full pay status for at least 15 calendar days during that month,
@@ -705,9 +744,9 @@ I, Sections 5 and 5 (a) above.
 Section 6
 The normal unit of charge against annual leave allowance for vacation and personal
 
-<a id="page-18"></a>
+<a id="page-18-p18"></a>
 ### Page 18
-_OCR via Google Cloud Vision_
+_Page 18_ · _OCR-reconstructed_
 
 3
 business shall be one-half day. Smaller units of charge are authorized for time lost due to
@@ -749,9 +788,9 @@ If the employee so selects, and as an alternative to the above method of computa
 Terminal Leave allowance may be computed on the basis of one day of Terminal Leave for each
 two days of unused sick leave accumulation, to a maximum of one hundred (100) days Terminal
 
-<a id="page-19"></a>
+<a id="page-19-p19"></a>
 ### Page 19
-_OCR via Google Cloud Vision_
+_Page 19_ · _OCR-reconstructed_
 
 4
 Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of
@@ -787,9 +826,9 @@ more than 30 calendar days in the vacation year, he shall lose the sick leave cr
 one month for each 30 days of such accumulated absence even though in full pay status for at
 least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
 
-<a id="page-20"></a>
+<a id="page-20-p20"></a>
 ### Page 20
-_OCR via Google Cloud Vision_
+_Page 20_ · _OCR-reconstructed_
 
 5
 credits under this rule for several months in the vacation year because he has been in full pay
@@ -827,9 +866,9 @@ employee.
 d.
 Absence required because of Health Department ruling with respect to quarantine.
 
-<a id="page-21"></a>
+<a id="page-21-p21"></a>
 ### Page 21
-_OCR via Google Cloud Vision_
+_Page 21_ · _OCR-reconstructed_
 
 e.
 6
@@ -865,9 +904,9 @@ leave may be granted by an agency head not to exceed an additional period of one
 extensions may be granted by an elected official, in an agency headed by such official, of by the
 City Personnel Director for agencies headed by appointed officials.
 
-<a id="page-22"></a>
+<a id="page-22-p22"></a>
 ### Page 22
-_OCR via Google Cloud Vision_
+_Page 22_ · _OCR-reconstructed_
 
 7
 Section 3
@@ -899,9 +938,9 @@ that such employee makes any claim or institutes any action against any party wh
 relation to such disability, reimbursement in the amount of such pay shall be made to the City
 or the agency concerned, as the case may be, from the proceeds of the recovery by such
 
-<a id="page-23"></a>
+<a id="page-23-p23"></a>
 ### Page 23
-_OCR via Google Cloud Vision_
+_Page 23_ · _OCR-reconstructed_
 
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form
@@ -944,9 +983,9 @@ or willful failure to use a safety device, or was not under the influence of alc
 at the time of injury, or did not willfully intend to bring about injury or death upon himself or
 another, and
 
-<a id="page-24"></a>
+<a id="page-24-p24"></a>
 ### Page 24
-_OCR via Google Cloud Vision_
+_Page 24_ · _OCR-reconstructed_
 
 c. The injured employee undergoes such medical examinations as are requested by
 the Workmen's Compensation Division of the Law Department and his agency; and when found
@@ -981,9 +1020,9 @@ Veteran's Day
 Thanksgiving Day
 Christmas Day
 
-<a id="page-25"></a>
+<a id="page-25-p25"></a>
 ### Page 25
-_OCR via Google Cloud Vision_
+_Page 25_ · _OCR-reconstructed_
 
 ROBERT W. LINN
 Commissioner
@@ -1019,9 +1058,9 @@ There shall be a joint committee formed that will engage in a process to select 
 independent healthcare actuary, and any other mutually agreed upon additional outside expertise,
 to develop an accounting system to measure and calculate savings.
 
-<a id="page-26"></a>
+<a id="page-26-p26"></a>
 ### Page 26
-_OCR via Google Cloud Vision_
+_Page 26_ · _OCR-reconstructed_
 
 5. The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the
 course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced
@@ -1061,9 +1100,9 @@ f. The parties shall share the costs for the arbitrator and the actuary the arbi
 selects.
 2
 
-<a id="page-27"></a>
+<a id="page-27-p27"></a>
 ### Page 27
-_OCR via Google Cloud Vision_
+_Page 27_ · _OCR-reconstructed_
 
 If the above accords with your understanding and agreement, kindly execute the signature
 line provided.
@@ -1076,9 +1115,9 @@ Harry Nespoli, Chair
 p
 3
 
-<a id="page-28"></a>
+<a id="page-28-p28"></a>
 ### Page 28
-_OCR via Google Cloud Vision_
+_Page 28_ · _OCR-reconstructed_
 
 The
 City
@@ -1127,9 +1166,9 @@ iii. In any event, the $600 million pursuant to 1(a)(iv) must be recurring and
 agreed to by the parties within FY 2021, and may not be borrowed from
 other years.
 
-<a id="page-29"></a>
+<a id="page-29-p29"></a>
 ### Page 29
-_OCR via Google Cloud Vision_
+_Page 29_ · _OCR-reconstructed_
 
 c. Savings attributable to CBP programs will continue to be transferred to the City by
 offsetting the savings amounts documented by Empire Blue Cross and GHI against
@@ -1179,9 +1218,9 @@ shall cover all periods addressed by this Agreement (i.e., through June 30, 2021
 and shall be executed within thirty days of the execution of this letter agreement.
 2
 
-<a id="page-30"></a>
+<a id="page-30-p30"></a>
 ### Page 30
-_OCR via Google Cloud Vision_
+_Page 30_ · _OCR-reconstructed_
 
 4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
 payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
@@ -1226,9 +1265,9 @@ referred to Martin Scheinman for resolution consistent with the dispute resoluti
 2014 City/MLC Health Agreement:
 a. Such dispute shall be resolved within 90 days.
 
-<a id="page-31"></a>
+<a id="page-31-p31"></a>
 ### Page 31
-_OCR via Google Cloud Vision_
+_Page 31_ · _OCR-reconstructed_
 
 b. The arbitrator shall have the authority to impose interim relief that is
 consistent with the parties' intent.
@@ -1244,3 +1283,5 @@ Agreed and Accepted on behalf of the Municipal Labor Committee
 Harry Nespoli, Chair
 4
 
+---
+_End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/det-maintenance-worker-22-27.pdf>_

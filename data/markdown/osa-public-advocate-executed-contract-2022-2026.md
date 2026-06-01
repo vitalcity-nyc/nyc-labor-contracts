@@ -14,9 +14,9 @@ sector: "other"
 
 # Organization of Staff Analysts (OSA) — Public Advocate Executed Contract, 2022-2026
 
-**Term:** 2022–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/osa-10-02-2022-10-21-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/osa-10-02-2022-10-21-2026.pdf)
-**Pages:** 14 (14 OCR-reconstructed)
+**Term:** 2022–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/osa-10-02-2022-10-21-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/osa-10-02-2022-10-21-2026.pdf)  
+**Pages:** 14 (14 OCR-reconstructed)  
 **Clauses extracted:** 29
 
 **Workforce:** OSA Public Advocate Executed Contract, 2022-2026 — see contract for the full recognition clause defining covered titles.
@@ -29,8 +29,8 @@ sector: "other"
 
 - [HEADS OF CONCERNED CITY DEPARTMENTS AND AGENCIES](#heads-of-concerned-city-departments-and-agencies-p1)
 - [CONTRACT](#contract-p1)
-- [NEW YORK CITY PUBLIC ADVOCATE STAFF AGREEMENT](#new-york-city-public-advocate-staff-agreement-p2)
 - [Article XVI — SAVINGS CLAUSE......](#article-xvi-savings-clause-p2)
+- [NEW YORK CITY PUBLIC ADVOCATE STAFF AGREEMENT](#new-york-city-public-advocate-staff-agreement-p2)
 - [NEW YORK CITY PUBLIC ADVOCATE STAFF AGREEMENT](#new-york-city-public-advocate-staff-agreement-p3)
 - [Article I — UNION RECOGNITION AND UNIT DESIGNATION](#article-i-union-recognition-and-unit-designation-p3)
 - [Article II — DUES CHECK OFF](#article-ii-dues-check-off-p3)
@@ -78,12 +78,6 @@ _Page 1_ · _OCR-reconstructed_
 DATE:
 25.005 December 16, 2024
 
-<a id="new-york-city-public-advocate-staff-agreement-p2"></a>
-### NEW YORK CITY PUBLIC ADVOCATE STAFF AGREEMENT
-_Page 2_ · _OCR-reconstructed_
-
-2022-2026
-
 <a id="article-xvi-savings-clause-p2"></a>
 ## Article XVI — SAVINGS CLAUSE......
 _Page 2_ · _OCR-reconstructed_
@@ -101,6 +95,12 @@ _Page 2_ · _OCR-reconstructed_
 ..13
 ..13
 25005
+
+<a id="new-york-city-public-advocate-staff-agreement-p2"></a>
+### NEW YORK CITY PUBLIC ADVOCATE STAFF AGREEMENT
+_Page 2_ · _OCR-reconstructed_
+
+2022-2026
 
 <a id="new-york-city-public-advocate-staff-agreement-p3"></a>
 ### NEW YORK CITY PUBLIC ADVOCATE STAFF AGREEMENT
@@ -139,7 +139,6 @@ The Union shall have the exclusive right to the checkoff and transmittal of dues
 1
 25005
 
-
 "Regulations Relating to the Checkoff of Union Dues"; and (i) the Mayor's Executive Order No. 107, dated December 29, 1986 entitled "Regulations Governing Procedures for Orderly Payroll Checkoff of Union Dues," to the extent permitted by law.
 b.
 Any Employee may consent in writing to the authorization of the deduction of dues from the Employee's wages and to the designation of the Union as the recipient thereof. Such consent, if given, shall be in a proper form acceptable to the City, which bears the signature of the Employee.
@@ -166,7 +165,6 @@ Hourly Rate - 20 hour week basis - 1/1040 of the applicable part-time salary.
 The maximum salary for a title shall not constitute a bar to the payment of any salary adjustment or pay differentials provided for in this Agreement but the said increase above the maximum shall not be deemed a promotion.
 2
 25005
-
 
 Section 2.
 Employees in the following title(s) shall be subject to the following specified salary(ies), salary
@@ -259,7 +257,6 @@ $61,904
 $33,765
 25005
 
-
 d. Effective May 24, 2025. the following salary ranges shall apply:
 Assistant to Public Advocate (94496)
 Part-Time
@@ -303,7 +300,6 @@ ii. Effective May 24, 2024, Employees shall receive a general wage increase of 3
 4
 250055
 
-
 ili. Effective May 24, 2025, Employees shall receive a general wage increase of 3.25%.
 iv. Part-time Employees and Employees whose normal work year is less than a full calendar year shall receive the increases provided in Section 4 (a)(i) to (a)(iii) on the basis of computations heretofore utilized by the parties for all such employees.
 b. The general increases provided for in this Section 4(a) shall be calculated as follows:
@@ -321,7 +317,6 @@ Section 2.
 Effective September 6, 2026, there shall be a recurring 5839 per annum per employee (active and retiree) increase to the welfare fund contribution. The per annum per employee active and retiree contribution will increase from $1,825 per annum to $2,664 per annum.
 5
 25005
-
 
 The Union agrees to provide welfare fund benefits to domestic partners of covered employees in the same manner as those benefits are provided to spouses of married covered employees.
 Section 3.
@@ -371,7 +366,6 @@ _Page 9_ · _OCR-reconstructed_ · _Topics: grievance, discipline, hours, recogn
 7
 25005
 
-
 The term "Grievance" shall mean:
 a. A dispute concerning the application or interpretation of the terms of this collective bargaining agreement.
 b. An alleged wrongful disciplinary action taken against a member of the bargaining unit.
@@ -391,7 +385,6 @@ Collective Bargaining will be conducted according to the following procedure:
 8
 25005
 
-
 (3) A decision will be issued by the Arbitrator within thirty days. A recitation of the facts presented will not be necessary in the Award, however a brief explanation of the Arbitrator's rationale may be included. Bench decisions may also be issued by the Arbitrator.
 (4) Decisions of the Arbitrator shall not be considered as a precedent for any other case or entered into evidence in any other forum, proceeding or dispute, except for the purposes of enforcing the award.
 Section 3.
@@ -399,7 +392,7 @@ Section 4.
 Section 5.
 Section 6.
 Section 7.
-Any grievance of a general nature affecting a large group of Employees and which concers the claimed misinterpretation, inequitable application, violation, or failure to comply with the provisions of this Agreement shall be filed at the option of the Union at Step III of the grievance procedure, without resort to previous steps. All other individual grievances in process concerning the same issue shall be consolidated with the "group" grievance.
+Any grievance of a general nature affecting a large group of Employees and which concerns the claimed misinterpretation, inequitable application, violation, or failure to comply with the provisions of this Agreement shall be filed at the option of the Union at Step III of the grievance procedure, without resort to previous steps. All other individual grievances in process concerning the same issue shall be consolidated with the "group" grievance.
 If a decision satisfactory to the Union at any level of the grievance procedure is not implemented within a reasonable time, the Union may institute a grievance at Step III of the grievance procedure.
 If the Employer exceeds any time limit prescribed at any step in the grievance procedure, the grievant and/or the Union may invoke the next step of the procedure.
 The Employer shall notify the Union in writing of all grievances filed by covered Employees, all grievance hearings and all determinations. The Union shall have the right to have a representative present at any grievance hearing and shall be given 48 hours' notice of all grievance hearings.
@@ -413,7 +406,6 @@ For a grievance brought under Section 1(b), the following grievance procedure sh
 The General Counsel of the Office of the Public Advocate, or the General Counsel's designee, may discuss complaints or disciplinary problems with an Employee when such discussions are deemed
 9
 25005
-
 
 necessary.
 a. After service upon an Employee of written charges of incompetence or misconduct, a meeting with the Employee, and at the Employee's option, a Union representative, shall be held with respect to such charges by a designee of the Human Resources Division, on behalf of the New York City Office of the Public Advocate. The Employee shall be served with written charges at least ten (10) days prior to the conference. Upon service of written charges of incompetence or misconduct upon an Employee, the Employee may be subject to a period of a suspension without pay pending hearing and determination of charges, which shall not exceed thirty (30) days. The Employee and/or the Union shall have the right to examine any witnesses) and to present a defense to the charges. A written decision shall be issued by the designee of the Human Resources Division. Disciplinary action, if any, shall be imposed consistent with the written decision.
@@ -429,10 +421,10 @@ b. Terminations within 90 days of the start of the term of a newly elected Publi
 _Page 12_ · _OCR-reconstructed_ · _Topics: discipline, safety_
 
 Section 1.
-a. Adequate, clean, structurally safe and sanitary working facilities shall be provided for all employees.
+a. Adequate, clean, structurally safe and sanitary working facilities shall be provided for all
+employees.
 10
 25005
-
 
 b. Motor vehicles and power equipment which are in compliance with minimum standards of applicable law shall be provided to employees who are required to use such devices.
 Where necessary, first aid chests, adequately marked and stocked, shall be provided by the Employer in sufficient quantity for the number of employees likely to need them and such chests shall be reasonably accessible to the employees.
@@ -454,11 +446,12 @@ Either the Union or the Employer may request a labor-management meeting at any t
 ## Article XI — COMPENSATORY TIME
 _Page 13_ · _OCR-reconstructed_ · _Topics: overtime_
 
-Effective the Sunday after the date of ratification, the following compensatory time rules shall apply for fulltime employees:
-a. A supervisor may only approve an employee accruing seven (7) additional hours of Comp Time per workweek per eligible employee.
+Effective the Sunday after the date of ratification, the following compensatory time rules shall apply for full-
+time employees:
+a. A supervisor may only approve an employee accruing seven (7) additional hours of Comp Time per
+workweek per eligible employee.
 11
 25C C 5
-
 
 Section 3.
 respect to such matter which could not reasonably have been anticipated by both parties at the time of the conclusion of negotiations.

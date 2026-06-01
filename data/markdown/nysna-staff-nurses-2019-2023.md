@@ -16,9 +16,9 @@ headcount_approx: 8500
 
 # New York State Nurses Association (NYSNA) — Staff Nurses, 2019-2023
 
-**Term:** 2019–2023
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/staff-nurses%20-06-06-2019-03-02-2023.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/staff-nurses%20-06-06-2019-03-02-2023.pdf)
-**Pages:** 77
+**Term:** 2019–2023  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/staff-nurses%20-06-06-2019-03-02-2023.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/staff-nurses%20-06-06-2019-03-02-2023.pdf)  
+**Pages:** 77  
 **Clauses extracted:** 87
 
 **Workforce:** Represents registered nurses at NYC Health + Hospitals (the City's public hospital system) and the Mayoral / civilian workforce. Most recent published contract on OLR is the 2019-2023 Staff Nurses Agreement; the historic 2023+ pay-parity successor agreement (announced July 2023) is not yet posted on OLR at time of corpus build.
@@ -30,10 +30,10 @@ headcount_approx: 8500
 ## Contents
 
 - [REGISTRATION](#registration-p1)
-- [NEW YORK STATE NURSFS ASSOCIATION CONTRACT](#new-york-state-nursfs-association-contract-p2)
-- [Article VI — GRIEVANCE PROCEDURE](#article-vi-grievance-procedure-p2)
 - [Article XXII — SAFE PATIENT HANDLING](#article-xxii-safe-patient-handling-p2)
+- [NEW YORK STATE NURSFS ASSOCIATION CONTRACT](#new-york-state-nursfs-association-contract-p2)
 - [STAFF NURSES 2019-2023](#staff-nurses-2019-2023-p2)
+- [Article VI — GRIEVANCE PROCEDURE](#article-vi-grievance-procedure-p2)
 - [STAFF NURSES 2019-2023](#staff-nurses-2019-2023-p3)
 - [Article I — ASSOCIATION RECOGNITION AND UNIT DESIGNATION](#article-i-association-recognition-and-unit-designation-p4)
 - [Article II — DUES CHECKOFF](#article-ii-dues-checkoff-p6)
@@ -135,23 +135,17 @@ l'i , It •' .,, I
 DATE:
 /,Jli vet ---.kr 1 ~ 1,D "2-1
 
-<a id="new-york-state-nursfs-association-contract-p2"></a>
-### NEW YORK STATE NURSFS ASSOCIATION CONTRACT
-_Page 2_
-
-2019-2023
-
-<a id="article-vi-grievance-procedure-p2"></a>
-## Article VI — GRIEVANCE PROCEDURE
-_Page 2_ · _Topics: grievance_
-
-ARTICLE VIl - REGISTERED NURSE TO PATillNT RATIOS
-
 <a id="article-xxii-safe-patient-handling-p2"></a>
 ## Article XXII — SAFE PATIENT HANDLING
 _Page 2_
 
 xxm
+
+<a id="new-york-state-nursfs-association-contract-p2"></a>
+### NEW YORK STATE NURSFS ASSOCIATION CONTRACT
+_Page 2_
+
+2019-2023
 
 <a id="staff-nurses-2019-2023-p2"></a>
 ### STAFF NURSES 2019-2023
@@ -159,22 +153,36 @@ _Page 2_ · _Topics: wages, overtime, parental-leave, pension, hours_
 
 22007
 
-
 SIDE LETTERS:
 A. Protests of Assignment
 8. Performance Compensation
 C. Preceptarshlp Progrom
 D. Release Time Positions
 E. Career ladders Committee
-F. Agreements/ram 2007-2010 Bargaining G. NYC H+H Alternative Work Schedule Agreement H. Transit check, Residency, etc.
-I. Residency, Pension, Performance Compensation J. Weekend work K. Flootln9 Ass/gnm,mts L Shift Rotations M 2014 MLC Health Agreement N. 2018 MLC Health Agreement D. 2019 Floating Asslg11ments Supplemental letter P. Faster payment of overtime Q, Pczld Family Leave
+F. Agreements/ram 2007-2010 Bargaining
+G. NYC H+H Alternative Work Schedule Agreement
+H. Transit check, Residency, etc.
+I. Residency, Pension, Performance Compensation
+J. Weekend work
+K. Flootln9 Ass/gnm,mts
+L Shift Rotations
+M 2014 MLC Health Agreement
+N. 2018 MLC Health Agreement
+D. 2019 Floating Asslg11ments Supplemental letter
+P. Faster payment of overtime
+Q, Pczld Family Leave
+
+<a id="article-vi-grievance-procedure-p2"></a>
+## Article VI — GRIEVANCE PROCEDURE
+_Page 2_ · _Topics: grievance_
+
+ARTICLE VIl - REGISTERED NURSE TO PATillNT RATIOS
 
 <a id="staff-nurses-2019-2023-p3"></a>
 ### STAFF NURSES 2019-2023
 _Page 3_
 
 22007
-
 
 0~1~
 1,,;/'
@@ -193,7 +201,6 @@ the Director of the Budget for salary purposes to any of the below listed titles
 Title Title Code Number
 Accountable Care Manager" 509530 Assistant Head Nurse 000480 Associate Midwife (Level A) 965130 Associate Midwife (Level B) 965140 Associate Nurse Practitioner (Level l)+ 966410 Associate Nurse Practitioner (Level II)+ 966420 Case Management Nurse, Level l, Level 11 (PD) 50958 Case Management Nurse, Level I, Level II (FD) 50959 I
 22007
-
 
 Case Management Nurse, Level I, Level IJ (DOC) 06240 Case Management Nurse (DOS) 09968 Head Nurse 50935,509350 Head Nurse (DOS) 06124 Home Health Nurse (Per visit) (Level I) 001310 Home Health Nurse (Per visit) (Level II) 001320 Midwife 509120 Nurse-Midwife 50912 Nurse-Practitioner+ 00196,001960 Nurse Practitioner (DOS) 06068 Nurse Practitioner+ 970010 Nurse Practitioner (Primary Care/Behavioral Health)+ 970020 Psychiatric Nurse Practitioner (CHS) 009990 Sr. Case Management Nurse (DOS) 05207 Staff Nurse 50910,09771,509100 Staff Nurse (Department for the Aging) 05490 Staff Nurse (Per Hour)• 509110 Supervisor of Nurses 50960,509600 Supervisor of Nurses (Level I and Level 11) (HRA only) 50960 StafTNurse (CHS) Level I# 009000 StaffNurse (CHS) Level II# 000910 Quality Assurance Nurse (CHS)# 000930 Infection Control Nurse (CHS)# 000960 Clinical Nurse Specialist (CHS)# 000980 Educational Coordinator (CHS)# 000980 Nurse Practitioner (CHS)# 000990 Patient Care Coordinator (CHS)# 001520 'This title is not covered by the City-wide Agreement, not eligible for pension or welfare fund benefits.
 + Pursuant to Section 20(a) of the MOA for this contract period June 6, 2019 to March 2, 2023, effective Jll!lUIIJ)'
@@ -225,27 +232,7 @@ An employee who works on a part-time per annum basis and who is eligible for any
 3
 22007
 
-
-|  | 1{11/21!)9 .Min |  | D1l0§119 Min |  |
-| --- | --- | --- | --- | --- |
-| IlIL.f |  |  |  |  |
-| Accountable Care Maneser " | $87,037 SB0,256 S92,246 |  | SBB,778 |  |
-| Assis111111 Head Nurse |  |  | SBl,B61 |  |
-| Associate Mid\~ifc Level A |  |  | $94,091 |  |
-| Associate Midwife Level B | S98,0l0 |  | $99,970 $94,091 |  |
-| Associate Nurse Practitioner Level I | $92,246 |  |  |  |
-| Associalc Nurse Practitioner Level II | S98,0I0 |  | $99,970 |  |
-| Case Management Nurse (DOC) |  |  |  |  |
-| Level I | $78,691 |  | $80,265 |  |
-| Level 11 | S81,6S3 |  | $83,286 |  |
-| Case Managemenc Nurse (DOS) | S78,691 |  | $80,265 |  |
-| Case Management Nurse (FD) |  |  |  |  |
-| Level I | S78,691 |  | $80,265 |  |
-| Level II | S81,653 |  | $83,286 |  |
-| Case Mane1:1ement Nurse (PD) |  |  |  |  |
-| Level I | S78,691 |  | $80,265 |  |
-| Level II | SB 1,653 |  | $83,286 |  |
-| Head Nurse | S81,6S3 |  | $83,286 |  |
+|  | 1{11/21!)9 .Min |  | D1l0§119 Min |  | | --- | --- | --- | --- | --- | | IlIL.f |  |  |  |  | | Accountable Care Maneser " | $87,037 SB0,256 S92,246 |  | SBB,778 |  | | Assis111111 Head Nurse |  |  | SBl,B61 |  | | Associate Mid\~ifc Level A |  |  | $94,091 |  | | Associate Midwife Level B | S98,0l0 |  | $99,970 $94,091 |  | | Associate Nurse Practitioner Level I | $92,246 |  |  |  | | Associalc Nurse Practitioner Level II | S98,0I0 |  | $99,970 |  | | Case Management Nurse (DOC) |  |  |  |  | | Level I | $78,691 |  | $80,265 |  | | Level 11 | S81,6S3 |  | $83,286 |  | | Case Managemenc Nurse (DOS) | S78,691 |  | $80,265 |  | | Case Management Nurse (FD) |  |  |  |  | | Level I | S78,691 |  | $80,265 |  | | Level II | S81,653 |  | $83,286 |  | | Case Mane1:1ement Nurse (PD) |  |  |  |  | | Level I | S78,691 |  | $80,265 |  | | Level II | SB 1,653 |  | $83,286 |  | | Head Nurse | S81,6S3 |  | $83,286 |  |
 
 c. Employees who work on per diem or hourly basis and who are eligible for any
 11
@@ -262,48 +249,10 @@ Julv 6 2019
 4
 22007
 
-
-| Head Nurse {Sanitation) | S81,6j3 |  | $83,286 |  |
-| --- | --- | --- | --- | --- |
-| Home Health Nurse (per visit) | S65.99 S74.25 |  |  |  |
-| Level I |  | (per visit) | $67 31 | (pcrvisi1) |
-| Level II |  | (per visit) | $75.74 | (per visit) |
-| Midy.ire | S87,037 |  | $88,778 |  |
-| Nurse MidY.ifc - --- | $87,037 $87,037 $87,037 |  | S88,778 $88,778 |  |
-| Nurse Practitioner |  |  |  |  |
-| Nurse Practitioner (Sanitntion} |  |  | $88,778 |  |
-| Psychiatric Nurse Practitioner (CHS Only} • | S104,308 |  | $106,394 |  |
-| Sr. Case Management Nurse (DOS) | S8l,6S3 |  | $83,286 S80,265 |  |
-| S1afTNursc II | $78,691 |  |  |  |
-| Slaff Nurse (DITA) II | $78,691 |  | $80,265 |  |
-|  |  |  |  |  |
-| lll&[N!!~C {Per Qi,m) |  |  |  |  |
-| Day Shill | $303 |  | SJ09 |  |
-| Evening Shift | 5328 |  | SJJS |  |
-| Night Shift | $333 |  | S340 |  |
-|  |  |  |  |  |
-| Staff Nurse (Per Hour) |  |  |  |  |
-| Day | SS0.14 |  | SSl.14 |  |
-| Evening/Night | S52.66 |  | $53.71 |  |
-| Holiday | S55.16 |  | $56.26 |  |
-|  |  |  |  |  |
-|  | 1/2112019 |  | 07/~~/19 |  |
-| I!Il.li | :\tin |  | Min |  |
-| Supervisor ofN urses |  |  |  |  |
-| Level I (HRA only) | $87,037 |  | $88,778 |  |
-| Level II (HRA only) | S102,712 | $123,254 | $104,766 | $125,719 |
-|  |  |  |  |  |
-| Supervisor of Nurses | S87,037 |  | $88,778 |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| Qrienla!ionff[!!j!]jnc 8,[!JC |  |  |  |  |
-| Home Health Nurse (per visit) |  |  |  |  |
-| Level I | S272 41 | Dey | S:?77.86 | Day |
-| Level II | SIJ619 | 1/2 Doy | S138.91 | 1/2 Day |
+| Head Nurse {Sanitation) | S81,6j3 |  | $83,286 |  | | --- | --- | --- | --- | --- | | Home Health Nurse (per visit) | S65.99 S74.25 |  |  |  | | Level I |  | (per visit) | $67 31 | (pcrvisi1) | | Level II |  | (per visit) | $75.74 | (per visit) | | Midy.ire | S87,037 |  | $88,778 |  | | Nurse MidY.ifc - --- | $87,037 $87,037 $87,037 |  | S88,778 $88,778 |  | | Nurse Practitioner |  |  |  |  | | Nurse Practitioner (Sanitntion} |  |  | $88,778 |  | | Psychiatric Nurse Practitioner (CHS Only} • | S104,308 |  | $106,394 |  | | Sr. Case Management Nurse (DOS) | S8l,6S3 |  | $83,286 S80,265 |  | | S1afTNursc II | $78,691 |  |  |  | | Slaff Nurse (DITA) II | $78,691 |  | $80,265 |  | |  |  |  |  |  | | lll&[N!!~C {Per Qi,m) |  |  |  |  | | Day Shill | $303 |  | SJ09 |  | | Evening Shift | 5328 |  | SJJS |  | | Night Shift | $333 |  | S340 |  | |  |  |  |  |  | | Staff Nurse (Per Hour) |  |  |  |  | | Day | SS0.14 |  | SSl.14 |  | | Evening/Night | S52.66 |  | $53.71 |  | | Holiday | S55.16 |  | $56.26 |  | |  |  |  |  |  | |  | 1/2112019 |  | 07/~~/19 |  | | I!Il.li | :\tin |  | Min |  | | Supervisor ofN urses |  |  |  |  | | Level I (HRA only) | $87,037 |  | $88,778 |  | | Level II (HRA only) | S102,712 | $123,254 | $104,766 | $125,719 | |  |  |  |  |  | | Supervisor of Nurses | S87,037 |  | $88,778 |  | |  |  |  |  |  | |  |  |  |  |  | | Qrienla!ionff[!!j!]jnc 8,[!JC |  |  |  |  | | Home Health Nurse (per visit) |  |  |  |  | | Level I | S272 41 | Dey | S:?77.86 | Day | | Level II | SIJ619 | 1/2 Doy | S138.91 | 1/2 Day |
 
 5
 22007
-
 
 |  | 0ll2Sl]0 Min |  |
 | --- | --- | --- |
@@ -352,7 +301,6 @@ Januarv 5. 2020
 6
 22007
 
-
 | Steff Nurse (Per Hour) | SSl.14 |  |
 | --- | --- | --- |
 | Der |  |  |
@@ -370,32 +318,7 @@ Januarv 5. 2020
 | Level I | 5277.86 | Doy |
 | Level 11 | SIJB.91 | 1/2 Day |
 
-
-|  | 07l0§£l!J |  | 04/06/21 Min |  | 08/06121 Min S93,7J3 586,429 |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| TITLE | Min |  |  |  |  |  |
-| Accountable Care Manager"' | 590,776 |  | $91,003 |  | S93,7J3 586,429 |  |
-| AssistMt Head Nurse | SSJ,703 |  | S83,9l2 |  |  |  |
-| Associate Mid\~ife Level A | $96,20B |  | $96,449 |  | S99,342 |  |
-| Associate Midwife Level B | $102,219 |  | $102,475 |  | SIOS,S49 |  |
-| Case Management Nurse (DOC) |  |  |  |  |  |  |
-| Level I | S82,071 |  | S82,276 |  | S84,744 |  |
-| Level II | S8S,160 |  | SSS,373 |  | S87,934 |  |
-| Case Management Nurse (DOS) | S82,071 |  | $82,276 |  | 584,744 |  |
-| Case Management Nurse (FD) |  |  |  |  |  |  |
-| Level I | S82,071 |  | S82,276 |  | $84,744 |  |
-| Level II | S8S,160 |  | $85,373 |  | 587,934 |  |
-|  | 07/06/20 |  | 04/06/21 |  | 08106/21 |  |
-| I.I.I.I.E |  |  |  |  |  |  |
-| Case Man11gcmcnt Nurse (PD) |  |  |  |  |  |  |
-| Level I | $82,071 |  | S82,276 |  | 584,744 |  |
-| Level II | SSS,160 |  | S85,373 |  | 587,934 |  |
-| Heed Nurse | SSS,160 |  | SBS,373 |  | 587,934 |  |
-| Heed Nurse (Senitelion) | SSS,160 |  | SSS,373 |  | $87,934 |  |
-| Home Health Nurse (per visit} |  |  |  |  |  |  |
-| Level I | S68 82 | (per visit) | 568.99 | (per visit) | $71.06 | (per visit} |
-| Level II | S77.44 | (per visit) | $77.63 | (per visit) | S79.96 | (per visit) |
-| Midwife | $90,776 |  | $91,003 |  | $93,733 |  |
+|  | 07l0§£l!J |  | 04/06/21 Min |  | 08/06121 Min S93,7J3 586,429 |  | | --- | --- | --- | --- | --- | --- | --- | | TITLE | Min |  |  |  |  |  | | Accountable Care Manager"' | 590,776 |  | $91,003 |  | S93,7J3 586,429 |  | | AssistMt Head Nurse | SSJ,703 |  | S83,9l2 |  |  |  | | Associate Mid\~ife Level A | $96,20B |  | $96,449 |  | S99,342 |  | | Associate Midwife Level B | $102,219 |  | $102,475 |  | SIOS,S49 |  | | Case Management Nurse (DOC) |  |  |  |  |  |  | | Level I | S82,071 |  | S82,276 |  | S84,744 |  | | Level II | S8S,160 |  | SSS,373 |  | S87,934 |  | | Case Management Nurse (DOS) | S82,071 |  | $82,276 |  | 584,744 |  | | Case Management Nurse (FD) |  |  |  |  |  |  | | Level I | S82,071 |  | S82,276 |  | $84,744 |  | | Level II | S8S,160 |  | $85,373 |  | 587,934 |  | |  | 07/06/20 |  | 04/06/21 |  | 08106/21 |  | | I.I.I.I.E |  |  |  |  |  |  | | Case Man11gcmcnt Nurse (PD) |  |  |  |  |  |  | | Level I | $82,071 |  | S82,276 |  | 584,744 |  | | Level II | SSS,160 |  | S85,373 |  | 587,934 |  | | Heed Nurse | SSS,160 |  | SBS,373 |  | 587,934 |  | | Heed Nurse (Senitelion) | SSS,160 |  | SSS,373 |  | $87,934 |  | | Home Health Nurse (per visit} |  |  |  |  |  |  | | Level I | S68 82 | (per visit) | 568.99 | (per visit) | $71.06 | (per visit} | | Level II | S77.44 | (per visit) | $77.63 | (per visit) | S79.96 | (per visit) | | Midwife | $90,776 |  | $91,003 |  | $93,733 |  |
 
 Julv 6 2020 April 6 2021 and August 6, 2
 1 1 1
@@ -403,45 +326,13 @@ Julv 6 2020 April 6 2021 and August 6, 2
 7
 22007
 
+| Nurse Midwife | S90,776 |  | 591,003 |  | $93,733 |  | | --- | --- | --- | --- | --- | --- | --- | | Nurse Practitioner(""") | $107,363 |  | S\07,631 S117,882 $91,003 S109,060 |  | SI 10,860 |  | | Nurse Practitioner (Primary Care/Behavioral Health""") | SI 17,588 |  |  |  | S121,418 |  | | Nurse Practitioner (Sanitation) | S90,776 |  |  |  | S93,733 |  | | Psychiatric Nurse Practitioner lCHS OnlV)• | SI0B,788 |  |  | - | SI 12,332 | - | | Sr. Case Management Nurse lDOS) | S85,160 |  | S85,373 |  | S87,934 |  | | Staff Nurse# | S82,071 |  | $82,276 |  | S84,744 S84,744 |  | | StaffNursc (DFTA) # | SSZ,071 |  | $82,276 |  |  |  | |  |  |  |  |  |  |  | | Slll[~u[le (Per Dimi) |  |  |  |  |  |  | | Dey Shift | S316 |  | S317 |  | $327 |  | | Evening Shift | 5343 |  | $344 |  | $354 |  | | Night Shift | 5348 |  | S349 |  | 5359 |  | |  |  |  |  |  |  |  | | StafTNursc (Per Hour) |  |  |  |  |  |  | | Day | S52.29 |  | $52.42 |  | $53.99 |  | | Evening/Night | 554.92 |  | S5S.06 |  | $56.71 |  | | Holiday | SS7.53 |  | $51.61 |  | $59.40 |  | |  |  |  |  |  |  |  | | Supervisor of Nurses |  |  |  |  |  |  | | Level I (HRA onlvl | $90,776 |  | $91,003 |  | 593,733 |  | | Level II (HRA onM {"""") | SI 17,588 |  | SI 17,882 |  | S121,418 |  | |  |  |  |  |  |  |  | | Supervisor ofN urses | $90,776 |  | $91,003 |  | $93,733 |  | |  |  |  |  |  |  |  | | Qrienl!lliQ!lCTmin inc. B~ti: |  |  |  |  |  |  | | Home Health Nurse (per visit) |  |  |  |  |  |  | | Level I | $284.11 | Day | S284.82 | Day | S293.36 | Day | | Level II | Sl42.04 | 1/2 Day | $142.40 | 1/2 Day | S\46.67 | 1/2 Day |
 
-| Nurse Midwife | S90,776 |  | 591,003 |  | $93,733 |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Nurse Practitioner(""") | $107,363 |  | S\07,631 S117,882 $91,003 S109,060 |  | SI 10,860 |  |
-| Nurse Practitioner (Primary Care/Behavioral Health""") | SI 17,588 |  |  |  | S121,418 |  |
-| Nurse Practitioner (Sanitation) | S90,776 |  |  |  | S93,733 |  |
-| Psychiatric Nurse Practitioner lCHS OnlV)• | SI0B,788 |  |  | - | SI 12,332 | - |
-| Sr. Case Management Nurse lDOS) | S85,160 |  | S85,373 |  | S87,934 |  |
-| Staff Nurse# | S82,071 |  | $82,276 |  | S84,744 S84,744 |  |
-| StaffNursc (DFTA) # | SSZ,071 |  | $82,276 |  |  |  |
-|  |  |  |  |  |  |  |
-| Slll[~u[le (Per Dimi) |  |  |  |  |  |  |
-| Dey Shift | S316 |  | S317 |  | $327 |  |
-| Evening Shift | 5343 |  | $344 |  | $354 |  |
-| Night Shift | 5348 |  | S349 |  | 5359 |  |
-|  |  |  |  |  |  |  |
-| StafTNursc (Per Hour) |  |  |  |  |  |  |
-| Day | S52.29 |  | $52.42 |  | $53.99 |  |
-| Evening/Night | 554.92 |  | S5S.06 |  | $56.71 |  |
-| Holiday | SS7.53 |  | $51.61 |  | $59.40 |  |
-|  |  |  |  |  |  |  |
-| Supervisor of Nurses |  |  |  |  |  |  |
-| Level I (HRA onlvl | $90,776 |  | $91,003 |  | 593,733 |  |
-| Level II (HRA onM {"""") | SI 17,588 |  | SI 17,882 |  | S121,418 |  |
-|  |  |  |  |  |  |  |
-| Supervisor ofN urses | $90,776 |  | $91,003 |  | $93,733 |  |
-|  |  |  |  |  |  |  |
-| Qrienl!lliQ!lCTmin inc. B~ti: |  |  |  |  |  |  |
-| Home Health Nurse (per visit) |  |  |  |  |  |  |
-| Level I | $284.11 | Day | S284.82 | Day | S293.36 | Day |
-| Level II | Sl42.04 | 1/2 Day | $142.40 | 1/2 Day | S\46.67 | 1/2 Day |
-
-# A Staff Nunc holding a pcnnit to practice nursing will be paid S60 annually below the rate paid to a
-StaffNurse pending receipt ofa New York State license to practice as a registered professional nurse.
+# A Staff Nunc holding a pcnnit to practice nursing will be paid S60 annually below the rate paid to a StaffNurse pending receipt ofa New York State license to practice as a registered professional nurse.
 "OCB amended Certification 30-82 (as previously B111endcd) on August 16,2017 to add Accountable Care Manager (ACM) (TC 509530) and further amended to delete Cere Manager, RN Levels I and II (TC S09410 and 509420).
 Decision: NYSNA, 10 OC82d 13 (BOC 2017), 115 set forth in the Memorandum of Agrccmenl dated February 6, 2017 and in Section 22 of the ~ember 5, 2019 Memorandum ofA greement of the parties. Effective January 5, 2020, the ACM "salary cap" provisions ofS ection I l(b) in the MOA dated February 6, 2017 shall no longer apply
 8
 22007
-
 
 • Title: has been voluntary m:ognized pursuant to NYSNA. 10 OCB2d 16 (BOC 2017)
 =
@@ -463,7 +354,6 @@ ii. The increases provided for in 3(i) above shall be calculated as follows:
 a. l11e general increase in 3(iXa) shall be based upon the base rates (including salnry or incremental salary schedules) of the applicable titles in effect July 5, 2019.
 9
 ?,2007
-
 
 b. The general increase in 3(i}(b) shall be based upon the base rates (including salary or incremental salary schedules) of the applicable titles in effect July
 5, 2020.
@@ -487,7 +377,6 @@ _Page 13_ · _Topics: wages_
 a. Effective July I, 2006, each January I the salary rates in effect December 31 for the classes of positions included in this Agreement, and any other salary rates subsequently in effect as a result of the application of this provision, shall be adjusted by the addition thereto of the amount of the
 22007
 
-
 difference, if any, by which the average basic entrance salary of Staff Nurse in the hospitals listed below shall exceed by $1,000 per annum or more the basic entrance salary of Staff Nurse {Title Code No. 50910, 509100) employed by the City of New York or by the NYC Health+ Hospitals in effect for the twelve month period commencing with each date listed above. This section 4{a) is suspended for the tenn of this agreement.
 b. The Januruy 1 salaries shall be detennined by examining the salaries in the hospitals listed below on the preceding November 30 that are the then current salaries or the salaries that will be effective on January I, if known on the preceding November 30, in those hospitals. Adjustments made pursuant to Section 4(a) shall be effective on the succeeding January I. This section 4(b) is suspended during the tenn of this agreement The hospitals whose salaries shall be used for parity calculations pursuant to Article Ill, Section 4
 of this Agreement are as follows:
@@ -496,7 +385,21 @@ of this Agreement are as follows:
 ### HOSPITALS
 _Page 14_
 
-Columbia Presbyterian Hospital New York Hospital Mount Sinai Hospital St. Vincent's Hospital and Medical Center Montefiore Medical Center St. Luke's Roosevelt Hospital Center Interfaith Medical Center of Brooklyn Lenox Hill Hospital New York University Medical Center Beth Israel Medical Center Mary Immaculate Hospital Maimonides Medical Center New York Hospital Medical Center of Queens Terence Cardinal Cooke Health Care Center c. Section 4 is suspended for the tenn of this agreement.
+Columbia Presbyterian Hospital
+New York Hospital
+Mount Sinai Hospital
+St. Vincent's Hospital and Medical Center
+Montefiore Medical Center
+St. Luke's Roosevelt Hospital Center
+Interfaith Medical Center of Brooklyn
+Lenox Hill Hospital
+New York University Medical Center
+Beth Israel Medical Center
+Mary Immaculate Hospital
+Maimonides Medical Center
+New York Hospital Medical Center of Queens
+Terence Cardinal Cooke Health Care Center
+c. Section 4 is suspended for the tenn of this agreement.
 
 <a id="section-5-exper-cnce-longevity-pay-p14"></a>
 ### Section 5 — Exper~cnce/Longevity Pay
@@ -507,7 +410,6 @@ b. Effective January I, 2008, employees at NYC Health + Hospitals with experienc
 Effective July 21, 2014 employees in Mayoral agencies with experience as a registered
 11
 22007
-
 
 professional nurse with an employer other than the NYC Health + Hospitals or a Mayoral agency shall continue to receive a maximum of ten ( 10) years of prior experience in placing an employee on the appropriate step of the experience/longevity schedule.
 Such prior experience shall only be credited if an employee is hired into the swne or equivalent title in the ~YC Health + Hospitals/Mayoral agency as the employee held with the non NYC Health + Hospitals/Mayoral employer. Such credited experience shall be effective as of the employees' date of hire with the NYC Health+ Hospitals/Mayoral agency.
@@ -522,7 +424,9 @@ Accountable Care Manager
 Assistant Head Nurse
 Associate Midwife (Level A)
 Associate Midwife (Level B)
-Associate Nurse Practitioner (Level W Associate Nurse Practitioner (Level lit Head Nurse, Head Nurse {DOS)
+Associate Nurse Practitioner (Level W
+Associate Nurse Practitioner (Level lit
+Head Nurse, Head Nurse {DOS)
 Midwife
 Nurse-Midwife
 Nurse-Practitioner•
@@ -536,11 +440,18 @@ Supervisor of Nurses
 Supervisor ofNurses (Level I and Level 11) (HRA only)
 Staff Nurse (CHS) Level I#
 StaffNurse (CHS) Level II#
-Quality Assurance Nurse {CHS)# Infection Control Nurse (CHS)# Clinical Nurse Specialist (CHS)# Educational Coordinator (CHS)# Nurse Practitioner (CHS)# Patient Care Coordinator (CHS)# b. An annual differential of $4,654 shall be provided to employees who are assigned to the evening shift.
-c, An annual differential of $5,689 shall be provided to employees who are assigned to the night shift.
+Quality Assurance Nurse {CHS)#
+Infection Control Nurse (CHS)#
+Clinical Nurse Specialist (CHS)#
+Educational Coordinator (CHS)#
+Nurse Practitioner (CHS)#
+Patient Care Coordinator (CHS)#
+b. An annual differential of $4,654 shall be provided to employees who are assigned
+to the evening shift.
+c, An annual differential of $5,689 shall be provided to employees who are assigned
+to the night shift.
 12
 22007
-
 
 d. Evening and night shift differentials shall be paid during authorized paid time off lo persons so assigned.
 e. Employees in the following listed titles are excluded from the provisions of this
@@ -571,7 +482,6 @@ i. An annual differential shall continue to be provided for each employee who po
 13
 22007
 
-
 University, as follows:
 Baccalaureate $900
 Maslers $1200
@@ -589,15 +499,7 @@ Nurse Practitioner (Primary Care/Behavioral Health) $700 e. Certification i Effe
 14
 22007
 
-
-| Certification | Staff Work Assignment | Annual Differential |
-| --- | --- | --- |
-| Behavioral He11llh | In-Patient Behavioral Health/CPEP | $3,000 |
-| Emer~ency | Emergency Department | $3,000 |
-| Surgical Services | Ooerating Room | $3,000 |
-| Critical Care | Critical Care Unit | $3,000 |
-| Med-Suntical/Dialvsis | Med/Surg Unit | $2,000 |
-| Certified Correctional Health Professional | Correctional Health | $2,000 |
+| Certification | Staff Work Assignment | Annual Differential | | --- | --- | --- | | Behavioral He11llh | In-Patient Behavioral Health/CPEP | $3,000 | | Emer~ency | Emergency Department | $3,000 | | Surgical Services | Ooerating Room | $3,000 | | Critical Care | Critical Care Unit | $3,000 | | Med-Suntical/Dialvsis | Med/Surg Unit | $2,000 | | Certified Correctional Health Professional | Correctional Health | $2,000 |
 
 recognized certification in the field or area of specialization for which they are employed shall be paid the differential. Employees must maintain certification and submit appropriate documentation in order to continue receiving the differential. Failure to maintain certification will cause the employee to lose this differential. An employee is entitled to receive only one (I) certification differential at any time.
 ii. Effective January 5, 2020, all NYSNA represented H+H Staff Nurse, Supervisor of Nurses, Head Nurse, Assistant Head Nurse and Accountable Care Manager employees working in the below areas who obtain and maintain the certifications listed below will be eligible for an
@@ -614,7 +516,6 @@ iii. Effective January 5, 2020, Accountable Care Managers (ACM's) will be eligib
 g. Application of Differentials The differentials provided in this Section 10 shall not be a part of the basic salary or considered in computation ofa maximum salary of any employee.
 IS
 22007
-
 
 Section I 1. Early-year Retention Bonus Effective January 5, 2020, NYC H+H and Mayoral Staff Nurses, H+H Accountable Care Managers and Mayoral Case Management Nurses Level I shall receive one-time lump sum retention bonuses
 based on completing their full-time equivalent per annum hours ~xclusive of ov~rtime) as follows:
@@ -642,7 +543,6 @@ _Page 19_
 Effective July 21, 2014 and continuing thereafter, pursuant to the provisions of Section 10
 16
 22007
-
 
 of the June 19, 2014 Memorandum of Agreement and a separate Agreement between the City of New York, the NYC Health + Hospitals and the New York Slate Nurses Association, .50% of the gross payroll annually shell be paid into the CCEC fund.
 
@@ -698,7 +598,6 @@ DEF IN IT 10 N: The tern, "Grievance" shall mean:
 18
 22007
 
-
 Section 2.
 For all grievances as defined in Section l(c), no monetary award shall in any event cover any period prior to the date of the filing of the Step I grievance unless such grievance has been filed within thirty (30) days of the assignment to the alleged out-of.;title work. This limitation shall not apply to a violation of Article III, Section IO D, "Differential for Working in Higher Title."
 11
@@ -716,7 +615,6 @@ working days of receipt of the Step III detennination.
 19
 22007
 
-
 In addition, the Employer shall have the right to bring directly to arbitration any dispute between the parties concerning any matter defined herein as a "grievance." The Employer shall commence such arbitration by submitting a written request therefore to the Office of Collective Bargaining. A copy oft he notice requesting impartial arbitration shall be forwarded to the opposing party. The arbitration shall be conducted in accord with the Consolidated Rules of the Office of Collective Bargaining. The costs and fees of such arbitration shall be borne equally by the Association and the Employer. The detennination or award of the arbitrator shall be final and binding in accord with applicable law and shall not add to, subtract from or modify any contract, rule, regulation, written policy or order mentioned in Section I of this Article.
 Section 3.
 As n condition to the right of the Association to invoke impartial arbitration set forth in this Article, the employee or employees and the Association shall be required to file with the Director of the Office of Collective Bargaining a written waiver of the right, if any, of the employee or employees and the Association to submit the underlying dispute to any other administrative or judicial tribunal except for the purpose of enforcing the arbitrator's award.
@@ -733,7 +631,6 @@ only the Association may invoke impartial arbitration under Step Section 7.
 The Employer shall notify the Association in writing of all grievances filed by employees, all grievance hearings, and all determinations. The Association shall have the right to have a
 20
 22007
-
 
 representative present at any grievance hearing and sh11II be given forty-eight (48) hours notice of all such grievance hearings.
 Section 8.
@@ -753,7 +650,6 @@ Section 9.
 A non-Mayoral agency not covered by this agreement but which employs employees in titles identical to those certified lo be covered by this contract may elect to permit the Association to appeal en unsatisfactory determination received at the last step of its Grievance Procedure prior to arbitration on fiscal matters only to the Commissioner of Labor Relations. If such election is made, the Association shall present its appeal to the Commissioner of Labor Relations in writing within ten (to) working days of the receipt of the last step determination. Copies of such appeal shall be sent to the agency head. The Commissioner of Labor Relations, or his designee, shall review nil such appeals and answer all such appeals within ten ( I 0) working days.
 21
 22007
-
 
 An appeal from a determination of the Commissioner of Labor Relations may be taken to arbitration under procedures, ira ny, applicable to the non-Mayoral agency involved.
 Section 10.
@@ -780,7 +676,6 @@ _Page 25_ · _Topics: grievance, hours_
 22
 22007
 
-
 ii. CONDUCT OF HEARINGS:
 (l) The presentation of the case, to the extent possible, shall be made in the narrative fonn. To the degree that witnesses are necessal)', examination will be limited to questions of material fact and cross e,caminntion will be similarly limited. Submission of relevant documents, etc., will not be unreasonably limited and may be submitted as a "packet" exhibit.
 (l) In the event either party is unable to proceed with hearing a particular case, the case shnll be rescheduled. However, only one adjournment shall be pennitted. In the event that either party is unable to proceed on a second occasion, a default judgment may be entered against the adjourning pany at the Arbitrator's discretion absent good cause shown.
@@ -802,7 +697,6 @@ CCU Stepdown I :4
 23
 22007
 
-
 Maternal/Child (Couplet) I :3
 Behavioral Health I :7
 Rehab 1:7
@@ -821,7 +715,6 @@ a. Upon ratification oft his Agreement, the System-Wide NPC will serve as the Sa
 I For non-trauma, non-critical patients. the nurse-to-patient staffing ratio will depend on the anticipated or kno\,11 acuity of the patient 2 For non-trouma, non-critical patients. the nurse-to-patient staffing ratio will depend on the 1111ticipated or kno1\TI acuity of the palient
 24
 22007
-
 
 b. The Safe Staffing Committee will meet as often as needed, but not Jess than six times
 per year, to discuss:
@@ -843,7 +736,6 @@ The President/CEO shall attempt to resolve the dispute within thirty (30) days o
 25
 22007
 
-
 the dispute to him/her.
 e. If the President/CEO does not resolve the dispute within thirty (30) days, either party may submit the dispute to Scheinman Arbitration and Mediation Services ("SAMS"). SAMS shall convene the parties, either in person or telephonically, to attempt to resolve the dispute within one (I) week of the submission of the dispute to SAMS.
 f. The parties may jointly agree, in writing. to extend the time limits set forth abo\le.
@@ -858,15 +750,12 @@ c. NYC H+H and the Mayoral Agencies shall inform NYSNA union representatives as 
 d. Notwithstanding the provisions of this Article, neither party waives their existing rights and/or responsibilities under law, applicable policies/procedures and/or the collective bargaining agreement with regard to workplace violence and employee safety.
 e. NYSNA and the Employer further agree to support employees subjected or exposed to
 workplace violence. This support may include, but not be limited to:
-1. Offering Employee Assistance Program (EAP) services to employees, whether they are
-victims, witnesses, or otherwise affected by workplace violence.
+1. Offering Employee Assistance Program (EAP) services to employees, whether they are victims, witnesses, or otherwise affected by workplace violence.
 2. Offering assistance to employees, upon request, with filling out the appropriate workers'
 compensation forms.
-3. Consideration ofrensonable requests by an employee affected by workplace violence for
-a schedule modification, assignment modification, visitor _(patient and family)
+3. Consideration ofrensonable requests by an employee affected by workplace violence for a schedule modification, assignment modification, visitor _(patient and family)
 26
 22007
-
 
 restrictions, and other similar work adjustments as may be feasible for the employee to fully resume working.
 f. For the purposes of this Article, the definition of "Workplace Violence" shall be the definition contained in the NYC H+H or Mayoral Agency Workplace Violence Prevention Policies and shall also include the definition contained in NYS Department of Labor
@@ -888,7 +777,6 @@ e. In the case of hiring for promotional and/or lateral vacancies within the NYS
 27
 22007
 ~
-
 
 unit, the Employer will make good faith efforts to ensure that a selected internal candidate is able to transfer to the new position/title without losing the position because they are being held in the prior position.
 
@@ -916,7 +804,6 @@ The City of New York and NYC Health+ Hospitals recognize that employees covered 
 28
 22007
 
-
 process within each institution.
 The City of New York and NYC Health+ Hospitals recognize the importance of Registered Professional Nurses adhering to the scope of the Nurse Practice Act and the standards of the profession.
 
@@ -931,15 +818,12 @@ A facility-based Nursing Practice Council ("NPC") shall be maintained at each NY
 _Page 32_ · _Topics: grievance, hours, safety_
 
 I. NYC H+H and NYSNA are committed to taking a coordinated, cooperative approach to improving patient satisfaction, patient outcomes, nurse satisfaction, and nurse recruitment and retention in all services and departments; and improving community health.
-2. NYC H+H and NYSNA are committed to continuing to offer excellent care
-services and maintaining and improving NYC H+H's reputation and public image as a provider of choice in the community.
-3. The parties will ensure that a NPC is fully functioning at each facility;
-4. The focus of each facility NPC will be innovative, collaborative, and evidence
+2. NYC H+H and NYSNA are committed to continuing to offer excellent care services and maintaining and improving NYC H+H's reputation and public image as a provider of choice in the community.
+3. The parties will ensure that a NPC is fully functioning at each facility; 4. The focus of each facility NPC will be innovative, collaborative, and evidence
 based initiatives to:
 a. Promote nurses' job satisfaction by directly involving them in decisions
 29
 22007
-
 
 that affect nursing practice.
 b. Foster a collaborative atmosphere that supports a culture ofs afety, which in tum results in bet1er patient outcomes and greater job enjoyment and satisfaction.
@@ -951,34 +835,22 @@ g. Analyze the nllocntion of resources to maximize cnre, capacity, and patient c
 h. Such other issues end/or areas of concern that are mutually identified and agreed to by the NPC.
 5. NYC H+H end NYSNA shall establish a NYC H+H-wide NPC that wilt:
 a. Consist of nn equal number of labor and management representatives; b. Ensure that each facility is adequately represented on the steering committee; c. Establish standardized procedures and protocols for the facility NPC's d. Provide a forum whereby facility NPC's will regularly report to it on their meetings and initiatives e. Establish n joint mission, ground rules, and meeting schedule based on collaboration and consensus-based decision-making.
-6. The Chairs of the NYC H+H wide NPC shall be the President of the NYSNA
-NYC H+H/Mayornl Executive Council and the Nurse Executive designated by NYC H+H.
-7. The NYC H+l-1-wide NPC shall act as a steering committee, guiding,
-coordinating and supporting the activities of the facility-based NPCs to ensure consistency across NYC H+H. It shall also serve as a forum for discussion of any longstanding unresolved issues at the facility level. The Steering Committee shall detennine the implementation timeline for expanding current activities.
-8. The NYC H+l-1-wide NPC shall establish common data collection practices for
-facility-based NPC> and common targets for nurse-sensitive indicators of perfonnance, and assist the facility-based committees to develop strategies to achieve the targets.
-9. The NYC H+H-wide NPC shall utilize evidence provided by the collection and
-analysis of data as the basis of decision-making.
-10. To support the work of the NYC H+H-wide NPC and the facility-based NPCs,
-NYC H+H and NYSNA shall jointly fund and select, through grants or other available means an individual or organization with experience in fostering collaborative efforts by labor Wld management. The role of this person or organization will be to assist the parties in fostering a productive and cooperative approach to solving problems and working together effectively to implement the
+6. The Chairs of the NYC H+H wide NPC shall be the President of the NYSNA NYC H+H/Mayornl Executive Council and the Nurse Executive designated by NYC H+H.
+7. The NYC H+l-1-wide NPC shall act as a steering committee, guiding, coordinating and supporting the activities of the facility-based NPCs to ensure consistency across NYC H+H. It shall also serve as a forum for discussion of any longstanding unresolved issues at the facility level. The Steering Committee shall detennine the implementation timeline for expanding current activities.
+8. The NYC H+l-1-wide NPC shall establish common data collection practices for facility-based NPC> and common targets for nurse-sensitive indicators of perfonnance, and assist the facility-based committees to develop strategies to achieve the targets.
+9. The NYC H+H-wide NPC shall utilize evidence provided by the collection and analysis of data as the basis of decision-making.
+10. To support the work of the NYC H+H-wide NPC and the facility-based NPCs, NYC H+H and NYSNA shall jointly fund and select, through grants or other available means an individual or organization with experience in fostering collaborative efforts by labor Wld management. The role of this person or organization will be to assist the parties in fostering a productive and cooperative approach to solving problems and working together effectively to implement the
 30
 22007
 
-
 goals of the NYC H+H-wide NPC and facility-based NPCs.
-11. The parties may agree to enlist the assistance of experts in the assessment of
-evidence-based best practices.
-12. The parties will explore the expansion of the NYC H+H-wide NPC to include
-other direct patient care and support service providers.
-13. The NYC H+H-wide NPC und the facility-based NPCs shnll not modify the
-collective bargaining agreement.
-14. The NYC H+H-wide NPC and the facility-based NPCs shall operate by and act
-on consensus only. The failure to reach a consensus shall not be the basis for a grievance or any other action.
+11. The parties may agree to enlist the assistance of experts in the assessment of evidence-based best practices.
+12. The parties will explore the expansion of the NYC H+H-wide NPC to include other direct patient care and support service providers.
+13. The NYC H+H-wide NPC und the facility-based NPCs shnll not modify the collective bargaining agreement.
+14. The NYC H+H-wide NPC and the facility-based NPCs shall operate by and act on consensus only. The failure to reach a consensus shall not be the basis for a grievance or any other action.
 15. The parties will periodically monitor the effectiveness of this Program.
-16. All requests for infonnetion solely in connection with the activities of the NPC
-will be resolved through the NPC process.
-17. lnfonnation provided in connection with this provision will only be used by the
-NPC for the purposes established herein.
+16. All requests for infonnetion solely in connection with the activities of the NPC will be resolved through the NPC process.
+17. lnfonnation provided in connection with this provision will only be used by the NPC for the purposes established herein.
 
 <a id="section-3-city-of-new-york-mayoral-agencies-p34"></a>
 ### Section 3 — City of New York Mayoral Agencies
@@ -993,7 +865,6 @@ d) lfNYSNA believes there is a particulor nursing practice issue that impacts th
 Section 4.
 The Corporation/City of New York shall work towards the elimination of non-nursing functions where performed by Registered Professional Nurses. The Nursing Practice Council in each facility (or labor-management committee in Mayoral Agencies, consistent with the provisions ofS ection 3) shall consider steps to be taken by the facility to relieve Registered Professional Nurses of tasks and responsibilities which in the judgment of the Nursing Practice Council (or labor- 31
 22007
-
 
 management committee in Mayoral agencies, consistent with the provisions of Section 3) constitute non-nursing functions, subject to the Rules and Regulations of the NYC H+H and the City of New York. Recommendations of the Council (or labor-management committee in Mayoral agencies, consistent with the provisions ofS ection 3} shall be made in writing to the NYC H+H Facility Chief Nursing Officer and to the NYC H+H Facility Chief Executive Officer (or Mayoral Agency Program Director} who shall consider the recommendations and who will respond, in writing, within twenty (20) working days.
 NYC Health +Hospitals:
@@ -1012,7 +883,6 @@ The New York City Health+ Hospitals is utilizing a standardized automated system
 32
 22007
 
-
 track staffing and scheduling for all clinical services in a standardized manner and will continue developing appropriate staffing standards and patterns pertinent to the delivery ofq uality nursing care and responsive to patient acuity and complexity.
 Consistent with such standards, consideration will be given to: Reallocation of fiscal and/or human resources within an institution; intensification of recruihnent efforts; and, in situations of greatest urgency, in collaboration with the Nursing Practice Council (NPC), consolidation of services and control of admissions.
 The parties agree to continue to work collaboratively, at the corporate and facility level to facilitate the timely implementation of the above provisions.
@@ -1028,9 +898,7 @@ Effective 7/21/14, the employer will make available to its employees in each May
 ## ARTICLE XV1 - EDUCATION AND STAFF DEVELOPMENT COMMITTEE
 _Page 36_ · _Topics: hours, training_
 
-A Committee shall continue to recommend guidelines with respect to eligibility for tuition reimbursement, education leave and staff development. The Committee shall be comprised of an equal number of representatives from the New York State Nurses Association and the NYC Health
-+ Hospitals, but not to exceed five (5) in number from each side. The Committee will meet on a bi
-monthly basis on a schedule established by the Committee. Though the Committee shall be apprised of all current grievances relating to tuition reimbursement, et al., no action of the Committee will affect the progression of grievances under the contract. The Committee functions set forth herein may be combined with the functions of the Advisory Committee for the NYSNA funds established pursuant to Article Ill, Sections 13 and 14.
+A Committee shall continue to recommend guidelines with respect to eligibility for tuition reimbursement, education leave and staff development. The Committee shall be comprised of an equal number of representatives from the New York State Nurses Association and the NYC Health + Hospitals, but not to exceed five (5) in number from each side. The Committee will meet on a bi monthly basis on a schedule established by the Committee. Though the Committee shall be apprised of all current grievances relating to tuition reimbursement, et al., no action of the Committee will affect the progression of grievances under the contract. The Committee functions set forth herein may be combined with the functions of the Advisory Committee for the NYSNA funds established pursuant to Article Ill, Sections 13 and 14.
 
 <a id="article-xvii-bulletin-boards-employer-facilities-p36"></a>
 ## Article XVII — BULLETIN BOARDS: EMPLOYER FACILITIES
@@ -1065,12 +933,19 @@ b. The employees covered by this Agreement shall continue to receive annual leav
 34
 22007
 
-
 c. The following annual leave schedules shatl apply to all employees hired by the
 Employer on or before June 30, 2006:
-Beginning the first year: 20 days Beginning the 8th year: 25 days Beginning the l 5th year: 27 days d. The following annual leave schedules shall apply to all employees hired by the
+Beginning the first year: 20 days
+Beginning the 8th year: 25 days
+Beginning the l 5th year: 27 days
+d. The following annual leave schedules shall apply to all employees hired by the
 Employer on or after July I, 2006:
-Beginning the first year: 18 days Beginning the third year: 20 days Beginning the 8 th year: 25 days e. Employees hired on or after July l, 2006 shall not be entitled to use accrued annual leave for the first 6 months ofe mployment, nor shall they be entitled to payment for accrued annual leave upon tennination of employment before completing 6 months of employment.
+Beginning the first year: 18 days
+Beginning the third year: 20 days
+Beginning the 8 th year: 25 days
+e. Employees hired on or after July l, 2006 shall not be entitled to use accrued annual leave
+for the first 6 months ofe mployment, nor shall they be entitled to payment for accrued annual leave
+upon tennination of employment before completing 6 months of employment.
 
 <a id="section-3-holidays-p38"></a>
 ### Section 3 — Holidays
@@ -1091,9 +966,9 @@ Accountable Care Manager
 Assistant Head Nurse
 Associate Midwife (Level A)
 Associate Midwife (Level B)
-Associate Nurse Practitioner {Level I)+ Associate Nurse Practitioner (Level 11}*
+Associate Nurse Practitioner {Level I)+
+Associate Nurse Practitioner (Level 11}*
 35
-
 
 Head Nurse, Head Nurse (DOS)
 Midwife
@@ -1109,13 +984,22 @@ Supervisor ofN urses
 Supervisor of Nurses (Level I and Level II) (HRA only)
 Staff Nurse (CHS} Level 1#
 StaffNurse (CHS) Level 11#
-Quality Assurance Nurse (CHS)# Infection Control Nurse (CHS)# Clinical Nurse Specialist (CHS)# Educational Coordinator (CHS)# Nurse Practitioner (CHS)# Patient Care Coordinator (CHS)# b. Employees in the following listed titles shall continue to receive a Night Shift
+Quality Assurance Nurse (CHS)#
+Infection Control Nurse (CHS)#
+Clinical Nurse Specialist (CHS)#
+Educational Coordinator (CHS)#
+Nurse Practitioner (CHS)#
+Patient Care Coordinator (CHS)#
+b. Employees in the following listed titles shall continue to receive a Night Shift
 Differential in accordance with Article Ill, Section l of the 1995-200 I Citywide Agreement:
 Case Management Nurse, Level I, Level II (PD)
-Case Management Nurse, Level I, Level II (FD} Case Management Nurse, Level 1, Level II (DOC)
+Case Management Nurse, Level I, Level II (FD}
+Case Management Nurse, Level 1, Level II (DOC)
 Case Management Nurse (DOS)
 Sr. Case Management Nurse (DOS)
-• Effective January 5,2020, the titles Nurse Practitioner (001960), Associate Nurse Pracutroner (Level 1)(9664 I 0) 11nd Associate Nur,e Practitioner Level II (966420) were deleted and replaced with the titles Nurse Practitioner (970010) and Nurse Practitioner (Primary Care/Behavioral Health) (970020).
+• Effective January 5,2020, the titles Nurse Practitioner (001960), Associate Nurse Pracutroner (Level
+1)(9664 I 0) 11nd Associate Nur,e Practitioner Level II (966420) were deleted and replaced with the titles Nurse
+Practitioner (970010) and Nurse Practitioner (Primary Care/Behavioral Health) (970020).
 #Rerer to MOA between the City, NYC H+H and NYSNA doled July 23, 2018
 
 <a id="article-xxi-disaster-relief-p39"></a>
@@ -1126,7 +1010,6 @@ NYSNA and the Employer agree that registered nurses can make a significant contr
 Such leave requests shall not be unreasonably denied, but the operational needs and potential cost impact to the employer shall be a factor in any decision of whether or not to approve the leave.
 36
 22007
-
 
 Should an employee be granted the use of annual leave, compensatory time or leave without pay to volunteer, the parties agree that the employee's participation in any such relief efforts shall be in their individual capacity and the employee will not be representing NYC H+H and/or the City of New York in an official capacity.
 AlfflCLE XX.II - SAFE PATIENT HANDLING a. NYC H+H and NYSNA are committed lo the safety of our patients/residents and staff. The Employer agrees to act to minimize injuries and hann to patients and employees through the effective use of new Safe Patient Handling technology, equipment, engineering controls, techniques and procedures.
@@ -1154,7 +1037,6 @@ Section 1.
 The Employer and the Association, having recognized that cooperation between management and employees is indispensable to the accomplishment of sound and harmonious labor relations, shall jointly maintain and support a labor-management committee in each of the agencies.
 37
 22007
-
 
 Section 2.
 Each labor-management committee shall consider and recommend to the agency head, utilization of professional nursing personnel, problems of nursing education, patient care, involuntary overtime, shift rotation, involuntary frequent assignment rotation (floating) and changes in the working conditions of the employees within the agency who are covered by this Agreement.
@@ -1208,7 +1090,6 @@ The use of supplemental nursing services by the NYC Health + Hospitals facilitie
 39
 22007
 
-
 JJ?fau:;.02
 ib
 'fl
@@ -1219,9 +1100,13 @@ WHEREFORE, we have hereunto set our hands and seals this day of I
 _Page 43_
 
 AS DEFINED HEllEIN
-nR7_~------ BY: ~
-_n..:....__ B Y , ~ ~ - ~ N
-Commissioner of Labor Relations Executive Director NEW YORK CITY HEALTH+ HOSPITALS Q_A__ G C}\_
+nR7_~------
+BY: ~
+_n..:....__ B Y , ~ ~ -
+~ N
+Commissioner of Labor Relations Executive Director
+NEW YORK CITY HEALTH+ HOSPITALS
+Q_A__ G C}\_
 BY:
 ANDREA G. COHEN
 Senior Vice Prc:sidcnl & GenerB.I Counsel
@@ -1241,7 +1126,9 @@ SUBMrn'ED TO THE
 _Page 43_
 
 DATE: __________
-UNIT: STAFF NURSES OFFICE OF LABOR RELATIONS TERM: June 6, 2019 to Mardi 1, 2023 REGISTRATION.
+UNIT: STAFF NURSES OFFICE OF LABOR RELATIONS
+TERM: June 6, 2019 to Mardi 1, 2023
+REGISTRATION.
 .,
 l
 
@@ -1257,7 +1144,6 @@ I), ••
 DATE:
 ef Id
 1-JJve,t"'-\:. J } 10 \
-
 
 APPENDIX A (1)
 Experience/Longevity Schedule
@@ -1277,7 +1163,6 @@ After I Year $987 $987
 After 2 Years An additional: $836 $1,823 After 3 Years An additional: $862 $2,685 After 4 Years An additional: $869 $3,554 After 5 Years An additional: $847 $4,401 After 6 Years An additional: $726 $5,127 After 7 Years An additional: $844 $5,971 After 8 Years An additional: $734 $6,705 After 9 Years An additional: $740 $7,445 After 10 Years An additional: $745 $8,190 After 11 Years An additional: $761 $8,951 After 12 Years An additional: $766 $9,717 After 13 Years An additional: $722 $10.439 After 14 Years An additional: $811 $11,250 After 15 Years An additional: $860 $12,110 After 16 Years An additional: $770 $12,880 After 17 Years An additional: $789 $13,669 After 18 Years An additional: $790 $14,459 After 19 Years An additional: $818 $15,277 After 20 Years An additional: $1,135 $16,412 After 21 Years An additional: $760 $17,172 After 22 Years An additional: $1,000 $18,172 After 30 Years An additional: $500 $18,672 NOTE: The Experience/Longevity Pay shall be paid each yenr after one (I) through 1wenty•lwo {22) yenrs of experience. Placement on the schedule is b11Sed on tollll number of ye:irs of Mayoralty/NYC H+H service in any NYSNA-represented tille. Effective January 1, 2008, in NYC H+H, up to 10 ye11r5 of experience ns nn RN with 11 non-Mayoral/NYC H+H employer shall be credited based on outside experience. Effective July 21 2014. in Mayoral Agencies up to 10 yell!s of experience o.s an RN with a non-Mayoral/NYC H+H employer shall be credited based on outside experience. However, ou1side ei.perience credit is granted only if nn employee is hired inlo the same title held in his/her prior position. For the purpose of evllluating the outside experience of the Case M11n11gement Nurse Level I nnd Cnse Management Nurse (DOS) titles, time as a Staff Nurse will count. For the purpose of evaluating the outside experience of the Case Management Nurse Level 2 and Senior Case Management Nurse (DOS) titles, time as 11 Head Nurse will count.
 22007
 
-
 APPENDIX A (2)
 Experience/Longevity Schedule
 
@@ -1296,7 +1181,6 @@ After 2 Years An additional: $882 $1,924 After 3 Years An additional: $910 $2,83
 1111
 so.me title held in his/her prior position. For the purpose of evaluating the outside experience of the Case Management Nurse Level I 11J1d Cnse Management Nurse (DOS) titles, time ns a S1aff Nurse will count For the purpose of evaluating the outside experience of the Case Management Nurse Level 2 1111d Senior Cnse Management Nurse (DOS) titles, time as a Head Nurse will count.
 22007
-
 
 APPENDIX A {3)
 Experience/Longevity Schedule
@@ -1322,13 +1206,11 @@ After J Year $1,097 $1,097
 After 2 Years An additional: $928 $2,025 After 3 Years An additional: $958 $2,983 After 4 Years An additional: $966 $3,949 After 5 Years An additional: $941 $4,890 After 6 Years An additional: $807 $5,697 After 7 Years An additional: $937 $6,634 After 8 Years An additional: $816 $7,450 After 9 Years An additional: $822 $8,272 After 10 Years An additional: $828 $9,100 After 11 Years An additional: $845 $9,945 After 12 Years An additional: $852 $10,797 After 13 Years An additional: $802 $11,599 After 14 Years An additional: $901 $12,500 After 15 Years An additional: $956 $13,456 After 16 Years An additional: $855 $14,311 After 17 Years An additional: $877 $15,188 After 18 Years An additional: $877 $16,065 After 19 Years An additional: $909 $16,974 After 20 Years An additional: $1,262 $18,236 After 21 Years An additional: $877 $19,123 After 22 Years An additional: $1,000 $20,123 After 30 Years An additional: $500 $20,623 NOTE: The Experience/Longevity Pay shall be paid each year after one (I) through twenty-two (22) years of
 22007
 
-
 experience. Plocement on the schedule is bnsed on total number of years of Mayoralty/NYC H+H service in any NY SN A-represented title. Effective January 1, 2008, in NYC H+H up to JO years of experience ns on RN with a non-Mayoral/NYC H+H employer shall be credited bnsed on outside experience. Effective July 21, 2014, in Mayoral Agencies up to 10 years of experience ns an RN with a non-Mayoral/NYC H+H employer sho.ll be credited based on outside experience. However, outside experience credit is granted only if an employee is hired into the same title held in his/her prior position. For the purpose of evaluaring the outside experience of the Case Management Nurse Level 1 and Case Management Nurse (DOS) tilles,Jjm~ns n Staff Nurse will coun1. For the purpose of evaluating the outside experience of the Case Management Nurse Level 2 and Senior Case Mnnngement Nurse (DOS) titles, time as a Head Nurse will count.
 +Effective January S,2020, the titles Nurse Practitioner (00 I9 60), Associate Nurse Practitioner (Level 1)(966410)
 and Associate Nurse Praclitioner Level II (966420) were deleted and replaced with the titles Nurse Practitioner (970010) and Nurse Practitioner (Primlll")' Care/Behaviornl Henlth) (970020).
 ++Psychiatric Nurse Practitioners (CHS) (009990) shall be credited for!!! prior RN experience and shall not be limited to only 10 years.
 ?2007
-
 
 A
 
@@ -1354,20 +1236,28 @@ p1nf1:u1aiul Judi:,:I.IL'nL du;igr,:,..'$ u111l lhc m:rsc-rn::111.is(r'J ar Jc:J
 ### OFFICE OF LABOR RELATIONS
 _Page 49_
 
-40 Rector Slreet, Nev.i York, NY 10006-1705 hup nyi: !,'0\ air JAMES F. HANLEY
+40 Rector Slreet, Nev.i York, NY 10006-1705
+hup nyi: !,'0\ air
+JAMES F. HANLEY
 1·,1111nd.u.a. .. ,
 MAAGARET M. CONNOR
-I ,., l\f1Mtl t Mllfll HI' ... , . .!006 :'-li. Lorr.,inc Se11ld N,:w Yor\.; St.Ill! :-0:url<."S ,\sSOC1JIIDn
+I ,., l\f1Mtl t Mllfll HI' ... ,
+. .!006
+:'-li. Lorr.,inc Se11ld
+N,:w Yor\.; St.Ill! :-0:url<."S ,\sSOC1JIIDn
 1.!0 W:ill Strc,:l
 New ,•ark. 1'11.•w York IOOU3
 Ri:: 2007-!IIIO SLIIT SurSI! L'nn Ayn.,:mc:nt
 This 1~ 10 c1mlinn 1hi: p.intL':\ mutu:il un<li:rs1:ir.tlini: th~r 1hi: Unton .inti ~l::n:ii:cmi:n< :uc houniJ br llu:
 N1."L York r11~ CallcL-il\T H:irs.im1ng I :w. :inJ 'kl\" Ynrk C-11~ nn;ird nfC'allC\!II\'~ l:l:iri::ilnms D~l51'ln B•!!
-'.!110:? \lrul 1hc 11blig:i11M!\ 1hi:;- 1mpa~c oo th,: plrUL-,; rci;:irthni: i:nl~n:i :mt! prlll:L"Uur.:s for tmpkm.:ntmi; pcrfnnn.im:i: cnmpi:ns:iuun.
+'.!110:? \lrul 1hc 11blig:i11M!\ 1hi:;- 1mpa~c oo th,: plrUL-,; rci;:irthni: i:nl~n:i :mt! prlll:L"Uur.:s for tmpkm.:ntmi;
+pcrfnnn.im:i: cnmpi:ns:iuun.
 \~:n,· u uly lDUl"5,
-.( .. ~tr t:,"t.,7.. .~]-';r1!, /1 ·J:imi.:s F.11:uilc:y / Comm15~ID11cr /
+.( .. ~tr t:,"t.,7.. .~]-';r1!, /1
+·J:imi.:s F.11:uilc:y /
+Comm15~ID11cr
+/
 22007
-
 
 C
 
@@ -1391,7 +1281,6 @@ nd..-n1.i1111n H• ,•;,;h no:1\ t~ hil\'t/. pmmut,cJ ;JnJ/ar 1r.m,1.:rr.:iJ .
 ""'"' 1h.111h • 1:: rr,,,:l)l,n~ c·1111J•11• <1· r,,nmm:. 1h,:. ••1;1,11:h:rI1, J1Jl1,n1s 1111h,· 11r~111w '"II h:
 ?2007
 
-
 prOS'fL'5sIu: und tht prLi:cp111r·s c,"J1u.111un nf Ute nno:n•c.:·, .::ir,:ibilitics will bi: cons11lcrril. A pn:cC[llPr wI II nut I>,: unri:a.:mn;iblf :11is1i;n=d ~•multanL-uusly 111.mllti: 1h:in on~ ori~nic • -1. ~ployL~ :1ssiJ;11t:tl 10 prci:.:p1or duuc, \\ell ti.: p;111J :11.lc.h1;nnal i:11mp,-n~:1uon u1 the r:111: of SUJU p,.,r hour for lim.: \\ 0rkcd :i..; n pn:ci:ptnr.
 :-. lssu,:s 11:l:i1ttl hi the imph:mcrmmon :mil m~mh:n;uiL i: ,,)' rri.:i:.:r1nr Jlrd!:-'r.lms m:J)' Iii: h111ui;h1111 :i l:ihnr 0 m:1n:1,:!cmc:n1 mc~liny :111hc r:1c:1l11y lc~t.:l. nr 10 1h.: l'n,ror.itc: kvd, if :ippropn:110:.
 ,:.J
@@ -1401,20 +1290,31 @@ n,
 ~N.:1,· Yori; Slwlt.: ~ur~,:_; .-\s:;ocr~li\lll
 22007
 
-
 .......
 •
 • THE CITY OF NEW YORK
 . OFFICE OF LABOR RELATIONS
-' . 40 Rector Street, New York, NY 10006-1705 hnp: nyc so, olr JAMES F, HANLEY f"oflf,,UUCUllc'r MAJlGARET M, COHtmR F1111 l>.71-·,11 C~tt1111:u uun. ..
+' . 40 Rector Street, New York, NY 10006-1705
+hnp: nyc so, olr
+JAMES F, HANLEY
+f"oflf,,UUCUllc'r
+MAJlGARET M, COHtmR
+F1111 l>.71-·,11 C~tt1111:u uun. ..
 ~ls, lomina: Si:idi:1
 Dircclor, Economic &. GcnL-r.il \\'.:lfJr.:
-Nil\\ York S1J1.: :-.?urscs ,\ssoci;iuon I !II \\'ull Sm:i:1. ~_;•J Floor rorli. ~y 101105 \!,:\\ Re:: NYSN.\ :\~cmi:111 for the P. . r:ocJ Oi:c.:011>1:r I. 2007 10 J:uiu.uy 20, :?tH0
+Nil\\ York S1J1.: :-.?urscs ,\ssoci;iuon
+I !II \\'ull Sm:i:1. ~_;•J Floor
+rorli. ~y 101105
+\!,:\\
+Re:: NYSN.\ :\~cmi:111 for the P. . r:ocJ Oi:c.:011>1:r I. 2007 10 J:uiu.uy 20, :?tH0
 Di=ilr Ms. Sdtkl:
-This is lo confimi lhJL pursu:111110 the :?000-1002 SIJIT\lur.;,: A!;rci:mcnl nc~o1i:iuons, the N..:w York S1:11c: Nurses Associa1ion (NYSNA) pcnn111cd three t3) ;iJLln1onJI ru1t- \\J.S 1i111i: positions wilh full p:iy ;u1d bcndits pursuJnl 10 E\i:cuu,c Onfi:r ~a. ij 111~ NYSN:\ St;i£f Nursi: colkc1h·i= ba(!:.iinini; si:11h:mcn1 ,,as ch.uycJ lo fully fun<.!
+This is lo confimi lhJL pursu:111110 the :?000-1002 SIJIT\lur.;,: A!;rci:mcnl nc~o1i:iuons,
+the N..:w York S1:11c: Nurses Associa1ion (NYSNA) pcnn111cd three t3) ;iJLln1onJI ru1t-
+\\J.S
+1i111i: positions wilh full p:iy ;u1d bcndits pursuJnl 10 E\i:cuu,c Onfi:r ~a. ij
+111~ NYSN:\ St;i£f Nursi: colkc1h·i= ba(!:.iinini; si:11h:mcn1 ,,as ch.uycJ lo fully fun<.!
 1hi:sc .:idt.li1ion.il posi1ions.
 22007
-
 
 E
 
@@ -1426,14 +1326,12 @@ _Page 53_
 D.:Jr Ms Si:1Jd:
 Pursu:m! to ne~oliJtions for 1h.: ::!007-:?0IU,Y S'l.-\ i:ontr.ict. 1hi: rol1011 ing is
 :ll!rc.:i.l:
-- II is unt.lcr-s1ootl 1hu11hi: crc.ition :mtl clJSs11ic:11ion oftillcs is :i mam1ycri.il
-prcrog:ith·c.
+- II is unt.lcr-s1ootl 1hu11hi: crc.ition :mtl clJSs11ic:11ion oftillcs is :i mam1ycri.il prcrog:ith·c.
 1hi: p:inics :ii;ri:c thJt the l:ibor nt:imigcmcnt commtttcC' cs1:ihlisha.l pursu.Jnt to m:goliation:; fer lit.: It JrJl-9:i .'•ffS N.-\ conlract I\ ill continue: lo be rcsponsibl.: for c.li.scussiny :.inti 1uopusini; "c:m:.:r lai.li.lclli" applic-Jbl.: 10 rci;1s11.,-i:d prufi:ssion.il nurs~·.~. II is
 11nJ.:rs100J that any proposal agreed tn h~· th.: ccinimille.: cun only b.: intplcntl!llt.:11 if lhi:r.:
 is sumcii:m fundiny :n a1l,1bh: to C0\'1:r the t:OSIJ of such proposill .iml if sud, a flCO!hlS.il 1~ consis1cn1 ,, i1h 1h.: op.:r.uional n.:~'t.ls of HHC.
 lrth~ :iha,•.: conforms 10 your unJi:rsi.mJin~. pl.':IS~ coun1.:rsi!;ll hi:lu,,.
 22007
-
 
 F
 
@@ -1462,14 +1360,11 @@ u~.:d ru 1ua:nrnp;my paticlll\ 1111 ~link\ isit~ ,\h.:n lhi.: f1Jllcn1',; 1;11i1
 1d,::.1,.:J fru111 dlll!- (,l'.:JlhC: ,,f 1.'\f'thUn: hl ,I ~1111111111111,.it,(,: J1,.:,1,.: ,u.:h r.:h:J,,: "111 h,:
 22007
 
-
 5. TI11: 1loc:umi.:n1a1ion forms illrc,llly .igrc:1.'tl to by 1hc p:inii:s for situ:nions wh.:rl!
 nursiny s1aff arl! as.!ii!lrl<!tl 11> hi~h.:r ll!\'C:I uuucs pursuant 10 An1ch: 111, S..:cliun 10D h.i\,:
 hl:.:n issUt:J.
-6. The Hcahh w1tl Hospiuls CorporJllon ;u,tl \l:iyorJ! J!,!i:ni:i . - . s \\ill ni;i.J;.: com:c:rt,:tl
-cffons 10 rinwitlc locl;~r roums amJ launi:;1.-s for r&:;:lt51.:ri:tl prof.:ss1on.1I num.-s in c;i.:lt fac:ililr.
-7. Tho.: llcalrh :.uuJ liospnals Curp11r.1uou \ 11:.: Prcsh.11!111 for 1111111.iu Ri:sourcl!S \\Ill
-ammgc :1 nw.:1ing wi1h rcprescn\:)li\l!S from 1hc Nc:'\v Yurk S1:111: Nurs.:s :\550ciotion :ind
+6. The Hcahh w1tl Hospiuls CorporJllon ;u,tl \l:iyorJ! J!,!i:ni:i . - . s \\ill ni;i.J;.: com:c:rt,:tl cffons 10 rinwitlc locl;~r roums amJ launi:;1.-s for r&:;:lt51.:ri:tl prof.:ss1on.1I num.-s in c;i.:lt fac:ililr.
+7. Tho.: llcalrh :.uuJ liospnals Curp11r.1uou \ 11:.: Prcsh.11!111 for 1111111.iu Ri:sourcl!S \\Ill ammgc :1 nw.:1ing wi1h rcprescn\:)li\l!S from 1hc Nc:'\v Yurk S1:111: Nurs.:s :\550ciotion :ind
 .1pprupri.11c s1:irf from Kin~s CLlunt~· Huspit,d 10 i.11!.:uss pro\ 1sion of loung.:s in lh.:
 currently plann1.'ll n.:w hospi1:il buildings J;ings. Coun1;- Hospit:il.
 .ii
@@ -1477,7 +1372,6 @@ S. Th..: H,;-Jlth am.I Hospi1.1I Corpor:illon .int.I tho.: \lnyor.il ag1."flcic~
 a1,!rc.:d 10 policies conc.:rmng OoJling, r01a1wns. Jntl \\ .:i=kimJs Thi:sc: pulic:ic:i ;ire:
 .111:11:h~'tl to th.: cc,11\rac:t Very truly yours, Ck .:) ,,,/ ; ;rNA,~--_....._.;~7 "J:imcs F. H:inh:v / C11n1missio11\!r •
 22007
-
 
 ok 1
 .J'
@@ -1494,12 +1388,7 @@ A. This Agreement. unless otherwise stat~d. will be effective from June 6, 2019 
 A. Normal Schedule: An arrangement of workdays and hours in which an employee fulfills her/his work commitment in five (5}, seven and one-halfhour(7 ½) days withln a seven (7) day period of time, B. AW S: An arrangement of workdays and hours in which an employee fulfills her/his work commitment in a manner other than the standard five (5), seven and one-half (7 ½)
 hour days.
 C. The lent'\ ;'employee" is defined, for the purpose of this Agreement, to include full time, part-time, and per diem employees employed by the NYC Health + Hospitals.
-3. PROCEDURES FOR IMPLEMENTATION OF Aw s
-A. Alternate work schedules may be implemented in units where no AW S had been utilized upon submission of the following infonnation to the fecilily Director ofH uman Resources and t6 llie Association at least one (l}.mdnth before the commencement of AWS: ' l ·, .,
-1. The specific unit and service involved in the AW S, indicating by tour,
-the name and title lll!d schedule of all cmployc~ on the unit
-2. A copy of the first months schedule for the unit
-B. The parties shall then review the submission and discuss, prior to implementalion date, any inconsislency with thls Agreement.
+3. PROCEDURES FOR IMPLEMENTATION OF Aw s A. Alternate work schedules may be implemented in units where no AW S had been utilized upon submission of the following infonnation to the fecilily Director ofH uman Resources and t6 llie Association at least one (l}.mdnth before the commencement of AWS: ' l ·, ., 1. The specific unit and service involved in the AW S, indicating by tour, the name and title lll!d schedule of all cmployc~ on the unit 2. A copy of the first months schedule for the unit B. The parties shall then review the submission and discuss, prior to implementalion date, any inconsislency with thls Agreement.
 
 <a id="section-4-eligibility-and-participation-in-aws-p56"></a>
 ### Section 4 — ELIGIBILITY AND PARTICIPATION IN AWS
@@ -1510,7 +1399,6 @@ B. Employees working an alternate work schedule may request be changed to a
 10
 normal schedule upon four (4} weeks written notice to the Director of Nursing. Such
 22007
-
 
 request shall be granted whenever possible, at the discretion of the Director.
 C. The parties recognize that sick calls that occur by employees working AW S are more difficull to cover than employees working a nonnal schedule. Therefore, every effort will be made by the parties to reduce the number ofs ick calls and provide coverage when they occur.
@@ -1532,13 +1420,10 @@ A. Any schedules that the Employee and Employer may mutually agree to as an acco
 B. Examples ofa lternative work schedules for full-time employees include, but are
 not limited to, the schedules listed below:
 I. Three Day Work Week-Three (3) twelve and one-half (12 ½) hour tours in one week.
-2. Ewr Duy Work Week• Four (4) ten (10) hour tours in one (1) week; three
-(3) ten (10) hour tours plus one (J) five (5) hour tour in the other week.
+2. Ewr Duy Work Week• Four (4) ten (10) hour tours in one (1) week; three (3) ten (10) hour tours plus one (J) five (5) hour tour in the other week.
 22007
 
-
-3. Four Week Tour - Three (3) eleven and one-half ( 11 ½) hour tours for
-three (3) weeks, plus three (3) eleven and one-half ( 11 ½) hour tours and one twelve (12) hour tour in the other week.
+3. Four Week Tour - Three (3) eleven and one-half ( 11 ½) hour tours for three (3) weeks, plus three (3) eleven and one-half ( 11 ½) hour tours and one twelve (12) hour tour in the other week.
 a.) While on lhis schedule, six (6) hours earned aMual leave must be retained in the employee's leave bank.
 b.) If during this four (4) week schedule and employee leaves after working a 3 day/3 day portion or a 3 my/ 3 my/ 3 day portion, the employee shall have deducted from her/his SMual leave balance the number of hours for which the employee was paid but were not actually worked. If the annual leave balance is insufficient for this purpose, deduction for the balance owed will be deducted from the employee's paycheck.
 c.) Ifd uring this four (4) week schedule an employee leaves after working a 3 day/4 day portion. the employee shall receive overtime for all hours worked beyond seventy-five (75) hours in a two (2) week period.
@@ -1548,8 +1433,7 @@ d.) If during the four (4) week schedule an employee leaves after working a 4 da
 Two W~ Tour- Thn:c (3) thirteen (13) hours tours one week; three (3)
 twelve (1"2) hour tours in the other week.
 C. Part-time employees may work any of the alternative shifls provided they complete their nonnal bi-weckJy schedule.
-0. All of the above schedules arc exclusive of an unpaid one (I) hour meal
-period (see Section 7A below).
+0. All of the above schedules arc exclusive of an unpaid one (I) hour meal period (see Section 7A below).
 
 <a id="section-7-meal-and-rest-periods-p58"></a>
 ### Section 7 — MEAL AND REST PERIODS
@@ -1559,7 +1443,6 @@ Meal and rest period(s) for employees on the AW S program:
 A. All employees will have an unpaid one (I) hour meal period during each tour ofd uty, except those employees working a five (S) or six (6) hour tour.
 B. An employee working on an AWS tour of eleven ( 11) or more hours will receive two (2) fifteen minute rest periods per tour of duty. An employee working on an AW S tour between seven (7) and eleven ( 11) hours will receive at least one ( l) twenty minute rest period per tour of duty. An employee working on a six (6 ) hour tour will
 22007
-
 
 receive one {I) twenty minute rest period per tour ofd uty.
 C. The meal and/or rest period(s) can, by agn:emcnt, be scheduled and/or combined at any time or in any way, provided that no meal period or rest period(s) are scheduled in the first two (2) hours or the last two (2) houn of the tour.
@@ -1606,7 +1489,8 @@ _Page 60_
 ### RENEE CAMPION
 _Page 60_
 
-Commissioner Executive Director FOR THE NEW YORK CIT\'
+Commissioner Executive Director
+FOR THE NEW YORK CIT\'
 NYC HEALTH+ HOSPITALS
 ANDREA G. COHEN
 Senior Vice-President and
@@ -1632,7 +1516,6 @@ cmph,~lo!cs lhc .1h1lil) hl r1111. . h,1~c a Tr:rn•II Ocher Cm! lhn.iut:h p3yr
 wi1h 1hi'-h.:n,:lit. 111,/ Cll} \\ 1111:\:ilni11i?·Lh~ I.,"\ .:I uf p.midp;11h:,n :nil 1h~ :i.,•~i3l.:J ~11,i~' oti,ro\ 1d1n~ 1h1-. h.:n.!lit 10 d.:1.:nnin.: uhct~r or nuc lhi! :11fn1in1Mr:il1\L! fol: n:i;i11in:., :iilJu,1mi:n1 ,,r Th,: i:i::inh:s runh.:r ~~rc,: 1n .:uminc 1h.: pL>,1.ihl.: npJn,iun 1his tii:n.:1i11u.l.J11:luJ.: u1hcr ri:~inlul in:i,, 1ra11,i11..•,·11n~,• RL~id~nn fhi.: p::tnlc~ ,1!!11:i! 111 •urr1,n ,In :im.:m.lmo:rll 10 S .'.\ :tian 11• I I 0 .:I ..cq. 11f1l11!. \J1111ni,1t:sll\1! C't•J.: for 1h.-11111pu,,: 111' .:,fJ111..hm! r,,:nni••ilil,· limit, un l\."ilkn.:~ 111 ,n.,luili: 1h.: Cu~ uf :-:-.:w \\11}. :.tnJ :,;J. .J U, \\'.,._tdi.:fh.:r. Sofful\:. OrJlli!e, R1oe.l.l.111J ur Pu111J1111:L1Ulll!~'\ "1!11 t:.!llJill i:1~,:pti,111-:,ml 11111,1;1111°11, ;inJ t:\.:~pl J• 1'1-l~ he p11,l11l,1i.-J Ii: .111~ u1h.!r IJ•\ 11:qu1nn~ n:•1Jcncy liu :ipr,111111111:m tu 1.cn.1111 l""i111~1" Hll:l11J111~. 1•11111111 lt111111."tl I ,. the Puhli\' Ut'lkcr. L.i11 h•r cmplu)o:1.-. .:1•\~l.:II h~ ii\,: ll!fffl• ,r lh1,. \jli:t:111~111.
 22007
 
-
 ,.
 C"11n",1.:nt ,111h 1h.: ;ihm.:, ,\la: ur.11 011,:~1iu: 7:1• IJ.J., .1111,:nllctJ Jul} lb. 1•>1~. Jilt! .111) lllh.:r~11,i:n:'1 Emplt•~cr"~ rut.:,. n:~ublKm, 3nll/nr1.1p,:r.i1irhq11ti.:.:Jurc., . .J\JII h,: ,1111il~) rin"'-lli~J hl~1m1nn,110 1hi: unt.!i:NanJinl.? 111 •hi! r:1n11!,.
 ,,r
@@ -1649,7 +1532,6 @@ c
 Char1.:r •Jli ,c:ip,;
 ,\!!,: ;ind VL"\lm~ R.:q111r.:m,:t11t .\l.:mti.:r Cuntribu11un •\m1~111h .111J Dur.i1i1.m D,:r:,:lil FurmLil:i Chan-!L'• Sl!n i\'I: C'r.:'Jit, • .\ n~ .,,h..-r ;in:.>, th.: {'Jni.:, m111u:11l~ :i~••'I.' 111 t ·unlin11,11inn ur l\•rt.1i11 11 .. ullh ncm•liL~ Tl1.: (I.In,.:, ;i, l;ml\\ li:J1.: 11ta1 .:,,lh:,:th.: t-.11;:.1i11in;; r..'i;Jri.lin~ h.:Jhh l>,:ndo, 1, "llhrn 1hi: run IL 11 ,11 n,·t1111.·u11•n• h~11\,:,.:n lhl.: \lunkrr;il L;ihur c,,11111111h:i: ,,n,J th.: <.:11~. e,,,1, .. ,nwn111.:n1 mi1u1h,.:• Ill lhi: r11~ Jk,,llh n.:n.:1i1, rr,•~r:tlll •h,11111,: J1,,:u,,~tl .,uh lh.: :\l1t111, 1rJI wt;,M l\•rmnill,'1."
 22007
-
 
 rcrrnrm1111rc romnen~:.llop J'raecll11rc, The L1:1tl!r·-A!:r,:..-m~n1 h\:11111:1.11 th.: C'U) uf:-11.-n \'nrk :incl D1~trie1 C-\lunt:11, 7 rr:i;:irtlm~ such i:r:tri-1:1 :inJ pro,i:.!uri::1 111sulJt .lS th.!y rcllh: 11.i 1h.: l'n} ,1f Ni:,1 Yorll',; "l'.:rt,mnJn.:,: Comp.:n~Jllon rrn.:t.-Jurc~" shall uppl1 :m h.:u or1h.:pru\1•wms m Amel.: X\'11 \MMt.n1 ln.:,.:;i.,t.':l"),l-oc.110ns I ;ml :?1.
 J.f.QRR,\IN~ Sl:llll:I.
@@ -1677,7 +1559,6 @@ _Page 65_ · _Topics: hours_
 FROM: P:imcb. S S1hcrbl:11\f" • tr.\ n:: December 7. l~l?B SL'an:cr Scheduling orllci,;151crcd .l'rofcultl~I ~urscs on \\'ccl,;ends Th/1 mcr:io1;nd1Jm .Slillcs lhc CcrpotJI c:n pclic) ,.,nccnunr, 1hc 1\n-kcnd cl i:Llulms rf res. sieu:d rr rus,on;al msnc! rcprcscn1cd b: 1hc 1':cw Yark 5me Nurses \$~ ci,lluin Wcr:kcnd 1s defined ; s lhc 1u.o,dJy pt'nod c0ns1s1ini of S:11urd.:i~ :md liund:iy. Rci;ntcrcd pr<1fcrnonal nurn:s on un ls/Jen ices •\hich :arc <!pen on S:i1u1al,1\ :ind/or Sunday sh~II ~ cn\lllcd 10 at k:ut ~6 14tclcnds off per l c:ar In 1mplcmcn11nll 1tus poltc:}', no c~ngcs shall br: made in ci.isltn.!l \LOtk 1c:hcdulcs, caccpl 10 1hc ciitcn1 r.ccc!Hr) 10 comply 11.itti the rcquircmcnu of this policy. ~Ol\l.ithm1nding 1he ab01:c, C:\Ceprions may be made 1Aher.e. 1rnc:1 adherence 10 this policy v.ould comprorruse p~11rn1 ~.irr lu!! R Marcos. 1\.1 D Fraru:Cinllo W11lilm HmmaM
 22007
 
-
 "
 ,,ew
 
@@ -1694,14 +1575,12 @@ This mcmcrardum st:i1u 1he Corpam1on rol11:y i:anccmsn! ·no.tun!,'
 ,USl!!"mtnU for rcGHlc:rc:d pr.-fi:u1aral nurJcs rcprc1emed by 1hc ,-.;ew York S1Jtc Sutlts Asi1,~1.i110n Th,: !;UiJdincs for lh<sc .im~r.;mu Jrc I I Fl.>~1in9 sh;iO r.ol b! 1:si:d 10 cu,er ,.ican~1u "" ·sc n;mncc can be 1den11:icd 1r.
 .i,h.incc, c ~ scheduled ,3ca1ran1. long 0 1crm srcl. ci,e, 11.crh11 ccmpen5;ation, etc. tt sh.lU uni)' bt used lo co, c~ unc,pcclcd , .irinc,cJ II h,cl: .a me on .i pir111:ul.ar 1cur in 3 urm
 01 SCl'\1CC
-?) When rcsil1c.rcd proferncanal nurses rrp1.:stn1ed by NYSNA arc usisned 10 no~, i1 sh;ill be bct,..ccn uniu "-ilhin their auisncd SCl'\ic:c or ,i:1a1cd SU\icc. er 10 units on a s.:l'\icc ,,here they 11&,c u.orlced or t,a,•c h2d 01icnu11on J) Fln.111ni iUSr~nmmts ,hall be d1Jtnbu1cd cqur1.1bl~- .imong lhc rc:1!1s1crcd profmion;il nurse st;alf
-4) Fl1:;i1ing u,ipv11cn1::i 1h:sll bc m~dc .at the bcE1nnini,; ora tour cfdu1y, To 1h:t end.
+?) When rcsil1c.rcd proferncanal nurses rrp1.:stn1ed by NYSNA arc usisned 10 no~, i1 sh;ill be bct,..ccn uniu "-ilhin their auisncd SCl'\ic:c or ,i:1a1cd SU\icc. er 10 units on a s.:l'\icc ,,here they 11&,c u.orlced or t,a,•c h2d 01icnu11on J) Fln.111ni iUSr~nmmts ,hall be d1Jtnbu1cd cqur1.1bl~- .imong lhc rc:1!1s1crcd profmion;il nurse st;alf 4) Fl1:;i1ing u,ipv11cn1::i 1h:sll bc m~dc .at the bcE1nnini,; ora tour cfdu1y, To 1h:t end.
 nurses .... ho arc iolng 10 be unc::ipec:tcdly .1b1cn1 mull call in .a minimum of two hours prior 10 the Jt:in or 1hc tour or duty, 11 is 1he mpnru1b1li1y 01· the Di1eaor or Nuulna or 1he Ducccor's duignec 10 ;in~nl!c for ,13/fco,~1~pt pntJr to 1he commc:riccmcnt or1hc 101.11 ~) r.0111.ith.su.nding the Qbovc, when. the iudi;mcni or 1hc Director of Nurs1n~ er
 111
 lhc OirecttJt's dcsll!ncc, :idhcrcnc.c 10 1his pohey-... culd compromise lhc: dclh·cry or p311cnl c.iu:•. no~irr,g 1.uignmcn1s 1-ill he m.adc .u rtqulrcd c.: Luis R M;ircos. M 0 Funk Cinllo \~
 11hJm HcmNM
 22007
-
 
 L
 • "I
@@ -1719,7 +1598,6 @@ HWJW> Ra'3W"Cd DlfCODn
 Labar Relatiou Officers
 22007
 
-
 lliE CITY OF NEW YORK
 • OFFICE OF lABOR RELATIONS
 40 Rector Street. New York, NY 10006-1705 hap:/lnyc.p/otr MayS,2014 Hany Ncspall Chair, Munkipal Labor CommiUce
@@ -1730,13 +1608,9 @@ This ls ro con!nn the parties' mutual undenlaudiDg C:OQCUIWll lbe following issu
 l. Uoless 0lben,ise ap:ed 1D by the panies_ the Welfa:e Fund c:omribut!on will fflDlliu comtmt fortba lcnp orlbe .nsuessor uail •~.k lcludiag the S65 fimded from the S11bUlntJon Fund pll'WBDl to the 200S Hc::alth BIIOditsAgniem=t b~een tbe Ci~ ofNew You: and the Muafc!pal Labor Comminec.
 2. Efl"cc1:ive July 1, 20U, lhe Stabilization Fand shall caavey Sl Billion ro lhc Cily of'NN'
 Yodt 10 bcu.l 1011J11Palt wqc UlCn:ISCI 111d olhc:rcconomic i=s fortbc round of CUQ'eQt c:olJcctiw bmpln1na (for this peri0d up to ml including ftscal year-2018). Up to ID addidonaJ total lm01IDt ofS 1 50 millima will be avallable aver ti. four yar paiad Aom the Stabllimian Fuod for lbc welfare fimdt. lhc allocatfoil of wbic:h shall be deunruned by lhc pmies. lhal::tdm, S 60 million per yeu will be available hm the Sllbilmtioa Fund fbr the welfare ftmds, the allocadan of'which sbal1 be: dclmninm by lhc panics.
-3. Iflhc panics decide ID engage in• cc:atrllizi:d purdwc ofP rescription Drup, ud
-savtnp and dftcicadcs aue ldcndficd tbcrdnlm, lbCR wU not be lllY taductlon In wdtue fuad cao1n111mam.
-4. There sba1I be jolnl ~mmlacc: formed lhat will engage: ia a prccas select an
-& 10
-iadq,cudeat bc:althc3nl actuary, and any other mutually qmd upon additional omsidc cxper1isc:, ta develop an ICCQuntin& sys~ to measure and calculate smnp.
+3. Iflhc panics decide ID engage in• cc:atrllizi:d purdwc ofP rescription Drup, ud savtnp and dftcicadcs aue ldcndficd tbcrdnlm, lbCR wU not be lllY taductlon In wdtue fuad cao1n111mam.
+4. There sba1I be jolnl ~mmlacc: formed lhat will engage: ia a prccas select an & 10 iadq,cudeat bc:althc3nl actuary, and any other mutually qmd upon additional omsidc cxper1isc:, ta develop an ICCQuntin& sys~ to measure and calculate smnp.
 22007
-
 
 S. The MLC 91= m geaaaie cumulatlvc hcaltlu:are savinas ofSl.4 billion over the of Fiscal Yem 201Slhnnlgb 2011, Aid savinptabceu:lu.riwaflhe monies~
 CD\ll'SI:
@@ -1760,14 +1634,17 @@ The pa,ties shall WINl lhe casts for Iha arbitneor ml the ldllll)' the arbitrato
 2
 22007 .,
 
-
-If lhc above acccmfs wilh yow- undctswldina and a~ kindly CJCeanc the sl~ liu provided.
+If lhc above acccmfs wilh yow- undctswldina and a~ kindly CJCeanc the sl~
+liu provided.
 Sincerely.
-t-J ~~--l/0~
+t-J ~~---
+l/0~
 w.
 Rohen Linn
 Commlssfoaer
-Agreed and~ 011 c,lu!f oflhe unhlpal Labor Comminc:c B Y : ~ J
+Agreed and~ 011 c,lu!f oflhe unhlpal Labor Comminc:c
+B Y : ~
+J
 22007
 
 <a id="office-of-labor-relations-p71"></a>
@@ -1778,7 +1655,8 @@ _Page 71_
 01c.gov I olt
 ROBERT W. LINN MAYRA E. BELL
 Cclmmlsskvlar General COunMI
-RENEE CAMPION GEORGffiE GESTELY FirJtOepul'f~r ~or. ~ SctHl(,12 Progt1111
+RENEE CAMPION GEORGffiE GESTELY
+FirJtOepul'f~r ~or. ~ SctHl(,12 Progt1111
 
 <a id="clairelevitt-p71"></a>
 ### CLAIRELEVITT
@@ -1805,24 +1683,20 @@ iii. In any event, the S600 million pursuant I (a)(iv) must be recurring and
 agreed to by the parties within FY 2021, and may not be borrowed from other years.
 22007
 
-
 c, Savings attributable to CBP progt111T1s will continue lo be transferred to the City by offsetting the savings amounts documented by Empire Blue Cross and GHI against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for thil offset lo expire, any sa.vings achieved in this manner must be replaced in order lo meet the recurring obligation under l(a){lv) above.
 d, The panics agree that any savings within the period of FY 20 IS -20 I8 over $3.4 billion arising from the 2014 City/MLC Health Agreement will be counted towards the FY 2019 goal. This ls currently eslimaled at approximately S1 31 million bul will not be finalized until the full year ofFY 2018 data is transmitted and analyzed by the City's and the MLC's actuaries.
 e. The parties agree that recunlng savings over SI.J billion for FY 2018 arising under the 2014 City/MLC Health Agreement will be counted toward the goal for Fiseal Years 2019, 2020, 2021 and for purposes of the re.curring obligation under l(a)(iv)
 above. This Is currently estimated at approxlmately $40 milllon but will not be finalized until the full year or FY 2018 data Is transmitted end analyzed by the City's and lhe MLC's actuaries. Once the amowtl is finalized, Iha! amount shall be applied lo Fiscal Years 2019, 2020, 2021 and lo the obligation under l(a)(iv).
-2. After the conclusion of Fiscal Yc:ar 2021, the parties shall calculate the savings realized during
-the 3 yc:ar period. In the c:vc:nt that the MLC has generated more then $600 million in recurring healthcare savings, o.s agreed upon by the City's and the MLC's acluaries, such additional savings
+2. After the conclusion of Fiscal Yc:ar 2021, the parties shall calculate the savings realized during the 3 yc:ar period. In the c:vc:nt that the MLC has generated more then $600 million in recurring healthcare savings, o.s agreed upon by the City's and the MLC's acluaries, such additional savings
 shall be: utilized as follows:
 a. The first $68 million will be used by the Chy to make a SI 00 per member per year increase to welfare funds (accives and retirees) effective July I, 2021. If a savings amount over S600 million but less than $668 million Is achieved, the SI 00 per member per year {actives and n:lirccs) increase will be prorated.
 b. Any savings thereafter sha.JI be split equally between the City and the MLC and applied in a manner agreed to by lhe parties.
-3. Beginning January I, 2019, and continuinli: unless and until lhe parties agree otherwise, the
-parties shall authorize the quarterly provision of the following dala le lhc City's and Ml.C's acluaries on an ongoing quarterly basis: (I) detnllcd claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHt•CBP programs (including Senior Care and Behavioml HClllth inronnelion); and (2)
+3. Beginning January I, 2019, and continuinli: unless and until lhe parties agree otherwise, the parties shall authorize the quarterly provision of the following dala le lhc City's and Ml.C's acluaries on an ongoing quarterly basis: (I) detnllcd claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHt•CBP programs (including Senior Care and Behavioml HClllth inronnelion); and (2)
 utilization data under the HIP-HMO plan. Such data shall be provided within 60 days or the end of each quarterly period. The HIP-HMO utilization date will also be provided 10 the City's nnd MLC's actuaries within 60 days of the execution of this leller agreement for City Fiscal Ycar 2018 as baseline lnfonnation to assess ongoing savings. The HIP-HMO d&Sla shall Include: (i)
 ulllization by procedure for site of service benefit changes; (II) utilization by disease stzile, by procedure (for purposes of nsscssing Centers or E1tcellcncc); and (lii) member engagement data for the Wellness program, Including stratifying members by three tranches (level I, II and II).
 The data shell include baseline deta as w:11 as data regarding the assumptions utilized in dctennining expected savings for comp11rison. The data described in this paragraph shall be provided pursuant lo a data sharing agreement entered into by the City and MLC, akin to prior data agn:ements, which shall provide for the prolct:llon of member privacy and related coneems, shall aivi::r all periods addressed by this Agreement (i.e., through June 30, 2021 and thereafter), and shall be executed within thirty days of the executicm of this letter agreement.
 2
 22007
-
 
 4, The parties agree that the Welfll.l"c Funds will receive two SI 00 per member one-time lump-sum payments (actives and retirees) funded by the Joinl Stabilization Fund payable effective July I,
 201BendJuly 1,2019
@@ -1840,15 +1714,12 @@ f. Other areas- Centers of Excellence for specific conditions; Hospital and prov
 g. Potential RFPs for all medlcel and hospital benefits.
 h. Status of the Stabilization Fund.
 The Comm1nee will make recommendations to be considered by lhe MLC and lhe City.
-6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee
-(THIPC) and shalJ be Independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address l!J'cas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC wlll each be n:sponsible for the costs of its actuary.
-7. In the event of any dispute under sections 1-4 of this Agreement, the parties she.II meet and confer
-in an attempt to resolve the dispute. If the partie.s cannot resolve the dispute, such dispute shall be rcrcrrcd to Martin Schcinman for rcsolulion con~istent wilh the dispute resolution terms of the
+6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee (THIPC) and shalJ be Independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address l!J'cas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC wlll each be n:sponsible for the costs of its actuary.
+7. In the event of any dispute under sections 1-4 of this Agreement, the parties she.II meet and confer in an attempt to resolve the dispute. If the partie.s cannot resolve the dispute, such dispute shall be rcrcrrcd to Martin Schcinman for rcsolulion con~istent wilh the dispute resolution terms of the
 2014 City/MLC Health Agreement:
 a. Such dispu1e shall be re.solved within 90 days.
 3
 22007
-
 
 b. The arbitrator shall have the authority to impose interim rel!ef that is consistent with the parties' intent.
 c. The arbitrator shall hove the authority to meet with the parties as such limes as is appropriate 10 cnfon:e the tcnns ofthis agreement d. The parties shall share the costs for the arbitrator (including Commillee meetings), if the above conforms to your understanding, please countcflign below.
@@ -1858,28 +1729,46 @@ Robert W. L i n n ~
 4
 22007
 
-
 0
 Office of Labor Relations
-22 CorUaoot Streat New Yoo, NY 10007 nyc,govlolr R.neo Campion Claire Levitt COIMIISJlone, Dtpul)' CommlsJion~ at,wn H. Bankl Htll/111 Cart SI/Zltt9l'
-F1nt D!jllll)I Commlsslonrr GIOl'Olttl Outtly Gmm1l "1111wl Dltmw, Employtt ~tl Program :-r- Octobcr 1,b. 202 l Pat Kane New York State Nurses Association
+22 CorUaoot Streat New Yoo, NY 10007
+nyc,govlolr
+R.neo Campion Claire Levitt
+COIMIISJlone, Dtpul)' CommlsJion~
+at,wn H. Bankl Htll/111 Cart SI/Zltt9l'
+F1nt D!jllll)I Commlsslonrr GIOl'Olttl Outtly
+Gmm1l "1111wl Dltmw, Employtt ~tl Program
+:-r-
+Octobcr 1,b. 202 l
+Pat Kane
+New York State Nurses Association
 131 West 33rd Street, 4th Fl.
 New York. NY l 000 I
 Re: Floating A,slgnments
 Dear Ms. Kane:
-This is to supplement the December 7. 1998 memorandum regarding noating assignments for Registered Nurses.
-With respect to paragraph 2 of the December 7, 1998 memorandum. nurses may only be floated to a unit in their assigned service ora related service if they arc competent and trained to pcrfonn core nursing tasks on the unit needed for the particular care assignment.
-Wilh respect to paragraph 3, the employer will track floating assignments to fa cititalc the equitable distribution of floating assignments among registered professional staff and, upon request from NYSNA, will provide relevant infonnation on floating assignments to NYSNA.
+This is to supplement the December 7. 1998 memorandum regarding noating
+assignments for Registered Nurses.
+With respect to paragraph 2 of the December 7, 1998 memorandum. nurses may only be
+floated to a unit in their assigned service ora related service if they arc competent and trained to
+pcrfonn core nursing tasks on the unit needed for the particular care assignment.
+Wilh respect to paragraph 3, the employer will track floating assignments to fa cititalc the
+equitable distribution of floating assignments among registered professional staff and, upon
+request from NYSNA, will provide relevant infonnation on floating assignments to NYSNA.
 In all other respects, the December 7, 1998 memorandum remains in effect.
-lfthe above accords with your understanding and agreement, kindly execute the signature line below.
+lfthe above accords with your understanding and agreement, kindly execute the signature
+line below.
 ReneeCampion
 Commissioner
 22007
 
-
 Office of Labor Relations
-22 Cortlandt Slreel, New YOik, NY 10007 nycgovlok Rentt CamP'on Cl1l~ IAYllt Cammbslontr o,pu~ Ctlntmls.slotttr
-8t.wn H. Bankll Hrollh Corr Sll'lllrgy Rtsr Dtpc,~ COmmlu/ontr O.org1tt1 IJ■al■ly GentlPI ~ D/n:ctor, Em~r kM/itJ Ptofln,m
+22 Cortlandt Slreel, New YOik, NY 10007
+nycgovlok
+Rentt CamP'on Cl1l~ IAYllt
+Cammbslontr o,pu~ Ctlntmls.slotttr
+8t.wn H. Bankll Hrollh Corr Sll'lllrgy
+Rtsr Dtpc,~ COmmlu/ontr O.org1tt1 IJ■al■ly
+GentlPI ~ D/n:ctor, Em~r kM/itJ Ptofln,m
 1"
 ]lo ,
 October 2021
@@ -1889,8 +1778,13 @@ New York Slate Nurses Association
 New York, NY 10001
 RE; Fatter payment of overtime
 Dear Ms. Kane:
-The following is to confinn the mutual understanding oft he parties with respect to implementing procedures for the timelier payment ofo vertime to NYSNA members. NYC H+H and NYSNA agree to regularly meet to discuss mutually agreeable alternatives to existing processes, which may include but are not limited to the implementation of mutually agreeable Alternative Work Schedules (A WS) other than the currept 4-wcek AW S.
-If the above accords with your understanding and agreement, kindly execute the signature line below.
+The following is to confinn the mutual understanding oft he parties with respect to
+implementing procedures for the timelier payment ofo vertime to NYSNA members. NYC H+H
+and NYSNA agree to regularly meet to discuss mutually agreeable alternatives to existing
+processes, which may include but are not limited to the implementation of mutually agreeable
+Alternative Work Schedules (A WS) other than the currept 4-wcek AW S.
+If the above accords with your understanding and agreement, kindly execute the signature
+line below.
 Sincerely,
 R ~
 Commissioner
@@ -1900,18 +1794,32 @@ I
 Executive Director
 22007
 
-
 Gt
 Office of Labor Relations
-22 CorVandt Slr!el New Yen. NY 10007 nycgov~ RenN Campion Claln IAvtlt cammlssloMt ~tv CJJtnmlulonrr
-81awn H. Bankl ~o/th Catt! Slnllr;y Flnt ~Pllf'I Commlsslonrr Gaor;ette Gaataly Gfflffll/Counul -(II\ 0/tzctor, EmployH •M/1~ Proorom ib\, October 2021 Pat Kane New York State Nuncs Association
+22 CorVandt Slr!el New Yen. NY 10007
+nycgov~
+RenN Campion Claln IAvtlt
+cammlssloMt ~tv CJJtnmlulonrr
+81awn H. Bankl ~o/th Catt! Slnllr;y
+Flnt ~Pllf'I Commlsslonrr Gaor;ette Gaataly
+Gfflffll/Counul -(II\ 0/tzctor, EmployH •M/1~ Proorom
+ib\,
+October 2021
+Pat Kane
+New York State Nuncs Association
 131 West 33rd Street, 4th Fl.
 New York, NY 10001
 RE: Paid flmlly Leave
 Dear Ms. Kane:
-The parties agree that NYSNA shall have the option to enter into the New York Stale Paid Family Leave Benefit Program during the tcnn of the 2019-2023 collective bargaining agn:ement by servicing written notice on the City ofNcw York Office of Labor Relations that the NYSNA membership has ratified and agreed to opt into the State Program.
-Wilhin thiny {30) days ofs ervice of the NYSNA ratification notice, the parties will meet to discuss the terms 11nd conditions of entering the Paid Family Leave Program and the effective date of coverage.
-lfthe above accords with your understanding and agreement, kindly execute the signature line below.
+The parties agree that NYSNA shall have the option to enter into the New York Stale
+Paid Family Leave Benefit Program during the tcnn of the 2019-2023 collective bargaining
+agn:ement by servicing written notice on the City ofNcw York Office of Labor Relations that
+the NYSNA membership has ratified and agreed to opt into the State Program.
+Wilhin thiny {30) days ofs ervice of the NYSNA ratification notice, the parties will meet
+to discuss the terms 11nd conditions of entering the Paid Family Leave Program and the effective
+date of coverage.
+lfthe above accords with your understanding and agreement, kindly execute the signature
+line below.
 Sincerely,
 R e ~ <
 Commissioner

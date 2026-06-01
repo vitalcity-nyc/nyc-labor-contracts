@@ -14,9 +14,9 @@ sector: "clerical-and-professional"
 
 # District Council 37 of AFSCME (DC37) — L983 Urban Park Rangers Memorandum of Agreement, 2021-2027
 
-**Term:** 2021–2027
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-urban-park-rangers-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-urban-park-rangers-moa.pdf)
-**Pages:** 3 (1 OCR-reconstructed)
+**Term:** 2021–2027  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-urban-park-rangers-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-urban-park-rangers-moa.pdf)  
+**Pages:** 3 (1 OCR-reconstructed)  
 **Clauses extracted:** 3
 
 **Workforce:** DC37 L983 Urban Park Rangers MOA, 2021-2027 — see contract for the full recognition clause defining covered titles.

@@ -14,9 +14,9 @@ sector: "clerical-and-professional"
 
 # District Council 37 of AFSCME (DC37) — L983 Traffic Enforcement Agent Level III and IV Memorandum of Agreement, 2021-2027
 
-**Term:** 2021–2027
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-tea-iii-iv-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-tea-iii-iv-moa.pdf)
-**Pages:** 4 (3 OCR-reconstructed)
+**Term:** 2021–2027  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-tea-iii-iv-moa.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2027-tea-iii-iv-moa.pdf)  
+**Pages:** 4 (3 OCR-reconstructed)  
 **Clauses extracted:** 7
 
 **Workforce:** DC37 L983 Traffic Enforcement Agent Level III and IV MOA, 2021-2027 — see contract for the full recognition clause defining covered titles.
@@ -49,7 +49,8 @@ BY: --------------- BY:
 ### RE NEE CAMPION DANIEL KATZ
 _Page 3_
 
-Commissioner of Labor Relations Director Research & Negotiations March 8, 2024
+Commissioner of Labor Relations Director Research & Negotiations
+March 8, 2024
 3
 
 <a id="appendix-p4"></a>

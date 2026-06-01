@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # Joint Cert L246 and L15 Tractor Operators Wage Indenture, 2020-2025
 
-**Term:** 2020–2025
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/tractor-operator-wage-indenture-L15-IUOE-L246SEIU-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/tractor-operator-wage-indenture-L15-IUOE-L246SEIU-2020-2025.pdf)
-**Pages:** 12 (9 OCR-reconstructed)
+**Term:** 2020–2025  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/tractor-operator-wage-indenture-L15-IUOE-L246SEIU-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/tractor-operator-wage-indenture-L15-IUOE-L246SEIU-2020-2025.pdf)  
+**Pages:** 12 (9 OCR-reconstructed)  
 **Clauses extracted:** 9
 
 **Workforce:** Joint Cert L246 and L15 Tractor Operators Wage Indenture, 2020-2025 — see contract for the full recognition clause defining covered titles.
@@ -45,10 +45,8 @@ _Page 1_ · _Topics: wages, overtime, holidays_
 
 WHEREAS, the First Party, is a municipal corporation organized under the laws of the State of New York; and WHEREAS, the Second Party were and still are, public employee organizations representing employees employed by the City of New York in the title Tractor Operator in City Departments and A gencies wherein their services are regularly required in five days per week operation; and WHEREAS, certain differences between the parties herein have arisen with respect to rates of wages in the City of New York; and WHEREAS, it is the desire of the parties herein to compromise their differences by the acceptance of certain annual or daily rates of pay and perquisites to be paid to employees represented by the Second Parties both retroactively and prospectively for the affected period in full settlement of services rendered and to be rendered,
 NOW THER EFORE ITI S MUTUALLY AGREED AS FOLLOWS:
-1. The First Party hereby agrees for the period between January 3, 2020 to February
-2, 2025, except as otherwise provided in this paragraph l, to provide for the employment of the employees who arc represented by the signatory Second Parties as employed inC ity Departments and Agencies, at the respective annual compensation, number of hours per day and number of days
+1. The First Party hereby agrees for the period between January 3, 2020 to February 2, 2025, except as otherwise provided in this paragraph l, to provide for the employment of the employees who arc represented by the signatory Second Parties as employed inC ity Departments and Agencies, at the respective annual compensation, number of hours per day and number of days
 per year more fully hereinafter specified as follows:
-
 
 Date
 01/03/2020 to 01/02/2021
@@ -85,7 +83,6 @@ For the purpose of these payments, excluded from paid working days are all sched
 This Compensation Accrual Fund benefit will be subject to a separate agreement between the City of New York et al., and the Complainant. The liability of the City of New York et al., shall in no event exceed the amount hereinabove set forth for each effective day payable, irrespective of any upward modification by reason of imposition of any taxes, liens, attorneys' fees or otherwise, and provided further that the amount of contributions by the City et al.. shall be limited solely to the payment as provided herein.
 2
 
-
 2.
 It is also understood and agreed that in addition to the annual compensation referred to in paragraph "1" herein, that the First Party also agrees to provide to each employee represented by a signatory Second Party in his or her respective title, payment of one (1) additional day's pay in cash at the respective daily rates as indicated in paragraph "1" herein for the holidays listed
 below and limited to the day the holiday is observed:
@@ -109,7 +106,6 @@ to 8:00 A.M.
 Effective January 3, 2020, the shift differential shall continue to be paid at a rate of $4.70 per shift.
 It is also understood and agreed that effective January 3, 2020, employees represented by the Second Party shall accrue sick leave benefits at the rate of six (6) days per year.
 3
-
 
 It is further understood and agreed that the First Party shall grant terminal leave of one (1)
 month for every ten (10) years of service prior to retirement to employees represented by a Effective January 3, 2020, no paid leave benefits set forth in Article III, Sections (1)(a)-(f)
@@ -137,7 +133,6 @@ Effective January 3, 2020, the First Party further agrees to continue to provide
 Effective January 3, 2025, the First Party further agrees to provide a sum not to exceed the annual amount of $1,675, or the pro-rata share thereof for each incumbent member of the Second Party in the title set forth in paragraph 1. The terms embodied in this paragraph are for the purpose of furnishing certain supplementary benefits in accordance with the provisions of a mutually agreed upon welfare fund as contained in the terms of a separate agreement entered into for such Employees who have been separated from service subsequent to June 30, 1978, and who were covered by a welfare fund applicable to titles covered by this indenture at the time of such separation, pursuant to a separate agreement entered into for such purpose, shall be paid on the same contributory basis as incumbent employees. Contributions shall be made, in accordance with standard City practices for these purposes, only for such time as said individuals remain primary beneficiaries of the New York City Health Insurance Program and are entitled to benefits paid for
 4
 
-
 the Employer through such Program or are retirees of the New York City Employees Retirement ystem who have completed at least five (5) years of full-time service with the City of New Yor!
 xcept that contributions for those employees hired after December 27, 2001 shall be governed b the provisions of §12-126 of the Administrative Code of the City of New York, as amended The May 5, 2014 and June 28, 2018 letter agreements regarding health savings and welfar und contributions between the Municipal Labor Committee and the City will be attached as a Appendix, and are deemed to be part of this Consent Determination.
 The rates referred to in this agreement have been agreed upon in compromise for the purposes of effectuating a settlement, and, therefore are not to be construed as rate fixations of prevailing wages under Section 220 of the Labor Law.
@@ -153,7 +148,6 @@ Waive any right to receive prevailing rates or other adjustments of wages for th
 (g)
 Waive any and all rights and remedies with respect to wage supplements now provided by Chapter 750 of the Laws of 1956 except as herein otherwise provided, for the period of this agreement; Waive any and all interest on all differentials of basic rates of wages and supplemental benefits. It is expressly understood that such waiver shall include the waiver of any right to interest payments due pursuant to subdivision 8c of Section 220 of the Labor Law (L. 1967, c, 502, SI). However, (1)
 Interest on wage increases shall accrue at the rate of three percent (3%) per
-
 
 (2)
 annum from one hundred-twenty (120) days after the filing date of this Agreement or one hundred-twenty (120) days after the effective date of the increase, whichever is later, to the date of actual payment.
@@ -201,7 +195,8 @@ President
 ### SECOND PARIY
 _Page 6_ · _OCR-reconstructed_
 
-Tractor Operators: Five Day Operations Term of Agreement: January 3, 2020 through February 2, 2025
+Tractor Operators: Five Day Operations
+Term of Agreement: January 3, 2020 through February 2, 2025
 6
 
 <a id="general-release-and-waiver-p7"></a>
@@ -243,9 +238,22 @@ _Page 8_ · _OCR-reconstructed_ · _Topics: wages, parental-leave, other-leave, 
 President/Business Manager
 8
 
-
 Office of Labor Relations
-22 CortlMdl Street, New York, NY 10007 nyc.gov/olr Renae Campion Clain, Levitt Comminionrr �puty Cammlss/onrr H�lth Carr Strotrgy Daniel Pollak Georgatla Gestaly First Orputy Cammlnlonrr Dlrrctor, Employtt IJrnr/ltf Pn,grom Nicole Andrada Gmrn,I Coun•� March 20, 2024 Joseph Colangelo President SEIU Local 246
+22 CortlMdl Street, New York, NY 10007
+nyc.gov/olr
+Renae Campion Clain, Levitt
+Comminionrr �puty Cammlss/onrr
+H�lth Carr Strategy
+Daniel Pollak
+Georgatla Gestaly
+First Deputy Cammlnlonrr
+Director, Employtt IJrnr/ltf Pn,grom
+Nicole Andrada
+Gmrn,I Coun•�
+March 20, 2024
+Joseph Colangelo
+President
+SEIU Local 246
 217 Broadway, Suite 501
 New York. NY I 0007
 Thomas Callahan
@@ -255,23 +263,43 @@ International Union of Operating Engineers - Local 15
 Long Island City, NY 11101
 Re: Payroll Paper Pay Stubs 2020-2025 Tractor Operator Agreement
 Dear Sirs:
-This is to confirm the understanding and agreement of the parties concerning payroll and paper pay stubs for employees covered under the Tractor Operator Consent Determination for the period January 3, 2020 to February 2, 2025.
-Effective as soon as practicable, following ratification of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housing Authority who receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate method at employers not on NYCAPS.
-If the above accords with your understanding, please indicate your acceptance by signing below.
+This is to confirm the understanding and agreement of the parties concerning payroll and
+paper pay stubs for employees covered under the Tractor Operator Consent Determination for
+the period January 3, 2020 to February 2, 2025.
+Effective as soon as practicable, following ratification of this agreement, all employees of
+Mayoral agencies, the Department of Education, and the New York City Housing Authority who
+receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees
+may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the
+appropriate method at employers not on NYCAPS.
+If the above accords with your understanding, please indicate your acceptance by signing
+below.
 9
 
-
 Renee Campion 6
-Agreed and Accepted on Behalf of SEIU Local 246, Agreed and Accepted on Behalf of IUOE Local 15,
+Agreed and Accepted on Behalf of SEIU Local 246,
+Agreed and Accepted on Behalf of IUOE Local 15,
 BY:
 eLA Cale
 Thomas Callahan
 President/Business Manager
 10
 
-
 Office of Labor Relations
-22 Cortlandt Street. New York, NY 10007 nyc.gov/olr Renee Campion Cl■lre Levitt Comm/ulon�r �INJIY CommlsJ/ontr tm>llh Cart Slrottw D•nJoJ Pollak G11t0rgette Gestely First Otpuly Comminlontr Dirntor, Emp/oytt, Btnt/itJ Progrom Nicol• Andrada• Gtntrol CounJtl March 20, 2024 Joseph Colangelo President SEIU Local 246
+22 Cortlandt Street. New York, NY 10007
+nyc.gov/olr
+Renee Campion Cl■lre Levitt
+Comm/ulon�r �INJIY CommlsJ/ontr
+tm>llh Cart Slrottw
+D•nJoJ Pollak
+G11t0rgette Gestely
+First Deputy Comminlontr
+Director, Emp/oytt, Btnt/itJ Progrom
+Nicol• Andrada•
+Gtntrol CounJtl
+March 20, 2024
+Joseph Colangelo
+President
+SEIU Local 246
 217 Broadway, Suite 50 I
 New York, NY I 0007
 Thomas Callahan
@@ -279,13 +307,18 @@ President/Business Manager
 International Union of Operating Engineers - Local 15
 44-40 I ph Street
 Long Island City, NY 11101
-Re: 53,000 One-Time Lump Sum Ratification Payment 2020-2025 Tractor Operator Agreement
+Re: 53,000 One-Time Lump Sum Ratification Payment 2020-2025
+Tractor Operator Agreement
 Dear Sirs:
-This is to confirm the understanding and agreement of the parties concerning the lump sum cash payment for the Tractor Operators covered by the Wage Indenture for the period January 3,
+This is to confirm the understanding and agreement of the parties concerning the lump sum
+cash payment for the Tractor Operators covered by the Wage Indenture for the period January 3,
 2020 to February 2, 2025.
-i. A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification of this Agreement to those bargaining unit members who were in active payroll status as of the date of ratification. Active payroll status is defined as being in active payroll status (''B Status"), military leave with pay ("K status"), or on paid family leave.
+i. A lump sum cash payment in the amount of $3,000, pro-rated for other than full
+time employees, shall be payable as soon as practicable upon ratification of this
+Agreement to those bargaining unit members who were in active payroll status as
+of the date of ratification. Active payroll status is defined as being in active payroll
+status (''B Status"), military leave with pay ("K status"), or on paid family leave.
 11
-
 
 ii.
 ili.

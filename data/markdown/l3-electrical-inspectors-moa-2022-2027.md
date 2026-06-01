@@ -14,9 +14,9 @@ sector: "other"
 
 # IBEW Local 3 (L3) — Electrical Inspectors Memorandum of Agreement, 2022-2027
 
-**Term:** 2022–2027
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electrical-inspectors-moa-2022-2027.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electrical-inspectors-moa-2022-2027.pdf)
-**Pages:** 4 (4 OCR-reconstructed)
+**Term:** 2022–2027  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electrical-inspectors-moa-2022-2027.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electrical-inspectors-moa-2022-2027.pdf)  
+**Pages:** 4 (4 OCR-reconstructed)  
 **Clauses extracted:** 2
 
 **Workforce:** L3 Electrical Inspectors MOA, 2022-2027 — see contract for the full recognition clause defining covered titles.
@@ -45,9 +45,8 @@ Business Representative
 Dated: Tay 21.2024
 3
 
-
 The
-Cityf
+City
 New York
 Renee Campion
 Commissioner
@@ -56,11 +55,24 @@ First Deputy Commissioner
 Nicole Andrade
 General Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.goviolr Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Progrom May 21.2024 Mr. Sean Fitzpatrick Business Representative International Brotherhood of Electrical Workers - Local 3
-158-11 Harry Van Arsdale Ave., Room 402 Flushing, NY 11365
+22 Cortlandt Street, New York, NY 10007
+nyc.goviolr
+Claire Levitt
+Deputy Commissioner
+Health Care Strategy
+Georgette Gestely
+Director, Employee Benefits Progrom
+May 21.2024
+Mr. Sean Fitzpatrick
+Business Representative
+International Brotherhood of Electrical Workers - Local 3
+158-11 Harry Van Arsdale Ave., Room 402
+Flushing, NY 11365
 Dear Mr. Fitzpatrick:
-The parties agree to a labor management forum to meet and further discuss issues related to the Administrative Inspector (Electrical) (Non-Managerial) title.
-If the above accords with your understanding, please execute the signature line provided below.
+The parties agree to a labor management forum to meet and further discuss issues related
+to the Administrative Inspector (Electrical) (Non-Managerial) title.
+If the above accords with your understanding, please execute the signature line provided
+below.
 Very Truly Yours,
 Rence Campr
 Agreed and Accepted on Behalf'of IBEW, Local 3.

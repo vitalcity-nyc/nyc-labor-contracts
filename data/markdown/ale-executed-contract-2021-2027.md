@@ -14,9 +14,9 @@ sector: "professional"
 
 # Association of Legislative Employees (ALE) — Executed Contract, 2021-2027
 
-**Term:** 2021–2027
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/ale-01-4-21-01-17-27.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/ale-01-4-21-01-17-27.pdf)
-**Pages:** 37 (37 OCR-reconstructed)
+**Term:** 2021–2027  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/ale-01-4-21-01-17-27.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/ale-01-4-21-01-17-27.pdf)  
+**Pages:** 37 (37 OCR-reconstructed)  
 **Clauses extracted:** 58
 
 **Workforce:** ALE Executed Contract, 2021-2027 — see contract for the full recognition clause defining covered titles.
@@ -29,8 +29,8 @@ sector: "professional"
 
 - [HEADS OF CONCERNED CITY DEPARTMENTS AND AGENCIES](#heads-of-concerned-city-departments-and-agencies-p1)
 - [CONTRACT](#contract-p1)
-- [NYC COUNCIL STAFF AGREEMENT](#nyc-council-staff-agreement-p2)
 - [Article XVI — SAVINGS CLAUSE..](#article-xvi-savings-clause-p2)
+- [NYC COUNCIL STAFF AGREEMENT](#nyc-council-staff-agreement-p2)
 - [Article I — UNION RECOGNITION AND UNIT DESIGNATION](#article-i-union-recognition-and-unit-designation-p3)
 - [Article II — DUES CHECK OFF](#article-ii-dues-check-off-p3)
 - [Article III — SALARIES](#article-iii-salaries-p4)
@@ -109,12 +109,6 @@ NO:
 DATE:
 04/16/24
 
-<a id="nyc-council-staff-agreement-p2"></a>
-### NYC COUNCIL STAFF AGREEMENT
-_Page 2_ · _OCR-reconstructed_
-
-2021-2027
-
 <a id="article-xvi-savings-clause-p2"></a>
 ## Article XVI — SAVINGS CLAUSE..
 _Page 2_ · _OCR-reconstructed_
@@ -137,11 +131,16 @@ _Page 2_ · _OCR-reconstructed_
 .. 12
 25006
 
-
 2021- 2027 NYC COUNCIL STAFF AGREEMENT AGREEMENT entered into this I day of April 2024 by and between the City of New York and the New York City Council pursuant to and limited to their respective election to be covered by the New York City Collective Bargaining Law and their respective authorizations to the City to bargain on their behalf (hereinafter referred to jointly as the "Employer"), and the Association of Legislative Employees (hereinafter referred to as the "Union") for the period from January 4, 2021 (for Legislative Financial Analyst and Senior Legislative Financial Analyst) and August 13, 2021 (for Council Member Aide) to January 17, 2027.
 WITNESSETH:
 WHEREAS, the parties hereto have entered into collective bargaining and desire to reduce the results thereof to writing,
 NOW, THEREFORE, it is mutually agreed as follows:
+
+<a id="nyc-council-staff-agreement-p2"></a>
+### NYC COUNCIL STAFF AGREEMENT
+_Page 2_ · _OCR-reconstructed_
+
+2021-2027
 
 <a id="article-i-union-recognition-and-unit-designation-p3"></a>
 ## Article I — UNION RECOGNITION AND UNIT DESIGNATION
@@ -162,7 +161,6 @@ Section 1.
 The Union shall have the exclusive right to the checkoff and transmittal of dues on behalf of each Employee and the Union and Employer agree to follow the process and procedures set forth in (i) the Mayor's Executive Order No. 98, dated May 15, 1969, entitled "Regulations Relating to the Checkoff of Union Dues"; and (ii) the Mayor's Executive Order No. 107, dated
 1
 25006
-
 
 December 29, 1986 entitled "Regulations Governing Procedures for Orderly Payroll Checkoff of Union Dues," to the extent permitted by law.
 Any Employee may consent in writing to the authorization of the deduction of dues from the Employee's wages and to the designation of the Union as the recipient thereof. Such consent, if given, shall be in a proper form acceptable to the City, which bears the signature of the Employee.
@@ -188,7 +186,6 @@ basic salary.
 2
 25006
 
-
 C.
 The maximum salary for a title shall not constitute a bar to the payment of any salary adjustment or pay differentials provided for in this Agreement but the said increase above the maximum shall not be deemed a promotion.
 Section 2.
@@ -204,7 +201,13 @@ _Page 5_ · _OCR-reconstructed_
 
 Council Member Aide
 Legislative Financial Analyst
-Senior Legislative Financial Analyst $55,000 $60,420 $76,320 $148,500 $70,967 $79,500
+Senior Legislative Financial Analyst
+$55,000
+$60,420
+$76,320
+$148,500
+$70,967
+$79,500
 
 <a id="section-3-ratification-bonus-p5"></a>
 ### Section 3 — Ratification Bonus
@@ -224,7 +227,6 @@ i. Effective August 13, 2021, Employees shall receive a general wage increase of
 3
 25006
 
-
 ii. Effective August 13, 2022, Employees shall receive a general wage increase of 3.00%.
 ill. Effective August 13, 2023, Employees shall receive a general wage increase of 3.00%.
 iv. Effective August 13, 2024, Employees shall receive a general wage increase of 3.00%.
@@ -238,7 +240,6 @@ Any payments or benefits to be provided under this Agreement shall only be appli
 For the purposes of this section, any employee on terminal leave at the time of ratification will be eligible for retroactive payments for general wage increases as detailed in Section 4, but will not be eligible for the
 4
 25006
-
 
 ratification bonus as detailed in Section 3.
 
@@ -271,7 +272,6 @@ Unpaid release time will be granted for union activities.
 5
 25006
 
-
 All release time is subject to pre-approval by the Speaker's Office or a designee of the Speaker's Office subject to the operational needs of the Council.
 Section 2.
 The Employer agrees not to discriminate in any way against any Employee for Union activity, but such activity shall not be carried on during working hours or in working areas except as specifically allowed by the provisions of this Agreement.
@@ -298,7 +298,6 @@ b. An alleged wrongful disciplinary action taken against a member of the bargain
 6
 25006
 
-
 Section 2.
 For a grievance brought under Section 1(a), the following grievance procedure shall apply:
 Employees may at any time informally discuss with their supervisors a matter which may become a grievance. If the results of such a discussion are unsatisfactory, the Employees may present the grievance at Step I.
@@ -318,7 +317,6 @@ Any grievance of a general nature affecting a large group of Employees and which
 7
 25006
 
-
 All other individual grievances in process concerning the same issue shall be consolidated with the "group"
 grievance.
 Section 5.
@@ -336,11 +334,9 @@ _Page 10_ · _OCR-reconstructed_ · _Topics: grievance, discipline_
 
 For a grievance brought under Section 1(b), the following grievance procedure shall apply:
 Prior to any disciplinary action, a designee of the New York City Council's Personnel Services Division may discuss complaints or disciplinary problems with an Employee when such discussions are deemed necessary.
-2. After service upon an Employee of written charges of incompetence or misconduct, a meeting with
-the Employee and, unless waived in writing by the Employee, a Union representative shall be held with respect to such charges by a designee of the Personnel Services Division, on behalf of the New York City Council. The Personnel Services designee shall not be a direct supervisor or coworker of the Employee. The Employee and the Union shall be served with written charges at least six (6) days prior to the meeting. The Employee and/or the Union shall have the right to examine any witnesses) and to present a defense to the charges. A written decision shall be issued by the designee of the Personnel Services Division by the end of the tenth (10") working day after the meeting. Disciplinary action, if any, shall be imposed consistent with the written decision.
+2. After service upon an Employee of written charges of incompetence or misconduct, a meeting with the Employee and, unless waived in writing by the Employee, a Union representative shall be held with respect to such charges by a designee of the Personnel Services Division, on behalf of the New York City Council. The Personnel Services designee shall not be a direct supervisor or coworker of the Employee. The Employee and the Union shall be served with written charges at least six (6) days prior to the meeting. The Employee and/or the Union shall have the right to examine any witnesses) and to present a defense to the charges. A written decision shall be issued by the designee of the Personnel Services Division by the end of the tenth (10") working day after the meeting. Disciplinary action, if any, shall be imposed consistent with the written decision.
 b. The Union or Employee may appeal the Personnel Services designee's decision to the New York City Council's Office of the General Counsel's designee. Such appeal shall be made within six (6) working days of the receipt of the decision. The Office of the General Counsel's designee shall review such appeal and a written decision shall be issued by the end of the tenth (104) working
 25006
-
 
 day from the date the appeal is received.
 c. An appeal from an unsatisfactory decision from the Office of the General Counsel's designee may be brought by the Union to the Office of Collective Bargaining for impartial arbitration within ten (10) working days of the receipt of the decision. Such arbitration shall be conducted by an arbitrator designated from a panel maintained by the Office of Collective Bargaining in accordance accordance with applicable law.
@@ -359,7 +355,6 @@ _Page 11_ · _OCR-reconstructed_ · _Topics: overtime, holidays, vacation, sick-
 In the event a Council Member serves successive terms, at the beginning of the new term, any employee that had worked for the Member's Office in the previous term for at least 9 months and continued to remain employed at the end of that term will be subject to a new session reorganization period for the new term. The duration of this period will be 60 calendar days, starting from the first day of the Member's new term. A Council Member may separate staff from service during this 60-day period without employee access to the disciplinary procedure described in Article VII, Section 9.
 9
 25006
-
 
 If an employee is separated due to a reorganization during this period, they will be permitted to remain on Council payroll after their last day of work at full pay for a period of 14 consecutive calendar days. Thereafter, if the employee has any accrued and unused annual leave time, the employee will be given an option to select a lumpsum payout of time or be paid out that time on consecutive Council paydays at the employee's last regular rate of pay on the employee's last day of work. The employee will not be entitled to additional accruals of annual and sick leave, earn compensatory time or receive pay for holidays or jury duty service after the employee's last day of work.
 This Article shall be applicable to all ALE-represented employees working for a Council Member's Office, including those who have been designated by a Council Member to have the in-house title of "Chief of Staff".
@@ -393,7 +388,6 @@ The absence and leave rules for Legislative Financial Analysts and Senior Legisl
 The absence and leave rules for Council Member Aides, including but not limited to, annual leave, sick leave, and holidays shall be governed by the New York City Council Absence and Leave Policy for Council Member Office Staff, dated October 12, 2023, which is attached in an Appendix to this collective bargaining agreement.
 10
 25006
-
 
 If there is a conflict between the attached leaved policies and this collective bargaining agreement, the terms of this collective bargaining agreement shail be controlling.
 
@@ -433,10 +427,10 @@ Further, the parties shall work together regarding incumbent employees' enrollme
 ## Article XIII — NO STRIKES
 _Page 13_ · _OCR-reconstructed_
 
-In accordance with the New York City Collective Bargaining Law, as amended, neither the Union nor any Employee shall induce or engage in any strikes, slowdowns, work stoppages, or mass absenteeism, or induce any
+In accordance with the New York City Collective Bargaining Law, as amended, neither the Union nor any
+Employee shall induce or engage in any strikes, slowdowns, work stoppages, or mass absenteeism, or induce any
 11
 25006
-
 
 mass resignations during the term of this Agreement. If during the term of this Agreement, Employees independently engage in any conduct prohibited by this Article, the Union shall exert its best efforts to cause such Employees to return to work.
 
@@ -462,10 +456,10 @@ The Appendix or Appendices, if any, attached hereto and initialed by the undersi
 ## Article XVI — SAVINGS CLAUSE
 _Page 14_ · _OCR-reconstructed_
 
-In the event that any provision of this Agreement is found to be invalid, such invalidity shall not impair the validity and enforceability of the remaining provisions of this Agreement.
+In the event that any provision of this Agreement is found to be invalid, such invalidity shall not impair the validity
+and enforceability of the remaining provisions of this Agreement.
 12
 25006
-
 
 WHEREFORE, we have hereunto set our hands and seals this 16 day of April, 2024
 
@@ -516,10 +510,10 @@ NO:
 25006
 DATE:
 04/16/24
-UNIT: NEW YORK CITY COUNCIL STAFF TERM: January 4, 2021 (for Legislative Financial Analyst and Senior Legislative Financial Analyst)
+UNIT: NEW YORK CITY COUNCIL STAFF
+TERM: January 4, 2021 (for Legislative Financial Analyst and Senior Legislative Financial Analyst)
 and August 13, 2021 (for Council Member Aide) through January 17, 2027
 13
-
 
 The
 New York
@@ -530,12 +524,26 @@ First Deputy Commissioner
 Nicole Andrade
 Generol Counsel
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Program April 16, 2024 Dan Kroop President Association of Legislative Employees c/o Dina Kolker Steptoe LLP
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Claire Levitt
+Deputy Commissioner
+Health Care Strategy
+Georgette Gestely
+Director, Employee Benefits Program
+April 16, 2024
+Dan Kroop
+President
+Association of Legislative Employees
+c/o Dina Kolker
+Steptoe LLP
 1114 Avenue of the Americas
 New York, NY 10036
 Re: Chiefs of Staff
 Dear Mr. Kroop,
-This letter confirms the parties' mutual understanding that individual Council Members will be permitted to designate up to one employee at any given time to serve in the in-house title of "Chief of Staff". The New York City Council will notify individual Council Members accordingly.
+This letter confirms the parties' mutual understanding that individual Council Members will be permitted to
+designate up to one employee at any given time to serve in the in-house title of "Chief of Staff". The New York
+City Council will notify individual Council Members accordingly.
 If the above conforms to your understanding, please execute below.
 Sincerely,
 Renee Campion
@@ -573,7 +581,8 @@ _Page 17_ · _OCR-reconstructed_
 NEW YORK, N.Y. 10007
 New York City Council
 Absence and Leave Policies
-The Council recognizes that employees have diverse needs for time off from work. Leave Policies have been established and are applicable to all full-time and part-time Central staff employees.
+The Council recognizes that employees have diverse needs for time off from work. Leave Policies have been established and
+are applicable to all full-time and part-time Central staff employees.
 L.
 
 <a id="annual-leave-p17"></a>
@@ -597,7 +606,6 @@ criteria:
 Page 1 of 12
 25006
 Issue Date: 3/16/2023
-
 
 • Be on healthcare provider's official stationery, and include the name, address and phone number of the healthcare provider.
 Include the signature or stamp of the healthcare provider.
@@ -623,7 +631,6 @@ Leave taken will be deducted from your sick leave hours. Employees will continue
 Page 2 of 12
 Issue Date: 3/16/2023
 25006
-
 
 Family members are defined as:
 Child (biological, adopted, or foster child; legal ward; child of an employee standing in loco parentis)
@@ -653,7 +660,6 @@ Page 3 of 12
 Issue Date: 3/16/2023
 25006
 
-
 E. Late Arrivals
 On the day that you are delayed, you may:
 • Make up the time during the workday, as authorized by your supervisor; • Charge it to your annual or compensatory time balance; or, • In the event your late arrival is due to transportation delays, you will need to indicate such on your timesheet and provide documentation from the transit authority to the Payroll Unit in Personnel Services within thirty (30)
@@ -676,7 +682,6 @@ If you are not eligible for compensatory time, hours worked in excess of thirty-
 Page 4 of 12
 Issue Date: 3/16/2023
 25006
-
 
 D. Meal Periods
 Any employee working six or more hours during their standard workday is entitled to at least thirty minutes off (free from any work duties) between 11 AM and 2 PM for lunch within that period.
@@ -704,20 +709,51 @@ Page 5 of 12
 Issue Date: 3/16/2023
 25006
 
-
 VII. HOLIDAYS
 The Council observes the following regularly paid holidays:
 Holiday
 New Year's Day
-Martin Luther King, Jr.'s Birthday Washington's Birthday Memorial Day Juneteenth Independence Day Labor Day Columbus Day Election Day Veterans Day Thanksgiving Day Christmas Day Observed January 1 Third Monday in January Third Monday in February Last Monday in May June 19 July 4 First Monday in September Second Monday in October The Tuesday following the first Monday in November DecenTer day in November When a holiday falls on a Saturday, it shall be observed on the preceding Friday. When a holiday falls on a Sunday, it shall be observed on the following Monday.
-VIII. FLOATING HOLIDAYS/PERSONAL DAYS Employees will be eligible to accrue up to four floating holidays per calendar year in addition to other types of leave.
-Floating holidays will allow employees to have additional paid leave to cover the observance of Lincoln's Birthday, absences for personal reasons, such as religious observances, parent-teacher conferences, important family events or to supplement annual, sick and holiday leave. Generally, reasonable notice must be given and appropriate approvals obtained; however, floating holidays may be used for emergency situations.
+Martin Luther King, Jr.'s Birthday
+Washington's Birthday
+Memorial Day
+Juneteenth
+Independence Day
+Labor Day
+Columbus Day
+Election Day
+Veterans Day
+Thanksgiving Day
+Christmas Day
+Observed
+January 1
+Third Monday in January
+Third Monday in February
+Last Monday in May
+June 19
+July 4
+First Monday in September
+Second Monday in October
+The Tuesday following the first Monday in November
+DecenTer day in November
+When a holiday falls on a Saturday, it shall be observed on the preceding Friday. When a holiday falls on a Sunday, it shall
+be observed on the following Monday.
+VIII. FLOATING HOLIDAYS/PERSONAL DAYS
+Employees will be eligible to accrue up to four floating holidays per calendar year in addition to other types of leave.
+Floating holidays will allow employees to have additional paid leave to cover the observance of Lincoln's Birthday, absences
+for personal reasons, such as religious observances, parent-teacher conferences, important family events or to supplement
+annual, sick and holiday leave. Generally, reasonable notice must be given and appropriate approvals obtained; however,
+floating holidays may be used for emergency situations.
 Floating holidays must be used in three and a half (3.5) hour or seven (7) hour increments only.
 • Floating holidays are available on January 1st or date of hire for employees hired after January 1*.
 Subsequently, employees accrue one floating holiday effective the 1" day of every quarter.
-• For employees who are regularly scheduled to work, at minimum, twenty (20) hours per week, a floating holiday is accrued at the rate of seven (7) hours per quarter, effective the Ist day of each quarter.
-• For employees who are regularly scheduled to work less than twenty (20) hours per week, a floating holiday is accrued at the rate of three and a half (3.5) hours per quarter, effective the Ist day of each quarter.
-Floating holidays must be taken within the calendar year in which they are given. Under no circumstances will these days be carried over to the next calendar year, nor may they be paid out upon the end of your Council employment, your transfer to an agency of the City of New York or your transfer to a Council Member Office.
+• For employees who are regularly scheduled to work, at minimum, twenty (20) hours per week, a floating
+holiday is accrued at the rate of seven (7) hours per quarter, effective the Ist day of each quarter.
+• For employees who are regularly scheduled to work less than twenty (20) hours per week, a floating
+holiday is accrued at the rate of three and a half (3.5) hours per quarter, effective the Ist day of each
+quarter.
+Floating holidays must be taken within the calendar year in which they are given. Under no circumstances will these days be
+carried over to the next calendar year, nor may they be paid out upon the end of your Council employment, your transfer to
+an agency of the City of New York or your transfer to a Council Member Office.
 IX.
 
 <a id="bereavement-p22"></a>
@@ -730,17 +766,27 @@ intermittently and must be used within three months of the death. Immediate fami
 Aunt or Uncle
 •
 Brother or sister
-Child (biological, adopted, or foster child; legal ward; child of an employee standing in loco parentis; stillbirth; or miscarriage)
+Child (biological, adopted, or foster child; legal ward; child of an employee standing in loco parentis;
+stillbirth; or miscarriage)
 ..
-Child or parent of an employee's spouse or domestic partner Domestic partner
+Child or parent of an employee's spouse or domestic partner
+Domestic partner
 :
-Father-in-law or mother-in-law Grandchild Page 6 of 12 Issue Date: 3/16/2023
+Father-in-law or mother-in-law
+Grandchild
+Page 6 of 12
+Issue Date: 3/16/2023
 25006
 
-
-Grandchild of a domestic partner Grandparent Natural, Foster or Step-Parent Sibling (including a half, adopted, or step sibling)
+Grandchild of a domestic partner
+Grandparent
+Natural, Foster or Step-Parent
+Sibling (including a half, adopted, or step sibling)
 Spouse
-• Any relative, relative-in-law or domestic partner relative residing in the employee's household Other Family Absence, not to exceed two workdays, shall be granted in the case of the death of any relative or relative-in-law not residing in the household.
+• Any relative, relative-in-law or domestic partner relative residing in the employee's household
+Other Family
+Absence, not to exceed two workdays, shall be granted in the case of the death of any relative or relative-in-law not residing
+in the household.
 Employees may use annual leave when more time is needed or in the event of a death other than those noted above.
 Documentation
 If you are unable to provide documentation, please bring this to the attention of the Payroll Unit.
@@ -770,7 +816,6 @@ Page 7 of 12
 Issue Date: 3/16/2023
 25006
 
-
 • An employee will accrue annual and sick leave during the paid parental leave period in accordance with the applicable leave provisions.
 F. Combining with Unpaid Leave • Paid parental leave may also be used in conjunction with unpaid leave after the employee has exhausted all other forms of applicable leave, up to a maximum of 80 workdays (560 hours) of total leave (paid and unpaid). This maximum may be increased at the discretion of the employee's supervisor.
 .
@@ -793,7 +838,6 @@ Extended Military Benefits Program Employees that have exhausted their statutory
 "Operation Noble Eagle," or successors thereto, or operations specifically connected by federal designation, action or implication with homeland security. Employees who participate in the EMBP shall receive the difference between their Council salary and military pay where the military pay is less than the Council salary, during the period of coverage. An employee whose military pay is greater than their Council salary will not receive any differential pay, but if such employee is Page 8 of 12 Issue Date: 3/16/2023
 25006
 
-
 serving in a covered operation, will continue to accrue leave balances and continue receiving their preexisting healthcare benefits. Further information about the EMBP can be found at http://www.nyc.gov/html/dcas/html/employees/embp.shtml.
 XII. LEAVE CREDITS FOR DONATING BLOOD OR VOLUNTEERING Blood Donation at Council Blood Drive All employees are permitted to participate in Council blood drives held at 250 Broadway and City Hall, up to two times a calendar year. Employees are only excused for the amount of time it takes to donate blood (including going to and returning from the donation site) and recovery.
 All employees who successfully donate blood at a Council blood drive at 250 Broadway or City Hall will be granted three hours of blood drive credit for each time in the calendar year that they donate, up to two times a calendar year. Blood drive credit must be used within one year of the blood drive donation or it will be forfeited.
@@ -815,7 +859,6 @@ XIV. TIME OFF FOR CERTAIN PERSONAL EVENTS In addition to any other leave that ma
 to address certain personal events such as:
 • the need to provide care to a minor child or care recipient; • the need to attend a legal proceeding or hearing for subsistence benefits to which the employee, a family member or the employee's care recipient is a party; or Page 9 of 12 Issue Date: 3/16/2023
 25006
-
 
 • any circumstance that would constitute a basis for use of safe time or sick leave (as provided in Section II and Section Ill above).
 Instead of utilizing unpaid leave in relation to the above, employees may also obtain another temporary scheduling adjustment or work location adjustment. Employees are entitled to a temporary scheduling adjustment to address any of the above-mentioned personal events up to two times per calendar year.
@@ -842,9 +885,9 @@ After an employee's last day of work, if the employee has any accrued and unused
 If an employee will be transferring to a City agency, the rollover of any and all time is at the discretion of the new City Page 10 of 12 Issue Date: 3/16/2023
 25006
 
-
 ***
-The types of leave detailed above are not exhaustive. For further information related to leave that may be available, employees should contact the Payroll Unit in Personnel Services.
+The types of leave detailed above are not exhaustive. For further information related to leave that may be available,
+employees should contact the Payroll Unit in Personnel Services.
 Page 11 of 12
 Issue Date: 3/16/2023
 25006
@@ -853,7 +896,12 @@ Issue Date: 3/16/2023
 ### ANNUAL LEAVE ACCRUAL TABLES
 _Page 28_ · _OCR-reconstructed_ · _Topics: vacation_
 
-ANNUAL LEAVE - REGULAR STAFF SCHEDULED TO WORK 35 HOURS PER WEEK Length of Service Monthly Accrual Monthly Accrual Calendar Year Amount (in hours)
+ANNUAL LEAVE - REGULAR STAFF SCHEDULED TO WORK 35 HOURS PER WEEK
+Length of Service
+Monthly Accrual
+Monthly Accrual
+Calendar Year
+Amount (in hours)
 Amount (in days)
 Accrual Amount
 (in hours)
@@ -873,7 +921,12 @@ Beginning of 15th year
 15.75
 2.25
 189.00
-ANNUAL LEAVE - REGULAR STAFF SCHEDULED TO WORK 20 to 34 HOURS PER WEEK Length of Service Monthly Accrual Monthly Accrual Calendar Year Amount (in hours)
+ANNUAL LEAVE - REGULAR STAFF SCHEDULED TO WORK 20 to 34 HOURS PER WEEK
+Length of Service
+Monthly Accrual
+Monthly Accrual
+Calendar Year
+Amount (in hours)
 Amount (in days)
 Accrual Amount
 (in hours)
@@ -924,7 +977,13 @@ Beginning of 15th year
 2.250
 189.00
 27
-ANNUAL LEAVE - PROFESSIONAL STAFF SCHEDULED TO WORK 20 to 34 HOURS PER WEEK Length of Service Monthly Accrual Monthly Accrual Calendar Year Accrual Amount Amount (in hours)
+ANNUAL LEAVE - PROFESSIONAL STAFF SCHEDULED TO WORK 20 to 34 HOURS PER WEEK
+Length of Service
+Monthly Accrual
+Monthly Accrual
+Calendar Year
+Accrual Amount
+Amount (in hours)
 Amount (in days)
 (in hours)
 Calendar Year
@@ -1016,7 +1075,12 @@ Accrual Amount
 25
 189.00
 27
-SCHEDULED TO WORK 20 to 34 HOURS PER WEEK Length of Service Monthly Accrual Amount (in hours Monthly Accrual Amount (in days)
+SCHEDULED TO WORK 20 to 34 HOURS PER WEEK
+Length of Service
+Monthly Accrual
+Amount (in hours
+Monthly Accrual
+Amount (in days)
 Calendar Year
 Accrual Amount
 (in hours)
@@ -1082,7 +1146,6 @@ Page 2 of 9
 Effective Date: 10-12-23
 25006
 
-
 Examples of patterned absences are:
 • Repeated use of unscheduled sick leave on or adjacent to weekends, regularly scheduled days off, holidays, vacation, or payday.
 • Taking leave on days when other leave has been denied.
@@ -1113,14 +1176,14 @@ Page 3 of 9
 Effective Date: 10-12-23
 25006
 
-
 V.
 
 <a id="work-schedules-p32"></a>
 ### WORK SCHEDULES
 _Page 32_ · _OCR-reconstructed_
 
-Employees must follow established workweek schedules. Employees will be informed of work schedules by their immediate supervisors.
+Employees must follow established workweek schedules. Employees will be informed of work schedules by their immediate
+supervisors.
 Meal Periods
 
 <a id="holidays-p32"></a>
@@ -1128,12 +1191,41 @@ Meal Periods
 _Page 32_ · _OCR-reconstructed_ · _Topics: holidays, hours_
 
 The Council observes the following regularly paid holidays:
-Any employee working more than six hours during their standard workday is entitled to at least thirty minutes off (free from any work duties) between 11 AM and 2 PM for lunch within that period.
-Furthermore, any employee who starts working before 11 AM and ends working after 7 PM is entitled to an additional 20 minutes off (fee from any work duties) between 5 PM and 7 PM for an additional meal during that period.
-Any employee working more than six hours starting between 1 PM and 6 AM is entitled to at least 45 minutes off (fe Tom any work duties) for a meal period at a time midway between their work schedule VI.
+Any employee working more than six hours during their standard workday is entitled to at least thirty minutes off (free
+from any work duties) between 11 AM and 2 PM for lunch within that period.
+Furthermore, any employee who starts working before 11 AM and ends working after 7 PM is entitled to an additional 20
+minutes off (fee from any work duties) between 5 PM and 7 PM for an additional meal during that period.
+Any employee working more than six hours starting between 1 PM and 6 AM is entitled to at least 45 minutes off (fe
+Tom any work duties) for a meal period at a time midway between their work schedule
+VI.
 Holiday
 New Year's Day
-Martin Luther King, Jr.'s Birthday Washington's Birthday Memorial Day Juneteenth Independence Day Labor Day Columbus Day Election Day Veterans Day Thanksgiving Day Christmas Day Observed January 1 Third Monday in January Third Monday in February Last Monday in May June 19 July 4 First Monday in September Second Monday in October The Tuesday following the first Monday in November November 11 Fourth Thursday in November December 25 When a holiday falls on a Saturday, it shall be observed on the preceding Friday. When a holiday falls on a Sunday, it shall be observed on the following Monday.
+Martin Luther King, Jr.'s Birthday
+Washington's Birthday
+Memorial Day
+Juneteenth
+Independence Day
+Labor Day
+Columbus Day
+Election Day
+Veterans Day
+Thanksgiving Day
+Christmas Day
+Observed
+January 1
+Third Monday in January
+Third Monday in February
+Last Monday in May
+June 19
+July 4
+First Monday in September
+Second Monday in October
+The Tuesday following the first Monday in November
+November 11
+Fourth Thursday in November
+December 25
+When a holiday falls on a Saturday, it shall be observed on the preceding Friday. When a holiday falls on a Sunday, it shall
+be observed on the following Monday.
 VIL.
 
 <a id="floating-holidays-personal-days-p32"></a>
@@ -1152,13 +1244,23 @@ Page 4 of 9
 Effective Date: 10-12-23
 25006
 
-
 • Aunt or Uncle
 • Brother or sister
-• Child (biological, adopted, or foster child; legal ward; child of an employee standing in loco parentis; stillbirth; or miscarriage)
-• Child or parent of an employee's spouse or domestic partner • Domestic partner • Father-in-law or mother-in-law • Grandchild • Grandchild of a domestic partner • Grandparent • Natural, Foster or Step-Parent Sibling (including a half, adopted, or step sibling)
+• Child (biological, adopted, or foster child; legal ward; child of an employee standing in loco parentis; stillbirth;
+or miscarriage)
+• Child or parent of an employee's spouse or domestic partner
+• Domestic partner
+• Father-in-law or mother-in-law
+• Grandchild
+• Grandchild of a domestic partner
+• Grandparent
+• Natural, Foster or Step-Parent
+Sibling (including a half, adopted, or step sibling)
 • Spouse
-• Any relative, relative-in-law or domestic partner relative residing in the employee's household Other Family Absence, not to exceed two workdays, shall be granted in the case of the death of any relative or relative-in-law not residing in the household.
+• Any relative, relative-in-law or domestic partner relative residing in the employee's household
+Other Family
+Absence, not to exceed two workdays, shall be granted in the case of the death of any relative or relative-in-law not residing
+in the household.
 Employees may use annual leave when more time is needed or in the event of a death other than those noted above.
 Documentation
 If you are unable to provide documentation, please bring this to the attention of the Payroll Unit.
@@ -1185,7 +1287,6 @@ Page 5 of 9
 Effective Date: 10-12-23
 25006
 
-
 D. Combining with Annual Leave and Sick Leave • Paid parental leave may be used in conjunction with accrued annual leave, up to a maximum of 80 workdays (560 hours) of total paid leave. At the discretion of the employee's supervisor, the employee may be allowed to combine additional annual leave accruals with paid parental leave beyond this maximum.
 • Use of sick leave to combine with paid parental leave will be subject to applicable leave provisions regarding sick leave (see Section II).
 • An employee may also use paid parental leave without using accrued annual and/or sick leave.
@@ -1210,7 +1311,6 @@ Page 6 of 9
 Effective Date: 10-12-23
 25006
 
-
 Extended Military Benefits Program Employees who have exhausted their statutory entitlement and who have been called up for "ordered military duty" may be eligible for enrollment in the Extended Military Benefits Program (EMBP). To qualify, an employee must be performing "ordered military duty" in connection with a covered operation. Covered operations are those military operations designated by the federal government of the United States, in support of "Operation Enduring Freedom," "Operation Iraqi Freedom,"
 "Operation Noble Eagle," or successors thereto, or operations specifically connected by federal designation, action or implication with homeland security. Employees who participate in the EMBP shall receive the difference between their Council salary and military pay where the military pay is less than the Council salary, during the period of coverage. An employee whose military pay is greater than their Council salary will not receive any differential pay, but if such employee is serving in a covered operation, will continue to accrue leave balances and continue receiving their preexisting healthcare benefits. Further information about the EMBP can be found at https://www.nyc.gov/site/dcas/agencies/extended-militarybenefits.page.
 XI. LEAVE CREDITS FOR DONATING BLOOD OR VOLUNTEERING Blood Donation at Council Blood Drive All employees are permitted to participate in Council blood drives held at 250 Broadway and City Hall, up to two times a calendar year. Employees are only excused for the amount of time it takes to donate blood (including going to and returning from the donation site) and recovery.
@@ -1229,7 +1329,6 @@ Combined Leave Credits
 Combined blood and volunteer leave credits for each calendar year may not exceed a total of six credits.
 XII. EXCUSED LEAVE TIME FOR CANCER SCREENINGS Page 7 of 9 Effective Date: 10-12-23
 25006
-
 
 Employees must provide timely documentation of the screening, as requested by the Council. The leave may be applied retroactively following receipt and verification of the documentation.
 XIII. TIME OFF FOR CERTAIN PERSONAL EVENTS In addition to any other leave that may be applicable, employees are granted up to two (2) days of unpaid leave per calendar
@@ -1253,7 +1352,6 @@ Unauthorized absences of four or more consecutive days, without notice, shall be
 Page 8 of9
 Effective Date: 10-12-23
 25006
-
 
 XVII. SEPARATION GUIDELINES (TERMINAL LEAVE)
 After an employee's last day of work, if the employee has any accrued and unused annual leave time, the employee will be given an option to select a lump-sum payout of time or be paid out that time on consecutive Council paydays at the employee's last regular rate of pay on the employee's last day of work. If an employee has continuous City service for 10 years or more, the employee will be eligible for a 50% payout of available, unused sick leave as of their last day worked. The employee will not be entitled to additional accruals of annual and sick leave, earn compensatory time or receive pay for holidays or jury duty service after the employee's last day of work.

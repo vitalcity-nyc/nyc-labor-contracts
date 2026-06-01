@@ -14,9 +14,9 @@ sector: "other"
 
 # Sanitation Officers Association (SOA) — Unit Agreement, 2023-2028
 
-**Term:** 2023–2028
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/soa-2022-2027-unit-agremeen-side-letter.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/soa-2022-2027-unit-agremeen-side-letter.pdf)
-**Pages:** 3 (3 OCR-reconstructed)
+**Term:** 2023–2028  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/soa-2022-2027-unit-agremeen-side-letter.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/soa-2022-2027-unit-agremeen-side-letter.pdf)  
+**Pages:** 3 (3 OCR-reconstructed)  
 **Clauses extracted:** 1
 
 **Workforce:** SOA Unit Agreement, 2023-2028 — see contract for the full recognition clause defining covered titles.

@@ -1,30 +1,33 @@
 ---
 contract_id: cca-unit-agreement-2022-2028
 label: "CCA Unit Agreement, 2022-2028"
-expanded_label: "CCA Unit Agreement, 2022-2028"
+expanded_label: "Correction Captains Association (CCA) — Unit Agreement, 2022-2028"
 term_start: 2022
 term_end: 2028
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cca-2022-2028-letter-agreement-side-letter.pdf"
 pages: 4
-ocr_pages: 4
-ocr_engine: google-cloud-vision
-clauses: 4
+ocr_pages: 3
+pages_with_tables: 0
+clauses: 3
 sector: "other"
 ---
 
-# CCA Unit Agreement, 2022-2028
+# Correction Captains Association (CCA) — Unit Agreement, 2022-2028
 
 **Term:** 2022–2028  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cca-2022-2028-letter-agreement-side-letter.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cca-2022-2028-letter-agreement-side-letter.pdf)  
-**Pages:** 4 (re-OCR'd via Google Cloud Vision)
+**Pages:** 4 (3 OCR-reconstructed)  
+**Clauses extracted:** 3
 
-> This contract was originally OCR'd via macOS Vision and contained heavy transcription errors. It was re-processed with Google Cloud Vision's DOCUMENT_TEXT_DETECTION on 2026-05-06. The text below is the re-OCR'd output. Verify quotations against the source PDF before publishing.
+**Workforce:** CCA Unit Agreement, 2022-2028 — see contract for the full recognition clause defining covered titles.
+
+> This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 
 ---
 
-<a id="page-1"></a>
+<a id="page-1-p1"></a>
 ### Page 1
-_OCR via Google Cloud Vision_
+_Page 1_ · _OCR-reconstructed_
 
 The
 City of
@@ -70,9 +73,9 @@ retirees. The total contribution rate as of this date shall be $1,656 per annum 
 behalf of active employees and retirees, exclusive of any contributions due
 pursuant to agreements between the City and Municipal Labor Committee.
 
-<a id="page-2"></a>
+<a id="page-2-p2"></a>
 ### Page 2
-_OCR via Google Cloud Vision_
+_Page 2_ · _OCR-reconstructed_
 
 3. As soon as practicable after November 30, 2027, the City shall make a one-time lump
 sum annuity contribution of $4,518,304, which shall be distributed by the annuity fund in
@@ -106,14 +109,14 @@ Sincerely,
 всес
 Renee Campion
 
-<a id="page-3"></a>
+<a id="page-3-p3"></a>
 ### Page 3
-_OCR via Google Cloud Vision_
+_Page 3_ · _OCR-reconstructed_
 
 The
 City of
 New York
-Renee Camplon
+Renee Campion
 Commissioner
 Daniel Pollak
 Office of Labor Relations
@@ -147,3 +150,5 @@ Patrick Ferraiuolo, President
 Sincerely,
 Renee Campion
 
+---
+_End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cca-2022-2028-letter-agreement-side-letter.pdf>_

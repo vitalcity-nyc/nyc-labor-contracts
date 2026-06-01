@@ -16,9 +16,9 @@ headcount_approx: 2500
 
 # Uniformed Fire Officers Association (UFOA) — Fire Officers Agreement, 2018-2021
 
-**Term:** 2018–2021
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/fire-officers-2018-2021.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/fire-officers-2018-2021.pdf)
-**Pages:** 69
+**Term:** 2018–2021  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/fire-officers-2018-2021.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/fire-officers-2018-2021.pdf)  
+**Pages:** 69  
 **Clauses extracted:** 62
 
 **Workforce:** Represents FDNY lieutenants, captains, battalion chiefs, deputy chiefs, fire medical officers, and supervising fire marshals. Most recent published contract on OLR is the 2018-2021 Fire Officers Agreement; economic terms for the 2022-2027 cycle are set by the Uniformed Coalition Economic Agreement.
@@ -30,13 +30,13 @@ headcount_approx: 2500
 ## Contents
 
 - [REGISTRAT10N](#registrat10n-p1)
-- [FIRE OFFICERS](#fire-officers-p2)
-- [Article VI — OUT-OF-TITLE SPECIAL ASSIGNMENT TOUR.S ......................................... 16](#article-vi-out-of-title-special-assignment-tour-s-16-p2)
-- [Article IX — FAMil..Y PROTECTION PLAN FUND .............................................................. 19](#article-ix-famil-y-protection-plan-fund-19-p2)
 - [Article XXII — DETAILS TO OTliER UNITS ........................................................................ 36](#article-xxii-details-to-otlier-units-36-p2)
 - [Article XXV — A-PRODUCTMTY ISSUES .......................................................................... 39](#article-xxv-a-productmty-issues-39-p2)
+- [FIRE OFFICERS](#fire-officers-p2)
 - [Article XXV — C - NEW PROGRAMS ......................................................................................4 1](#article-xxv-c-new-programs-4-1-p2)
 - [Article XXXI — SAV INOS CLAUSE ...................................................................................... 45](#article-xxxi-sav-inos-clause-45-p2)
+- [Article VI — OUT-OF-TITLE SPECIAL ASSIGNMENT TOUR.S ......................................... 16](#article-vi-out-of-title-special-assignment-tour-s-16-p2)
+- [Article IX — FAMil..Y PROTECTION PLAN FUND .............................................................. 19](#article-ix-famil-y-protection-plan-fund-19-p2)
 - [FIRE OFFICERS](#fire-officers-p4)
 - [Article I — RECOGNITION](#article-i-recognition-p4)
 - [Article IV — UNION REPRESENTATION](#article-iv-union-representation-p10)
@@ -113,26 +113,6 @@ J' ) ,, , ......
 ti 1 ) '
 DATE:
 
-<a id="fire-officers-p2"></a>
-### FIRE OFFICERS
-_Page 2_ · _Topics: hours, recognition_
-
-2018 - 2021 AGREEMENT
-Table of Contents
-ART IC LE I • RECOGNITION ........................................................................................................2 ARTICLE II· UNION SECURrrY ................................................................................................ 2 m • ARTICLE WORK SCHEDULE .............................................................................................. 3 ARTICLE IV· UNION REPRESENTATION ............................................................................... 8
-
-<a id="article-vi-out-of-title-special-assignment-tour-s-16-p2"></a>
-## Article VI — OUT-OF-TITLE SPECIAL ASSIGNMENT TOUR.S ......................................... 16
-_Page 2_ · _Topics: hours_
-
-ARTICLE VIl - TEMPORARY ASSIGNMENTS ....................................................................... 17 ARTICLE Vill-NIGHT SHIF'f DIFFERENTIAL ...................................................................... 18
-
-<a id="article-ix-famil-y-protection-plan-fund-19-p2"></a>
-## Article IX — FAMil..Y PROTECTION PLAN FUND .............................................................. 19
-_Page 2_
-
-ART IC LE X - HEALT H AND HOSPITALIZATION BENEITTS .............................................. 20
-
 <a id="article-xxii-details-to-otlier-units-36-p2"></a>
 ## Article XXII — DETAILS TO OTliER UNITS ........................................................................ 36
 _Page 2_
@@ -144,6 +124,14 @@ ART IC LE XXIII - SPEClAL EXPENSE FUND .........................................
 _Page 2_
 
 ARTICLE }(XV-B - PRODUCTMTY ISSUES ..........................................................................4 0
+
+<a id="fire-officers-p2"></a>
+### FIRE OFFICERS
+_Page 2_ · _Topics: hours, recognition_
+
+2018 - 2021 AGREEMENT
+Table of Contents
+ART IC LE I • RECOGNITION ........................................................................................................2 ARTICLE II· UNION SECURrrY ................................................................................................ 2 m • ARTICLE WORK SCHEDULE .............................................................................................. 3 ARTICLE IV· UNION REPRESENTATION ............................................................................... 8
 
 <a id="article-xxv-c-new-programs-4-1-p2"></a>
 ## Article XXV — C - NEW PROGRAMS ......................................................................................4 1
@@ -158,9 +146,20 @@ _Page 2_ · _Topics: overtime, health-welfare_
 Uniformed Fire Officers Association Tenn: Much 20. 2018 ID July 30, 2021
 22 02 2
 
-
 ---------------------- Appendix A - Side letter regarding Medical Expert Appendix B-Side letter regarding Employees Transferring from the Department ofC orrection to the Fire Department Appendix C - Side letter regarding Outside Activities Appendix D - Side letter regarding Private Room Accomodations for Employees Injured in the LineofDuty Appendix E - Side letter regarding Exchange of Information Appendix F - Side letter regarding Line of Duty Prescription Drugs Appendix G - Side letter regarding Executive Order 75 Appendix H - Side letter regarding Paperwork Reduction Appendix I - Side letter regarding Parity Appendix J - Side letter regarding Pensions Appendix K - Side letter regarding Fire Salvage Program Appendix L - Side letter regarding Special Assignments Appendix M - Side letter regarding Headcount Changes Appendix N - Side letter regarding Extra Departmental Employment Appendix O - Side letter regarding Compensatory Time Appendix P-Side letter regarding Health Savings and Welfare Fund Contributions Uniformed Fire Officc:n Association Term: March 20, 201 B to July 30, 2021
 22 0 2 2
+
+<a id="article-vi-out-of-title-special-assignment-tour-s-16-p2"></a>
+## Article VI — OUT-OF-TITLE SPECIAL ASSIGNMENT TOUR.S ......................................... 16
+_Page 2_ · _Topics: hours_
+
+ARTICLE VIl - TEMPORARY ASSIGNMENTS ....................................................................... 17 ARTICLE Vill-NIGHT SHIF'f DIFFERENTIAL ...................................................................... 18
+
+<a id="article-ix-famil-y-protection-plan-fund-19-p2"></a>
+## Article IX — FAMil..Y PROTECTION PLAN FUND .............................................................. 19
+_Page 2_
+
+ART IC LE X - HEALT H AND HOSPITALIZATION BENEITTS .............................................. 20
 
 <a id="fire-officers-p4"></a>
 ### FIRE OFFICERS
@@ -189,9 +188,7 @@ The employer further agrees that all new employees hired subsequent to the date 
 Uniformed Fire Officcn Associatio11 2 Term: Mll"Ch 20, 2018 to July 30, 2021
 22 02 2
 
-
-- - -------------------------------
-- -- Section 3.
+- - ------------------------------- - -- Section 3.
 It is further agreed that the decision to become or remain members of the Union in good standing shall remain discretionSJY both with the employees and with the Union subject to the provisions of Section 12-314 of the Administrative Code.
 Section 4.
 A. The Union shall have the exclusive right to the checkoff and transmittal of dues on behalf of each employee in the Unit and the City shall checkoff and transmit such dues to the Union, all in accordance with the Mayor's Executive Order #98, dated May 15, 1969, entitled ..R EGULATIONS REGULAT ING THE CHECKOFF OF UNION DUES" and in accordance with the Mayor's Executive Order #107, dated December 29, 1986, entitled "REGULATIONS GOVERNING PROCEDURES FOR ORDERLY PAYROLL CHECKOFF OF UNION DUES."
@@ -206,7 +203,6 @@ the Fire Officer duty schedule described in this Article For the purpose hereof,
 Uniformed Fin: Offic:c:rs Association 3 Tenn: Man:b 20, 201B to Iuly 30, 2021
 22 0 2 2
 
-
 (ii) Prior to an involuntary assignment, the Department shall endeavor to obtain qualified volunteers. The determination of such Fire Officer's qualifications shall be made at the discretion of the Department, whose decision shall be final. The involuntary assignment of a Fire Officer shall be limited to one year, but may be extended to two years in such cases where unique and extraordinary skills or functions are required and where such assignment is of critical importance to the Fire Department.
 (ill) Notwithstanding the foregoing no such assignment shall be made on a punitive basis.
 C. Communicative Time.
@@ -218,7 +214,6 @@ Section 3.
 When Fire Officers (line) are not continued on duty but are ordered to report for emergency duty from a scheduled off-tour or a scheduled rest period, they shall be compensated for a minimum of four hours if not assigned to duty and for a minimum of six hours if assigned to duty. Such compensation shall be at the overtime rate of time and one-half, in accord with Section 2 of this Article.
 Uniformed Fire Officer, Association 4 Tenn: March 20, 2018 to July 30, 2021
 22 0 2 2
-
 
 Section 4.
 Notwithstanding anything to the contrary provided herein, any Fire Officer (line) who is recalled to duty after having completed that employee's regular tour ofd uty but before the commencement of the next regular tour and who is assigned to duty or held without assignment for a period which extends into the commencement of that employee's next regular tour shall be compensated pursuant to the regular overtime provisions of Section 2 oft his Article only for the actual time so assigned or held; and the same shaU be deemed pre-shift overtime.
@@ -235,7 +230,6 @@ referred to in this Article
 B. Ordered overtime authorized by the Commissioner or the Chief Fire Marshal as the designated representative which results in a Supervising Fire Marshal working in excess of the normal tour of duty shall be compensable in cash at time and one-half. Members Uniformed Firi: Officers Association Tenn: March 20, 2018 to July 30, 2021
 22 02 2
 
-
 assigned to SFM Level II shall receive compensatory time in lieu of cash overtime.
 C. When Supervising Fire Marshals not continued on duty are ordered to report for Court on a scheduled off-tow-or a scheduled rest period, they shall be compensated for a minimum of four hours in cash at the overtime rate. The four hours of compensation shall include any travel time to which they are presently entitled.
 D. Supervising Fire Marshals shall not be rescheduled when required to appear in court in connection with matters assigned to them.
@@ -244,7 +238,7 @@ Cash payment for overtime work as provided in Article ID, Section 2, of this con
 Section 7.
 Newly promoted Fire Officers shall receive either regular compensation or, in the event of overtime, appropriate overtime compensation for training required by the Department, including assessment and orientation programs.
 Section 8.
-Overtime generated by post coverage requirements for company officers shall, to the greatest extent practicable, be equalized among employees in rank. Specifically, aUocation of overtime shall be governed by PA/ID 5-75 as amended. This Order is incorporated by reference hereto and shall not be modified, except by mutual consent, during the term of this Agreement. The Department will provide the Union with the number and location ofp ost coverage assignments on a biweekly basis.
+Overtime generated by post coverage requirements for company officers shall, to the greatest extent practicable, be equalized among employees in rank. Specifically, aUocation of overtime shall be governed by PA/ID 5-75 as amended. This Order is incorporated by reference hereto and shall not be modified, except by mutual consent, during the term of this Agreement. The Department will provide the Union with the number and location ofp ost coverage assignments on a bi-weekly basis.
 Section 9.
 Notwithstanding anything herein appearing to the contrary, overtime shalJ continue to be calculated on the basis of 2088 hours per year.
 Section 10.
@@ -255,11 +249,7 @@ l. Time spent in court by off tour members,
 Uniformed FiR Officm; Association Tenn: March 20, 2018 to July 30, 2021
 2202 2
 
-
-3. Time spent at the base while doing paperwork following the conclusion ofhis/ber
-tour, and
-4. Time spent at the base when assigned to the telephone for the entire tour and no
-light duty personnel are available.
+3. Time spent at the base while doing paperwork following the conclusion ofhis/ber tour, and 4. Time spent at the base when assigned to the telephone for the entire tour and no light duty personnel are available.
 The Fire Department shall not attempt to evade the provisions of this definition by assigning more than one Fire Marshal to a telephone at the base.
 Section 11.
 a. Effective February 1, 2015, the Department may schedule two eight (8) hour training days that normally would have been scheduled at an overtime rate, at the straight time rate.
@@ -299,7 +289,6 @@ Class of Positions Or
 Unifomicd Fire Officen Association I Term: March 20, 2018 10 July 30, 2021
 2202 2
 
-
 Detail and Increment Step
 (i) Lieutenant- promoted prior to March l 2006
 1
@@ -307,30 +296,35 @@ Detail and Increment Step
 Maximum $111,821 SI 14,617 SI 18,056
 3rd step $102,135 $104,688 $107,829
 2nd step $100,704 SlOJ,222 $106,319
-1st step $99,257 $101,738 $104,790 Lieutenant - promoted on or after March l 2006
+1st step $99,257 $101,738 $104,790
+Lieutenant - promoted on or after March l 2006
 1
 3/20/2018 3/2Q/2019 3/20/2020
 Maximum $111,821 $114,617 $118,056
 4th step $95,106 $97,484 $100,409
 3rd step $93,726 $96,069 $98,951
 2nd step $93,109 $95,437 $98,300
-1st step $92,492 $94,804 $97,648 (ii) Captains
+1st step $92,492 $94,804 $97,648
+(ii) Captains
 3/20/2018 3/20/2019 3/20/2020
 Maximum $128,355 $131,564 Sl35,511
 3rd step $116,891 $119,813 $123,407
 2nd step $114,885 $117,757 $121,290
-1st step $112,879 $115,701 $119,172 (iii) Battalion Chief
+1st step $112,879 $115,701 $119,172
+(iii) Battalion Chief
 3/20/2018 3/20/2019 3/20/2020
 Maximum S167,132 $171,310 $176,449
 3rd step $146,211 $149,866 $154,362
-2nd step $137,622 $141,063 $145,295 I st step $129,027 $132,253 $136,221 (iv) Deputy Chief
+2nd step $137,622 $141,063 $145,295
+I st step $129,027 $132,253 $136,221
+(iv) Deputy Chief
 3/20/2018 3/20/2019 3/20/2020
 Maximum $185,248 $189,879 $195,575
 3rd step $169,283 $173,515 $178,720
 2nd step $159,176 $163,155 $168,050
-1st step $149,088 $152,815 $157,399 Unifonnc:d Fire Officers Association Term: March 20, 2018 to July 30, 2021
+1st step $149,088 $152,815 $157,399
+Unifonnc:d Fire Officers Association Term: March 20, 2018 to July 30, 2021
 2202 2
-
 
 (v) Fire Medical Officer-promoted prior to March 20, 2006
 3/20/2018 3/20/2019 3/20/2020
@@ -338,24 +332,28 @@ Maximum $145,372 $149,006 $153,476
 4th step $133,788 $137,133 $141,247
 3rd step $130,303 $133,561 $137,568
 2nd step $126,814 $129,984 $133,884
-1st step $123,326 $126.409 $130,201 Fire Medical Officer- promoted on or after March 20, 2006
+1st step $123,326 $126.409 $130,201
+Fire Medical Officer- promoted on or after March 20, 2006
 3/20/2018 3/20/2019 3/20/2020
 Maximwn $145,372 $149,006 $153,476
 4th step $126,330 $129,488 $133,373
 3rd step $125,329 $128,462 $132,316
 2nd step $124,328 $127,436 $131,259
-1st step $123,326 $126,409 $130,201 (vi) Supervising Fire Marshal Level I - promoted prior to March 1, 2006
+1st step $123,326 $126,409 $130,201
+(vi) Supervising Fire Marshal Level I - promoted prior to March 1, 2006
 3/20/2018 3/20/2019 3/20/2020
 Maximum $122,287 $125,344 $129,104
 3rd step $111,831 $114,627 $118,066
 2nd step $110,398 $113,158 $116,553
-1st step $108,955 $111,679 $115,029 Supervising Fire Marshal Level I-promoted on or after March 1, 2006
+1st step $108,955 $111,679 $115,029
+Supervising Fire Marshal Level I-promoted on or after March 1, 2006
 3/20/2018 3/20/2019 3/20/2020
 Maximum $122,287 $125,344 $129,104
 4th step $113,457 $116,293 $119,782
 3rd step $110,989 $113,764 $117,177
 2nd step $109,634 $112,375 $115,746
-1st step $107,784 $110.479 $113,793 Supervising Fire Marshal Level II
+1st step $107,784 $110.479 $113,793
+Supervising Fire Marshal Level II
 
 <a id="j-20-2018-3-20-2019-3-20-2020-p12"></a>
 ### J/20/2018 3/20/2019 3/20/2020
@@ -364,15 +362,19 @@ _Page 12_ · _Topics: wages, longevity, pension, hours, shift-differential_
 Flat rate $161,301 $165,334 $170,294 Note: A Lieutenant promoted to Supervising Fire Marshal shall be paid at the step of the Uniformed Fire Officc:rs Association lO Term: March 20, 2018 to July 30, 2021
 22022
 
-
 Supervising Fire Marshal Level I schedule which the employee attained as a Lieutenant.
-Members assigned to SFM Level II for three (3) or more years who are assigned to SFM Level I thereafter shall continue to be compensated at the level of SFM Level II.
+Members assigned to SFM Level II for three (3) or more years who are assigned to SFM Level I
+thereafter shall continue to be compensated at the level of SFM Level II.
 Section 2.
-An employee shall advance one increment step annually, dating from the anniversary date of appointment.
+An employee shall advance one increment step annually, dating from the anniversary date of
+appointment.
 Section 3.
 Longevity
 A. Effective March 20, 2018, longevity pay shall continue to be paid as follows:
-With 5 years of service ...... $5,000 With 10 years of service ....$ 6,000 With 15 years ofs ervice ....$ 7, 000 With 20 years ofservice, ...$ 8,000
+With 5 years of service ...... $5,000
+With 10 years of service ....$ 6,000
+With 15 years ofs ervice ....$ 7, 000
+With 20 years ofservice, ...$ 8,000
 Effective July 30, 2021 longevity pay shall be paid as follows:
 (i) Lieutenant
 Longevity 7/30/2021
@@ -391,7 +393,6 @@ Total After 25 years $10,655
 (ii} Captains
 Unifonncd Fin: Officers Association 11 Term MArCh 20, 2018 co July 30, 2021
 22 02 2
-
 
 Longevity
 After 5 years
@@ -451,7 +452,6 @@ $5,000
 2 Term: Mui:h 20, 20 l Bt o July 30, 2021
 22 02 2
 
-
 After 10 years
 After 15 years
 After 15 years*
@@ -475,7 +475,22 @@ Total After 20 years
 After 25 years
 After 25 years*
 Total After 25 years
-(vi) Supervising Fire Marshal, Level I Longevity After 5 years After l Oy ears After 15 years Unifonnc:d Fire Officers Association 13 $6,000 $7,000 $1,467 $8,467 $8,000 $2,934 $10,934 $8,000 $4,401 $12,401
+(vi) Supervising Fire Marshal, Level I
+Longevity
+After 5 years
+After l Oy ears
+After 15 years
+Unifonnc:d Fire Officers Association 13
+$6,000
+$7,000
+$1,467
+$8,467
+$8,000
+$2,934
+$10,934
+$8,000
+$4,401
+$12,401
 7/30/2021
 $5,000
 $6,000
@@ -495,7 +510,6 @@ $7,000
 3 Tenn: March 20, 2018 to July 30, 2021
 22022
 
-
 After 15 years* $968
 Total After 1S years $7,968
 After 20 years $8,000
@@ -505,12 +519,31 @@ ss.ooo
 After 25 years
 After 2S years* 52,904
 Total After 2S years $10,904
-(vll) Supervising Fire Marshal, Level II Longevity 7/30/2021 After 5 years $5,000 After l O years $6,000 After 15 years $7,000 After 15 years* $1,277 Total After 15 years 58.277 After 20 years $8,000 After 20 years* $2.554 Total After 20 years $10,554 After 25 years $8,000 After 25 years* $3,831 Total After 25 years $11,831 *Additional longevity amounts after 15 years, 20 years, and 25 years increase with future wage increases.
-B. The term ..s ervice" as used herein shall mean service in the Fire Service oft he City of New York.
-C. The adjustment after the 5th and l 0th years shall not be computed as sallll')' for pension purposes until after completion of 20 years of service. The adjustment after the 15th and 20th years shall not be computed as salary for pension purposes until after completion of 25 years of service. In the event this provision is declared invalid under the law, the parties shall reopen negotiations to resolve the issue oft he increased cost of changing the effective date of the pensionability oft he above adjustments. Such negotiations will be commenced
+(vll) Supervising Fire Marshal, Level II
+Longevity 7/30/2021
+After 5 years $5,000
+After l O years $6,000
+After 15 years $7,000
+After 15 years* $1,277
+Total After 15 years 58.277
+After 20 years $8,000
+After 20 years* $2.554
+Total After 20 years $10,554
+After 25 years $8,000
+After 25 years* $3,831
+Total After 25 years $11,831
+*Additional longevity amounts after 15 years, 20 years, and 25 years increase with future wage
+increases.
+B. The term ..s ervice" as used herein shall mean service in the Fire Service oft he City of New
+York.
+C. The adjustment after the 5th and l 0th years shall not be computed as sallll')' for pension
+purposes until after completion of 20 years of service. The adjustment after the 15th and
+20th years shall not be computed as salary for pension purposes until after completion of
+25 years of service. In the event this provision is declared invalid under the law, the parties
+shall reopen negotiations to resolve the issue oft he increased cost of changing the effective
+date of the pensionability oft he above adjustments. Such negotiations will be commenced
 22
 Unironned Fire Officers Assoi::iatio11 14 Term; Mun:h 20, 2018 to July 30,2 0 2 2
-
 
 forthwith. If no agreement is reached, an impasse may be declared and subsequent mediation and the impasse proceeding, if any, shall in all respects be conducted on an expedited basis.
 D. Calculation of the night shift differential shall be based upon the longevity schedules in effect prior to November 1, 1992.
@@ -532,7 +565,6 @@ Section 8.
 Unifonncd Fire Officers Association 15 Tenn: March 20, 2018 to July 30, 2021
 2202 2
 
-
 Paychecks shall be distributed to the employee's unit by 6 p.m., but not before 3 p.m. on the Thursday preceding payday.
 Upon request, the Department will route and deliver a covering Officer's paycheck to any designated unit within the assigned Division.
 Section 9.
@@ -553,7 +585,6 @@ Section 3.
 Uniformed Fire Officers A.uociation Term: Murch 20, 2018 to July 30, 2021
 2202 2
 
-
 Any grievance brought pursuant to this provision shall be initiated at the third step of the grievance procedure.
 Section 4.
 Nothing contained in this Article shall amend, alter or impair any other provision in Article III or
@@ -572,7 +603,6 @@ No temporary assignment to Fire Officer (line) above the rank of Lieutenant shal
 Section 4.
 Whenever a Captain or Chief Officer is placed on leave after the start of a tour, and no special assignment officer of similar rank is available, the position shall be filled by the next lower rank and that member shall be compensated for the entire tour at the salary rate of the higher rank if Uniformed Fire Officers Association 17 Tenn: Mnn:h 20, 2018 to July 30, 2021
 2202 2
-
 
 assigned to the duties oft he higher rank for more than two hours in any tour.
 For a Captain Vacancy and no S.A. Captain is Available:
@@ -598,12 +628,9 @@ Unifonned Fin: Oflicm Associa1ion • 18 Tenn: March 20, 201810 July 30, 2021
 _Page 21_ · _Topics: health-welfare_
 
 A. L Effective March 20, 2018, the City shall continue to contribute the pro-rata annual amount of $1,360 for each employee for remittance to the Uniformed Fire Officers Association Family Protection Plan, ("FPP'') pursuant to the terms of a supplemental agreement reached by the parties and approved by the Corporation Counsel.
-2. Effective March 20, 2018, the City shall continue to contribute the pro-rata annual
-amount of $1,530 for each retired employee for remittance to the Unifonned Fire Officers Association Family Protection Plan, ("FPP") pursuant to the terms of a supplemental agreement reached by the parties and approved by the Corporation Counsel.
-3. Effective June 15, 2018, the welfare fund contribution shall be increased by $100
-per employee per annum for active employees only to $1,460.
-4. Effective July 30, 2021, the welfare fund contribution shall be increased by $32 per
-employee per annum for active and retired employees. The new active pro-rata contribution amount shall be $1,492, and the new retiree pro-rata contribution shall be $1,562.
+2. Effective March 20, 2018, the City shall continue to contribute the pro-rata annual amount of $1,530 for each retired employee for remittance to the Unifonned Fire Officers Association Family Protection Plan, ("FPP") pursuant to the terms of a supplemental agreement reached by the parties and approved by the Corporation Counsel.
+3. Effective June 15, 2018, the welfare fund contribution shall be increased by $100 per employee per annum for active employees only to $1,460.
+4. Effective July 30, 2021, the welfare fund contribution shall be increased by $32 per employee per annum for active and retired employees. The new active pro-rata contribution amount shall be $1,492, and the new retiree pro-rata contribution shall be $1,562.
 B. Pursuant to its commitment, the UFOA will continue to provide benefits to employees'
 domestic partners.
 C. Employees who have been separated from service subsequent to December 31, 1970, and who were covered by the Family Protection Plan of the Unifonned Fire Officers Association at the time of such separation pursuant to a supplementary agreement between the City and the UFOA shall continue to be so covered, subject to the provisions of Section A and B hereof, on the same contributory basis as incumbent employees. Contributions shall be made only for such times as said individuals are eligible to be primary beneficiaries of the New York City Health Insurance Program and are entitled to benefits paid for by the City through such Program.
@@ -634,7 +661,6 @@ B. If a replacement plan is offered to employees and retirees under age 65 which
 Unifonned Fire Officers Associ11tion 20 Term: March 20, 20I B to July 30, 2021
 22 02 2
 
-
 C. The City (and other related Employers) shall continue to contribute on a City employee benefits program-wide basis the additional annual amount of $30 million to maintain the health insurance stabilization reserve fund which shall be used to continue equalization and protect the integrity of health insurance benefits.
 The health insurance stabilization reserve fund shall be used: to provide a sufficient reserve; to maintain to the extent possible the current level of health insurance benefits provided under the Blue Cross/GHI-CBP plan; and, if sufficient funds are available, to fund new benefits.
 The health insurance stabilization reserve fund shall be credited with the dividends or reduced by the losses attributable to the Blue Cross/GHI-CBP plan.
@@ -655,7 +681,6 @@ coverage as defined on page 32, section 4(B) oft he 1992 New York City Hea]th Su
 b. Expenses of the account shall include but not be limited to deductibles, co-insurance, co payments, excess expenses beyond plan limits, physical exams and health related transportation costs for vision, dental, medical and prescription drug plans where the employee and dependents are covered. In no case wiJ1 any of the above expenses include those non-deductible expenses defined as non-deductible in IRS Publication 502.
 c. An administrative fee of $1.00 per week for the first year shall be charged for participation in the program. An employee's participation in the account is irrevocab]e during a plan year. At the close oft he plan year any excess balance in an employee's account will not be Uniformc:d Fire Officers Association 21 Ti:rm: Mnrc:h 20, 2018 to July 30, 2021
 22 02 2
-
 
 refunded.
 Section 5.
@@ -699,7 +724,6 @@ B. An employee's annual leave shall be changed to sick leave during a period of 
 C. All Fire Officers (line) shall have the right with the approval of the commander involved to make mutual exchanges in full or in part of vacation time within a company, battalion or division, or adjoining companies, battalions, or divisions, as the case may be. Present single companies shall be paired by the Department and the foregoing procedures shall Unifonncd Fire Officers Association 2l Term; MlltCh 20, 2018 10 July JO, 2021
 22 02 2
 
-
 apply between the paired companies.
 D. Supervising Fire Marshals I and II shall have the right with the approval of the Chief Fire Marshal to make mutual exchanges in full or in part of vacation time.
 Section 4.
@@ -716,7 +740,6 @@ Section 8.
 Any employee applying for either ordinary or line-of-duty disability retirement, sha11 begin to receive all of that employee's accrued time, including accrued vacation, compensatory time, terminal leave and any other accrued leave, as of the date that employee submits a disability retirement application.
 Unifonncd Fire Offic:crs Association 24 Term: March 20, 2018 to July 30, 2021
 22 02 2
-
 
 Section 9.
 AU members off line (inclusive of light and full duty) who have a work schedule which provides for a regular day off (RDO) during the workweek shall forego this RDO in the week in which a holiday occurs. In the event that more than one holiday occurs in a week, the member must forego the RDO and one tour of annual leave or compensatory time. All members off line who have a work schedule which does not provide for a RDO during the work week must forego one tour of annual leave or compensatory time. Under no circumstances where a member is regularly scheduled to work on a holiday shall that member receive overtime or compensatory time for hours actually worked per that schedule (with the exceptions of veterans working on Memorial or Veteran's day). The intent of this provision is to ensure that a total of 40 hours needs to be accounted for by all UFOA members referred to above in a week in which a holiday occurs.
@@ -736,9 +759,9 @@ All quarters shall have adequate heating, hot water, sanitary and sanitation fac
 Notice of any claimed violation shall be given to tbc Department. If the Department does not Unifonncd Fire Officers Associntion Tenn: Mmch 20, 2018 to July 30, 2021
 22022
 
-
 m
-correct the c1aimed violation within a reasonable time the Union may file a grievance at Step of the grievance procedure.
+correct the c1aimed violation within a reasonable time the Union may file a grievance at Step
+of the grievance procedure.
 
 <a id="article-xv-transportation-p28"></a>
 ## Article XV — TRANSPORTATION
@@ -766,7 +789,6 @@ Section 2.
 Uniformed Fire Officers AssocintioR 26 Term; March 20, 2018 to July 30, 2021
 22 02 2
 
-
 At the time an employee is notified to appear for interrogation, interview, trial or hearing the Employer shall advise the employee either in writing, when practicable, or oraUy to be later confirmed in writing of (1) the specific subject matter of such interrogation, interview, trial or hearing; and (2) whether that employee is a suspect or non-suspect. Ifn otified oraUy, the employee shall be given a written notice before the interrogation, interview, trial or hearing. If an interrogation or interview may lead to disciplinary action, the employee may be accompanied by counsel and/or a union representative at such interrogation or interview.
 Section 3.
 Notice of trial shall be in writing at least ten (10) days in advance ofs uch trial, unless the employee waives such notice or unless that employee applies or has applied for a service retirement.
@@ -780,7 +802,6 @@ I wish to advise you that you have all the rights and privileges guaranteed by t
 Such employee shall also be advised of the right to union representation. When the interrogating officer is advised by the employee that employee desires the aid of counsel and/or a union representative, the interrogation shall be suspended and the employee shall be granted a reasonable time to obtain counsel and/or a union representative, which time shall be at least two working days.
 Uniformed Fire Officers Association 27 Tenn: March 20, 2018 10 July JO, 2021
 22 02 2
-
 
 Ifi t appears that the investigation may result in a disciplinary proceeding based on the Employee's answer to questions or on the refusal to answer, a stenographic or electronic record of the questioning of the employee shall be made unless the exigencies of the situation prevent such recording.
 In the event that an employee is subject to charges by the Department, any such record shall be made available to the employee or the representative. The cost of the recording shall be shared equally by the parties.
@@ -796,7 +817,6 @@ In the course of an investigation or interrogation. an employee who is not a sus
 Q
 Uniformed Fire Officers A.ss01:ia1ion Tenn; Mlll'th 20, 2018 to July 30,2~
 2 2
-
 
 cooperate in the investigation of a complaint. Statements the employee has made in the course thereof may not be used against that employee in a subsequent proceeding in which that employee becomes a suspect.
 Section 9.
@@ -816,7 +836,6 @@ Section 1.
 A grievance is defined as a complaint arising out of a claimed violation, misinterpretation or inequitable application of the provisions of this contract or of existing policy or regulations of the Fire Department affecting the tenns and conditions of employment. A direct order, written or verbal, by a Superior Officer, under all circumstances, must be carried out and objections raised at a later date through the formal grievance procedure. The Union has designated the appropriate Uniformed Fin: Officer, Association Tenn: March 20, 2018 to July 30, 2021
 22 02 2
 
-
 delegate, as defined in Article XIX of this Agreement, as a member's representative at Step No. I of these procedures. Such Battalion or special Union delegate shall be hereinafter referred to as the delegate. In the event that any employee shall present a grievance, such grievance shall be
 handled in the following manner:
 STEP NO. I
@@ -832,30 +851,23 @@ EXAMPLE: A grievance action by a Lieutenant may arise because of an action by a 
 Uniformed Fire Officers Associa1ion JO Term: Mlll'th 20, 2018 to July JO, 2021
 2202 2
 
-
-2. If the matter is not resolved to the employee's satisfaction, the aggrieved employee may
-request the delegate to discuss the matter verbally with the immediate supervisor as noted above.
+2. If the matter is not resolved to the employee's satisfaction, the aggrieved employee may request the delegate to discuss the matter verbally with the immediate supervisor as noted above.
 3. Prior to the fonnal presentation of the grievance or complaint to the immediate
 Commanding Officer, who, for the purpose of these grievance procedures, is defined as:
 (a) For Lieutenants - Battalion Commander, (b) For Captains - Battalion Commander, (c) For Battalion Chiefs - Division Commander, (d) For Supervising Fire - The Assistant Chief Fire Marshal, (e) For Fire Medical Officers - Supervising Chief Medical Officer, and (f) For Deputy Chief - Staff Officer charged with administrative supervision over the involved division.
 Every effort shall be made to find ways and means of identifying and removing the cause of the grievance or complaint.
-4. If the matter remains unresolved following the discussion outlined above, the grievance
-sha1l formal1y be submitted in writing, on a prescribed form, to the immediate Commanding Officer, as noted above. Such formal submission must, in any event, occur within 120 days following the date on which the grievance arose.
+4. If the matter remains unresolved following the discussion outlined above, the grievance sha1l formal1y be submitted in writing, on a prescribed form, to the immediate Commanding Officer, as noted above. Such formal submission must, in any event, occur within 120 days following the date on which the grievance arose.
 B-1. Upon request of the aggrieved employee, the delegate shall accompany the employee at a meeting with the immediate Commanding Officer, as noted above, who shall specify date, time and place of hearing. Said Commanding Officer shall, within five (5) calendar days of receipt of appeal, notify all concerned of the date, time, place of hearing and details of
 2
 grievance.
-2. The detcnnination of the immediate Commanding Officer passing on the grievance shall
-be in writing, and a report shall be forwarded on the prescribed form to the Fire Commissioner, the aggrieved and the delegate within three (3) calendar days after the meeting.
-3. If the grievance is not resolved to the satisfaction of the aggrieved, the employee has the
-right to proceed to the next step in the grievance procedure.
+2. The detcnnination of the immediate Commanding Officer passing on the grievance shall be in writing, and a report shall be forwarded on the prescribed form to the Fire Commissioner, the aggrieved and the delegate within three (3) calendar days after the meeting.
+3. If the grievance is not resolved to the satisfaction of the aggrieved, the employee has the right to proceed to the next step in the grievance procedure.
 2 If the grievance relates to a nature of an order issued by a superior, Section 2S.1.1 of Regulations for the Unifonned Fon:e shall be complied with.
 Uniformed Fire Officers A55oc:iarion )I Term: Mlll'Ch 20, 201810 July 30, 2021
 2202 2
 
-
 C-1. Time lost by a delegate or union representative in the adjustment of a grievance shall not be compensable.
-2. Time lost by an aggrieved member in the adjustment of a grievance shall not be
-compensable.
+2. Time lost by an aggrieved member in the adjustment of a grievance shall not be compensable.
 D-1. Failure to Appeal - Any grievance decision not appealed within five (5) calendar days after receipt of the Department's answer in the previous step shall be considered as settled on the basis of such an answer and not subject to further appeal. This limitation is applicable to all steps.
 STEPNO.ll
 A member of the Union Executive Board shall be the member's representative at this step of the
@@ -873,16 +885,13 @@ C-1. The determination of the Officer passing upon the appeal shall be in writin
 Uniformed Fin: Officers Association 32 Tenn: March 20, 2018 to July 30, 2021
 22 02 2
 
-
-2. If the grievance is not resolved at this level, the aggrieved, either individually or by the
-representative has the right to proceed to the next step in the grievance procedure.
+2. If the grievance is not resolved at this level, the aggrieved, either individually or by the representative has the right to proceed to the next step in the grievance procedure.
 STEP NO. III.
 The President and members of the Executive Board may be designated as the Union representatives on the Department level; no more than four ( 4) members of the Executive Board are to attend a meeting.
 A-1. An appeal from the Step II determination must be forwarded in writing by the aggrieved, on the prescribed form, to the Fire Commissioner within five (5) calendar days after the aggrieved receives a copy of the determination.
 B-1. The Commissioner, the Chief of Department, the Chief in Charge - Bureau of PersoMel and Administration, and/or their dcsignees, the aggrieved and/or the representatives shall work for a satisfactory resolution of the grievance or complaint through conference, negotiation, and agreement. Such conference shall be held within ten (10) days of the receipt of the appeal. The Commissioner shall within five (5) days after such conference serve the determination, in writing, upon the aggrieved employee and the representative.
 Unifonncd Fire Officcis Associa1ion Tenn· Mnn:h 20,201 I! to July 30, 2021
 22 02 2
-
 
 STEP NO. IV.
 If, after completion of all of the steps provided for above, the grievance has not been resolved, the Union solely shall have the right to bring such grievance to the Impartial Chair for arbitration in accordance with the applicable provisions of the New York City Collective Bargaining Law and Consolidated Rules promulgated by the Office ofC ollective Bargaining with respect to arbitration.
@@ -897,7 +906,6 @@ Section 4.
 When possible, every effort shall be made to hold grievance hearings when a union representative involved is on duty.
 Uniformed Fire Officers Association Term: Man:h 20, 2018 to July 30, 2021 • 22022
 
-
 Section S.
 Individual Borough Commands shall not establish policy and/or programs at variance with this Agreement. A copy of every Borough policy directive shall be sent to the Union when issued.
 
@@ -906,8 +914,18 @@ Individual Borough Commands shall not establish policy and/or programs at varian
 _Page 37_ · _Topics: training, safety_
 
 The Union shall designate a Delegate for each Battalion and the following units:
-Office of the Chief of Department Division of Fire Prevention Division of Training Division of Safety Marine Division Division of Repairs and Transportation Community Relations Bureau Medical Division and Medical Office Fire Emergency Division Bureau of Fire Investigation (2 Delegates)
-Each delegate shall perform the regular duties as an employee and shall be considered a representative of the Union.
+Office of the Chief of Department
+Division of Fire Prevention
+Division of Training
+Division of Safety
+Marine Division
+Division of Repairs and Transportation
+Community Relations Bureau
+Medical Division and Medical Office
+Fire Emergency Division
+Bureau of Fire Investigation (2 Delegates)
+Each delegate shall perform the regular duties as an employee and shall be considered a
+representative of the Union.
 
 <a id="article-xx-no-strike-p37"></a>
 ## Article XX — NO STRIKE
@@ -940,7 +958,6 @@ if:
 a. The detail is for training assignment of any type or to any training location, b. The Company Officer is detaiJed whiJe on light duty status, c. The Company Officer who is detailed is assigned to the limited service squad, d. The Company Officer is detailed from a staffing pool, e. The Company Officer who is detailed earns overtime on the detail, Uniformed Fire Officm Association Jli Term: March 20, 2018 toluly 30, 2021
 22 02 2
 
-
 f. The Company Officer is detailed to a company in the same quarters as that Officer's own or in adjacent quarters, g. The Company Officer is a covering officer.
 Section 4.
 When computing overtime compensation for travel time as required by this Article, the basic hourly rate excluding all premiums shall be used.
@@ -960,7 +977,6 @@ Subject to the Comptroller's approval, units shalt only be required to submit an
 Section 4.
 The Fire Department shall establish a pilot program involving no more than 3 companies, wherein the Special Expense Funds of such companies shall be increased so as to allow for the purchase of Unifonned Fire Officers Association 37 Tenn: M=h 20, 2018 ta July 30, 2021
 22 02 2
-
 
 necessary supplies and materials for the company quarters from such FW1ds. The Department shall monitor and evaluate such program and keep the Union advised.
 
@@ -1020,24 +1036,17 @@ Uniformed Fire Officers Association ) 9 Tcm1; M111Ch 20, 2018 to July 30, 2021
 _Page 42_ · _Topics: holidays, training_
 
 A. The Union recognizes the right oft he Fire Department to establish Attack Units as follows:
-1. In those quarters which at the rime of the installation of an Attack Unit house a
-Tower Ladder and Rapid Water Pumper, the companies in those quarters may be merged (into 1 company) and their designation changed to Attack Unit Company.
+1. In those quarters which at the rime of the installation of an Attack Unit house a Tower Ladder and Rapid Water Pumper, the companies in those quarters may be merged (into 1 company) and their designation changed to Attack Unit Company.
 Each such company so designated and merged as an Attack Unit shall be commanded by a Company Officer of the rank of Captain at all rimes and on all tours. If the Tower Ladder or Rapid Water Pumper of an Attack Unit is out of service, it will be rep1aced by a like piece of equipment from available spares of a non-Attack Unit Company as quickly as possibJe.
-2. Attack Units shall be installed only in quarters currently in Type 7 Hazard Region,
-as that Region is now designated by the Fire Department, and in City Island, and will be relocated or interchanged only with other Attack Unit Companies.
+2. Attack Units shall be installed only in quarters currently in Type 7 Hazard Region, as that Region is now designated by the Fire Department, and in City Island, and will be relocated or interchanged only with other Attack Unit Companies.
 3. The Department may install a maximum often (10) Attack Units.
-4. At the time an Attack Unit is installed there will be an increase in quota in the
-number of Captains so that there will be a sufficient number to staff such unit and a reduction in the quota oft he number ofL ieutenants. This provision does not limit quota increases and/or decreases which may result due to other factors or Department policies.
-5. Each Attack Unit shall be assigned clerical help in the rank of Firefighter during
-the daytime tours, except Saturdays, Sundays and Holidays. Duties to be performed by such Firefighter shall be determined by the Company Commander.
+4. At the time an Attack Unit is installed there will be an increase in quota in the number of Captains so that there will be a sufficient number to staff such unit and a reduction in the quota oft he number ofL ieutenants. This provision does not limit quota increases and/or decreases which may result due to other factors or Department policies.
+5. Each Attack Unit shall be assigned clerical help in the rank of Firefighter during the daytime tours, except Saturdays, Sundays and Holidays. Duties to be performed by such Firefighter shall be determined by the Company Commander.
 6. The Attack Unit program shall not be used as a factor in the reduction of response.
 However, the wiion recognizes the rights of management to reduce response and to change alann assignments for other reasons. This shall not change the nature of an Attack Unit as a two-piece response.
-7. The Department shall establish a training program for Officers who are to be
-assigned to the Attack Units and shall familiarize the Unifonned Fire Officers Association with such training program. Any Company Officer permanently assigned to the Attack Units shall receive training in such training program prior to that Officer's assignment. Every reasonable effort shall be made to provide prior similar training to Company Officers who will be temporarily assigned to such Attack Units.
-8. The Department sha1l provide the Uniformed Fire Officers' Association with
-Unifonned Fire Officers Association Term: March 20, 201810 July 30, 2021
+7. The Department shall establish a training program for Officers who are to be assigned to the Attack Units and shall familiarize the Unifonned Fire Officers Association with such training program. Any Company Officer permanently assigned to the Attack Units shall receive training in such training program prior to that Officer's assignment. Every reasonable effort shall be made to provide prior similar training to Company Officers who will be temporarily assigned to such Attack Units.
+8. The Department sha1l provide the Uniformed Fire Officers' Association with Unifonned Fire Officers Association Term: March 20, 201810 July 30, 2021
 22 02 2
-
 
 fourteen ( 14) days notice prior to the installation ofa ny Attack Unit. Any Company Officer who by virtue of the establishment of an Attack Unit is to be reassigned to another company shall be given a reasonable priority consideration in choice of assignment. However, the Department's decision shalt be final.
 Section 2.
@@ -1059,7 +1068,6 @@ In the event that a Fire Officer (line) or Fire Medical Officer dies because of 
 Uniformed Fire Offict:TS Associ11.lion 41 Tenn: Mnn:h 20, 2018 to July 30, 2021
 2202 2
 
-
 Section 2.
 Semi-private hospital accommodations shall be provided for employees injured in the line of duty.
 ARTICLE XXVll - DEATH BENEFIT Ul'WSED LEAV E AND COMPENSATORY TIME If an employee dies while employed by the City, that employee's estate shall receive payment in
@@ -1079,7 +1087,6 @@ Section 6.
 Unironncd Fire Oflkcrs Association 42 Tenn! March 20, 2018 to July 30, 2021
 2202 2
 
-
 To the maximum extent practicable and consistent with City po1icy, parking spaces up to a maximum of one space per unit. will be made available for the cars of employees adjacent to, part of, or as close as possible to firehouses, and such spaces will be marked appropriately. The Department will issue appropriate parking permits for the designated areas. The UFOA shall notify the Department, the Transportation Administration, and the Office of Labor Relations of any requests for parking spaces. The City shall have 10 days to respond to such requests. If the response is a denial, it shall be specific as to the reasons. If the UFOA disagrees with any such denial, it shall inform the Office of Labor Relations as to the specific reasons for its disagreement, and may refer the matter to the Impartial Chair for advisory arbitration.
 Section 7.
 In order to improve the efficiency, productivity, health and morale of officers, existing practices
@@ -1095,7 +1102,6 @@ Pursuant to regulations promulgated by the Department, the Employer shall reimbu
 Section 11.
 Unifonncd Fin: Officers Associ11tion 43 Term. March 20, 2018 to July 30, 2021
 22022
-
 
 The City shall furnish to each unit a copy of the collective bargaining agreement within 60 days of its final approval.
 
@@ -1117,7 +1123,6 @@ Members of the Force shall be granted terminal leave with pay upon retirement no
 provided, however, that no terminal leave shall be granted to an employee against whom departmental disciplinary charges are pending.
 Q
 Unirormcd Fire Officers Association Term: Matt:h 20, 2018 to July 30,~ 2 2
-
 
 . - -- ---- ------ Effective February 1, 2015, such employees as described in the Resolution above and are entitled to payment and who are members of the UFOA shall now be entitled to voluntarily choose the option of a one-time lump sum payment as their terminal leave benefit in lieu of their current terminal leave benefit prior to retirement. Such payments shall be made as soon as practicable after retirement. In the event that a change in legislation is needed to effectuate this agreement, the parties agree to jointly support the necessary legislation to implement these tenns.
 Section 15.
@@ -1152,9 +1157,11 @@ Should any part of this Agreement or any provision herein contained be rendered 
 Uoifonncd Fire Officers Association 45 Tenn: M111eh 20. 2018 to July 30, 2021
 22 02 2
 
-
 /q
-WHEREFORE, we have hereunto set our hands and seals this day of f/oveJh. be.r 2022 UNIFORMED FIRE OFFICERS ASSOCIATION, LOCAL 854, INTERNATIONAL ASSOCIATION CITY OF NEW YORK OF FIREFIGHTERS, Affiliated with AFL-CIO
+WHEREFORE, we have hereunto set our hands and seals this day of f/oveJh. be.r 2022
+UNIFORMED FIRE OFFICERS ASSOCIATION,
+LOCAL 854, INTERNATIONAL ASSOCIATION
+CITY OF NEW YORK OF FIREFIGHTERS, Affiliated with AFL-CIO
 APPROVED AS TO FORM:
 B Y : ~ ~
 z
@@ -1179,16 +1186,31 @@ _Page 48_
 TERM: March 20, 2018 to July 30, 2021
 NO: DATE:
 2022 -~
-•President during term of agreement, authorized to sign pursuant to UFOA Board resolution Uniformed F'm: Officers Association 46 Term: March 20, 2018 July 30, 2021
+•President during term of agreement, authorized to sign pursuant to UFOA Board resolution
+Uniformed F'm: Officers Association 46 Term: March 20, 2018 July 30, 2021
 10
 
-
 Office of Labor Relations
-22 Cortlandt Slree~ New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt DPp11r,, Commw/on,r Commlsslont1r Health Ca~ Srmtcov Daniel Pollak Georgette Gntely First Depvry commlsslonrr Director, Emptoytt BencfttJ l'ffJllrom Nlcole Andrade GrnffTII Caunfcl James Lemonda, President Unifonned Fire Officers Association
+22 Cortlandt Slree~ New York, NY 10007
+nyc.gov/olr
+Renee Campion Claire Levitt
+DPp11r,, Commw/on,r
+Commlsslont1r
+Health Ca~ Srmtcov
+Daniel Pollak
+Georgette Gntely
+First Depvry commlsslonrr
+Director, Emptoytt BencfttJ l'ffJllrom
+Nlcole Andrade
+GrnffTII Caunfcl
+James Lemonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, NY 10007
 Dear Mr. Lemonda:
-A medical expert designated by the UFOA and the UFA and a representative designated by the Fire Department shall meet to develop procedures to monitor Firefighters who may be exposed to hnzardous materials.
+A medical expert designated by the UFOA and the UFA and a representative designated
+by the Fire Department shall meet to develop procedures to monitor Firefighters who may be
+exposed to hnzardous materials.
 Very truly yours,
 R ~
 Commissioner
@@ -1200,13 +1222,27 @@ _Page 49_ · _Topics: longevity_
 Uniformed Fire Officers Association 47 Term: Mm:h 20, 2018 to July 30, 2021
 22022
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/ofr Renee Campion Clalre Levitt Commlnlaner ~puty Camm/sslantr Htakh Ca~ Srrattgy D■nl■I Pollak Georgette Gestaly Rnt~ pufy Commlulantr Dlrtcrar, Employn: 8tnt/lU P,ogrom Nicole Andrada Gtntrol C.OUnsel James Lemonda, President Uniformed Fire Officers Association
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/ofr
+Renee Campion Clalre Levitt
+Commlnlaner ~puty Camm/sslantr
+Htakh Ca~ Srrattgy
+D■nl■I Pollak
+Georgette Gestaly
+Rnt~ pufy Commlulantr
+Dlrtcrar, Employn: 8tnt/lU P,ogrom
+Nicole Andrada
+Gtntrol C.OUnsel
+James Lemonda, President
+Uniformed Fire Officers Association
 225 Broadway, Suite 401
 New York, NY 10007
 Dear Mr. Lemonda:
-Employees who have transferred from the W1iformcd service of the New York City Department of Correction to the Fire Department shall be treated in the same manner as if they had transferred from the uniformed service of the New York City Police Department for the purpose of calculating increments and longevity adjustments.
+Employees who have transferred from the W1iformcd service of the New York City
+Department of Correction to the Fire Department shall be treated in the same manner as if they
+had transferred from the uniformed service of the New York City Police Department for the
+purpose of calculating increments and longevity adjustments.
 V~o:s,
 R~neeCa~n
 Commissioner
@@ -1218,11 +1254,9 @@ _Page 50_ · _Topics: holidays, grievance, hours, training_
 Uniformed F'U'C Officer, Association 41 Term: March 20, 20 I Bt o July 30, 2021
 2202 2
 
-
 ....
 ..
----
-, ...._
+--- , ...._
 Office of Labor Relations
 22 Cortlandt Street, New Yori<, NY 10007 nyc.gov/olr Renee Campion Clalnt Levitt ~pury Commlsslonr:r Commlulon~r Hr:orth Cart Stratrgy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employ,:,: St:nt:flU Program Nlcole Andrado Gr:nr:ral Counsel James Lemonda, President Uniformed Fire Officers Association
 125 Maiden Lane, 6th Floor
@@ -1237,12 +1271,10 @@ d. Outside activities in the morning and afternoon shall be scheduled to perntit
 e. The Fire Department will undertake to review and reduce paperwork required for BISP. The Fire Uniformed Fire Oflic:crs Association 49 Tenn: Mllfr:h 20, 2018 to July 30, 2021
 2 2 0 2 2
 
-
 Department will advise the UFOA of the process of such review and pcnnit the UFOA to participate therein. Such process and the results thereof shall not be subject to Step IV of the Grievance Procedure.
 f. In the event of an exigent emergency requiring building inspections, the Fire Department shall have the right to temporarily suspend the provisions of this Section 1.
 g. To the extent that the Fire Department seeks to change the Perfonnance Based BISP, the UFOA shall be notified at least 14 days in advance of such cbange(s}. In the event the parties cannot agree on a resolution of the proposed change(s) and there is a claim that this side letter agreement has been violated, the parties agree that the UFOA may immediately bring a grievance directly to Step IV of the grievance procedure for prompt resolution and the arbitrator shall be empowered to order rescission of the change.
-2. The UFOA may utilize its Civil Legal Representation Fund for the purpose of providing
-another form of benefit to the membership than that currently in effect, subject to the written agreement of the parties as to the nature of such benefit.
+2. The UFOA may utilize its Civil Legal Representation Fund for the purpose of providing another form of benefit to the membership than that currently in effect, subject to the written agreement of the parties as to the nature of such benefit.
 V~s,
 Renee Camp100
 Commissioner
@@ -1255,13 +1287,26 @@ _Page 52_ · _Topics: grievance_
 so Q
 Unironncd Fire Officers Association Term: Mon:h 20, 2018 to July 30, 2022
 
-
 Office of Labor Relations
-22 Cortlandt Streat. New York, NY 10007 nyc.gov/olr Ranee Campion Clalra Lavltt Comm/SJ/oner ~puty Camm/uloffrr Hr:ahh eon srrvrew Daniel Pollak Gaorgatte Ge1taly Flm Otputy Cammlulanrr Onmr, Emplllytt Sene/lts Program Nicole Andrade G,:nmil CaunSl!I James Lemonda, President Unifonned Fire Officers Association
+22 Cortlandt Streat. New York, NY 10007
+nyc.gov/olr
+Ranee Campion Clalra Lavltt
+Comm/SJ/oner ~puty Camm/uloffrr
+Hr:ahh eon srrvrew
+Daniel Pollak
+Gaorgatte Ge1taly
+Flm Otputy Cammlulanrr
+Onmr, Emplllytt Sene/lts Program
+Nicole Andrade
+G,:nmil CaunSl!I
+James Lemonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, NY 10007
 Deer Mr. Lemonda:
-lt is the intent of the City to use its best efforts to secure private room accommodations in a hospital for employees injured in the line of duty. This Section shall not be subject to the grievance procedure.
+lt is the intent of the City to use its best efforts to secure private room accommodations in
+a hospital for employees injured in the line of duty. This Section shall not be subject to the
+grievance procedure.
 Very truly yours,
 ~
 Renee Campion
@@ -1274,19 +1319,51 @@ _Page 53_ · _Topics: safety_
 2 0 2 2
 Unironned Fin: Officers Association 51 Tenn: Man:h 20, 201B to July 30, 202 2
 
-
-FIRE DEPARTMENT. CITY OF NEW YORK I.OCAI.IISJ INTEJ\NATlONAlASSN OF P.A£ FlGHTERS. AR..-GXl 225 BROADWAY NEW YORK, NV 10007 SUITE 401 TEL: (212) 293-9300 FAX: (212) 292-1560 EMAIL: WWW,UFOA.ORG June S. 2009 Commissioner Jumcs F. H:inley Office of Labor Rcl:ilions -tn Rector Strccl New York, New York 10006 Dc.ir Comm1ss1oner Hanley· This letter will conlinn our mutunl undcrslnntling Lhnl as a m:itter ofpusl practice Fire Officers ha,c taken fifteen minulcs before their tours lo c:-<changc information between ingoing and outgoing officers.
+FIRE DEPARTMENT. CITY OF NEW YORK
+I.OCAI.IISJ INTEJ\NATlONAlASSN OF P.A£ FlGHTERS. AR..-GXl
+225 BROADWAY NEW YORK, NV 10007 SUITE 401
+TEL: (212) 293-9300 FAX: (212) 292-1560 EMAIL: WWW,UFOA.ORG
+June S. 2009
+Commissioner Jumcs F. H:inley
+Office of Labor Rcl:ilions
+-tn Rector Strccl
+New York, New York 10006
+Dc.ir Comm1ss1oner Hanley·
+This letter will conlinn our mutunl undcrslnntling Lhnl as a m:itter ofpusl practice Fire Officers
+ha,c taken fifteen minulcs before their tours lo c:-<changc information between ingoing and
+outgoing officers.
 IIEW YORK STATE ..IFL•C:10
-~ew VORK CIT y C:ENTRAL t.\SOR C:OUPIClL Afl.•CIO • l.4ARITII.IE PORT COU"4CIL OF GREATER NEW YORK 'VICl"41TY UNION LABEL A SERVICE IRl,DES .:;ouNCIL Of' GREATER NEW YORK & LONG 151.,111D • NA,TiOtUL S..IFETY COUPIC:IL Tenn: March 20, 2018 to July 30, 2021 Uni fonncd Fire Officers Association 52
+~ew VORK CIT y C:ENTRAL t.\SOR C:OUPIClL Afl.•CIO • l.4ARITII.IE PORT COU"4CIL OF GREATER NEW YORK 'VICl"41TY
+UNION LABEL A SERVICE IRl,DES .:;ouNCIL Of' GREATER NEW YORK & LONG 151.,111D • NA,TiOtUL S..IFETY COUPIC:IL
+Tenn: March 20, 2018 to July 30, 2021
+Uni fonncd Fire Officers Association 52
 2202 2
 
-
 Office of Labor Relations
-22 Cortiandl Street, New York, NY 10007 nyc.gov/olr Renee Campion Clalra Levitt ~pUtyCommlss/oner Commlsslon~r Heolth Co~ Stra~y Danlel Pollak OeargettAt Gestely First ~puty Commwloncr Dlnctor, Employee Benefits Program Nicole Andnid• Gen,m,I Counffl James Lcmonda, President Unifonned Fire Officers Association
+22 Cortiandl Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Clalra Levitt
+~pUtyCommlss/oner
+Commlsslon~r
+Heolth Co~ Stra~y
+Danlel Pollak
+OeargettAt Gestely
+First ~puty Commwloncr
+Dlnctor, Employee Benefits Program
+Nicole Andnid•
+Gen,m,I Counffl
+James Lcmonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, New York 10007
 Dear Mr. Lcmonda:
-The City and the UFOA recognize pursuant to Administrative Code section 12-127 the City is obligated to pay for the cost of line of duty prescription drugs for UFOA members. The parties further recognize that a significant number of UFOA members have utilized the UFOA Family Protection Plan to pay for reimbursement of these prescription drugs without cost to the City. The UFOA agrees to waive any and an claims retroactively and prospectively against the City for the reimbursement of the cost of line of duty injury prescription drugs incurred in outpatient treatment.
+The City and the UFOA recognize pursuant to Administrative Code section 12-127 the
+City is obligated to pay for the cost of line of duty prescription drugs for UFOA members. The
+parties further recognize that a significant number of UFOA members have utilized the UFOA
+Family Protection Plan to pay for reimbursement of these prescription drugs without cost to the
+City. The UFOA agrees to waive any and an claims retroactively and prospectively against the
+City for the reimbursement of the cost of line of duty injury prescription drugs incurred in
+outpatient treatment.
 Very truly yours,
 ~
 Commissioner
@@ -1299,13 +1376,29 @@ By:
 Unifonncd Fite Officers Associ11tion Term; Mauch 20, 2018 ID July 30, 2021
 2202 2
 
-
 Office of Labor Relations
-22 Cor11andt Street, New York, NY 10007 nyc.gov/olr Renee Campion Clalni LavlU Comm(ss(oner Ocrpun, Cotnmlsslontr Health Care Stmt,gy Danlel Ponak Georgelbl G■sl■ly First ~ury Commlulon~ Olrtttor, Emplaytt lrnrfiu Program Nlcole Andrade Gf!nrral COUnJ6 James Lemonda, President Uniformed Fire Officers Association
+22 Cor11andt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Clalni LavlU
+Comm(ss(oner Ocrpun, Cotnmlsslontr
+Health Care Stmt,gy
+Danlel Ponak
+Georgelbl G■sl■ly
+First ~ury Commlulon~
+Olrtttor, Emplaytt lrnrfiu Program
+Nlcole Andrade
+Gf!nrral COUnJ6
+James Lemonda, President
+Uniformed Fire Officers Association
 225 Broadway, Suite 401
 New York, New York 10007
 Dear Mr. Lemonda:
-The City shall grant additional release time to six UFOA Executive Board members by way of releasing them from all scheduled night tours of duty (6x9). Such additional release time shall be governed by Executive Order 75, {"EO 75") except insofar as the UFOA has funded the ongoing costs of such additional release time for the term of this Agreement and thereafter out of the settlement costs of this collective bargaining agreement and therefore section 4(1) of EO 75 shall not apply to this additional release time.
+The City shall grant additional release time to six UFOA Executive Board members by
+way of releasing them from all scheduled night tours of duty (6x9). Such additional release time
+shall be governed by Executive Order 75, {"EO 75") except insofar as the UFOA has funded the
+ongoing costs of such additional release time for the term of this Agreement and thereafter out of
+the settlement costs of this collective bargaining agreement and therefore section 4(1) of EO 75
+shall not apply to this additional release time.
 Very truly yours,
 R ~
 Commissioner
@@ -1317,13 +1410,28 @@ _Page 56_
 Unifonned Fire Officers Association S4 Tenn: Mllfl:h 20, 2018 lo July 30, 2021
 22022
 
-
 Office of Labor Relations
-22 Cortlandt Street, New Yark, NY 10007 nyc.gov/olr Renee Campion Clalni uwltt Deputy Commissioner Commlsslonrr Heo/111 Con St111t~y Danlel Pollak Georgette Gnt■ly First Oeputy Cammwlontr Dmtor, Employtt Bfntflu Program Nicole Andrade Gtntrol Caun~I James Lemonda, President Unifonned Fire Officers Association
+22 Cortlandt Street, New Yark, NY 10007
+nyc.gov/olr
+Renee Campion Clalni uwltt
+Deputy Commissioner
+Commlsslonrr
+Heo/111 Con St111t~y
+Danlel Pollak
+Georgette Gnt■ly
+First Oeputy Cammwlontr
+Dmtor, Employtt Bfntflu Program
+Nicole Andrade
+Gtntrol Caun~I
+James Lemonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, New York 10007
 Dear Mr. Lemonds:
-The parties shall establish a committee including the First Deputy Commissioner of the Fire Department or his/her representative, a representative of UFOA and a representative of the Office of Labor Relations to address issues of paperwork reduction. The Committee may include others on whom the parties may agree.
+The parties shall establish a committee including the First Deputy Commissioner of the
+Fire Department or his/her representative, a representative of UFOA and a representative of the
+Office of Labor Relations to address issues of paperwork reduction. The Committee may include
+others on whom the parties may agree.
 Very truly yours,
 R ~
 Commissioner
@@ -1335,29 +1443,56 @@ _Page 57_ · _Topics: health-welfare, pension_
 Unifonncd Fire Officm Association S5 Term: March 20, 20 I B 10 July JO, 2021
 22 02 2
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion ClalreLevttt Dtpury COmmlulontr Commissioner Htoltlt Cori: Stror,gy Daniel Pollak Georgette Gutall( Fint Deputy Commissioner Dlrtdor, Emp/oytl BtM/iU Program Nlcola Andrade Gi:rreral Couns,:I James Lemonda, President Unifonned Fire Officers Association
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion ClalreLevttt
+Dtpury COmmlulontr
+Commissioner
+Htoltlt Cori: Stror,gy
+Daniel Pollak
+Georgette Gutall(
+Fint Deputy Commissioner Dlrtdor, Emp/oytl BtM/iU Program
+Nlcola Andrade
+Gi:rreral Couns,:I
+James Lemonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, N.Y. 10007
 Dear Mr. Lemonds:
-The City reaffirms its commitment to the concept of parity which it defines as basic maximum sa]ary among uniformed employees.
+The City reaffirms its commitment to the concept of parity which it defines as basic
+maximum sa]ary among uniformed employees.
 Very truly yours,
 R ~
 Commissioner
 Uniformed Fire Officers A5sociation 56 Term: M11n:h 20, 2018 to July 30, 2021
 22022
 
-
 Office of Labor Relations
-22 Cortlandt Street New York, NY 10007 nyc.gov/olr Renn Campion Claire LevlH Commlssfoner Deputy Comm/nlanf!r Hf!alth Cart Stnitegy Danl•I Pollak Geor;•tt• Gulaly Rm Drputy COmmlsstoner
-0/rmc,r, Empk,vf!e 81n11flts Program Nicol• Andrade General Counal James Lemonda, President Unifonned Fire Officers Association
+22 Cortlandt Street New York, NY 10007
+nyc.gov/olr
+Renn Campion Claire LevlH
+Commlssfoner Deputy Comm/nlanf!r
+Hf!alth Cart Stnitegy
+Danl•I Pollak
+Geor;•tt• Gulaly
+Rm Drputy COmmlsstoner
+0/rmc,r, Empk,vf!e 81n11flts Program
+Nicol• Andrade
+General Counal
+James Lemonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York. N.Y. 10007
 Dear Mr. Lemonda:
-This is to confinn that the parties will jointly support legislation to allow active Tier II employees covered by this agreement to purchase Tier I benefits at their expense through payroll deductions.
-This agreement is subject to the parties agreeing upon the costs of these benefit improvements. The cost of these benefit improvements and any additional health insurance costs will be borne entirely by the participating employees without any cost to the City.
-A pension labor management committee wiU be established to agree upon the details of the proposed legislation and its attendant costs.
+This is to confinn that the parties will jointly support legislation to allow active Tier II
+employees covered by this agreement to purchase Tier I benefits at their expense through payroll
+deductions.
+This agreement is subject to the parties agreeing upon the costs of these benefit
+improvements. The cost of these benefit improvements and any additional health insurance costs
+will be borne entirely by the participating employees without any cost to the City.
+A pension labor management committee wiU be established to agree upon the details of the
+proposed legislation and its attendant costs.
 Very truly yours,
 R ~
 Commissioner
@@ -1369,9 +1504,20 @@ _Page 59_
 Unifanm:d Fin: Officers Association Tenn: March 20, 201B 10 July 30, 2021
 22022
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Ranee Campion Clalnt Levitt CommlsJlon~r Deputy Commlulonrr Htafth C'al'I! Stroll!O)I Daniel Pollak G1arg1tta Gestely Rm D~uty Comm/JJ/onrr Director, Employee Stnttftts Prtlflram Nicole Andrada Grnttrol Counsel JBII1cs Lemonda, President Uniformed Fire Officers Association
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Ranee Campion Clalnt Levitt
+CommlsJlon~r Deputy Commlulonrr
+Htafth C'al'I! Stroll!O)I
+Daniel Pollak
+G1arg1tta Gestely
+Rm D~uty Comm/JJ/onrr
+Director, Employee Stnttftts Prtlflram
+Nicole Andrada
+Grnttrol Counsel
+JBII1cs Lemonda, President
+Uniformed Fire Officers Association
 225 Broadway, Suite 401
 New York, NY 10007
 Re: UFOA Agreement covering the period from March 20, 2018, to July 30, 2021.
@@ -1389,7 +1535,6 @@ By:
 ·, President UFOA
 Unifonncd Fire Officers Association Tenn: M11rch 20, 20 IB t o July 30, 2021
 2202 2
-
 
 Office of Labor Relations
 22 Cortlandt Slree~ New York, NY 10007 nyc,gov/olr Renee Campion Claln1 Levitt Commission~, Deputy Commissioner Health Core Strategy Daniel Pollak Georg■tte Gaat1ly Rnt CRpuly Commissioner Dlrmor, Employ,:,: Br:ne[iu Program Nicole Andrade General Counul James Lemonda, President Uniformed Fire Officers Association
@@ -1411,7 +1556,6 @@ b. The 12% differential shall apply after the completion four years of service i
 Uniformed Fire Officers Association 59 Tc:nn: Mu.rt:h 20, 2018 to July 30, 20~
 2 0 2 2
 
-
 c. Covering officers in SOC shall receive the differential only during tours actuaUy worked in SOC.
 Notwithstanding the foregoing paragraph, members assigned or long tenn detailed prior to September 1, 2007 to the above "special assignments", including covering officers assigned to SOC. shall be slotted in at the appropriate level based upon years of service in these units in theircurrent title.
 Deputy Chiefs assigned or long term detailed to the SOC {Rescue) and HAZ-MAT Operations shall receive an annualized differential of $2,500 upon assignment to these units.
@@ -1430,39 +1574,65 @@ By:
 Unlfonncd Fire Officers Association 60 Term: Mnn:h 20, 2018 10 July 30, 2021
 2202 2
 
-
 Office of Labor Relations
-22CortlandtStree~ NewYork, NY 10007 nyc.gov/olr Renee Campion Clalnt Levitt Dtputy Cammlulontr Camm(SJlaner Hnlt/1 Care Strater,y Daniel Pollak Georgette Geately First ~p11ty Commlnlanrr Director, Employee lerwfiu Ptor,rom Nicole Andrade Gttitl'III Counsel James Lcmonda, President Unifonned Fire Officers Association
+22CortlandtStree~ NewYork, NY 10007
+nyc.gov/olr
+Renee Campion Clalnt Levitt
+Dtputy Cammlulontr
+Camm(SJlaner
+Hnlt/1 Care Strater,y
+Daniel Pollak
+Georgette Geately
+First ~p11ty Commlnlanrr
+Director, Employee lerwfiu Ptor,rom
+Nicole Andrade
+Gttitl'III Counsel
+James Lcmonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, New York 10007
 Dear Mr. Lemonda:
-The parties acknowledge that, from time to time, the headcount at the Fire Department varies. The parties agree to convene at the union's request, a Labor Management committee which shall include rcpresentative(s) from the Mayor's Office of Labor Relations to discuss changes in the headcount and its impact, if any, on UFOA members.
+The parties acknowledge that, from time to time, the headcount at the Fire Department
+varies. The parties agree to convene at the union's request, a Labor Management committee which
+shall include rcpresentative(s) from the Mayor's Office of Labor Relations to discuss changes in
+the headcount and its impact, if any, on UFOA members.
 Very truly yours,
 ~
 Renee Campton
 Commissioner
-AGREED AND ACCEPT D ON BEHALF OF _THE UFOA Uniformed Fire Officers Associa1ion 51 Term: MIIJ'Ch 20, 2018 lo July 30, 2021
+AGREED AND ACCEPT D ON BEHALF OF _THE UFOA
+Uniformed Fire Officers Associa1ion 51 Term: MIIJ'Ch 20, 2018 lo July 30, 2021
 22 02 2
 
-
 Office of Labor Relations
-22 Cortlandt Stree~ New York, NY 10007 nyc.gov/olr RenH Campion Cl■I,. L.vltt Dtputy O>mmlsllotlf!r Commlsslonf!r Hrolth Corr Smrtlr!l)'
+22 Cortlandt Stree~ New York, NY 10007
+nyc.gov/olr
+RenH Campion Cl■I,. L.vltt
+Dtputy O>mmlsllotlf!r
+Commlsslonf!r
+Hrolth Corr Smrtlr!l)'
 Daniel Pollak
 Georgette Geately
 Rrit Deputy OJmmilllanrr
-Director, Employc,: Benr/lu l'tO,Jtom Nlcol1 And111d1 Grnera/ Coun1,:/ James Lemonda, President Unifonned Fire Officers Association
+Director, Employc,: Benr/lu l'tO,Jtom
+Nlcol1 And111d1
+Grnera/ Coun1,:/
+James Lemonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, New York 10007
 Dear Mr. Lcmonda:
-Policies and procedures for Extra Departmental Employment (EDE) as described in PA/ID 12-67 will be modified to waive the requirements for EDE except as noted herein. EDE remains prohibited while members are on medical leave and light duty; however, EDE may be permissible while on light duty if approved by the Fire Commissioner or his designee. EDE will remain prohibited as per PA/ID 12-67 for Conflicts of InterestJ and as noted currently in PA/ID 12-67
+Policies and procedures for Extra Departmental Employment (EDE) as described in PA/ID
+12-67 will be modified to waive the requirements for EDE except as noted herein. EDE remains
+prohibited while members are on medical leave and light duty; however, EDE may be permissible
+while on light duty if approved by the Fire Commissioner or his designee. EDE will remain
+prohibited as per PA/ID 12-67 for Conflicts of InterestJ and as noted currently in PA/ID 12-67
 
 <a id="section-1-8-and-1-10-in-addition-ede-must-not-interfere-or-c-p64"></a>
 ### Section 1.8 — and 1.10. In addition, EDE must not interfere or conflict with the regular departmental
 _Page 64_ · _Topics: overtime_
 
-duties or with availability for overtime or emergency duty. Existing procedures for approval of EDE for those who will continue to be subject to such requirements will remain as per PA/ID 12-
-67. Lastly, the Fire Commissioner reserves the right to deny or revoke pennission for any specific
-occupation or place of employment notwithstanding regulations and orders.
+duties or with availability for overtime or emergency duty. Existing procedures for approval of EDE for those who will continue to be subject to such requirements will remain as per PA/ID 12- 67. Lastly, the Fire Commissioner reserves the right to deny or revoke pennission for any specific occupation or place of employment notwithstanding regulations and orders.
 If the above conforms to your understanding, please execute the signature tine below.
 
 <a id="agreed-and-accepted-on-behalf-of-the-ufoa-p64"></a>
@@ -1473,14 +1643,27 @@ _Page 64_ · _Topics: overtime_
 Uniformed Fin: Officers Association Term: Man:h 20, 2018 to July 30, 0
 0 2 2
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Ranae Campion Clalra Lavltt Dl!pury Commlsslonrr Commtutar1er Hl!Olth Core Strategy Daniel Pollak Georgette GHt.ly Rm lkputy Commissioner
-0/~or, Emp/oYff Bcncf,U Pnigram Nle,ola Andrada Genera/ Coururl James Lcmonda, President Unifonned Fire Officers Association
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Ranae Campion Clalra Lavltt
+Dl!pury Commlsslonrr
+Commtutar1er
+Hl!Olth Core Strategy
+Daniel Pollak
+Georgette GHt.ly
+Rm lkputy Commissioner
+0/~or, Emp/oYff Bcncf,U Pnigram
+Nle,ola Andrada
+Genera/ Coururl
+James Lcmonda, President
+Unifonned Fire Officers Association
 225 Broadway, Suite 401
 New York, New York 10007
 Dear Mr. Lemonda:
-At the request of the Union, the Fire Department will convene a labor management meeting to discuss the issues related to accrual and disposition of compensatory time, which will include representative(s) of the NYC Mayor's Office of Labor Relations.
+At the request of the Union, the Fire Department will convene a labor management meeting
+to discuss the issues related to accrual and disposition of compensatory time, which will include
+representative(s) of the NYC Mayor's Office of Labor Relations.
 v ~ :
 R:n~eCa~
 Commissioner
@@ -1496,7 +1679,11 @@ Unirormcd Fire Officers Association Term: Mwt:h 20, 201810 July 30, 2021
 ### OFFICE OF LABOR RELATIONS
 _Page 66_
 
-◄0 R:ctot Stn:et, New Ymk. N.Y. 10006-1705 nyc.gov/olr ROBERTW.UNN MAYRA E. BELL comnwstoner Clxlnsll Gtn■ral
+◄0 R:ctot Stn:et, New Ymk. N.Y. 10006-1705
+nyc.gov/olr
+ROBERTW.UNN MAYRA E. BELL
+comnwstoner Clxlnsll
+Gtn■ral
 
 <a id="renee-campion-georgette-gestely-p66"></a>
 ### RENEE CAMPION GEORGETTE GESTELY
@@ -1520,7 +1707,6 @@ iii. In any event, theS600 million pursuant lo I( a)(lv} musl be ~urring and agr
 Uniformed Fire Officc:r.; Association Term: Man:b 20, 2018 ID July 30, 2021
 22 02 2
 
-
 c. Sa\ings attributable to CBP programs will continue lo be transferred co the City by offKlting the savings amounts documented by Empin: Blue Cross and GHI against the equalization paymenlS from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this offset to expire, any savings acbievcd in thls manner must be replaced in order lo meet the recuning obliption under l{a)(iv) above.
 d. The parties that any savings within the period orFY 201S -2018 overSJ.4
 11gm:
@@ -1529,13 +1715,11 @@ e. The panics agree that recurring savings over SI.3 billion for FY 2018 arising
 This is currently estimated at approximately S40 million but will be
 1101
 finalized until the full year ofFY 2018 data is transmitted and analyll!d by the Ciiy's and the ML C's actuaries, Once the amount is finalized, that amount shall be applied to Fiscal Yc ars 2019, 2020, 2021 and 1othe obligation under I (a)(iv).
-2. After the conclusion ofFiscal Year 2021, the parties shall calculate the savings realized during
-the 3 year period. In lhc event that the MLC has generated man: than S600 million in recurring healthcare savings, as agreed upon by the City's and the Ml.C's actuaries, such additional savincs shall be utilized as
+2. After the conclusion ofFiscal Year 2021, the parties shall calculate the savings realized during the 3 year period. In lhc event that the MLC has generated man: than S600 million in recurring healthcare savings, as agreed upon by the City's and the Ml.C's actuaries, such additional savincs shall be utilized as
 follows:
 a. The fim S6B million will be used by the City to make aS I 00 per member per year increase to welfare funds (actives BIid retirees) effective July I, 202 I. lfa savings amount over S600 million but less than S66B million is achieved, the S1 00 per member per year (actives and retirees) increase will be prontcd.
 b. Any savings thereafter shall be split cqll.illly between the City and the MLC and applied in u manner agreed to by the parties.
-3. Begiuning January I, 2019, and continuing unless and until the parties agn:e othcrwisc. lhc
-parties shall authorize the quarterly provision oft he following data to the City's ond Ml.C's aclllllrics on an ongoing q1141'tcrly basis: (I) detailed claim-level health data mim Emblem Health and Empire Blue Cross including detailed claim-level dala for City employees covered under the GHf-CBP prognuns (including Senior Can: and Behaviol'l!I Health information); and (2)
+3. Begiuning January I, 2019, and continuing unless and until the parties agn:e othcrwisc. lhc parties shall authorize the quarterly provision oft he following data to the City's ond Ml.C's aclllllrics on an ongoing q1141'tcrly basis: (I) detailed claim-level health data mim Emblem Health and Empire Blue Cross including detailed claim-level dala for City employees covered under the GHf-CBP prognuns (including Senior Can: and Behaviol'l!I Health information); and (2)
 utilization data under the HIP-HMO pl1111. Such data shall be provided within 60 days of the end orc .xh quarterly period. The lilP-HMO utilization dala will also be provided to tbc City's and Ml.C's accuaries within 60 days oftbe execution of this letter agreement for City Fiscal Year 2018 as baseline information to assess ongoing savings. The HIP-HMO data Jhall include: (i)
 utilization by procedure for site of service benefit changes; (ii) utilization by disease state, by procedure (for pwposcs of1155cssing Centers of Excellence); and (iii) member engagement data for the Wellness program, including stratifying membcn by three tranches (level 1, II and II).
 The data shall include baseline data as well as datn regarding the usumptions utilized in determining expected savings for comparison. The data described in this paragraph shall be provided pursuant to a data sharing agreement entcn:d into by the City and MLC, akin to prior data agn:cmenlS, which shall provide for the protection ofm ember privacy and related conccrt1S, shall cover all periods addressed by thiJ Agreement (i.e., through June JO, 2021 and thereafter), and shall be executed within thirty days of the execution of this letter agreement
@@ -1543,9 +1727,7 @@ The data shall include baseline data as well as datn regarding the usumptions ut
 Uniformed Fire Officers Association Tenn: Man:h 20, 2018 to July 30, 2021
 22022
 
-
-4. The parties agree that lhe Welfare Funds will receive two SI00 per member one-time lump-sum
-payments (actives and retirees) funded by the Joint Stabllizallon Fund payable cffi:ctlve July I,
+4. The parties agree that lhe Welfare Funds will receive two SI00 per member one-time lump-sum payments (actives and retirees) funded by the Joint Stabllizallon Fund payable cffi:ctlve July I,
 2018 and July I, 2019.
 S. The parties recognize that despite extraordinary savings to health cos!! accomplished In the last round ofn egotiations through their efforts and the Innovation or the MLC, and the further savings which shall be Implemented as a result of this agreement. that the longer lerm SUSlalnabillty of health care for workers and their famllles, requires further study, savings and efficiencies in the method or health care delivery. To that end, lhe parties will within 90 days establish a Tripartite Health Insurance Polley Committee ofMLC and City members, chaired by one member each appoinlcd by the MLC and the City, and Martin F. Sc:helnman, Esq. The Committee shall study the issuc.s using appropriale data and recommend for Implementation as soon as practicable during the term of this Agreement but no later than June JO, 2020, mod!Ocallons lo the way In which health care Is currenlly provided or funded. Among lhc topics the Committee shall discuss:_ a. Self-insurance and/or minimum premium amingemcnts for the HIP HMO plan.
 b. Medicare Advantage-adoption of a Medlwe Advantage benchmark plan for retirees c. Consolidated Drug Pun:hasing-welfare funds, PICA and health plan prescription costs pooling lheir buying power and rcsoura:s lo purchase prescription drugs.
@@ -1557,14 +1739,12 @@ g. Potential RFPs for all medical and hospital benefits.
 h. Status of the StablllZlltion Fund.
 The Committee wlli·make recommendations to be considcn:d by the MLC and lhe City.
 6, The joint comminee shall be known as the Tripartite Health Insurance Policy Committee (THIPC) and shall be Independent of the existing "Technical Committee." The "Technical Commiuec" will continue Its work and will work In conjunction with the THIPC as designated above to address or health benefit changes. The Technical Committee will continue lo be BJUS supported by separate actuaries for the City and the MLC. The City and the MLC wlll each be responsible for the costs oflts actuary.
-7. In the event ofa ny dispute under sections 1-4 of this Agreement, the parties shall meet and confer
-In an attempt to resolve the dispute. If the parties cannot resolve lhe dispute, such dispute sl1all be referred to Martin Schclnman for resolution consistent with the dispute resolution terms of the
+7. In the event ofa ny dispute under sections 1-4 of this Agreement, the parties shall meet and confer In an attempt to resolve the dispute. If the parties cannot resolve lhe dispute, such dispute sl1all be referred to Martin Schclnman for resolution consistent with the dispute resolution terms of the
 2014 Clty/MLC Heallh Agreement:
 a. Such dispute shall be resolved within 90 days.
 J
 Uniformed Fire Officers Association 66 Term: Ma.rch 20, 2018 10 July 30, 2021
 22022
-
 
 b. The arbilrator shall have the authority to lmpo5e Interim relief that Is consistent with the parties' Intent.
 c. The arbitrator shall have the authority to meet with the parties as such times u Is appropriate to en~ the tenns or this agreement d. The parties shall share lhc costs for the arbltBtor (Including Committee meetings).

@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # Supervisor of Mechanics L621 Executed Contract, 2021-2026
 
-**Term:** 2021–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/L621-Supervisor-of-Mechanics-et-al-10-13-2020--11-18-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/L621-Supervisor-of-Mechanics-et-al-10-13-2020--11-18-2025.pdf)
-**Pages:** 39
+**Term:** 2021–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/L621-Supervisor-of-Mechanics-et-al-10-13-2020--11-18-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/L621-Supervisor-of-Mechanics-et-al-10-13-2020--11-18-2025.pdf)  
+**Pages:** 39  
 **Clauses extracted:** 39
 
 **Workforce:** Supervisor of Mechanics L621 Executed Contract, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -79,7 +79,6 @@ DATE:
 2s, 2PZ
 ~tilm,7}
 
-
 Local 621, S.E.I.U.
 2020-2025 Supervisor of Mechanics (M.E.), et al. Agreement
 
@@ -91,7 +90,6 @@ _Page 2_
 Local 621 2020-2025
 7
 25 00
-
 
 Local 621, S.E.I.U,
 2020-2025 Supervisor of Mechanics (M.E.) et al. Agreement AGREEMENT entered into this 2S+-,,. day of'Feto<~ , 2025 by and between the City of New York and related public employers pursuant to and limited to their respective elections or statutory requirement to be covered by the New York City Collective Bargaining Law and their respective authorizations to the City to bargain on their behalf (hereinafter referred to jointly as the "Employer"), and Local 621, Service Employees International Union(hereinafter referred to as the "Union"), for the sixty-one (61) months and six (6) days period from October 13, 2020 to November 18, 202S for all titles listed below in Article I Section l except for the Deputy Director of Motor Equipment Maintenance (Sanitation) where the sixty-one months and six (6) days period from May 31, 2021 to July 5, 2026 shall apply.
@@ -114,7 +112,6 @@ Director of Motor Equipment Maintenance (Sanitation) (Non-Managerial)
 Executive Director of Fleet Operations (Fire Department)* *Certified pursuant to OCB decision no. 13 OCB2d 14 (BOC 2020)
 2
 Local 621 2020-2025
-
 
 Section 2.
 The tenns 11employee" and "employees" as used in this Agreement shall mean only those persons in the unit described in Section I of this Article except that Articles VII and VIII shall not apply to employees assigned and paid an assignment differential as Assistant Supervising Supervisor Class I or Class II or Supervising Supervisor. Further, employees serving in the title of Deputy Director of Motor Equipment Maintenance, Director of Motor Transport, Director of Motor Equipment Maintenance, and employees serving at Level II oft he title of Supervisor of Mechanic (Mechanical Equipment), shall be excluded from the aforementioned Articles VII and VIII.
@@ -140,7 +137,6 @@ Local 621 2020-2025
 7
 25 00
 
-
 Section 2.
 The Employer agrees not to discriminate in any way against any employee for Union activity, but such activity shall not be carried on during working hours or in working areas.
 Section 3.
@@ -161,7 +157,6 @@ B. Unless otherwise specified, all salary provisions of this Agreement, includin
 Local 621 2020-2025
 25007
 
-
 C. Employees who work on a per diem or hourly basis and who are eligible for any salary adjustment provided in this Agreement shall receive the appropriate pro-rata portion of
 such salary adjustment computed as follows, unless otherwise specified:
 Per diem rate - 1/261 of the appropriate minimum basic salary.
@@ -177,22 +172,26 @@ a. For Employees other than Deputy Directors:
 Effective October 13, 2020, Employees shall receive a general increase
 1.
 of3.00%.
-ii. Effective October 13, 2021, Employees shall receive a general increase of 3.00% compounded.
-iii. Effective October 13, 2022, Employees shall receive a general increase of3.00% compounded.
-iv. Effective October 13, 2023, Employees shall receive a general increase of 3.00% compounded.
-v. Effective October 13, 2024, Employees shall receive a general increase of 3.25% compounded
+ii. Effective October 13, 2021, Employees shall receive a general increase
+of 3.00% compounded.
+iii. Effective October 13, 2022, Employees shall receive a general increase
+of3.00% compounded.
+iv. Effective October 13, 2023, Employees shall receive a general increase
+of 3.00% compounded.
+v. Effective October 13, 2024, Employees shall receive a general increase
+of 3.25% compounded
 b. For Deputy Directors:
 Effective May 31, 2021, Employees shall receive a general increase
 1.
 of3.00%.
-ii. Effective May 31, 2022, Employees shall receive a general increase of 3.00% compounded.
+ii. Effective May 31, 2022, Employees shall receive a general increase
+of 3.00% compounded.
 Effective May 31, 2023, Employees shall receive a general increase
 111.
 of 3.00% compounded.
 5
 Local 621 2020-2025
 25007
-
 
 iv. Effective May 31, 2024, Employees shall receive a general increase of 3.00% compounded.
 v. Effective May 31, 2025, Employees shall receive a general increase of 3.25% compounded.
@@ -216,26 +215,44 @@ $121,196 $124,832 Flat Rate
 Local 621 2020-2025
 25007
 
-
 Supervisor of Mechanics
 $148,202 $152,648 $169,491
-(Mechanical Equipment) Level 2 Supervisor of Ironwork $125,151 $128,906 Flat Rate Deputy Director of Motor Equipment $152,926 $157,514 $169,492 Maintenance (Sanitation)
+(Mechanical Equipment) Level 2
+Supervisor of Ironwork $125,151 $128,906 Flat Rate
+Deputy Director of Motor Equipment
+$152,926 $157,514 $169,492
+Maintenance (Sanitation)
 Director of Motor Equipment
 $155,872 $160,548 $185,103
 Maintenance (Sanitation)
-Director of Motor Transport (Police $152,648 $157,227 $173,342 Department)
+Director of Motor Transport (Police
+$152,648 $157,227 $173,342
+Department)
 Incumbent Min. Max
 Supervisor of Mechanics
 $176,271 $204,426
-(Mechanical Equipment) Level 3 Executive Director (FDNY) $176,271 $204,426 Em~lol'.ees w/2 l'.ears of Ci!l'. Service Effective 10/13/2021 (5/31/2022 DD} I st year following Incumbent Min.
+(Mechanical Equipment) Level 3
+Executive Director (FDNY) $176,271 $204,426
+Em~lol'.ees w/2 l'.ears of Ci!l'. Service
+Effective 10/13/2021 (5/31/2022 DD}
+I st year following Incumbent Min.
 promotion (After 1 yr. in unit) Max.
 Supervisor of Mechanics
 $124,832 $128,577 Flat Rate
-(Mechanical Equipment) Level 1 Supervisor of Mechanics $152,648 $157,227 $174,577 (Mechanical Equipment) Level 2 Supervisor of Ironwork $128,906 $132,773 Flat Rate Deputy Director of Motor Equipment $157,514 $162,239 $174,577 Maintenance (Sanitation)
+(Mechanical Equipment) Level 1
+Supervisor of Mechanics
+$152,648 $157,227 $174,577
+(Mechanical Equipment) Level 2
+Supervisor of Ironwork $128,906 $132,773 Flat Rate
+Deputy Director of Motor Equipment
+$157,514 $162,239 $174,577
+Maintenance (Sanitation)
 Director of Motor Equipment
 $160,548 $165,364 $190,656
 Maintenance (Sanitation)
-Director of Motor Transport (Police $ I 57,227 $161,944 $178,542 Department)
+Director of Motor Transport (Police
+$ I 57,227 $161,944 $178,542
+Department)
 Incumbent Min. Max
 Supervisor of Mechanics
 $181,559 $210,559
@@ -244,50 +261,87 @@ $181,559 $210,559
 Local 621 2020-2025
 25 00 7
 
-
-Executive Director (FDNY) $181,559 $210,559 Emulo:1::ees w/2 l'.ears of Ci!:l'. Service Effective 10/13/2022 {5/31/2023 DD} I st year following Incumbent Min.
+Executive Director (FDNY) $181,559 $210,559
+Emulo:1::ees w/2 l'.ears of Ci!:l'. Service
+Effective 10/13/2022 {5/31/2023 DD}
+I st year following Incumbent Min.
 promotion (After I yr. in unit) Max.
 Supervisor of Mechanics
 $128,577 $132,434 Flat Rate
-(Mechanical Equipment) Level I Supervisor of Mechanics $157,227 $161,944 $179,814 (Mechanical Equipment) Level 2 Supervisor of Ironwork $132,773 $136,756 Flat Rate Deputy Director of Motor Equipment $162,239 $167,106 $179,814 Maintenance (Sanitation)
+(Mechanical Equipment) Level I
+Supervisor of Mechanics
+$157,227 $161,944 $179,814
+(Mechanical Equipment) Level 2
+Supervisor of Ironwork $132,773 $136,756 Flat Rate
+Deputy Director of Motor Equipment
+$162,239 $167,106 $179,814
+Maintenance (Sanitation)
 Director of Motor Equipment
 $165,364 $170,325 $196,376
 Maintenance (Sanitation)
-Director of Motor Transport (Police $161,944 $166,802 $183,898 Department)
+Director of Motor Transport (Police
+$161,944 $166,802 $183,898
+Department)
 Incumbent Min. Max
 Supervisor of Mechanics
 $187,006 $216,876
-(Mechanical Equipment) Level 3 Executive Director (F DNY) $187,006 $216,876 Emulol'.ees w/2 l'.ears of Ci!l: Service Effective 10/13/2023 {5/31/2024 DD} I st year following Incumbent Min.
+(Mechanical Equipment) Level 3
+Executive Director (F DNY) $187,006 $216,876
+Emulol'.ees w/2 l'.ears of Ci!l: Service
+Effective 10/13/2023 {5/31/2024 DD}
+I st year following Incumbent Min.
 promotion (After I yr. in unit) Max.
 Supervisor of Mechanics
 $132,434 $136,407 Flat Rate
-(Mechanical Equipment) Level I Supervisor of Mechanics $161,944 $166,802 $185,208 (Mechanical Equipment) Level 2 Supervisor of Ironwork $136,756 $140,859 Flat Rate Deputy Director of Motor Equipment $167,106 $172,119 $185,208 Maintenance (Sanitation)
+(Mechanical Equipment) Level I
+Supervisor of Mechanics
+$161,944 $166,802 $185,208
+(Mechanical Equipment) Level 2
+Supervisor of Ironwork $136,756 $140,859 Flat Rate
+Deputy Director of Motor Equipment
+$167,106 $172,119 $185,208
+Maintenance (Sanitation)
 8
 Local 621 2020-2025
 7
 25 00
 
-
 Director of Motor Equipment
 $170,325 $175,435 $202,267
 Maintenance (Sanitation)
-Director of Motor Transport (Police $166,802 $171,806 $189,415 Department)
+Director of Motor Transport (Police
+$166,802 $171,806 $189,415
+Department)
 Incumbent Min. Max
 Supervisor of Mechanics
 $192,616 $223,382
-(Mechanical Equipment) Level 3 Executive Director (FDNY) $192,616 $223,382 Em~lo:1:ees w/21:ears of Citv Service Effective 10/13/2024 {5/31/2025 DD} I st year following Incumbent Min.
+(Mechanical Equipment) Level 3
+Executive Director (FDNY) $192,616 $223,382
+Em~lo:1:ees w/21:ears of Citv Service
+Effective 10/13/2024 {5/31/2025 DD}
+I st year following Incumbent Min.
 promotion (After I yr. in unit) Max.
 Supervisor of Mechanics
 $136,738 $140,840 Flat Rate
-(Mechanical Equipment) Level 1 Supervisor of Mechanics $167,207 $172,223 $191,227 (Mechanical Equipment} Level 2 Supervisor of Ironwork $141,201 $145,437 Flat Rate Deputy Director of Motor Equipment $172,537 $177,713 $191,227 Maintenance (Sanitation)
+(Mechanical Equipment) Level 1
+Supervisor of Mechanics
+$167,207 $172,223 $191,227
+(Mechanical Equipment} Level 2
+Supervisor of Ironwork $141,201 $145,437 Flat Rate
+Deputy Director of Motor Equipment
+$172,537 $177,713 $191,227
+Maintenance (Sanitation)
 Director of Motor Equipment
 $175,861 $181,137 $208,841
 Maintenance (Sanitation)
-Director of Motor Transport (Police $172,223 $177,390 $195,571 Department)
+Director of Motor Transport (Police
+$172,223 $177,390 $195,571
+Department)
 Incumbent Min. Max
 Supervisor of Mechanics
 $198,876 $230,642
-(Mechanical Equipment) Level 3 Executive Director (FDNY) $198,876 $230,642
+(Mechanical Equipment) Level 3
+Executive Director (FDNY) $198,876 $230,642
 
 <a id="section-4-assignment-differentials-p10"></a>
 ### Section 4 — Assignment Differentials
@@ -297,7 +351,6 @@ For the period beginning October 13, 2020 SMME Level rs serving in one of the th
 9
 Local 621 2020-2025
 25 0 0 7
-
 
 this Article IV:
 Assistant Assistant
@@ -312,32 +365,87 @@ Is in responsible charge of several shops, plants or pumping stations, several b
 Local 621 2020-2025
 2500?
 
-
 Supervising Supervisor (sometimes referred to as "Chier'):
-Is in responsible charge of various operations and functions of a unit comprised of garage operations. borough shops. a central repair shop, plants or pumping stations. or a similar repair and maintenance function, involving planning, directing and coordinating repair and maintenance activities; performs administrative work; may serve as principal assistant to a bureau director; supervises assigned personnel.
-Section S. New Hire Salary Rates The following rates shall apply to "new hires•' who enter the bargaining unit after January
+Is in responsible charge of various operations and functions of a unit comprised of garage
+operations. borough shops. a central repair shop, plants or pumping stations. or a similar repair and
+maintenance function, involving planning, directing and coordinating repair and maintenance
+activities; performs administrative work; may serve as principal assistant to a bureau director;
+supervises assigned personnel.
+Section S. New Hire Salary Rates
+The following rates shall apply to "new hires•' who enter the bargaining unit after January
 5
-1 \ 2020 during the first two years of service. pursuant to the provisions of subsection 6 of this Article. ''New Hires" are defined as employees with fewer than two years of city service.
-Effective 10/13/2020 New Hire Rate 1 Year Rate (Effective 5/31 /21 for Deputy Directors)
+1 \ 2020 during the first two years of service. pursuant to the provisions of subsection 6 of this
+Article. ''New Hires" are defined as employees with fewer than two years of city service.
+Effective 10/13/2020 New Hire Rate 1 Year Rate
+(Effective 5/31 /21 for
+Deputy Directors)
 Supervisor of Mechanics
-(Mechanical Equipment) $110,098 $113,401 Level 1 Supervisor of Mechanics (Mechanical Equipment) $124,077 $127,799 Leve12 Supervisor of Ironwork $108,346 $111,596 Deputy Director of Motor Equipment Maintenance $138,926 $143.094 (Sanitation)
+(Mechanical Equipment) $110,098 $113,401
+Level 1
+Supervisor of Mechanics
+(Mechanical Equipment) $124,077 $127,799
+Leve12
+Supervisor of Ironwork $108,346 $111,596
+Deputy Director of Motor
+Equipment Maintenance $138,926 $143.094
+(Sanitation)
 Effective I 0/13/2021
-(Effective 5/31/22 for Deputy I Year Rate New Hire Rate Directors)
-Supervisor of Mechanics (Mechanical $113,401 $116,803 Equipment) Level 1
+(Effective 5/31/22 for Deputy I Year Rate
+New Hire Rate
+Directors)
+Supervisor of Mechanics (Mechanical
+$113,401 $116,803
+Equipment) Level 1
 11
 Local 621 2020-2025
 25 00 7
 
-
-Supervisor of Mechanics (Mechanical $127,799 $131,633 Equipment) Level 2 Supervisor of Ironwork $111,596 $114,944 Deputy Director of Motor Equipment $143,094 $147,387 Maintenance (Sanitation)
+Supervisor of Mechanics (Mechanical
+$127,799 $131,633
+Equipment) Level 2
+Supervisor of Ironwork $111,596 $114,944
+Deputy Director of Motor Equipment
+$143,094 $147,387
+Maintenance (Sanitation)
 Effective 10/13/2022
-(Effective 5/31/23 for Deuut:\'. New Hire Rate I Year Rate Directors)
-Supervisor of Mechanics (Mechanical $116,803 $120,307 Equipment) Level I Supervisor of Mechanics (Mechanical $131,633 $135,582 Equipment) Level 2 Supervisor of Ironwork $114,944 $118,392 Deputy Director of Motor Equipment $147,387 $151,808 Maintenance (Sanitation)
+(Effective 5/31/23 for Deuut:\'. New Hire Rate I Year Rate
+Directors)
+Supervisor of Mechanics (Mechanical
+$116,803 $120,307
+Equipment) Level I
+Supervisor of Mechanics (Mechanical
+$131,633 $135,582
+Equipment) Level 2
+Supervisor of Ironwork $114,944 $118,392
+Deputy Director of Motor Equipment
+$147,387 $151,808
+Maintenance (Sanitation)
 Effective 10/13/2023
-(Effective 5/3 I /24 for Deuu!Y New Hire Rate 1 Year Rate Directors)
-Supervisor of Mechanics (Mechanical $120,307 $123,916 Equipment) Level 1 Supervisor of Mechanics (Mechanical $135,582 $139,649 Equipment) Level 2 Supervisor of Ironwork $1 I 8,392 $121,944 Deputy Director of Motor Equipment $151,809 $156,363 Maintenance (Sanitation)
-Effective 10/13/2024 New Hire Rate (Effective 5/31/25 for Deuut:\'. I Year Rate Directors)
-Supervisor of Mechanics (Mechanical $124,217 $127,943 Equipment) Level 1 Supervisor of Mechanics (Mechanical $139,988 $144,188 Equipment) Level 2 Supervisor of Ironwork $122,204 $125,907 Deputy Director of Motor Equipment $156,743 $161,445 Maintenance (Sanitation)
+(Effective 5/3 I /24 for Deuu!Y New Hire Rate 1 Year Rate
+Directors)
+Supervisor of Mechanics (Mechanical
+$120,307 $123,916
+Equipment) Level 1
+Supervisor of Mechanics (Mechanical
+$135,582 $139,649
+Equipment) Level 2
+Supervisor of Ironwork $1 I 8,392 $121,944
+Deputy Director of Motor Equipment
+$151,809 $156,363
+Maintenance (Sanitation)
+Effective 10/13/2024 New Hire Rate
+(Effective 5/31/25 for Deuut:\'. I Year Rate
+Directors)
+Supervisor of Mechanics (Mechanical
+$124,217 $127,943
+Equipment) Level 1
+Supervisor of Mechanics (Mechanical
+$139,988 $144,188
+Equipment) Level 2
+Supervisor of Ironwork $122,204 $125,907
+Deputy Director of Motor Equipment
+$156,743 $161,445
+Maintenance (Sanitation)
 12
 Local 621 2020-2025
 25 0 0 7
@@ -366,7 +474,6 @@ i. During the first two (2) years of service, the "appointment rate" for a newly
 Local 621 2020-2025
 25007
 
-
 employee shall be 10.08% less than the applicable incumbent minimum rate for said title that is in effect on the date of such appointment as set forth in this Agreement. The general increases provided for in subsection 2(A) shall be applied to the "appointment rate."
 ii. Upon completion of two (2) years of service such employees shall be paid no less than the indicated "incumbent minimum" rate for the applicable title that is in effect on the two (2) year anniversary of their original date of appointment as set forth in subsection 3 of this Article IV.
 c. The following provisions shall apply to employees in the title Supervisor of Ironwork
@@ -384,7 +491,6 @@ ii. Upon completion of two (2) years of service such employees shall be paid no 
 14
 Local 621 2020-2025
 25 00 7
-
 
 than the indicated "incumbent" rate for the applicable title that is in effect on the two (2) year anniversary of their original date of appointment as set forth in subsection 3 of this Article IV.
 f. i If applicable, for a title subject to an incremental pay plan, the employee shall be paid the appropriate increment based upon the employee's length of service.
@@ -405,7 +511,6 @@ Local 621 2020-2025
 25 OO
 '
 
-
 Section 9.
 The Union agrees to provide welfare fund benefits to domestic partners of covered Employees in the same manner as those benefits are provided to spouses of married covered Employees.
 Section 10.
@@ -423,7 +528,6 @@ a. A dispute concerning the application or interpretation of the terms of this A
 Local 6212020-2025
 25 00 7
 
-
 in the employee's permanent title or which affects the employee's permanent status.
 f. Failure to serve written charges as required by Section 75 of the Civil Service Law or the Rules and Regulations of the Health and Hospitals Corporation upon a permanent employee covered by Section 75(1) of the Civil Service Law or a permanent competitive employee covered by the Rules and Regulations of the Health and Hospitals Corporation where any of the penalties (including a fine) set forth in Section 75(3) of the Civil Service Law have been imposed; g. A claimed wrongful disciplinary action taken against a provisional employee who has served for two years in the same or similar title or related occupational group in the same agency.
 h. A claimed wrongful disciplinary action taken against an employee appointed pursuant to Rule 3.2. 1 I of the Personnel Rules and Regulations of the City of New York who has served continuously for two years in the same or similar title or related occupational group in the same agency.
@@ -437,7 +541,6 @@ STEP I The employee and/or the Union shall present the grievance in the form of 
 Local 621 2020-2025
 25 0 0 7
 
-
 writing by the end of the third work day following the date of submission.
 NOTE: The following STEP /(a) shall applicable only in 1/re Health and Hospilals Corporation in the case ofg rievances arising under Seclion I (a), I (b), I (c) and I (j) of1 his Ar1icle and
 shall be applied prior lo Step II oft his Section:
@@ -450,7 +553,6 @@ STEP IV - An appeal from an unsatisfactory determination at STEP III may be brou
 18
 Local 621 2020-2025
 25007
-
 
 New York. The costs and fees of such arbitration shall be borne equally by the Union and the Employer.
 The determination or award of the arbitrator shall be final and binding in accord with applicable law and shall not add to, subtract from or modify any contract, rule, regulation, written policy or order mentioned in Section I of this Article.
@@ -472,7 +574,6 @@ STEP A - Following the service of written charges, a conference with such employ
 Local 621 2020-2025
 25007
 
-
 shall be held with respect to such charges by the person designated by the agency head to review a grievance at STEP I of the Grievance Procedure set forth in this Agreement. The employee may be represented at such conference by a representative of the Union. The person designated by the agency head to review the charges shall take any steps necessary to a proper disposition of the charges and shall issue a detennination in writing by the end of the fifth day following the date of the conference.
 If the employee is satisfied with the detennination in STEP A above, the employee may choose to accept such detennination as an alternative to and in lieu of a determination made pursuant to the procedures provided for in Section 75 of the Civil Service Law or the Rules and Regulations of the Health and Hospitals Corporation. As a condition of accepting such determination, the employee shall sign a waiver of the employee's right to the procedures available to him or her under Sections 75 and 76 of the Civil Service Law or the Rules and Regulations of the Health and Hospitals Corporation.
 STEP B(i) - If the employee is not satisfied with the detennination at STEP A above then the Employer shall proceed in accordance with the disciplinary procedures set forth in
@@ -487,7 +588,6 @@ STEP C - If the grievant is not satisfied with the determination of the agency h
 20
 Local 621 2020-2025
 25007
-
 
 reply to the grievant and the Union within fifteen (15) work days.
 STEP D - If the grievant is not satisfied with the detennination of the Commissioner of Labor Relations, the Union with the consent of the grievant may proceed to arbitration pursuant to the procedures set forth in STEP IV of the Grievance Procedure set forth in this Agreement.
@@ -510,7 +610,6 @@ Each of the steps in the Grievance Procedure, as well as time limits prescribed 
 21
 Local 621 2020-2025
 ~5007
-
 
 Grievance Procedure, may be waived by mutual agreement of the parties.
 Section 12.
@@ -580,7 +679,6 @@ With the exception oft temporary transfers, involuntary transfers from one work 
 Local 621 2020-2025
 25 00 7
 
-
 Section 7.
 There shall be a six (6) month probationary period for all persons transferred. At or before the end of said probationary period, an employee who has been transferred may be returned to the work location from which transferred if, in the judgement oft he Employer, said transferred employee's abilities, performance, rate of absenteeism, general health and capacities and disciplinary record in such new position warrant such return.
 Section 8.
@@ -603,7 +701,6 @@ For purposes of this Article only, work areas as they presently exist in the Bur
 25
 Local 621 2020-2025
 25 OO 7
-
 
 Equipment of the Department of Sanitation are defined as follows:
 a. Field Operations
@@ -633,7 +730,6 @@ _Page 27_ · _Topics: discipline_
 The Union recognizes the Employer's right under the New York City Collective Bargaining
 26
 Local 621 2020-2025
-
 
 Law to establish and/or revise standards for supervisory responsibility in achieving and maintaining performance levels of supervised employees for employees in supervisory positions listed in Article I, Section 1, of this Agreement. The Employer will give the Union prior notice of the establishment and/or revision of standards for supervisory responsibility hereunder.
 Section 2.
@@ -666,7 +762,6 @@ In the scheduling ofv acations for employees of agencies covered hereunder subje
 Local 621 2020-2025
 7
 ~5 00
-
 
 Section 3.
 The Employer may require that all employees newly hired after March 4, 2019 be paid exclusively through direct deposit or electronic funds transfer. For employees on direct deposit, the employer may provide pay stubs electronically except where the employee has requested in writing to receive a printed pay stub.
@@ -701,7 +796,6 @@ Matters subject to the Grievance Procedure shall not be appropriate items for co
 28
 Local 621 2020-2025
 25 0 0 7
-
 
 labor-management committee.
 Section 3.
@@ -738,7 +832,6 @@ Employees in Rule X titles shall receive the benefits of the Citywide Agreement 
 Local 621 2020-2025
 25 0 0 7
 
-
 WHEREFORE, we have hereunto set our hands and seals this~ay o f ~ 2 025.
 FOR THE CITY OF NEW YORK AND RELATED FOR LOCAL 621,
 PUBLIC EMPLOYERS AS DEFINED HEREIN: SEIU:
@@ -759,7 +852,12 @@ _Page 31_
 
 Acting Corporation Counsel
 UNIT: Supervisor of Mechanics (M.E.), et al.
-TERM: October 13, 2020 to November 18, 2025, where applicable May 31, 2021 to July 5, 2026, where applicable oror-i-:iCE LABOR R~LATIONS -.,,-..N .... t(." ...' ."') ...
+TERM: October 13, 2020 to November 18, 2025, where applicable
+May 31, 2021 to July 5, 2026, where applicable
+or-
+or-i-:iCE LABOR R~LATIONS
+-.,,-..N
+.... t(." ...' ."') ...
 R\::1,.:1.w I •, .'-\ ; , ~
 
 <a id="cou7ract-p31"></a>
@@ -775,13 +873,34 @@ Local 621 2020-2025 ~ki, 2-~ 7._o Zs
 4
 ~·
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy Commissioner Health Core Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Program Nicole Andrade General Counsel Carl Chiaramonte President Supervisors Local 621, SEIU AFL-CIO
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Claire Levitt
+Commissioner Deputy Commissioner
+Health Core Strategy
+Daniel Pollak
+Georgette Gestely
+First Deputy Commissioner
+Director, Employee Benefits Program
+Nicole Andrade
+General Counsel
+Carl Chiaramonte
+President
+Supervisors Local 621, SEIU AFL-CIO
 6106 78 Street
 Middle Village, NY 11379
-Re: 2021-2026 Local 621 SMME, et al. Agreement Dear Mr. Chiaramonte; This letter serves to confirm our mutual understanding that Local 621, S.E.I. U ., AFL-CIO ("Local 621 ") has provided the necessary recurring funding to increase the compensation of the member of Local 621 on full-time paid release to that of a Level Ill Supervisor of Mechanics (Mechanical Equipment). The parties agree that the charge to the Union for the increase in the annual salary to the member of Local 621 on full-time paid release will continue regardless of the civil service title or the assignment level of any future active employee who may serve in the full time paid release position. As part of the 2021-2026 Memorandum of Agreement ("MOA'')
-between Local 621, and the City of New York, signed June 27, 2023, the compensation of the member of Local 621 on full-time paid release shall be adjusted to the amounts set forth below.
+Re: 2021-2026 Local 621 SMME, et al. Agreement
+Dear Mr. Chiaramonte;
+This letter serves to confirm our mutual understanding that Local 621, S.E.I. U ., AFL-CIO
+("Local 621 ") has provided the necessary recurring funding to increase the compensation of the
+member of Local 621 on full-time paid release to that of a Level Ill Supervisor of Mechanics
+(Mechanical Equipment). The parties agree that the charge to the Union for the increase in the
+annual salary to the member of Local 621 on full-time paid release will continue regardless of the
+civil service title or the assignment level of any future active employee who may serve in the full
+time paid release position. As part of the 2021-2026 Memorandum of Agreement ("MOA'')
+between Local 621, and the City of New York, signed June 27, 2023, the compensation of the
+member of Local 621 on full-time paid release shall be adjusted to the amounts set forth below.
 1. Effective October 13, 2020, the salary for the position on full-time release with pay
 shall be increased to $204,426.
 2. Effective October 13, 2021, the salary for the position on full-time release with pay
@@ -790,7 +909,6 @@ shall be increased to $210,559.
 shall be increased to $216,876.
 4. Effective October 13, 2023, the salary for the position on full-time release with pay
 shall be increased to $223,382.
-
 
 5. Effective October 13, 2024, the salary for the position on full-time release with pay
 shall be increased by 3.25% to $230,642.
@@ -801,20 +919,38 @@ Carl Chiaramonte
 President
 25007
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy Commissioner Health Care Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Program Nicole Andrade General Counsel Carl Chiaramonte President Supervisors Local 621, SEIU AFL-CIO
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Claire Levitt
+Commissioner Deputy Commissioner
+Health Care Strategy
+Daniel Pollak
+Georgette Gestely
+First Deputy Commissioner
+Director, Employee Benefits Program
+Nicole Andrade
+General Counsel
+Carl Chiaramonte
+President
+Supervisors Local 621, SEIU AFL-CIO
 6106 78 Street
 Middle Village, NY 113 79
 Re: 2021-2026 Local 621 SMME, et al. Agreement
 Dear Mr. Chiaramonte:
-This is to confirm certain mutual understandings and agreements regarding the above captioned Agreement.
+This is to confirm certain mutual understandings and agreements regarding the above captioned
+Agreement.
 For the purposes of Article IV section 6(a)(i), "approved leave" is further defined to include:
 a. maternity/childcare leave
 b. military leave
-c. unpaid time while on jury duty d. unpaid leave for union business pursuant to Executive Order 75 e. unpaid leave pending workers' compensation determination f. unpaid leave while on workers' compensation option 2 g. approved unpaid time off due to illness or exhaustion of paid sick leave h. approved unpaid time off due to family illness i. other pre-approved leaves without pay
+c. unpaid time while on jury duty
+d. unpaid leave for union business pursuant to Executive Order 75
+e. unpaid leave pending workers' compensation determination
+f. unpaid leave while on workers' compensation option 2
+g. approved unpaid time off due to illness or exhaustion of paid sick leave
+h. approved unpaid time off due to family illness
+i. other pre-approved leaves without pay
 25007
-
 
 If the above accords with your understanding, please execute the signature line provided below.
 Very truly yours,
@@ -833,14 +969,26 @@ _Page 35_
 
 25 00 7
 
-
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy CCmmlssloner Daniel Pollak Health Care Strategy Georgetta Gestely First Deputy CCmmlss/Ofltf Director, Employee Benefits Program Nicole Andrade General Counsel Carl Chiaramonte President Supervisors Local 621, SEIU AFL-CIO
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Claire Levitt
+Commissioner Deputy CCmmlssloner
+Daniel Pollak Health Care Strategy
+Georgetta Gestely
+First Deputy CCmmlss/Ofltf
+Director, Employee Benefits Program
+Nicole Andrade
+General Counsel
+Carl Chiaramonte
+President
+Supervisors Local 621, SEIU AFL-CIO
 6106 78 Street
 Middle Village, NY 11379
 Re: 2021-2026 Local 621 SMME, et al. Agreement
 Dear Mr. Chiaramonte:
-This is to confirm our mutual understanding that any SMME who alleges they are being paid at an incorrect SMME rate shall continue to have the right to bring pay grievances under
+This is to confirm our mutual understanding that any SMME who alleges they are being
+paid at an incorrect SMME rate shall continue to have the right to bring pay grievances under
 
 <a id="article-iv-and-article-v-of-the-contract-the-one-hundred-and-p36"></a>
 ## Article IV — and Article V of the contract. The one hundred and twenty-day ( 120) period for filing
@@ -861,7 +1009,6 @@ _Page 36_ · _Topics: vacation, discipline, layoff, hours, promotion_
 
 25007
 
-
 Office of Labor Relations
 22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy Commissioner Health Core Strategy Daniel Pollak Georgette Gestaly Rrst Deputy Commissioner Director, Employee Benefits Program Nlcola Andrada Gtmeral Counsel Carl Chiaramonte President Supervisors Local 621, SEIU AFL-CIO
 6106 78 Street
@@ -873,7 +1020,6 @@ With the exception of temporary transfers, voluntary transfers from one work loc
 For the purposes of this section, seniority shall be based upon an employee's most recent date of appointment from a civil service list into a title represented by the Union. Promotions from one title represented by the Union to another title represented by the Union shall not change or affect the detennination of the "most recent date of appointment" referenced above. When two or more employees are appointed from a civil service list into a title represented by the Union on the same day, seniority shall be based upon their rank on the civil service exam from which the employees were appointed.
 Seniority shall not be based upon any employee's service time in a provisional appointment.
 
-
 Among the items to be assessed by the Employer to determine the qualifications of employees seeking transfers are the individual employee's abilities, performance, rate of absenteeism, general health and capabilities and disciplinary record.
 Article VII, Section 6 of the Agreement shall be amended as follows:
 With the exception of temporary transfers, involuntary transfers from one work location to another within an agency shall be made on the basis of least seniority in title in such agency from among employees who, in the judgement of the Employer, are otherwise equally qualified.
@@ -884,8 +1030,8 @@ In the scheduling of vacations for employees of agencies covered hereunder subje
 Promotions from one title represented by the Union to another title represented by the Union shall not change or affect the determination of the "most recent date of appointment" referenced above. When two or more employees are appointed from a civil service list into a title represented by the Union on the same day, seniority shall be based upon their rank on the civil service exam from which the employees were appointed. Seniority shall not be based upon any employee's service time in a provisional appointment.
 25 00 7
 
-
-If the above confonns to your understanding, please countersign below. Thank you for your continued partnership.
+If the above confonns to your understanding, please countersign below. Thank you for
+your continued partnership.
 Renee Campi
 Commissioner
 2500?

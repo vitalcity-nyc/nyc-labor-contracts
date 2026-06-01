@@ -16,9 +16,9 @@ headcount_approx: 30000
 
 # PSC-CUNY Agreement, 2017-2023
 
-**Term:** 2017–2023
-**Source PDF:** [https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/labor-relations/labor-contracts/CUNY-PSC-2017-2023-Agreement.pdf](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/labor-relations/labor-contracts/CUNY-PSC-2017-2023-Agreement.pdf)
-**Pages:** 197 (197 OCR-reconstructed)
+**Term:** 2017–2023  
+**Source PDF:** [https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/labor-relations/labor-contracts/CUNY-PSC-2017-2023-Agreement.pdf](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/labor-relations/labor-contracts/CUNY-PSC-2017-2023-Agreement.pdf)  
+**Pages:** 197 (197 OCR-reconstructed)  
 **Clauses extracted:** 162
 
 **Workforce:** Underlying 2017-2023 collective bargaining agreement between CUNY and PSC, modified by the 2023-2027 MOA (also in this corpus). Provides the full text of articles on workload, academic freedom, governance, grievance, and other non-economic provisions that the MOA does not re-state.
@@ -32,12 +32,12 @@ headcount_approx: 30000
 - [AGREEMENT](#agreement-p1)
 - [OF NEW YORK](#of-new-york-p1)
 - [PROFESSIONAL STAFF CONGRESS/CUNY](#professional-staff-congress-cuny-p1)
-- [TABLE OF CONTENTS](#table-of-contents-p2)
-- [Article 1](#article-1-p2)
-- [Article 6](#article-6-p2)
 - [Article 21](#article-21-p2)
 - [Article 27](#article-27-p2)
 - [Article 38](#article-38-p2)
+- [TABLE OF CONTENTS](#table-of-contents-p2)
+- [Article 1](#article-1-p2)
+- [Article 6](#article-6-p2)
 - [Article 43](#article-43-p3)
 - [Article 21 — Pilot Program](#article-21-pilot-program-p3)
 - [PREAMBLE](#preamble-p4)
@@ -148,7 +148,7 @@ headcount_approx: 30000
 - [DISTINGUISHED PROFESSOR SIDE LETTER](#distinguished-professor-side-letter-p158)
 - [ADJUNCT HEALTH INSURANCE ELIGIBILITY](#adjunct-health-insurance-eligibility-p159)
 - [VOLUNTARY PHASED RETIREMENT PROGRAM](#voluntary-phased-retirement-program-p161)
-- [Article 15 — 4 of the 2007-2010 Collective Bargaining Agreement (i.e., a phasing employee will](#article-15-4-of-the-2007-2010-collective-bargaining-agreement-p164)
+- [Article 15 — 4 of the 2007-2010 Collective Bargaining Agreement (i.e., a phasing employee will](#article-15-4-of-the-2007-2010-collective-bargaining-agreemen-p164)
 - [PREDOMINANTLY ADMINISTRATIVE POSITIONS](#predominantly-administrative-positions-p167)
 - [LABOR-MANAGEMENT COMMITTEES](#labor-management-committees-p169)
 - [PAYMENT FOR DEFINED PROJECTS THROUGH STIPENDS](#payment-for-defined-projects-through-stipends-p171)
@@ -212,32 +212,7 @@ _Page 1_ · _OCR-reconstructed_
 
 December 1, 2017 - February 28, 2023
 
-
 I.
-
-<a id="table-of-contents-p2"></a>
-### TABLE OF CONTENTS
-_Page 2_ · _OCR-reconstructed_
-
-2017-2023 PSC/CUNY Collective Bargaining Agreement Preamble
-
-<a id="article-1-p2"></a>
-## Article 1
-_Page 2_ · _OCR-reconstructed_
-
-Article
-2
-Article
-3
-Article
-4
-
-<a id="article-6-p2"></a>
-## Article 6
-_Page 2_ · _OCR-reconstructed_
-
-Article
-7
 
 <a id="article-21-p2"></a>
 ## Article 21
@@ -261,7 +236,42 @@ Unit Stability
 Union Dues and Membership
 Information and Data
 Reassigned Time
-Organizational Use of Facilities Nop-Dismimind Reappointment Schedule for Notification of Reappointment and Non-Reappointment Classification of Titles Certificate of Continuous Employment Appointments and Reappointments in the Higher Education Officer (HEO) Series Leaves and Holidays Workload Temporary Disability and Parental Leave Jury Duty Professional Evaluation Personnel Files Complaint, Grievance and Arbitration Procedure Disciplinary Actions Medical Separation Leave Procedure Increased Promotional Opportunities Distinguished Professorship Salary Schedules Research, Fellowship, and Scholar Incentive Awards Welfare Benefits Retirement Voluntary Phased Retirement Program Travel Allowances Waiver of Tuition Fees Facilities and Services Rehiring of Persons who are Discontinued Discontinuances Faculty and Staff Development Medical Series CUNY Law School Resident Series Academic Calendar Workers' Compensation Page
+Organizational Use of Facilities
+Nop-Dismimind Reappointment
+Schedule for Notification of Reappointment and
+Non-Reappointment
+Classification of Titles
+Certificate of Continuous Employment
+Appointments and Reappointments in the
+Higher Education Officer (HEO) Series
+Leaves and Holidays
+Workload
+Temporary Disability and Parental Leave
+Jury Duty
+Professional Evaluation
+Personnel Files
+Complaint, Grievance and Arbitration Procedure
+Disciplinary Actions
+Medical Separation Leave Procedure
+Increased Promotional Opportunities
+Distinguished Professorship
+Salary Schedules
+Research, Fellowship, and Scholar Incentive Awards
+Welfare Benefits
+Retirement
+Voluntary Phased Retirement Program
+Travel Allowances
+Waiver of Tuition Fees
+Facilities and Services
+Rehiring of Persons who are Discontinued
+Discontinuances
+Faculty and Staff Development
+Medical Series
+CUNY Law School
+Resident Series
+Academic Calendar
+Workers' Compensation
+Page
 1
 2
 6
@@ -302,10 +312,33 @@ Organizational Use of Facilities Nop-Dismimind Reappointment Schedule for Notifi
 118
 118
 
-
 II.
 Ill.
 IV.
+
+<a id="table-of-contents-p2"></a>
+### TABLE OF CONTENTS
+_Page 2_ · _OCR-reconstructed_
+
+2017-2023 PSC/CUNY Collective Bargaining Agreement Preamble
+
+<a id="article-1-p2"></a>
+## Article 1
+_Page 2_ · _OCR-reconstructed_
+
+Article
+2
+Article
+3
+Article
+4
+
+<a id="article-6-p2"></a>
+## Article 6
+_Page 2_ · _OCR-reconstructed_
+
+Article
+7
 
 <a id="article-43-p3"></a>
 ## Article 43
@@ -313,15 +346,48 @@ _Page 3_ · _OCR-reconstructed_ · _Topics: wages, sick-leave, safety, no-strike
 
 Appendices
 Appendix A
-Occupational Safety and Health No Strike Pledge Legislative Action
-2017-2023 Financial Provisions Duration Pertinent Sections of the Workload Settlement Agreement Appendix B Guidelines for the Implementation of the Adjunct Professional Development Fund Appendix C Settlement Agreement: Salaries above Base Appendix D CUNY Start Instructor and CUNY Language Immersion Program Instructors Appendix E Multi-Year Appointments for Teaching Adjuncts Appendix F Dedicated Sick Leave Program Appendix G Catastrophic Sick Leave Bank Program Appendix H
+Occupational Safety and Health
+No Strike Pledge
+Legislative Action
+2017-2023 Financial Provisions
+Duration
+Pertinent Sections of the Workload Settlement
+Agreement
+Appendix B
+Guidelines for the Implementation of the Adjunct
+Professional Development Fund
+Appendix C
+Settlement Agreement: Salaries above Base
+Appendix D
+CUNY Start Instructor and CUNY Language
+Immersion Program Instructors
+Appendix E
+Multi-Year Appointments for Teaching Adjuncts
+Appendix F Dedicated Sick Leave Program
+Appendix G Catastrophic Sick Leave Bank Program
+Appendix H
 
 <a id="article-21-pilot-program-p3"></a>
 ## Article 21 — Pilot Program
 _Page 3_ · _OCR-reconstructed_ · _Topics: health-welfare, pension_
 
 Appendix I
-Distinguished Professor Side Letter Appendix J Adjunct Health Insurance Eligibility Appendix K Voluntary Phased Retirement Program Appendix L Labor Management Committees Appendix M Payment for Defined Projects Through Stipends Appendix N Baruch College Workload Credit in Executive Degree and International Master's Programs Appendix O HEO Discretionary Assignment Differential Pilot Program Supplemental Agreement on Continuing Education Supplemental Agreement on Educational Opportunity Centers
+Distinguished Professor Side Letter
+Appendix J
+Adjunct Health Insurance Eligibility
+Appendix K
+Voluntary Phased Retirement Program
+Appendix L
+Labor Management Committees
+Appendix M
+Payment for Defined Projects Through Stipends
+Appendix N Baruch College Workload Credit in Executive
+Degree and International Master's Programs
+Appendix O
+HEO Discretionary Assignment Differential
+Pilot Program
+Supplemental Agreement on Continuing Education
+Supplemental Agreement on Educational Opportunity Centers
 118
 119
 119
@@ -353,26 +419,42 @@ AGREEMENT entered into this 2lst day of October 2019 by and between THE CITY UNI
 WITNESSETH: WHEREAS, CUNY has had a long-standing policy that there exists an academic community of interest within The City University of New York ("CUNY") and that such community of interest includes Instructional Staff, and WHEREAS, CUNY has been recognized as a "Public Employer" consistent with the terms and provisions of the Public Employees' Fair Employment Act of the State of New York, and WHEREAS, CUNY elected to come under the rules of procedure and regulations of the New York State Public Employment Relations Board, and WHEREAS, a secret ballot election was conducted by the New York State Employment Relations Board, and WHEREAS, the members of the Instructional Staff in the unit hereinafter set forth freely selected the PSC as their representative for the purposes of collective negotiations and the settlement of grievances, and WHEREAS, CUNY and the PSC affirm collective bargaining as a process to be used for the improvement of the University, and WHEREAS, CUNY and the PSC seek to maintain and encourage, in accordance with law, full freedom of inquiry, teaching, research and publication of results, the parties subscribe to Academic Freedom for faculty members. The principles of Academic Freedom are recognized as applicable to other members of the Instructional Staff, to the extent that their duties include teaching, research and publication of results, the selection of library or other educational materials or the formation of academic
 NOW, THEREFORE, it is agreed:
 
-
 1.1
 
 <a id="recognition-p5"></a>
 ### RECOGNITION
 _Page 5_ · _OCR-reconstructed_ · _Topics: recognition_
 
-The PSC is recognized by The City University of New York for the effective period of this Agreement as the exclusive collective negotiating representative under the Public Employees
+The PSC is recognized by The City University of New York for the effective period of this
+Agreement as the exclusive collective negotiating representative under the Public Employees
 Fair Employment Act for the persons in the following titles:
 Professor
 Associate Registrar
 Associate Professor
 Assistant Regıstrar
 Assistant Professor
-Chief College Laboratory Technician Adjunct Professor Senior College Laboratory Technician Adjunct Associate Professor College Laboratory Technician Adjunct Assistant Professor Adjunct College Laboratory Technician Adjunct Lecturer College Physician Adjunct Lecturer (Doctoral Student) '
+Chief College Laboratory Technician
+Adjunct Professor
+Senior College Laboratory Technician
+Adjunct Associate Professor
+College Laboratory Technician
+Adjunct Assistant Professor
+Adjunct College Laboratory Technician
+Adjunct Lecturer
+College Physician
+Adjunct Lecturer (Doctoral Student) '
 Higher Education Officer
 Non-Teaching Adjunct (I-V)
 Higher Education Associate
-Non-Teaching Adjunct (Doctoral Student) ' Higher Education Assistant Lecturer Assistant to Higher Education Officer Graduate Assistant ("A," "B,' "C")
-Chairperson of College Departments Graduate Assistant "D"l Distinguished Professor Instructor Substitute (full-time title)
+Non-Teaching Adjunct (Doctoral Student) ' Higher Education Assistant
+Lecturer
+Assistant to Higher Education Officer
+Graduate Assistant ("A," "B,' "C")
+Chairperson of College Departments
+Graduate Assistant "D"l
+Distinguished Professor
+Instructor
+Substitute (full-time title)
 Instructor (Nursing Science)
 University Professor
 Research Associate
@@ -386,13 +468,19 @@ Assistant Teacher
 Substitute Teacher
 Temporary Teacher
 Guidance Counselor
-Campus Schools College Laboratory Technician Campus Schools Senior College Laboratory Technician Teacher of Library Placement Director Educational and Vocational Teacher Teacher (Hourly)
+Campus Schools College Laboratory Technician
+Campus Schools Senior College Laboratory Technician
+Teacher of Library
+Placement Director
+Educational and Vocational
+Teacher
+Teacher (Hourly)
 and in the Early Childhood Centers: Teacher, Assistant Teacher.
 ' Effective December 22, 2015
 2
 
-
-The following titles are included in the unit but excluded from the provisions of the Agreement with the exception of Articles 3, 4, 8, 20, 21, 21A, 24.3, 24.4, 25.5, 26, 27, 27A, 34, 38, 39, 40,
+The following titles are included in the unit but excluded from the provisions of the Agreement
+with the exception of Articles 3, 4, 8, 20, 21, 21A, 24.3, 24.4, 25.5, 26, 27, 27A, 34, 38, 39, 40,
 41,42, and 43.
 Medical Professor
 (Basic Sciences)
@@ -406,28 +494,48 @@ Associate Medical Professor
 Assistant Medical Professor
 (Clinical)
 Medical Lecturer
-Distinguished Lecturer - Medical Series Adjunct Medical Professor (Basic Sciences)
-Adjunct Associate Medical Professor (Basic Sciences)
-Adjunct Assistant Medical Professor (Basic Sciences)
+Distinguished Lecturer - Medical Series
+Adjunct Medical Professor
+(Basic Sciences)
+Adjunct Associate Medical Professor
+(Basic Sciences)
+Adjunct Assistant Medical Professor
+(Basic Sciences)
 Adjunct Medical Professor (Clinical)
-Adjunct Associate Medical Professor (Clinical)
-Adjunct Assistant Medical Professor (Clinical)
+Adjunct Associate Medical Professor
+(Clinical)
+Adjunct Assistant Medical Professor
+(Clinical)
 Adjunct Medical Lecturer
 Clinical Professor - Medical Series?
-The following titles are included in the unit but excluded from the provisions of the Agreement with the exception of Articles 3, 4, 8, 20, 21, 21A, 23.1, 23.4, 24.3, 26, 27, 27A, 35, 38, 39, 40,
+The following titles are included in the unit but excluded from the provisions of the Agreement
+with the exception of Articles 3, 4, 8, 20, 21, 21A, 23.1, 23.4, 24.3, 26, 27, 27A, 35, 38, 39, 40,
 41,42 and 43.
 Law School Professor
-Law School Associate Professor Law School Assistant Professor Law School Instructor Distinguished Lecturer - Law School Law School Adjunct Professor Law School Adjunct Associate Professor Law School Adjunct Assistant Professor Law School Non-Teaching Adjunct I, II, III Law School Lecturer Law School Library Professor Law School Library Associate Professor Law School Library Assistant Professor The following titles are included in the unit but excluded from the provisions of the Agreement with the exception of Articles 20, section 20.3, 36, 38, 39, 40 and 41.
+Law School Associate Professor
+Law School Assistant Professor
+Law School Instructor
+Distinguished Lecturer - Law School
+Law School Adjunct Professor
+Law School Adjunct Associate Professor
+Law School Adjunct Assistant Professor
+Law School Non-Teaching Adjunct I, II, III
+Law School Lecturer
+Law School Library Professor
+Law School Library Associate Professor
+Law School Library Assistant Professor
+The following titles are included in the unit but excluded from the provisions of the Agreement
+with the exception of Articles 20, section 20.3, 36, 38, 39, 40 and 41.
 Resident Professor
 Resident Associate Professor
 Resident Assistant Professor
 Resident Instructor
 Resident Lecturer
-The following title is included in the unit but excluded from the provisions of the Agreement with the exception of Articles 3, 4, 5, 7, 8, 17, 38, 39, 40, 41, and 43.
+The following title is included in the unit but excluded from the provisions of the Agreement
+with the exception of Articles 3, 4, 5, 7, 8, 17, 38, 39, 40, 41, and 43.
 Continuing Education Teacher
 ' Effective August 25, 2016
 3
-
 
 The following title is included in the unit but excluded from the provisions of the Agreement with the exception of Articles 3, 4, 5, 7, 8, 17, 38, 39, 40, 41, and 43.
 Postdoctoral Fellow
@@ -443,7 +551,6 @@ Agreement with the exception of Articles 1, 3, 4, 8, 24.5(a), 38, 39, 40, 41, 42
 Occasional Per Diem Substitute Teacher Effective August 25, 2016, the following titles are included in the unit but excluded from the provisions of the Agreement with the exception of Articles 3, 4, 5, 7, 8, 17, 20, 33.5, 38, 39, 40,
 41,42 and 43.
 CUNY Language Immersion Program ("CLIP") Instructor CUNY Start Instructor Terms and conditions for the CLIP Instructor and CUNY Start Instructor are set forth in Appendix D.
-
 
 Employees in the following functions or titles are excluded:
 Chancellor
@@ -468,13 +575,22 @@ Chancellor,
 Executive Vice Chancellor,
 Sr. Vice Chancellor,
 Vice Chancellors,
-Associate Vice Chancellor (J.), College Presidents, Sr. Vice President (a.), Vice President (a.)
+Associate Vice Chancellor (J.),
+College Presidents,
+Sr. Vice President (a.),
+Vice President (a.)
 Office of the Chancellor
 Office of the Secretary
 of the Board of Trustees
-Office of the Senior Vice Chancellor for Labor Relations Director (b.)
+Office of the Senior Vice Chancellor for
+Labor Relations
+Director (b.)
 Provost
-Office of the Vice Chancellor for Human Resources Management Office of the General Counsel of the Board of Trustees Labor Designees (c.)
+Office of the Vice Chancellor for Human
+Resources Management
+Office of the General Counsel
+of the Board of Trustees
+Labor Designees (c.)
 Office of the Labor Designee (d.)
 Chief Diversity Officer
 Personnel Directors
@@ -488,17 +604,23 @@ Business Manager (f.)
 Hunter College Campus Schools
 Assistant Principal
 (Administration) (g.)
-Dean of Executive Search and Evaluation University Office of Executive Search and Evaluation (h.)
-Occupational Safety and Health Officer Visiting (full-time title) less than one-half time EOC Director, Associate Director, Assistant Director, Coordinator (i.)
+Dean of Executive Search and Evaluation
+University Office of Executive Search and
+Evaluation (h.)
+Occupational Safety and Health Officer
+Visiting (full-time title) less than one-half time
+EOC Director, Associate Director, Assistant Director, Coordinator (i.)
 (a) Not more than one excluded Executive Assistant per Vice President.
 (b)
-University Directors, SEEK and CD Directors, Educational Opportunity Center Directors, Student Center Directors, Public Relations Directors, Security Directors, and Directors of Continuing Education.
+University Directors, SEEK and CD Directors, Educational Opportunity Center
+Directors, Student Center Directors, Public Relations Directors, Security Directors, and
+Directors of Continuing Education.
 (c)
-Not more than a number equal to two times the number of colleges, plus two (for the Central Office).
+Not more than a number equal to two times the number of colleges, plus two (for the
+Central Office).
 (d)
 Not more than two members of the instructional staff in addition to the Labor Designee.
 5
-
 
 1.2
 2.1
@@ -525,7 +647,6 @@ The parties agree to maintain the academic character of the University as an ins
 The entire Agreement between the parties consists of the terms herein stated, and this Agreement Board, an ali Covered plans and prancis of the Colleges alicies and departments, as
 6
 
-
 2.3
 currently in effect, or as the same may be hereafter adopted, supplemented or amended, shall be subject to the said stated terms of this Agreement.
 Nothing contained in this Agreement shall be construed to diminish the rights granted under the Bylaws of the Board to the entities and bodies within the internal structure of CUNY so long as such rights are not in conflict with a stated term of this Agreement.
@@ -541,7 +662,6 @@ becoming effective, in the manner specified below:
 (11)
 The Board or its agent shall furnish the PSC two copies of the agenda of each regular or special meeting of the Board at the time said agendas are made available to members of the Board, and two copies of the minutes of Board meetings at the time said minutes are made available to members of the Board.
 7
-
 
 2.5
 2.6
@@ -578,7 +698,6 @@ ill. When an employee in a PSC title returns from an approved leave of absence, 
 3 The provisions set forth in Article 4.1 herein concerning check-off are effective June 28, 2018. For the period December 1, 2017 through June 27, 2018, the provisions of Article 4 of the 2010-2017 collective bargaining agreement continued in effect.
 9
 
-
 4.2 New Member Information and Orientations:
 a) Within thirty (30) days of an employee's first being employed, re-employed, newly promoted or transferred to the PSC bargaining unit, the University shall notify the PSC of the employee's name, job title, employing college or unit, CUNY ID number, last four digits of the Social Security number, department, work location, work email address, home address, and work phone number, to the extent that one has been designated in CUNY first.
 b) Where orientation kits are supplied to new employees, the PSC shall be permitted to have union literature included, provided that such literature is acceptable to the University Office of Human Resources Management. Online orientation materials shall include an electronic link to the PSC website, and PSC membership cards provided to the colleges by the PSC shall be available in the college Human Resources offices.
@@ -596,7 +715,6 @@ The University shall make available to the PSC:
 (b)
 The name, title, salary, CUNY ID number, college, department and tenure status of each member of the negotiation unit, and whether an employee is in a substitute title. Such
 10
-
 
 data shall be made available in electronically sortable format once during each Fall and Spring semester, by October 15 and March 15.
 6.1
@@ -617,7 +735,6 @@ The names of such PSC designees shall be supplied in writing to the President of
 Such reassigned time may not be used to solicit PSC membership. Effective August 25, 2016, neither PSC grievance counselors nor PSC principal officers may serve as a Department Chairperson.
 Consistent with the proper staffing of college and university programs and services, the University will permit the PSC to purchase reassigned time for additional designees. Such reassigned time shall be purchased at the adjunct rate appropriate to the designee. The amount of reassigned time under this paragraph shall be subject to agreement between the parties.
 11
-
 
 7.1
 7.2
@@ -642,7 +759,6 @@ The City University and the PSC recognize that sexual harassment is illegal unde
 The Union agrees that it will admit to membership and represent equally all members in the bargaining unit.
 12
 
-
 9.2
 
 <a id="appointment-and-reappointment-p16"></a>
@@ -653,13 +769,11 @@ When reasonably practicable, initial full-time appointment to the Instructional 
 When a non-tenured or non-certificated member of the instructional staff does not appear at the college to perform his/her duties and fails to receive an authorized leave of absence, the individual shall be considered to have abandoned his/her position, and the college shall have no further obligation to that individual under the following circumstances: for a full-time member of the instructional staff, such abandonment shall be deemed to have occurred after 10 consecutive days of absence, other than Saturdays, Sundays or legal holidays. For an adjunct, such abandonment shall be deemed to have occurred after unauthorized absence from the first week of scheduled classes or other assigned duties. In either case the college shall notify the staff member in writing by certified mail that abandonment of his/her position has occurred In any grievance filed pursuant to abandonment of a position based upon the above, the burden
 of proof shall be upon the grievant to show:
 1.
-He/She taught assigned classes or performed his/her duties on the days at issue, or
-2. He/She applied for and received a prior approved leave for the days at issue, or
+He/She taught assigned classes or performed his/her duties on the days at issue, or 2. He/She applied for and received a prior approved leave for the days at issue, or
 3.
 He/She was unable to report for work or give notice because of an emergency which made it impossible to report for work or give notice In the event that the Board does not approve of the appointment, and the appointee has already commenced work, the appointee shall have the option of receiving compensation pro rata for time worked or accepting a college appointment for the duration of that single semester. When, however, the Board does not approve the appointment for cause involving matters such as falsified credentials or inaccurate vita, the University shall be under no obligation other than payment for work performed to that point.
 All initial full-time appointments to the Instructional Staff (except for those of substitutes and distinguished professors) shall be for one year or to the end of the academic year in which the appointment takes effect. For appointments to the HEO series which are made on the basis of the fiscal year, the fiscal year shall obtain.
 13
-
 
 9.4 All full-time reappointments to the Instructional Staff shall be for no less than one year, except for substitutes and for retirement leave. Employees, other than those who announce their bona fide intent to retire and meet applicable conditions contained in section 3107 of the Education Law, shall be compensated in a lump sum for all annual leave or compensatory time owed on the final date of the appointment or in the case of resignation as of the final work day.
 9.5
@@ -677,7 +791,6 @@ Within ten (10) calendar days, excluding Saturdays, Sundays and legal holidays, 
 It is recognized that the President has an independent duty to recommend to the Board for appointment, reappointment, tenure or promotion only those persons he/she is reasonably certain will contribute to the improvement of academic excellence at the college and to consider institutional factors.
 14
 
-
 9.10
 In the event that a full-time member of the instructional staff appeals through academic channels a negative decision regarding reappointment, tenure, a Certificate of Continuous Employment, or promotion, and the appeal is not successful, the individual shall be so notified by the President or his/her designee in writing.
 For a pilot period beginning with the 2016-17 academic year and extending through the end of the 2023-2024 academic year, the President shall be required to respond to an appeal from a fulltime faculty member regarding a negative decision on reappointment or tenure within 120 calendar days after the submission on appeal is complete, including the submission of any additional materials and the meeting with the President, if the college permits one, whichever comes later.
@@ -687,7 +800,6 @@ Consistent with Section 20.5 of this Agreement the President's academic judgment
 9.11 An individual who has received a statement of reasons pursuant to section 9.9 may not, upon appeal to the President, receive a second statement of reasons pursuant to section 9.10.
 The reasons referred to in Section 9.10 of Article 9 (Appointment and Reappointment) are understood to be the reasons of the President. Further, where no academic appeals procedure is in existence or where such currently existing procedures do not culminate in an appeal to the President there shall be a direct appeal to the President, and the academic channels in the first paragraph of Section 9.10 may be limited to a direct appeal to the President.
 15
-
 
 10.1
 
@@ -713,7 +825,6 @@ Persons in adjunct titles hired on a semester basis shall receive such notice on
 An employee who has served as an adjunct in the same department of the college for not fewer than six (6) consecutive semesters (exclusive of summer sessions)
 16
 
-
 during the three (3) year period immediately preceding the appointment, to whom the college intends to offer another appointment, shall be notified on or about May 15 of appointment for both the following Fall and Spring semester. Such notification of appointment shall be subject to sufficiency of registration and changes in curriculum in each semester, which shall be communicated to the employee as soon as they are known to the appropriate college authorities. Such notification shall also be subject to all other conditions of employment including, but not limited to, the workload provisions of Article 15.2.
 Effective the Fall 2008 semester, where an adjunct's continuous appointments are immediately followed by an appointment to a Substitute full-time position on the instructional staff with no break in service, and the period of Substitute service is immediately followed by continuous appointment to an adjunct title with no break in service, the period of adjunct service immediately preceding the Substitute appointment will be added to the continuous adjunct service immediately following the Substitute service, as though there were no break in adjunct service, for the purpose of determining eligibility for appointment for both the following Fall and Spring semester.
 4.
@@ -728,7 +839,6 @@ On or before June 1 in the first year of service. An individual who has had prio
 10.3
 When timely notice of non-reappointment has once been given, but it is later determined in the grievance procedure that there was some irregularity in the original decision not to reappoint, a subsequent notice of non-reappointment, otherwise valid, given after the irregularity has been removed or corrected, shall be deemed timely for the purposes of this Article.
 17
-
 
 10.4
 11.1
@@ -753,7 +863,6 @@ No persons shall be appointed to the title Graduate Assistant more than five yea
 The employment, retention, evaluation or assignment of persons employed in the title Graduate Assistant, to the extent that it is based upon their status, progress and evaluation as graduate students, shall not be subject to the grievance procedure established in this
 18
 
-
 (b)
 A joint committee of the PSC and the University shall be established to develop a University-wide formula for the employment and distribution of Graduate Assistants in the University based on proposals submitted by the faculty of the Graduate Division.
 (C)
@@ -763,10 +872,8 @@ The titles of Adjunct College Laboratory Technician, Adjunct Lecturer, Adjunct A
 11.5 Hunter College Campus Schools A teacher at the Hunter College Campus Schools who has achieved a Master's degree prior to appointment or during service as a substitute at the Campus Schools will receive service credit toward tenure for service rendered subsequent to the attainment of the Master's degree as a substitute in the area in which the Master's degree is held when he or she is appointed on a permanent line, on the following basis: One year of service credit for one full year of service; two years of service credit for two full years of service; three years of service credit for three or more full years of service.
 11.6 University Professor
 (a)
-Appointment to the title University Professor shall not confer, nor shall time served in such title be credited as service toward the achievement of tenure in such position or any other position on the instructional staff. Appointment to such position or removal
-* See Appendix L.
+Appointment to the title University Professor shall not confer, nor shall time served in such title be credited as service toward the achievement of tenure in such position or any other position on the instructional staff. Appointment to such position or removal * See Appendix L.
 19
-
 
 therefrom shall not deprive the person so appointed or removed of tenure in the highest position held with tenure prior to his/her appointment to such position or conjointly with such office.
 (b)
@@ -790,7 +897,6 @@ the following principles:
 • The Clinical Professor title is a full-time, non-tenure-bearing faculty title • An individual in the title of Clinical Professor is eligible for annual reappointment but may not serve in the title for more than a total of seven years, except that Clinical
 20
 
-
 Professors on payroll as of May 1, 2016, are eligible for up to fifteen (15) additional annual appointments.
 • The salary range for the title will be from the minimum of the Lecturer schedule to the seven-year step on the Professor schedule.
 • The position will be a full-time faculty position, the responsibilities of which will include teaching (including, in some cases, clinical instruction) and may include research.
@@ -803,7 +909,6 @@ include:
 • Screen requests for exceptions to the college's rules and practices; • Advise students regarding academic probation and related matters; • Assist students in the development of academic skills such as time management, note taking, test taking, study habits, etc.; ance petite pit per such a dialed audit and ens 8.
 • Advise students in career exploration; • Interact with the faculty, college advisory personnel and other administrative offices and academic departments; • Assist in college's registration; • Monitor student's progress in various credited and non-credited programs; • Refer students to tutorial and counseling assistance; • Coordinate tutoring activities and monitor student participation; • Inform students regarding procedures for course selection and declaration of majors; • Develop tutoring schedules;
 21
-
 
 • Coordinate Peer sessions, with referral to counselors as necessary; • Train peer advisors and coordinate peer advisement; • Participate in workshops and provide technical assistance to facilitate the transition of international students into college; • Work closely with faculty and other student services personnel to facilitate educational planning and advisement for new and continuing students; • Assist in the planning and developing of Freshman Year Program, which includes Freshman and other orientation programs, academic advisement models, outreach and referral strategies; • Coordinate and conduct sessions on community and career information for students; • Assist in planning special activities/projects to meet college, program, staff and student needs; • Provide advisement regarding academic requirements, career opportunities, and scholarship information; • Ensure the students are assigned to career department advisors when they complete certification requirements; • Help students with their interaction with other college offices/services; • Maintain and update student records; and • Keep record of the numbers of the eligible and continuing credit students.
 11.9 HEO Counselors
@@ -818,7 +923,6 @@ _Page 25_ · _OCR-reconstructed_ · _Topics: hours_
 Members of this unit in the title Lecturer shall be eligible for a certificate of continuous employment upon a sixth full-time appointment in the title of Lecturer immediately preceded by five years of continuous full-time service in the title of Lecturer. In computing eligible time in service, such time shall commence with the first September of appointment.
 22
 
-
 12.2 When service has been continuous and a break in full-time service has occurred by virtue of a reduced schedule, such less than full-time service shall be prorated towards its equivalency in full-time service.
 The certificate of continuous employment shall be valid only in the college or in the Educational Opportunity Center which makes the certificate or sixth appointment and shall carry with it the guarantee of full-time reappointment subject to continued satisfactory performance, stability in academic program, sufficiency of registration and financial ability.
 12.4 The terms of this article do not apply to service in any title other than Lecturer.
@@ -826,7 +930,6 @@ The certificate of continuous employment shall be valid only in the college or i
 12.6
 An Instructor may be appointed in the title Lecturer immediately preceded by five years of continuous full-time service as an Instructor in the same department, in which case he or she shall receive a Certificate of Continuous Employment as a Lecturer.
 23
-
 
 13.1
 13.2
@@ -848,13 +951,10 @@ Employees Serving in the Higher Education Aide Title (a)
 Effective January 1, 1988, no new appointments shall be made to the title Higher Education Aide (HE Aide). Effective January 1, 1993 employees in the title HE Aide
 24
 
-
 shall have their titles converted to Assistant to Higher Education Officer and shall be placed on the Assistant to Higher Education Officer I salary schedule on the step equal to their current salary, or, if there is no equal salary step, then on the next higher salary step of the Assistant to HEO I salary schedule, except that employees converted from the HE Aide title who possess or thereafter attain all of the qualifications set forth in the Bylaws of The City University of New York for the position of Assistant to Higher Education Officer shall be placed on the salary step equal to their current salary, or, if there is no equal salary step, then on the next higher step of the Assistant to HEO schedule.
 The schedule of reappointment for all employees whose titles are converted from HE Aide to the Assistant to HEO title shall be in accordance with Section 13.7 below.
 13.5 Employees Serving in a Title in the Registrar Series (a)
-Effective January 1, 1988, no new appointments will be made to titles in the Registrar series, and no promotions will be made to titles in the Registrar series after January 1,
-1988. An employee who has tenure in a Registrar series title shall maintain his or her
-title and status during satisfactory service while continuing to perform job duties consistent with the Registrar series title held. An employee in the Registrar series accruing time toward tenure shall maintain his or her title and status, subject to the regular reappointment processes and satisfactory service, while continuing to perform job duties consistent with the Registrar series title held.
+Effective January 1, 1988, no new appointments will be made to titles in the Registrar series, and no promotions will be made to titles in the Registrar series after January 1, 1988. An employee who has tenure in a Registrar series title shall maintain his or her title and status during satisfactory service while continuing to perform job duties consistent with the Registrar series title held. An employee in the Registrar series accruing time toward tenure shall maintain his or her title and status, subject to the regular reappointment processes and satisfactory service, while continuing to perform job duties consistent with the Registrar series title held.
 Appointment to a higher-level position with increased duties and greater responsibility shall be made to a Higher Education Officer series title. In the event the employee appointed to a HEO series title has tenure in a Registrar series title, the employee shall be placed on leave of absence from the Registrar series title. A tenured member of the Registrar series who accepts, on or after January 1, 1988, a HEO series title at a college other than the college at which he or she was awarded tenure shall retain his or her tenure in the college in which it was awarded until the effective date of the second reappointment in the HEO series title, at which time the tenure shall transfer to the new college.
 (b)
 The first full-year appointment of a tenured member of the Registrar series to a HEO series title shall be for a one-year period, and the first and second reappointments shall each be for a one-year period. A subsequent reappointment, if granted, shall be in accordance with Section 13.3b above.
@@ -864,7 +964,6 @@ The schedule of appointment and reappointment for non-tenured members of the Reg
 Any interruption of paid service, following a determination by the college that the demands of service permit such interruption, other than a child care leave, for any employee in a Higher Education Officer series title, of more than 60 calendar days during a period when an appointment is in effect shall break service, and the appointment effective as of the next July 1, if
 25
 
-
 recommended, shall be deemed to be the employee's first appointment under section 13.3a,
 provided however, that:
 (a)
@@ -873,10 +972,14 @@ if the interruption of paid service occurs during the first year of a multiple y
 A full one year appointment following the return from the interruption of paid service, if granted, shall be required for consideration for a 13.3b appointment, and a subsequent reappointment, if granted, shall be in accordance with Section 13.3b above.
 26
 
-
-13.7 Employees Serving Prior to June 30, 1988 in a Single Title Effective July 1, 1988, employees with at least one full year of continuous full-time service in a single title in the HEO series shall be subject to the following reappointment schedule upon the
+13.7 Employees Serving Prior to June 30, 1988 in a Single Title
+Effective July 1, 1988, employees with at least one full year of continuous full-time service in a
+single title in the HEO series shall be subject to the following reappointment schedule upon the
 expiration of their current appointments:
-Reappointment Periods Upon Expiration of Current Appointment in Effect on September 1, 1987 (To be Read Across)
+Reappointment Periods Upon Expiration
+of Current Appointment in Effect on
+September 1, 1987
+(To be Read Across)
 Total Full Years of
 Service at Expiration
 of Appointment in
@@ -927,9 +1030,11 @@ Reappt Reappt
 13.3b
 27
 
-
 13.8
-Employees Appointed to a Higher Title in the HEO Series on or after September 1, 1987 When an employee with at least one full year of continuous full-time service in a HEO, Business Manager, or Registrar series title is appointed to a higher HEO series title on or after September 1, 1987, the appointment and reappointment schedules, effective with the first full year
+Employees Appointed to a Higher Title in the HEO Series on or after September 1, 1987
+When an employee with at least one full year of continuous full-time service in a HEO, Business
+Manager, or Registrar series title is appointed to a higher HEO series title on or after September
+1, 1987, the appointment and reappointment schedules, effective with the first full year
 appointment, shall be as follows:
 Reappointment Periods
 in New Titles
@@ -990,11 +1095,16 @@ Fifth
 Reappt
 13.3b
 
-
 13.9
-Employees Appointed to a Higher Title prior to September 1, 1987 Effective with the appointment or reappointment beginning July 1, 1988, employees with continuous full-time service in the HE or Business Manager series who were appointed to a higher title prior to September 1, 1987 and have served for at least one full year in the higher title shall have the following reappointment schedule applied upon the expiration of their current
+Employees Appointed to a Higher Title prior to September 1, 1987
+Effective with the appointment or reappointment beginning July 1, 1988, employees with
+continuous full-time service in the HE or Business Manager series who were appointed to a
+higher title prior to September 1, 1987 and have served for at least one full year in the higher title
+shall have the following reappointment schedule applied upon the expiration of their current
 appointments:
-Reappointment Periods Upon Expiration of Current Appointment (To be Read Across)
+Reappointment Periods Upon Expiration
+of Current Appointment
+(To be Read Across)
 Total Full Years of
 Service Upon
 Expiration of
@@ -1048,7 +1158,6 @@ Reappt
 13.3b
 29
 
-
 Other Provisions
 13.10 When an employee in a HEO series title serving in a multiple-year appointment or in an appointment with a Certificate of Continual Administrative Service is appointed to a higher title, only a substitute may be employed in the lower title and function during the full-year appointment and one full-year reappointment, if any, in the higher title. In the event the employee appointed to the higher title does not receive a reappointment in the higher title he/she shall be permitted to return to the lower title with either Certificate of Continual Administrative Service status, if applicable, or for the remaining period, if any, of the multiple-year appointment in the lower title.
 An employee with a Certificate of Continual Administrative Service, who after serving one full year in the higher title is reappointed in that title shall have a Certificate of Continual Administrative Service in the higher title.
@@ -1063,7 +1172,6 @@ Annual evaluations for HEO series personnel shall state whether the evaluation i
 (b)
 When a decision to terminate an employee is made under Section 13.12.a., the President or his/her designee shall advise the candidate in writing that his/her employment shall be terminated 120 calendar days from the date of such communication.
 30
-
 
 13.13 Notice of non-reappointment shall be given on or before April 1 in respect of the first and second reappointments, except in the case of persons who assume the duties of the position on October 1 or later in which case the notice of non-reappointment date shall be May 1. For all subsequent reappointments, employees shall be given notice of non-reappointment on or before March 1.
 Effective with the start of the 2016-2017 academic year, the notice of non-reappointment shall be given to employees on or before April 1, except that employees who first assumed their position at a given college on or after October 1 of the preceding year shall be given notice on or before May 1 (for the first reappointment only).
@@ -1084,7 +1192,6 @@ For purposes of this section, service shall be deemed to include full-time paid 
 For persons hired after January 1, 1988, and appointed on or after the second day of any month, the second and all subsequent years of service shall be deemed to commence on the first day of the month following the anniversary date.
 31
 
-
 14.3 (a)
 For persons employed full-time in the College Laboratory Technician title series, the HEO title series, and the Business Manager title series prior to January 1, 1988, and all persons employed as Research Associates there shall be 25 work days per year of annual leave.
 Persons employed full-time in the College Laboratory Technician title series, the HEO title series, and as Research Assistants on or after January 1, 1988, shall accrue annual
@@ -1099,11 +1206,9 @@ During the 1st year of service
 20 days
 During the 2nd through 11th year of service and thereafter 20 days plus one additional day for each year of service to a maximum of 30 days Effective with the start of the 2016-2017 academic year, members of the instructional staff who are employed full-time as Librarians shall accrue 40 work days of annual leave annually.
 (c) 1. Effective August 25, 2006, for instructional staff members who, prior to September 1, 1998 were appointed or assigned full-time as Counselors or to other student personnel assignments, except those in the Higher Education Officer series, the period of annual leave shall be from the day subsequent to the spring commencement of each college until the third day, excluding Saturday and Sunday, preceding the thirtieth of August that follows such commencement, or an equivalent consecutive period.
-2. Effective August 25, 2006, instructional staff members who, on or after September 1,
-1998, were appointed or assigned full-time as Counselors or to other student personnel assignments, except those in the Higher Education Officer series, will have the same number of annual leave days as instructional staff members appointed or assigned fulltime as Counselors or to other student personnel assignments prior to September 1, 1998.
+2. Effective August 25, 2006, instructional staff members who, on or after September 1, 1998, were appointed or assigned full-time as Counselors or to other student personnel assignments, except those in the Higher Education Officer series, will have the same number of annual leave days as instructional staff members appointed or assigned fulltime as Counselors or to other student personnel assignments prior to September 1, 1998.
 The period of annual leave for such employees shall be from the day subsequent to the
 32
-
 
 spring commencement of each college until the third day, excluding Saturday and Sunday, preceding the thirtieth of August that follows such commencement or, in the discretion of the college, shall be scheduled in no less than four-week periods, except for the last of such periods, which shall consist of the remaining number of days of annual leave. The number of annual leave days shall be equivalent to the number of days, excluding Saturdays, Sundays and legal holidays, between the day after the spring commencement of the college until the third day, excluding Saturday and Sunday, preceding the thirtieth of August that follows such commencement.
 14.4 All employees in the College Laboratory Technician and HEO title series who were employed prior to September 1, 1969 shall suffer no loss or diminution of prior vacation privileges, except as provided in Sections 14.2a and 14.9 hereof.
@@ -1122,7 +1227,6 @@ Presidents' Day - Third Monday in February
 0) Memorial Day - Last Monday in May
 33
 
-
 14.8
 14.9
 If a holiday falls on a Saturday or Sunday which is not a regular work day it shall be observed on the Friday before or Monday following as designated by the college or by the University or, at the option of the University, may be designated as an unscheduled holiday, to be taken following the holiday for which it is substituted but prior to the end of the annual leave year, with the prior approval of the employee's supervisor. In addition, there shall be four unscheduled holidays in the period September 1 - August 31 to be taken within the annual leave year, September
@@ -1138,7 +1242,6 @@ below has been followed:
 1.
 Not later than March 1, any employee who will have an annual leave accumulation in excess of forty-five (45) days or in excess of the personal accrual maximum unless sufficient annual leave time is taken prior to August 31, shall submit to the head of the office a written request to use such excess annual leave before the end of the current annual leave year (September 1 through August 31). The office head shall, in writing, approve the annual leave request or, if the needs of the office so
 34
-
 
 require, offer an alternate annual leave schedule within the current annual leave
 2.
@@ -1161,7 +1264,6 @@ Employees on the teaching staff of the City University of New York shall not be 
 5 It is understood that Lecturers and Teachers in the Hunter College Campus School shall not be required to have a research commitment.
 35
 
-
 (c)
 (d)
 (e)
@@ -1180,7 +1282,6 @@ contact hours of reassigned time (inclusive of the reassigned time provided for 
 Effective with the 2020-2021 academic year, untenured Assistant Professors, untenured Associate Professors and untenured Professors (including those appointment to a professorial title on or after the start of the Fall 2020 semester will receive 18 contact hours of reassigned time to be used during their first five annual appointments, in order to engage in scholarly and/or creative activities related to their academic disciplines. In the event that such faculty member takes a leave during the specified five-year period, the period will be extended by one year. Upon receiving appointment with tenure, the faculty members specified above shall receive six (6) contact hours of reassigned time to be used during the
 36
 
-
 three (3) succeeding academic years, beginning with the year in which tenure becomes effective. In the event that such faculty member receives a fellowship leave or takes other leave during the specified three-year period, the period will be extended by one year. Assignment of such reassigned time will be made by the college pursuant to guidelines designed to encourage scholarship.
 For the purpose of calculating the reassigned time provided in paragraphs (d) 2., (e) 1.
 and (e) 2. above to untenured Assistant Professors, untenured Associate Professors and untenured Professors employed as faculty counselors or as faculty librarians, 12 contact hours shall be equivalent to the number of clock hours that would be necessary to provide full reassigned time to a faculty counselor or a faculty librarian for 15 weeks. Assignment of such reassigned time will be made by the college pursuant to guidelines designed to encourage scholarship.
@@ -1191,7 +1292,6 @@ classroom contact hours during a semester in one unit of The City University of 
 (b) 1. Effective the start of the Spring 2020 semester, employees in teaching adjunct titles-except teaching adjuncts in Medical series titles, Law School series titles, Resident series titles, Graduate School of Journalism series titles and Executive Programs in the Zicklin School of Business at Baruch College series titles—who are assigned to teach at least three (3) classroom contact hours per semester (at least 45 appointment hours within the same college will be responsible for and paid for office hours in the amounts designated below. Adjuncts shall be paid for these hours at their full hourly rate. These hours are to be spent on campus-unless the course is offered entirely or partially through distance learning, in which case the office hours may be conducted online to a corresponding extent-and are to be formalized as directed by the department chair. The hours are to be spent engaged in or available for student contact, except that the colleges may direct that up to three (3) office hours per semester-or up to six (6) per semester for those who are responsible for and paid for more than 15 office hours—be used for required trainings (e.g., Workplace Violence Prevention, Sexual Harassment Prevention, You Have a Right to Know, etc.); for professional development; for attendance at college orientation sessions; for meetings with the union pursuant to Section 208.4(b) of the NYS Civil Service Law, which " For the period December 1, 2017, through the end of the Fall 2019 semester, the provisions of Article 15.2 (b) of the 2010-2017 collective bargaining agreement continued in effect.
 37
 
-
 15.3
 may be conducted individually or in a group, as agreed to with the PSC; or as otherwise directed by the colleges.
 2. Allocation of paid office hours per college:
@@ -1200,19 +1300,14 @@ O paid office hours
 3 or more but fewer than 6 classroom contact hours: 15 paid office hours/semester 6 or more but fewer than 9 classroom contact hours: 30 paid office hours/semester
 9 or more classroom contact hours:
 45 paid office hours/semester
-3. Consistent with Article 15.2(a), paid office hours will be capped at 45 per semester at
-any one college. If an adjunct teaches at two colleges, paid office hours will be capped at 45 at the first college and 30 at the second college.
-4. Allocation of paid professional hours per college for teaching adjuncts assigned to
-teach one or more but fewer than 3 classroom contact hours in a single college: two (2) paid professional hours/semester to be used for required trainings (e.g., Workplace Violence Prevention, Sexual Harassment Prevention, You Have a Right to Know, etc.); for professional development; for attendance at college orientation sessions; for meetings with the union pursuant to Section 208.4(b) of the NYS Civil Service Law, which may be conducted individually or in a group, as agreed to with the PSC; or as otherwise directed by the colleges.
-5. Full-time employees who teach a course that represents an overload assignment and
-for which they are paid at the applicable hourly professorial rate, which corresponds to the teaching adjunct rates as set forth in Article 24, will be responsible for and paid at the applicable hourly professorial rate for the office hours specified above (paragraph (b) 1. through 4. above), in addition to any office hours for which they are normally responsible as part of their full-time assignment.
-6. It is understood that paid office hours and paid professional hours for adjuncts shall
-not be counted toward the maximum adjunct teaching hours in Article 15.2(a) of this agreement.
+3. Consistent with Article 15.2(a), paid office hours will be capped at 45 per semester at any one college. If an adjunct teaches at two colleges, paid office hours will be capped at 45 at the first college and 30 at the second college.
+4. Allocation of paid professional hours per college for teaching adjuncts assigned to teach one or more but fewer than 3 classroom contact hours in a single college: two (2) paid professional hours/semester to be used for required trainings (e.g., Workplace Violence Prevention, Sexual Harassment Prevention, You Have a Right to Know, etc.); for professional development; for attendance at college orientation sessions; for meetings with the union pursuant to Section 208.4(b) of the NYS Civil Service Law, which may be conducted individually or in a group, as agreed to with the PSC; or as otherwise directed by the colleges.
+5. Full-time employees who teach a course that represents an overload assignment and for which they are paid at the applicable hourly professorial rate, which corresponds to the teaching adjunct rates as set forth in Article 24, will be responsible for and paid at the applicable hourly professorial rate for the office hours specified above (paragraph (b) 1. through 4. above), in addition to any office hours for which they are normally responsible as part of their full-time assignment.
+6. It is understood that paid office hours and paid professional hours for adjuncts shall not be counted toward the maximum adjunct teaching hours in Article 15.2(a) of this agreement.
 Workload for Graduate Assistant:
 Graduate Assistant A
 Graduate students holding the title of Graduate Assistant A shall have an assignment of a maximum of 240 contact teaching hours or 450 hours of non-teaching assignments during the work year.
 38
-
 
 15.4
 Graduate Assistant B
@@ -1229,7 +1324,6 @@ Effective August 25, 2006, all members of the Instructional Staff assigned as Co
 All other members of the non-classroom Instructional Staff, shall have a workweek of thirty-five (35) hours as assigned.
 This workweek is to be scheduled in not more than five days in any week for employees in the College Laboratory Technician series
 39
-
 
 (c)
 (d)
@@ -1267,7 +1361,6 @@ Any employee who is absent from duty because of a temporary disability shall pro
 When any absence because of a temporary disability exceeds thirty (30) consecutive working days, the absentee shall present a statement from his or her physician explaining
 41
 
-
 the nature of his or her temporary disability and certifying that he or she is fully capable of returning to work. In the case of any such absence because of a temporary disability in excess of thirty (30) consecutive working days, the college may also require an examination by a physician in its employ or appointed by it, who shall certify his or her belief that the absentee is fully capable of returning to work. In cases in which there is a conflict of opinion, a third physician, acceptable to the absentee and to the President of the College, shall be called in and his or her judgment shall be accepted as conclusive. In the event that it is found that the condition of such person is such that he or she is incapable of resuming his or her normal duties, such person shall apply for such additional period of leave of absence as may be necessary. Failure to make such application for an additional period of leave of absence shall be deemed neglect of duty.
 16.4
 Persons who are members of a public retirement system and who meet the eligibility requirements for service retirement, and persons who are members of the optional retirement program and who meet similar eligibility requirements to those of the public retirement system, who announce their bona fide intention to retire and file the appropriate application to retire shall be granted a retirement leave of absence with full pay consisting of one-half of their accumulated unused temporary disability leave up to a maximum of one semester, or the equivalent number of school days. The terms and conditions relating to the counting of such days, intervening vacation periods, cancellation of such leave, reinstatement to active service, etc., shall be governed by Section 3107 of the State Education Law.
@@ -1281,7 +1374,6 @@ Employees who on September 1, 1969 were entitled to cumulative unused temporary 
 However, thereafter, no temporary disability leave can be accumulated in excess of one hundred sixty (160) calendar days.
 42
 
-
 16.8
 Special Leaves for Child Care
 Special leaves for the purpose of caring for a newborn infant shall be granted to a member of the Instructional Staff upon notification to the President and application for such leave, provided the applicant has legal responsibility for the care and/or support of said child. Such leave shall, insofar as it is practicable, begin on February 1 or September 1 unless the date of the birth of the child is such as to render these times inappropriate. The duration of the leave shall ordinarily be for one full semester. In exceptional cases, the President may terminate such leave during the college term, provided there is an appropriate opening in which the applicant's service may be utilized. An extension of such leave shall be permitted on request for a period not in excess of one year from the end of the original leave. No further extension shall be permitted. Leaves for the purpose of caring for a newborn infant shall be granted without pay during the period of the leave, including the vacation period concomitant to the leave. If the leave is for one semester only, the loss of paid vacation shall be for one month only. If the leave is for two semesters, both months of vacation shall be without pay. If the duration of the leave is less than one calendar year, it shall be credited toward salary increments; if it is one calendar year or more, it shall not be credited toward salary increments.
@@ -1289,17 +1381,13 @@ Special leaves for the purpose of caring for a newborn infant shall be granted t
 When the service of a member of the Instructional Staff is interrupted by reason of absence on a leave for the purpose of caring for a newborn infant, the period of creditable service immediately preceding such absence shall be counted in computing the years of service required for the granting of tenure, a certificate of continuous employment, or for a certificate of continual administrative service in a Higher Education Officer series title.
 16.10 Paid Parental Leave
 Effective March 2009, a paid parental leave benefit is established for full-time members of the bargaining unit who have a minimum of one year of service with CUNY.
-1. The paid parental leave benefit provides a continuous leave of absence for a period not to
-exceed eight (8) weeks to care for a newborn child or a newly adopted child, adopted at up to five years of age, and must be taken immediately upon the birth or adoption of the child.?
-2. Eligible employees will remain on payroll during paid parental leave and continue to be
-eligible for all applicable benefits.
+1. The paid parental leave benefit provides a continuous leave of absence for a period not to exceed eight (8) weeks to care for a newborn child or a newly adopted child, adopted at up to five years of age, and must be taken immediately upon the birth or adoption of the child.?
+2. Eligible employees will remain on payroll during paid parental leave and continue to be eligible for all applicable benefits.
 " Persons employed as substitutes who do not have an underlying regular annual appointment are not eligible. Teaching faculty who have completed two continuous semesters of teaching and become parents during the period of annual leave, as defined in Article 14.1 above, are eligible for the paid parental leave benefit.
 ' Scheduling the leave and other applicable implementation issues, such as service credit, are addressed in greater detail in the March 19, 2009 letter of agreement between the parties and further modified by the December 8, 2011 letter agreement; both are available on the University's and PS's websites. Paragraph 4 of the March 19, 2009 letter agreement was further modified by the Memorandum of Agreement between the parties for the 2017-2023 Collective Bargaining Agreement, also available on the parties websites.
 43
 
-
-3. The employee is required to give written notice of her/his intent to take paid parental leave
-by filing an application form at least 90 days prior to the expected due date of the baby or 90 days prior to the expected placement of the child with his/her adoptive parents. After obtaining the signature of her/his department chair or unit head, the employee must file the application form with the Director of Human Resources.
+3. The employee is required to give written notice of her/his intent to take paid parental leave by filing an application form at least 90 days prior to the expected due date of the baby or 90 days prior to the expected placement of the child with his/her adoptive parents. After obtaining the signature of her/his department chair or unit head, the employee must file the application form with the Director of Human Resources.
 16.11 The University has established a Dedicated Sick Leave Program and a Catastrophic Sick Leave Bank Program for full-time instructional staff. The terms of these programs are set forth in Appendices F and G.'°
 
 <a id="jury-duty-p47"></a>
@@ -1320,40 +1408,31 @@ The purpose of professional evaluations shall be to encourage the improvement of
 Evaluation of a member of the teaching faculty shall be based on total academic performance, with special attention to teaching effectiveness, including, but not limited to, such elements
 as:
 1. Classroom instruction and related activities;
-2. Administrative assignments;
-1º These programs have been included as Appendices solely for ease of reference. The parties acknowledge and agree that these are University programs, the terms of which were not bargained. The parties accordingly agree that they are not subject to the terms of Article 20 of this Agreement, including the grievance process.
+2. Administrative assignments; 1º These programs have been included as Appendices solely for ease of reference. The parties acknowledge and agree that these are University programs, the terms of which were not bargained. The parties accordingly agree that they are not subject to the terms of Article 20 of this Agreement, including the grievance process.
 44
-
 
 3. Research;''
 4. Scholarly writing;
 5. Departmental, college and university assignments;
 6. Student guidance;
-7. Course and curricula development;
-8. Creative works in individual's discipline;
-9. Public and professional activities in field of specialty.
+7. Course and curricula development; 8. Creative works in individual's discipline; 9. Public and professional activities in field of specialty.
 (b) Teaching observation, as described below, is one factor in total evaluation of academic performance of the teaching staff.
-1. Regardless of the mode of instruction, at least once during each academic semester,
-non-tenured and non-certificated members of the teaching staff shall be observed for a full classroom period. One observation shall take place during any scheduled class, except as specified below in Article 18.2(b) 3 for classes conducted wholly or in part through online technology, during the first ten weeks of a semester. Except as otherwise provided, the employee shall be given no less than 24 hours of prior notice of observation.
+1. Regardless of the mode of instruction, at least once during each academic semester, non-tenured and non-certificated members of the teaching staff shall be observed for a full classroom period. One observation shall take place during any scheduled class, except as specified below in Article 18.2(b) 3 for classes conducted wholly or in part through online technology, during the first ten weeks of a semester. Except as otherwise provided, the employee shall be given no less than 24 hours of prior notice of observation.
 Tenured and certificated members of the teaching staff may be observed once each semester.
-2. (a) Each department P & B committee shall designate a panel, the size to be specified by
-the chairperson, of department observers (which shall include members of the P & B committee. The department chairperson shall schedule the members of this panel to conduct observations as necessary. Each observer shall submit, through the department chairperson, a written observation report to the department P & B committee within one week of the observation. These observation reports shall be considered by the committee in its total evaluation of the employee.
+2. (a) Each department P & B committee shall designate a panel, the size to be specified by the chairperson, of department observers (which shall include members of the P & B committee. The department chairperson shall schedule the members of this panel to conduct observations as necessary. Each observer shall submit, through the department chairperson, a written observation report to the department P & B committee within one week of the observation. These observation reports shall be considered by the committee in its total evaluation of the employee.
 (b) The department chairperson shall schedule the post-observation conference for the employee within two weeks after receipt of the written observation report. The post-observation conference shall include the employee and the observer. Either a member of the P & B committee or a member of the department with the rank of tenured Associate Professor or tenured Professor may be assigned by the chairperson to attend the post-observation conference at the request of the employee or the observer.
 " It is understood that Lecturers and Teachers in the Hunter College Campus School shall not be required to have a research commitment.
 45
-
 
 (c) Following the post-observation conference, the assigned P & B representative or the assigned senior faculty member shall prepare a record of the discussion in memorandum form for submission to the chairperson. If the post-observation conference includes only the observer and the employee, then the observer shall prepare the record of the discussion in memorandum form. The original conference memorandum shall be placed in the employee's personal file. The employee may have a copy of this document provided a signed receipt is tendered. The observation report shall be placed in the personal file.
 (d) In the event that the observation or post-observation conference is not held within the time stipulated herein, the employee shall, within ten (10) working days thereafter, file a request for an observation and/or conference with the chairperson. A copy of the request shall be sent to the appropriate dean and the Office of the President. Failure of the employee to file the request within the stipulated time shall bar the employee from subsequent complaint regarding such non-compliance with Article 18.2(b), 2b) or c)
 Upon the receipt of the request, the college shall cause appropriate remedial action to be taken, including, if necessary, scheduling of an observation and/or observation conference by the dean or President or their designee.
 (e) After ten (10) semesters of service teaching observation for adjunct personnel shall be held at the request of the chairperson or the adjunct.
 Effective the Fall 2008 semester, where an adjunct's continuous appointments are immediately followed by an appointment to a Substitute full-time position on the instructional staff with no break in service, and the period of Substitute service is immediately followed by continuous appointment to an adjunct title with no break in service, the period of adjunct service immediately preceding the Substitute appointment will be added to the continuous adjunct service immediately following the Substitute service, as though there were no break in adjunct service, for the purpose of determining eligibility for teaching observation at the request of the chairperson or the adjunct.
-3. Teaching Observations for Online Courses
-(a) For teaching observations of online or partially online courses, the parties intend to replicate as closely as possible the longstanding teaching observation practices established pursuant to this Agreement. Therefore, the provisions of Article 18.2(b)
+3. Teaching Observations for Online Courses (a) For teaching observations of online or partially online courses, the parties intend to replicate as closely as possible the longstanding teaching observation practices established pursuant to this Agreement. Therefore, the provisions of Article 18.2(b)
 2 shall apply except as specifically modified herein.
 (b) In a fully online synchronous course (that is, a course that meets online for 100% of the semester's class meetings with a regularly scheduled class period during which students and the instructor are online at the same time), the designated observer shall be given limited access to the course platform, usually defined as "student" or "guest"
 46
-
 
 access but in no event "instructor" or "administrator" access, only for the scheduled class period to be observed. Via the method for announcements normally employed by the instructor in the course, the instructor shall inform the students that the teaching observation is occurring. In no event shall the classroom teaching observation memorandum refer to the conduct of course activities outside of the observation period.
 (c) In a fully online asynchronous course (that is, a course conducted entirely online without a scheduled class period), the designated observer shall be given limited access to the course platform, usually defined as "student" or "guest" access but in no event "instructor" or "administrator" access, for no more than a 48-hour period that will commence at a specified time not earlier than seven calendar days after the notice of the teaching observation has been given to the instructor. Within 48 hours of receiving notice of the observation, the instructor shall inform the students of the teaching observation and its beginning and end time via the method for announcements normally employed by the instructor in the course.
@@ -1365,23 +1444,19 @@ At the request of the instructor, and with the consent of the Department Chairpe
 (iii) The Department Chairperson may decide that an instructor teaching a hybrid course who has been observed under this provision may have his or her next observation conducted in the other modality used for the course.
 47
 
-
 (f) For observations of other than a fully online synchronous course, the observer shall not review online activity that occurred more than seven calendar days prior to the 48-hour period of access to the course platform, nor shall the post-observation memorandum refer to any course activities that occurred more than seven calendar days prior to the 48-hour period of access.
 (g) For a fully online course, the post-observation conference set forth in Article 18.2.b may be held, at the request of the instructor, in person, by telephone, or by video conference.
-4. Classroom Teaching Observations by Other Departments or Programs
-Effective with the start of the Fall 2019 semester, teaching members of the instructional staff who are assigned to teach a majority of their classes in any given semester in a department or program other than the one to which they are appointed may be observed by a member of the other department or program, if requested by the chairperson of the department to which the faculty member to be observed is appointed. Following such a request, if the faculty member to be observed does the majority of his/her teaching in another academic department, the chairperson of that department shall select the observer from that department's panel of observers. If the faculty member to be observed does the majority of his/her teaching in a program, the observer will be designated by the chairperson of the faculty member's appointing department, in consultation with the director of the program. The observer must be a teaching member of the instructional staff.
+4. Classroom Teaching Observations by Other Departments or Programs Effective with the start of the Fall 2019 semester, teaching members of the instructional staff who are assigned to teach a majority of their classes in any given semester in a department or program other than the one to which they are appointed may be observed by a member of the other department or program, if requested by the chairperson of the department to which the faculty member to be observed is appointed. Following such a request, if the faculty member to be observed does the majority of his/her teaching in another academic department, the chairperson of that department shall select the observer from that department's panel of observers. If the faculty member to be observed does the majority of his/her teaching in a program, the observer will be designated by the chairperson of the faculty member's appointing department, in consultation with the director of the program. The observer must be a teaching member of the instructional staff.
 All other provisions of 18.2 (b) apply, and all references therein to "the department" shall be understood to mean the department in which the faculty member to be observed is appointed.
 18.3 Annual Evaluations:
 (a) Members of the teaching faculty: At least once each year, each employee other than tenured full professors shall have an evaluation conference with the department chairperson or a member of the departmental P & B committee to be assigned by the chairperson. Tenured full professors may be evaluated. At the conference, the employee's total academic performance and professional progress for that year and cumulatively to date shall be reviewed. Following this conference, the chairperson or the assigned member of the P & B shall prepare a record of the discussion in memorandum form for inclusion in the employee's personal file. Within ten (10) working days after the conference, a copy of the memorandum shall be given to the employee. If the overall evaluation is unsatisfactory, the memorandum shall so state. The employee in such case shall have the right to endorse on the memorandum a request to appear in person before the department P&B.
 48
-
 
 Effective with the 2019-2020 academic year, in evaluating members of the teaching instructional staff who, in a given academic year, teach the majority of their classes in a department or program other than the one to which they are appointed, their department chairperson or the members of the departmental P&B committee assigned by their chairperson to conduct the annual evaluations may consult with the director of the program or the chairperson of the other department in which the instructional staff members have taught the majority of their classes and may discuss the comments of the director of the program or the chairperson of the other department during the evaluation conference and (b) Members of the non-teaching staff, including Librarians, CLTs, Counselors, Student Personnel Services staff, Registrar series, HEO series and other non-teaching members of the Instructional Staff covered by this Agreement: Preferably once each semester, but at least once each year, each employee shall have an evaluation conference with the chairperson or supervisor to be designated by the appropriate dean or President. At the conference, the employee's total performance and professional progress shall be reviewed Following this conference, the designated official shall prepare a record of the evaluation discussion in memorandum form for inclusion in the employee's personal file. A copy of the report shall be given to the employee within ten (10) working days following the conference.
 (c) After four (4) semesters of service annual evaluation for adjunct personnel shall be held at the request of the chairperson or the adjunct, provided, however, that if such evaluations are conducted at the request of the adjunct, such evaluations may not be conducted more than once every four semesters.
 (d) In the event that a date for yearly evaluation is not scheduled by March 1, the employee shall, within ten (10) working days thereafter, file a request for an observation and/or conference with the chairperson or supervisor. A copy of the request shall be sent to the appropriate dean and the Office of the President. Failure of the employee to file the request shall bar the employee from subsequent complaint regarding such non-compliance with the above-stated scheduling requirement. Upon receipt of the request, the dean or President shall cause appropriate remedial action to be taken to insure compliance with this provision.
 (e) Effective with the start of the 2016-2017 academic year, in the event an evaluation conference is scheduled as provided for in subsections (a) or (b) above, and the employee fails to attend without reasonable cause, the conference shall be rescheduled. The employee shall be notified in writing of the date of the rescheduled conference. If the employee again attend the evaluation conference without reasonable cause, the department chair/designated official may prepare an evaluation in memorandum form for inclusion in the employee's personal file without holding a conference. A copy of the memorandum shall be sent to the employee within 10 working days from the scheduled date of the rescheduled conference by regular mail at his/her address on file and by email to his/her college email address.
 49
-
 
 18.4
 19.1
@@ -1403,7 +1478,6 @@ Personnel information;
 Information relating to the employee's academic and professional accomplishments submitted by the employee or placed in the file at his or her request; Records generated by the college; Memoranda of discussions with the employee relating to evaluations of the employee's professional performance; Observation reports of the employee's academic and professional performance.
 No materials shall be placed in the employee's file until the employee has been given the opportunity to read the contents and attach any comments he or she may so desire. Each such document shall be initialed by the employee before being placed in his or her file as evidence of his or her having read such document. This initialing shall not be deemed to constitute approval by the employee of the contents of such document. If the employee refuses to initial any document after having been given an opportunity to read the same, a statement to that effect shall be affixed to the document.
 50
-
 
 19.3
 (1)
@@ -1427,7 +1501,6 @@ A complaint is an informal claim by an employee in the bargaining unit or by the
 A complaint may, but need not, constitute a grievance. Complaints shall be processed through the informal procedure herein set forth.
 51
 
-
 A grievance is an allegation by an employee or the PSC that there has been:
 1.
 2.
@@ -1442,7 +1515,6 @@ A grievance must be stated in writing setting forth the basis therefor with reas
 Step 1. Grievances shall be filed with the President of the College affected or the President's designee. The President or the designee shall, within fifteen (15) days excluding Saturdays, Sundays, or legal holidays, of the receipt of the grievance, meet with the grievant and a representative of the PSC for the purpose of discussing the grievance. The
 52
 
-
 President or the designee shall, within fifteen (15) days, excluding Saturdays, Sundays, or legal holidays, after the grievance meeting, issue a decision with reasons in writing to the grievant and the PSC.
 Step 2. If the grievance has not been settled at Step 1, then within twenty (20) days, exclusive of Saturdays, Sundays, and legal holidays, after receipt of the written decision of the President of the College or the President's designee, or the expiration of the time limits for making such decision, the grievant or the PSC may submit the grievance in writing to the Chancellor or the Chancellor's designee, together with a copy of the decision of the President of the College affected, or the designee. The Chancellor or the Chancellor's designee shall, within twenty (20) days, exclusive of Saturdays, Sundays, or legal holidays, of the receipt of the grievance, meet with the grievant and a representative of the PSC for the purpose of discussing the grievance. In the event the Step I decision was not received by the SC at least fifteen (15) calendar days prior to the scheduled Step 2 meeting, the Chancellor or his/her designee shall, upon request by the PSC, direct the College to present its arguments first at the Step 2 meeting and shall grant the PSC, upon its request, an adjournment of no greater than fifteen (15) calendar days for the presentation of the grievance at Step 2. It is understood that nothing herein shifts the burden of proof with respect to the allegations contained in the grievance. The Chancellor or the designee shall, within twenty (20) days, exclusive of Saturdays, Sundays, or legal holidays, after the grievance meeting, mail the disposition with reasons in writing to the PSC and to the grievant or grievants affected by certified mail, return receipt requested.
 Step 3. If the grievance has not earlier been settled, or if the Chancellor's disposition has not been issued within the time limits above set forth, the person or persons who submitted the grievance at Step 2 may appeal the Step 2 decision to arbitration by serving written notice to that effect by certified mail, return receipt requested, directed to the Chancellor or the Chancellor's designee and to the American Arbitration Association (hereinafter "AAA")
@@ -1451,7 +1523,6 @@ within twenty (20) days, exclusive of Saturdays, Sundays, or legal holidays, aft
 (a)
 Effective with the start of the 2016-2017 academic year, the parties shall mutually agree on a panel of arbitrators. An arbitrator from the panel shall be designated to serve in any case submitted to arbitration in accordance with this Section. The designation of the arbitrator to be assigned in a particular case shall be made by the American Arbitration Association ("AAA") or by such other method as agreed to by the parties to the collective bargaining agreement. Such designation shall be made in rotation order for cases submitted for arbitration in accordance with this Section. The arbitrator shall be authorized at any time during the course of the proceedings, on the basis of the
 53
-
 
 (b)
 proceedings to date, to issue preliminary or interim awards, including awards as to arbitrability, which shall determine the further course of the proceedings.
@@ -1464,26 +1535,22 @@ The selection of the members of a select faculty committee shall be made in the 
 13 The Board of Trustees adopted the Agreement on December 16, 2019.
 54
 
-
 The committee to whom such remand is made for the making of the academic judgment shall (1) have access to the same materials to which the College President had access with respect to the action from which the grievance arose, except as modified by the arbitrator's award, (2) shall meet to deliberate on the assigned case, (3) be subject to the regular rules of confidentiality of faculty proceedings, and (4) shall be constituted within a reasonable time after the Arbitrator's Award is rendered and shall render its decision within twenty (20) days thereafter. The authority of the committee is limited to rendering the academic judgment on the action from which the grievance arose. The committee recommendation shall be in conformity with the Bylaws and policies of the Board and with the Agreement.
 The recommendation of the committee shall be in the form:
 "The committee recommends (does not recommend)
 (a) appointment, (b) reappointment or (c) promotion"
 The committee shall not make recommendations as to any other matter, including but not limited to period of employment or compensation or other benefit of employment.
 On receipt of a positive decision which conforms with this Agreement, the Chancellor shall recommend approval of the select committee decision to the Board of Trustees. In the event that the committee decision does not conform with the Agreement, the committee shall be disbanded and a new committee established. The deliberations and decision of the select committee shall not be grievable.
-2. In cases which arise from actions on reappointment with tenure or a CCE or promotion,
-the grievant who has been awarded retroactive tenure, CCE or promotion as a result of the recommendation of a select faculty committee adopted by The Board shall receive the salary exclusive of fringe benefits which would have been payable from the effective date of the tenure, CCE or promotion less any amounts earned and other legal offsets attributable to the period between the date of tenure, CCE or promotion and the effective date of the implementation of the remedy.
+2. In cases which arise from actions on reappointment with tenure or a CCE or promotion, the grievant who has been awarded retroactive tenure, CCE or promotion as a result of the recommendation of a select faculty committee adopted by The Board shall receive the salary exclusive of fringe benefits which would have been payable from the effective date of the tenure, CCE or promotion less any amounts earned and other legal offsets attributable to the period between the date of tenure, CCE or promotion and the effective date of the implementation of the remedy.
 In cases which arise from actions on reappointment for a prescribed period of time, and the grievant is reappointed as a result of the recommendation of a select faculty committee adopted by The Board, the sole remedy shall consist of reappointment for a prospective equivalent period of time.
 Grievances which arise from action on reappointments with tenure, CCE, Certificate of Continual Administrative Service or promotion shall be given priority in processing in the grievance procedure including scheduling for arbitration.
 (d) 1. In cases involving the failure to reappoint an employee in which the arbitrator sustains the grievance upon a finding of a failure to comply with, or an arbitrary or discriminatory application of, procedures such that no academic judgment could have been made with respect to the reappointment of such employee, and a further period of service is necessary
 55
 
-
 20.6
 20.7
 to correct the failure to comply with, or the arbitrary or discriminatory use of, procedure, the arbitrator may recommend the prospective reappointment of such employee for a period not to exceed one academic year. The Board shall appoint the employee in accordance with the arbitrator's recommendation. In no event shall such reappointment confer or result in the granting of tenure, a certificate of continuous employment, or a multiple-year appointment.
-2. If an employee who has been appointed upon an arbitrator's recommendation is thereafter
-reappointed pursuant to established procedures for the next academic year in a tenure or certificate-bearing title, or in a multiple-year reappointment situation, the service pursuant to the appointment recommended by the arbitrator shall be counted as service toward tenure or a certificate of continuous employment, or a multiple-year appointment, as the case may be.
+2. If an employee who has been appointed upon an arbitrator's recommendation is thereafter reappointed pursuant to established procedures for the next academic year in a tenure or certificate-bearing title, or in a multiple-year reappointment situation, the service pursuant to the appointment recommended by the arbitrator shall be counted as service toward tenure or a certificate of continuous employment, or a multiple-year appointment, as the case may be.
 In no event shall the Arbitrator have authority to add to, subtract from, modify or amend the provisions of this Agreement or the Bylaws of the Board. Such decision or award shall be binding upon the PSC, the University and the employees affected thereby. The costs of arbitration shall be borne equally by the parties. When arbitrations are not initiated by the PSC, the American Arbitration Association shall require the employee or employees submitting the same to file with the Association adequate security to pay the cost of arbitration. Expenses for witnesses, however, shall be borne by the party who calls them.
 A grievance filed by the PSC pursuant to this article may be resolved by settlement only if agreed to in writing by the Office of Labor Relations and by the PSC Central Office.
 
@@ -1499,7 +1566,6 @@ be subject to discharge as provided in Article 21.11:
 Incompetent or inefficient service; (b) Neglect of duty; (c)
 Physical or mental incapacity;
 56
-
 
 (d) Conduct unbecoming a member of the staff. This provision shall not be interpreted so as to constitute interference with academic freedom.
 21.2 Disciplinary proceedings shall be initiated by the President of the college by the service of a
@@ -1519,7 +1585,6 @@ If no acquiescence to the charges and acceptance of the penalty is received and 
 The penalty recommended by the Chancellor's Designee shall be implemented after fourteen (14)
 calendar days, unless within fourteen (14) calendar days of the receipt of the decision of the Chancellor's Designee the employee elects to appeal by proceeding to disciplinary arbitration in accordance with Section 21.8 below.
 57
-
 
 21.8
 21.9
@@ -1550,7 +1615,6 @@ upon the employee, which set forth:
 the charges against the employee, and the proposed penalty of immediate discharge.
 58
 
-
 (b)
 Within three (3) days, exclusive of Saturdays, Sundays, and legal holidays, of service of the written notice of Intent for Immediate Discharge, a meeting shall be conducted by the President or his or her designee with the employee, who may be accompanied by an attorney or a representative of the Professional Staff Congress, to discuss the notice, the basis of the charge, and the proposed penalty.
 (C)
@@ -1573,7 +1637,6 @@ _Page 62_ · _OCR-reconstructed_ · _Topics: vacation, grievance, discipline_
 21.10 Any person against whom charges have been made may, at any time during the pendency of the charges, be suspended by the president of the college. Such suspension shall be without loss of pay.
 A person suspended with pay shall be available for all procedures mandated by Article 21. Upon suspension with pay, notwithstanding any other provision of this Agreement, any request to be absent from any aspect of these procedures must be approved in advance by the Senior Vice Chancellor for Labor Relations upon the recommendation of the President. Failure to be available for any Article 21 proceeding without said approval of a request to be absent for the period specified in the approval of the request shall result in loss of pay status for a period of three weeks. Such period of non-pay status shall be discontinued as of the date of the proceeding if a proceeding under this article is scheduled and held within that three-week period. If, however, the person continues to be unavailable, the person shall be subject to further removal from pay status for successive three-week periods until such time as the proceeding is scheduled
 59
-
 
 and held. Said loss of pay status cannot be charged to annual leave, temporary disability leave, or other paid leave.
 21.11 Adjuncts shall be subject to discharge for just cause, subject to the Grievance and Arbitration article and not to Article 21 of this Agreement.
@@ -1598,7 +1661,6 @@ The employee may argue to the arbitrator that there were extenuating circumstanc
 The parties recognize that an employee may be convicted of a felony after charges have been preferred and that the disciplinary procedures in Article 21 may have commenced prior to the conviction. In such a case, the procedures outlined above will replace Article
 60
 
-
 21 procedures at the appropriate stage to which the charges had progressed immediately prior to the conviction.
 21.13 A disciplinary proceeding brought pursuant to this article may be resolved by settlement only if agreed to in writing by the Office of Labor Relations and by the PSC Central Office.
 
@@ -1613,42 +1675,28 @@ _Page 64_ · _OCR-reconstructed_
 _Page 64_ · _OCR-reconstructed_ · _Topics: health-welfare, grievance, discipline_
 
 positions by reason of a physical or mental incapacity. CUNY, in its discretion, may either commence disciplinary proceedings in accordance with Article 21 or may place an employee on a medical leave of absence ("medical leave") according to the following procedures.
-2. When in the judgment of CUNY an employee is unable to perform the duties of his or her position
-by reason of a physical or mental incapacity, including any such incapacity caused by substance abuse, and CUNY opts to follow the Medical Separation Leave procedures in lieu of Article 21, the president of the employee's college, or his or her designee, having consulted with CUNY, shall send written notice of the facts providing the basis for CUNY's judgment that the employee is not fit to perform the duties of his or her position ("the notice"), along with a copy of the employee's job description, to the employee, the PSC, CUNY's Office of the General Counsel and the PSC-CUNY Welfare Fund ("Welfare Fund"') at least fourteen (14) calendar days prior to the commencement of the medical leave. Such notice, stating the start date of the medical leave, shall be sent to the employee's college email address, as well as to the employee's home address on file by first class mail.
-3. An employee who wishes to contest the placement on leave may, within fourteen (14) calendar
-days of the date of the notice, request an independent medical examination in accordance with paragraph 5 below, by written notice to the Welfare Fund, with copies to the PSC and to CUNY's Office of the General Counsel. As a condition precedent to an independent medical examination, the employee must meet requirements regarding waivers, release forms and other documents specified by the Welfare Fund. Failure to do so will result in forfeiture of the opportunity to receive an independent medical examination.
-4. The Welfare Fund Board of Trustees shall select and enter into a contract with a third-party
-vendor ("the provider") that will provide Board-certified medical practitioners in appropriate areas of practice, including, but not limited to, psychiatry, neurology, orthopedic medicine and internal medicine, to conduct independent medical examinations in accordance with the terms of this Article.
+2. When in the judgment of CUNY an employee is unable to perform the duties of his or her position by reason of a physical or mental incapacity, including any such incapacity caused by substance abuse, and CUNY opts to follow the Medical Separation Leave procedures in lieu of Article 21, the president of the employee's college, or his or her designee, having consulted with CUNY, shall send written notice of the facts providing the basis for CUNY's judgment that the employee is not fit to perform the duties of his or her position ("the notice"), along with a copy of the employee's job description, to the employee, the PSC, CUNY's Office of the General Counsel and the PSC-CUNY Welfare Fund ("Welfare Fund"') at least fourteen (14) calendar days prior to the commencement of the medical leave. Such notice, stating the start date of the medical leave, shall be sent to the employee's college email address, as well as to the employee's home address on file by first class mail.
+3. An employee who wishes to contest the placement on leave may, within fourteen (14) calendar days of the date of the notice, request an independent medical examination in accordance with paragraph 5 below, by written notice to the Welfare Fund, with copies to the PSC and to CUNY's Office of the General Counsel. As a condition precedent to an independent medical examination, the employee must meet requirements regarding waivers, release forms and other documents specified by the Welfare Fund. Failure to do so will result in forfeiture of the opportunity to receive an independent medical examination.
+4. The Welfare Fund Board of Trustees shall select and enter into a contract with a third-party vendor ("the provider") that will provide Board-certified medical practitioners in appropriate areas of practice, including, but not limited to, psychiatry, neurology, orthopedic medicine and internal medicine, to conduct independent medical examinations in accordance with the terms of this Article.
 Should the Welfare Fund fail to retain a provider either within 90 calendar days of the ratification date of the successor to the 2007-2010 collective bargaining agreement or as needed
 61
 
-
 in the future the medical separation procedures set forth in this Article shall be considered null and void in their entirety.
-5. Upon receipt of a written request from an employee seeking an independent medical examination,
-the Welfare Fund shall direct the provider to appoint a medical practitioner from an appropriate area of practice to conduct the examination and shall furnish the provider with a copy of CUNY's notice and the employee's job description referred to in paragraph 2. Within 60 calendar days of the Welfare Fund's receipt of the employee's request for a medical examination, the Welfare Fund shall deliver to CUNY's Office of the General Counsel, with notice to the PSC of said delivery, a copy of the medical practitioner's report regarding the employee's fitness to perform the duties of his or her position and copies of the medical practitioner's diagnoses, test results, observations and other data relied upon, if any. The Welfare Fund shall also provide copies of the report and the above-cited materials to the employee. The Welfare Fund shall maintain the originals in a confidential file.
+5. Upon receipt of a written request from an employee seeking an independent medical examination, the Welfare Fund shall direct the provider to appoint a medical practitioner from an appropriate area of practice to conduct the examination and shall furnish the provider with a copy of CUNY's notice and the employee's job description referred to in paragraph 2. Within 60 calendar days of the Welfare Fund's receipt of the employee's request for a medical examination, the Welfare Fund shall deliver to CUNY's Office of the General Counsel, with notice to the PSC of said delivery, a copy of the medical practitioner's report regarding the employee's fitness to perform the duties of his or her position and copies of the medical practitioner's diagnoses, test results, observations and other data relied upon, if any. The Welfare Fund shall also provide copies of the report and the above-cited materials to the employee. The Welfare Fund shall maintain the originals in a confidential file.
 (a) If the medical practitioner certifies that the employee is fit to perform the duties of his or her position, the employee shall be removed from medical leave and returned to active status within seven (7) calendar days following CUNY's receipt of the medical practitioner's report.
 (b) If the medical practitioner certifies that the employee is not fit to perform the duties of his or her position, CUNY shall continue the employee's medical leave of absence. CUNY shall send the employee and the PSC written notice of the continuation of the leave. The notice of continuation shall also inform the employee of his or her rights under Section 6 of these procedures.
-6. Within fourteen (14) calendar days from receipt by the employee of medical certification that the
-employee is not fit to perform the duties of his or her position, the PSC may file a demand for arbitration on the question of the employee's fitness for duty by serving written notice to that effect by certified mail, return receipt requested, directed to the Chancellor or the Chancellor's designee. The parties shall designate an individual arbitrator to hear cases under this provision from among those mutually agreed to under Article 20.5 of the collective bargaining agreement, and the arbitration will be conducted in accordance with American Arbitration Association rules.
+6. Within fourteen (14) calendar days from receipt by the employee of medical certification that the employee is not fit to perform the duties of his or her position, the PSC may file a demand for arbitration on the question of the employee's fitness for duty by serving written notice to that effect by certified mail, return receipt requested, directed to the Chancellor or the Chancellor's designee. The parties shall designate an individual arbitrator to hear cases under this provision from among those mutually agreed to under Article 20.5 of the collective bargaining agreement, and the arbitration will be conducted in accordance with American Arbitration Association rules.
 The parties shall schedule a hearing to be held within 45 calendar days and completed within 90 calendar days of the University's receipt of the demand for arbitration, and a decision shall be rendered by the Arbitrator within 45 calendar days of the close of the hearing. Closing arguments shall be made orally at the last day of the hearing; closing briefs will not be submitted. The Arbitrator shall determine, based on the evidence, whether the employee is fit to perform the duties of his or her position. Should the Arbitrator determine that the employee is not fit to perform the duties of his or her position, CUNY shall continue the employee's medical leave of absence. Should the Arbitrator determine that the employee is fit to perform the duties of his or her position, the employee shall be removed from medical leave and returned to active status.
 The burden of proving mental or physical fitness shall be upon the employee. The costs of arbitration shall be borne equally by the parties.
 62
 
-
-7. A medical leave under this section shall be for one year from the start date of the Medical
-Separation Leave in the notice in paragraph 2. The employee shall remain in paid status for the first six months of the leave and thereafter may utilize his or her temporary disability leave and/or annual leave accruals, if any, and may apply for long-term disability to the extent available through the Welfare Fund, or to use the Catastrophic Sick Leave Bank or the Dedicated Sick Leave Program, in accordance with the terms of those policies, to the extent that he or she is eligible. An employee who is contesting his or her placement on medical leave or seeking to return to duty will not be eligible for the Sick Leave Bank or Dedicated Sick Leave Program, inasmuch as both programs require an acknowledgement from the employee that he or she is catastrophically ill (for the Sick Leave Bank) or seriously ill (for the Dedicated Sick Leave Program) and both require supporting medical documentation. Should the employee exhaust available accruals prior to the expiration of the medical leave, the remainder of the medical leave shall be unpaid
-8. An employee placed on medical leave may seek to return to duty by making a written application
-to the Welfare Fund, with copies to the PSC and to CUNY's Office of the General Counsel, for a medical examination by a medical practitioner selected by the provider, who should be different from the medical practitioner who conducted the initial medical examination under paragraph 5 above, to the extent a different practitioner is available. Such application may be made no earlier than 120 days from the commencement of the medical leave and no later than one year from the commencement of the leave.
+7. A medical leave under this section shall be for one year from the start date of the Medical Separation Leave in the notice in paragraph 2. The employee shall remain in paid status for the first six months of the leave and thereafter may utilize his or her temporary disability leave and/or annual leave accruals, if any, and may apply for long-term disability to the extent available through the Welfare Fund, or to use the Catastrophic Sick Leave Bank or the Dedicated Sick Leave Program, in accordance with the terms of those policies, to the extent that he or she is eligible. An employee who is contesting his or her placement on medical leave or seeking to return to duty will not be eligible for the Sick Leave Bank or Dedicated Sick Leave Program, inasmuch as both programs require an acknowledgement from the employee that he or she is catastrophically ill (for the Sick Leave Bank) or seriously ill (for the Dedicated Sick Leave Program) and both require supporting medical documentation. Should the employee exhaust available accruals prior to the expiration of the medical leave, the remainder of the medical leave shall be unpaid 8. An employee placed on medical leave may seek to return to duty by making a written application to the Welfare Fund, with copies to the PSC and to CUNY's Office of the General Counsel, for a medical examination by a medical practitioner selected by the provider, who should be different from the medical practitioner who conducted the initial medical examination under paragraph 5 above, to the extent a different practitioner is available. Such application may be made no earlier than 120 days from the commencement of the medical leave and no later than one year from the commencement of the leave.
 The procedures and time frames for the appointment of a medical practitioner and issuance of a report shall be the same as those in paragraph 5 above. If the medical practitioner certifies that such employee is fit to perform the duties of his or her position, the employee shall be removed from medical leave and returned to active status within seven (7) calendar days following CUNY's receipt of the medical practitioner's report. An arbitration filed in accordance with paragraph 6 above that is still pending at the time the employee applies for a return-to-duty medical examination under this paragraph 8 shall be deemed to be withdrawn with prejudice as of the date of receipt by the Welfare Fund of the medical practitioner's report regarding the employee's fitness to return to duty. The PSC shall notify the Arbitrator of the withdrawal.
-9. After an employee has been on medical leave for one year, he or she shall be separated from
-employment at CUNY. No such separation shall occur if any proceedings to establish the employee's fitness under these procedures are pending. When proceedings are completed, the employee shall either be separated from employment or returned to active status, according to the outcome.
-10. Following any determination under section 5(a), section 6, or section 8 above that an employee
-is fit to perform the duties of his or her position or in the event that the report regarding the employee's fitness is not delivered to CUNY within 60 calendar days of the Welfare Fund's receipt of the employee's request for an independent medical exam, CUNY may terminate the employee's medical leave and commence disciplinary proceedings in accordance with Article
+9. After an employee has been on medical leave for one year, he or she shall be separated from employment at CUNY. No such separation shall occur if any proceedings to establish the employee's fitness under these procedures are pending. When proceedings are completed, the employee shall either be separated from employment or returned to active status, according to the outcome.
+10. Following any determination under section 5(a), section 6, or section 8 above that an employee is fit to perform the duties of his or her position or in the event that the report regarding the employee's fitness is not delivered to CUNY within 60 calendar days of the Welfare Fund's receipt of the employee's request for an independent medical exam, CUNY may terminate the employee's medical leave and commence disciplinary proceedings in accordance with Article
 63
 
-
-11. To fund the establishment and administration of this program, CUNY shall deposit $35,000 per
-year into a dedicated fund with the Welfare Fund, from which the Welfare Fund may draw up to $5,000 per year in administrative costs. On or before July 31 of each year, the Welfare Fund shall provide CUNY with an annual accounting of the expenditures with regard to any or all independent medical examinations, including any medical tests conducted and administrative costs incurred during the prior fiscal year (July 1 through June 30). In addition to the annual accounting, the Welfare Fund shall notify CUNY in writing at such point in time as it has encumbered $25,000 of the funds dedicated to this program. Any funds remaining in one fiscal year shall be credited against CUNY's contribution in the next fiscal year. Any shortfall in a given year shall be reimbursed by CUNY in the next fiscal year. Such reimbursement shall be made by September 30, provided that timely written notice of reaching the $25,000 threshold was given to CUNY. If the medical separation process is declared null and void pursuant to paragraph 4 above, or for any other reason, unexpended funds shall be returned to CUNY.
+11. To fund the establishment and administration of this program, CUNY shall deposit $35,000 per year into a dedicated fund with the Welfare Fund, from which the Welfare Fund may draw up to $5,000 per year in administrative costs. On or before July 31 of each year, the Welfare Fund shall provide CUNY with an annual accounting of the expenditures with regard to any or all independent medical examinations, including any medical tests conducted and administrative costs incurred during the prior fiscal year (July 1 through June 30). In addition to the annual accounting, the Welfare Fund shall notify CUNY in writing at such point in time as it has encumbered $25,000 of the funds dedicated to this program. Any funds remaining in one fiscal year shall be credited against CUNY's contribution in the next fiscal year. Any shortfall in a given year shall be reimbursed by CUNY in the next fiscal year. Such reimbursement shall be made by September 30, provided that timely written notice of reaching the $25,000 threshold was given to CUNY. If the medical separation process is declared null and void pursuant to paragraph 4 above, or for any other reason, unexpended funds shall be returned to CUNY.
 22.1
 22.2
 22.3
@@ -1664,7 +1712,6 @@ In order to increase promotional opportunities for members of the Instructional 
 There shall be University-wide labor management committee composed of two members designated by the Chancellor and two members designated by the PSC to review the promotion procedures applicable to instructional staff in the College Laboratory Technician series. The committee will conclude its work by issuing a non-binding report to the Chancellor and the President of the PSC no later than October 30, 2002.
 Qualified members of this unit in adjunct titles who are recommended for reappointment and promotional reclassification in accordance with established criteria and procedures shall be so reclassified, subject to Board approval.
 64
-
 
 22.5
 The University agrees that budgetary considerations shall not constitute a ground for withholding appointment to the rank of Assistant Professor of a certificated Lecturer who has earned a doctorate and has been recommended as qualified for such appointment in accordance with established criteria and procedures.
@@ -1691,7 +1738,6 @@ Distinguished Professors shall be nominated by a college in accordance with the 
 1 A pilot program will be established January 1, 2020 through June 30, 2023 for the University to set aside funds to supplement the funding provided by the colleges for discretionary HEO assignment differentials. See Appendix O.
 65
 
-
 23.2
 23.3
 23.4
@@ -1710,22 +1756,18 @@ Salary Schedules. The "salary schedule" for each title listed in this Article is
 The last two steps on the salary schedules for employees in the titles Professor, Associate Professor, Assistant Professor, Lecturer, Lecturer Doctoral Schedule, Higher Education Officer, Higher Education Associate, Higher Education Assistant, and Assistant to Higher Education Officer, in the Registrar title series, and in the CLT title series are an exception to the preceding paragraph. The penultimate step on the salary schedules for these employees, designated in the schedule by bold print and an asterisk, is known as the "fiveyear step." Employees in the titles listed above shall be eligible to receive the "five-year step" not later than upon completion of five years of service at the preceding step, known as the "last one-year step." Following the "five-year step" in the salary schedules for employees in the titles listed above is the "seven-year step," designated in the salary schedules by bold print and two asterisks. Employees in the titles listed above shall be
 66
 
-
 eligible to receive the "seven-year step" not later than upon completion of two years of service at the five-year step.
 In all cases, time served shall be counted in accordance with the established rules applicable to determining movement within schedule.
 Lecturers who hold doctoral degrees from an accredited university in a field related to the discipline taught or the job duties performed by the Lecturer shall receive a differential.
 This differential is included in the salaries listed under the title "Lecturer Doctoral Schedule."
 (b)
 An Adjunct in a teaching or non-teaching title who on July 1, shall have served six semesters University-wide over a period of the preceding three years and who has not received a movement within schedule during that period shall receive a movement within schedule to the next higher dollar amount. For the purpose of this paragraph, a semester shall include summer session. As of August 25, 2022, the language in this provision concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to teaching adjuncts.
-1. (i) Effective August 25, 2006, where an adjunct's continuous appointments in a
-teaching or non-teaching title are immediately followed by an appointment to a Substitute full-time position on the instructional staff with no break in service, and the period of Substitute service is immediately followed by continuous appointment to an adjunct teaching or non-teaching title with no break in service, the period of adjunct service immediately preceding the Substitute appointment will be added to the continuous adjunct service immediately following the Substitute service, as though there were no break in adjunct service, for the purposes of determining eligibility for a movement within schedule.
+1. (i) Effective August 25, 2006, where an adjunct's continuous appointments in a teaching or non-teaching title are immediately followed by an appointment to a Substitute full-time position on the instructional staff with no break in service, and the period of Substitute service is immediately followed by continuous appointment to an adjunct teaching or non-teaching title with no break in service, the period of adjunct service immediately preceding the Substitute appointment will be added to the continuous adjunct service immediately following the Substitute service, as though there were no break in adjunct service, for the purposes of determining eligibility for a movement within schedule.
 (ii) Effective the Fall 2008 semester, Substitute service immediately preceded by and immediately followed by adjunct service shall be counted as continuous adjunct service for the purpose of determining eligibility for movement within schedule.
 Substitute service in academic year 2007-2008 shall be considered qualifying toward this benefit.
-2. The college shall notify each adjunct instructional staff member of his/her title and
-hourly rate of pay in his/her appointment letter. If the adjunct instructional staff member believes that the hourly rate of pay is incorrect, he/she will so notify the college's Office of Human Resources. If the adjunct notifies the college's Office of Human Resources within 30 days of the first day of the semester, any adjustment in the hourly rate of pay will be made retroactive to the first day of the semester.
+2. The college shall notify each adjunct instructional staff member of his/her title and hourly rate of pay in his/her appointment letter. If the adjunct instructional staff member believes that the hourly rate of pay is incorrect, he/she will so notify the college's Office of Human Resources. If the adjunct notifies the college's Office of Human Resources within 30 days of the first day of the semester, any adjustment in the hourly rate of pay will be made retroactive to the first day of the semester.
 (c) Effective at the start of the Fall 2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical series titles and Resident series titles, shall be
 67
-
 
 24.3
 eliminated and replaced with a single hourly rate, as reflected in the salary schedules in
@@ -1743,7 +1785,6 @@ For employees in the full-time titles of Professor, Associate Professor, Assista
 (v) For employees in adjunct and hourly titles: effective on October 1, 2018, October 31, 2019, November 15, 2020, and November 15, 2021, each employee shall move to the step of the salary schedule paralleling the step on which the employee was paid on the day preceding implementation of the appropriate salary schedule. The November 1, 2022 2% wage increase shall apply to the hourly rates for all non-teaching adjuncts, adjunct CLTs and CETs,
 68
 
-
 (b) |
 1.
 including those in the schools and programs named in section b) below. The November 1, 2022 2% wage increase shall not apply to teaching adjunct series titles and hourly professorial salary schedules except as set forth in subsections a) and b) below.
@@ -1758,12 +1799,9 @@ For the period October 1, 2018, to the date upon which the new salary schedules 
 The salary of each employee who is in a title for which there is no step schedule and who was in active pay status on September 30, 2018, shall be paid at a salary rate which is 2.00% more than the September 30, 2018 rate during the period October 1, 2018, through October 30, 2019.
 69
 
-
-2. The salary rate of each employee who is in a title for which there is no step schedule
-and who was in active pay status on October 30, 2019, shall be paid at a salary rate which is 2.00% more than the October 30, 2019 rate during the period October 31,
+2. The salary rate of each employee who is in a title for which there is no step schedule and who was in active pay status on October 30, 2019, shall be paid at a salary rate which is 2.00% more than the October 30, 2019 rate during the period October 31,
 2019, through November 14, 2020.
-3. The salary rate of each employee who is in a title for which there is no step schedule
-and who was in active pay status on November 14, 2020 shall be paid at a salary rate which is 2.00% more than the November 14, 2020 salary rate during the period November 15, 2020, through November 14, 2021.
+3. The salary rate of each employee who is in a title for which there is no step schedule and who was in active pay status on November 14, 2020 shall be paid at a salary rate which is 2.00% more than the November 14, 2020 salary rate during the period November 15, 2020, through November 14, 2021.
 4.
 The salary rate of each employee who is in a title for which there is no step schedule and who was in active pay status on November 14, 2021, shall be paid at a salary rate which is 2.00% more than the November 14, 2021 salary rate during the period November 15, 2021, through October 31, 2022.
 5.
@@ -1771,8 +1809,7 @@ The salary rate of each employee who is in a title for which there is no step sc
 24.4 Summer Salaries for Department Chairpersons (a)
 (b)
 (C)
-Effective Summer 2004 and every summer thereafter, Department Chairpersons shall be compensated according to the following formula for any and all hours of work performed as Department Chairpersons during their annual leave period: (annual salary divided by
-9) multiplied by (number of hours worked divided by 120 hours.
+Effective Summer 2004 and every summer thereafter, Department Chairpersons shall be compensated according to the following formula for any and all hours of work performed as Department Chairpersons during their annual leave period: (annual salary divided by 9) multiplied by (number of hours worked divided by 120 hours.
 Discussions between the Department Chairperson and the President or the President's designee regarding the number of hours and the amount of work the college is prepared to compensate, if any, will be concluded by April 30 of each year.
 This provision shall not affect existing agreed-upon practices concerning coverage of the Department Chairperson's duties when he/she is unavailable to perform them. Under such circumstances, coverage shall be paid in accordance with the provisions of paragraph (a) above.
 (d)
@@ -1783,7 +1820,6 @@ Hunter College Campus Schools
 The provisions of Section 6216 of the New York State Education Law relating to salaries of persons employed in the Hunter College Campus Schools shall be applicable.
 70
 
-
 (b)|
 (c)
 The Hunter College Campus Schools may hire persons to teach on an hourly basis when full-time teaching service is not warranted. Hourly service may be required for instruction in highly specialized areas or when there is a shortage of regularly licensed teachers in particular licensed areas. Hourly teachers shall be hired for not more than three contact hours per day. A contact hour shall be not less than 45 minutes for purposes of this Article. The hourly rate is 13 of the daily rate. Effective January 1, 2020, the hourly rate is .20 of the daily rate. The daily rate is 1/180 of the annual salary rate based upon the Board of Education's salary schedule, C1 through C2 + PD, up to the maximum step,
@@ -1791,7 +1827,6 @@ The Hunter College Campus Schools may hire persons to teach on an hourly basis w
 Incumbent half-time employees as of September, 1987, shall retain a fractional salary rate for the duration of their employment as long as such employment is continuous.
 Incumbents in the title Assistant Teacher as of August 31, 1990 shall be paid in accordance with the salary schedule established effective November 1, 1990. Incumbents in this title will be eligible to receive a movement within schedule on January 1, 1995 and the January first of each succeeding year following completion of at least ten (10) full months of service. The salary rates are set forth in the schedule in Article 24. Effective September 6, 2016, each employee in the Assistant Teacher title shall move to the step of the salary schedule paralleling the step on which the employee was being paid on the day preceding implementation of the September 6, 2016 salary schedule. Effective January 1, 2020, each employee in the Assistant Teacher title shall move to the step of the salary schedule paralleling the step on which the employee was being paid on the day preceding implementation of the January 1, 2020 salary schedule.
 71
-
 
 24.6 Salary Schedules
 10/1/2018
@@ -2127,7 +2162,6 @@ $72,177
 $74,417
 $79,566
 
-
 10/1/2018
 $46,665
 $48,449
@@ -2341,7 +2375,6 @@ $88,998
 $92,242*
 $98,309**
 
-
 10/1/2018
 $46,665
 To
@@ -2468,7 +2501,6 @@ $52,418
 $54,675
 $55,429
 $58,321
-
 
 10/1/2018
 $38,162
@@ -2626,7 +2658,6 @@ $124,656
 $129,310
 $132,987*
 $141,858**
-
 
 10/1/2018
 $62,622
@@ -2800,7 +2831,6 @@ $90,375
 $93,134*
 $99,532**
 
-
 10/1/2018
 $29,080
 $29,996
@@ -2949,7 +2979,6 @@ $79,726
 $81,712*
 $86,188**
 78
-
 
 10/1/2018
 $55,451
@@ -3113,7 +3142,6 @@ $78,686
 $80,672*
 $85,148**
 
-
 10/1/2018
 $23,426
 $24,323
@@ -3236,7 +3264,6 @@ $17,713
 $18,291
 $19,432
 
-
 10/1/2018
 $17,820
 $18,492
@@ -3327,7 +3354,6 @@ $5,816
 $6,132
 $6,469
 $6,822
-
 
 10/1/2018
 $56,088
@@ -3509,7 +3535,6 @@ $75,929
 $77,433*
 $81,246**
 
-
 10/1/2018
 $41,440
 $42,863
@@ -3660,7 +3685,6 @@ $54.01
 $61.77
 83
 
-
 SENIOR COLLEGE LABORATORY TECHNICIAN,
 
 <a id="adjunct-senior-college-laboratory-technician-p87"></a>
@@ -3738,7 +3762,8 @@ $45.11
 ### ADJUNCT AND HOURLY PROFESSORIAL RATES
 _Page 88_ · _OCR-reconstructed_ · _Topics: wages, hours_
 
-INSTRUCTOR, LECTURER, ADJUNCT LECTURER, ADJUNCT LECTURER (DOCTORAL STUDENT)
+INSTRUCTOR, LECTURER, ADJUNCT LECTURER,
+ADJUNCT LECTURER (DOCTORAL STUDENT)
 10/1/2018
 $73.02
 $75.93
@@ -3770,14 +3795,26 @@ $91.67
 $91.67
 $96.47
 * A single hourly rate of $91.67 will be in effect starting 8/25/2022 for these titles, except that
-incumbents earning $96.47 as of 8/25/2022, as a result of previous CUNY employment teaching in an hourly or adjunct capacity, will continue to receive that rate until 11/1/2022, at which time their hourly rate will increase to $98.40. (See Article 24.2 (c) and Article 24.3 (a)
+incumbents earning $96.47 as of 8/25/2022, as a result of previous CUNY employment
+teaching in an hourly or adjunct capacity, will continue to receive that rate until 11/1/2022,
+at which time their hourly rate will increase to $98.40. (See Article 24.2 (c) and Article 24.3 (a)
 1. (v) a))
-N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall 2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate, as reflected in the salary schedules in Article 24.6. As of August 25, 2022, the language concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to teaching adjuncts.
+N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall
+2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical
+series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate,
+as reflected in the salary schedules in Article 24.6. As of August 25, 2022, the language
+concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to
+teaching adjuncts.
 The November 1, 2022 2% wage increase does not apply to teaching adjunct series titles and
 hourly professorial salary schedules except as follows:
-The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result of previous CUNY employment as a teaching adjunct, exceeds the hourly rate of pay resulting from the application of a single rate of pay for their title effective August 25, 2022: Adjunct Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
+The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed
+in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result
+of previous CUNY employment as a teaching adjunct, exceeds the hourly rate of pay resulting
+from the application of a single rate of pay for their title effective August 25, 2022: Adjunct
+Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant
+Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct
+Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
 85
-
 
 ASSISTANT PROFESSOR, ADJUNCT ASSISTANT PROFESSOR
 10/1/2018
@@ -3806,13 +3843,26 @@ $100.00
 $100.00
 $104.32
 * A single hourly rate of $100.00 will be in effect starting 8/25/2022 for these titles, except
-that incumbents earning $104.32 as of 8/25/2022, as a result of previous CUNY employment teaching in an hourly or adjunct capacity, will continue to receive that rate until 11/1/2022, at which time their hourly rate will increase to $106.41. (See Article 24.2 (c) and Article 24.3 (a) 1. (v) a))
-N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall 2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate, as reflected in the salary schedules in Article 24.6. As of August 25, 2022, the language concerning movement within schedule and subsections 24.2 (b) I. (i) and (ii will not apply to teaching adjuncts.
+that incumbents earning $104.32 as of 8/25/2022, as a result of previous CUNY employment
+teaching in an hourly or adjunct capacity, will continue to receive that rate until 11/1/2022,
+at which time their hourly rate will increase to $106.41. (See Article 24.2 (c) and Article 24.3
+(a) 1. (v) a))
+N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall
+2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical
+series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate,
+as reflected in the salary schedules in Article 24.6. As of August 25, 2022, the language
+concerning movement within schedule and subsections 24.2 (b) I. (i) and (ii will not apply to
+teaching adjuncts.
 The November 1, 2022 2% wage increase does not apply to teaching adjunct series titles and
 hourly professorial salary schedules except as follows:
-The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result of previous CUNY employment as a teaching adjunct, exceeds the hourly rate of pay resulting from the application of a single rate of pay for their title effective August 25, 2022: Adjunct Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
+The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed
+in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result
+of previous CUNY employment as a teaching adjunct, exceeds the hourly rate of pay resulting
+from the application of a single rate of pay for their title effective August 25, 2022: Adjunct
+Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant
+Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct
+Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
 86
-
 
 ASSOCIATE PROFESSOR, ADJUNCT ASSOCIATE PROFESSOR
 10/1/2018
@@ -3846,14 +3896,27 @@ $108.33
 $108.33
 $116.12
 * A single hourly rate of $108.33 will be in effect starting 8/25/2022 for these titles, except
-that incumbents earning $116.12 as of 8/25/2022, as a result of previous CUNY employment teaching in an hourly or adjunct capacity, will continue to receive that rate until 11/1/2022, at which time their hourly rate will increase to $118.45. (See Article 24.2 (c) and Article 24.3 (a) 1. (v) a))
-N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall 2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate, as reflected in the salary schedules in Article 24.6.
-As of August 25, 2022, the language concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to teaching adjuncts.
+that incumbents earning $116.12 as of 8/25/2022, as a result of previous CUNY employment
+teaching in an hourly or adjunct capacity, will continue to receive that rate until 11/1/2022,
+at which time their hourly rate will increase to $118.45. (See Article 24.2 (c) and Article 24.3
+(a) 1. (v) a))
+N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall
+2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical
+series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate,
+as reflected in the salary schedules in Article 24.6.
+As of August 25, 2022, the language
+concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to
+teaching adjuncts.
 The November 1, 2022 2% wage increase does not apply to teaching adjunct series titles and
 hourly professorial salary schedules except as follows:
-The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result of previous CUNT employment as a teaching adjunct, exceeds the hourly rate of pay resulting from the application of a single rate of pay for their title effective August 25, 2022: Adjunct Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
+The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed
+in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result
+of previous CUNT employment as a teaching adjunct, exceeds the hourly rate of pay resulting
+from the application of a single rate of pay for their title effective August 25, 2022: Adjunct
+Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant
+Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct
+Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
 87
-
 
 PROFESSOR, ADJUNCT PROFESSOR
 10/1/2018
@@ -3887,13 +3950,26 @@ $113.69
 $117.45
 $127.93
 * A single hourly rate of $112.50 will be in effect starting 8/25/2022 for these titles, except
-that incumbents earning $113.69, $117.45 and $127.93 as of 8/25/2022, as a result of previous CUNY employment teaching in an hourly or adjunct capacity, will continue to receive those rates until 11/1/2022, at which time their hourly rates will increase to $115.96, $119.80 and $130.49 respectively. (See Article 24.2 (c) and Article 24.3 (a) 1. (v) a))
-N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall 2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate, as reflected in the salary schedules in Article 24.6. As of August 25, 2022, the language concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to teaching adjuncts.
+that incumbents earning $113.69, $117.45 and $127.93 as of 8/25/2022, as a result of previous
+CUNY employment teaching in an hourly or adjunct capacity, will continue to receive those
+rates until 11/1/2022, at which time their hourly rates will increase to $115.96, $119.80 and
+$130.49 respectively. (See Article 24.2 (c) and Article 24.3 (a) 1. (v) a))
+N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall
+2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical
+series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate,
+as reflected in the salary schedules in Article 24.6. As of August 25, 2022, the language
+concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to
+teaching adjuncts.
 The November 1, 2022 2% wage increase does not apply to teaching adjunct series titles and
 hourly professorial salary schedules except as follows:
-The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result of previous CUNY employment as a teaching adjunct, exceeds the hourly rate of pay resulting from the application of a single rate of pay for their title effective August 25, 2022: Adjunct Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
+The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed
+in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result
+of previous CUNY employment as a teaching adjunct, exceeds the hourly rate of pay resulting
+from the application of a single rate of pay for their title effective August 25, 2022: Adjunct
+Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant
+Professor and Adjunct Assistant Professor (H); Adjunct Associate Professor and Adjunct
+Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
 88
-
 
 NON-TEACHING ADJUNCT I and II*, NON-TEACHING ADJUNCT (DOCTORAL STUDENT)
 INSTRUCTOR, LECTURER
@@ -3927,7 +4003,8 @@ $55.60
 $56.71
 $57.85
 $59.00
-"Applicable to other titles described in Article 24.7, Assigned Overtime Rates NON-TEACHING ADJUNCT III*,
+"Applicable to other titles described in Article 24.7, Assigned Overtime Rates
+NON-TEACHING ADJUNCT III*,
 
 <a id="assistant-professor-p92"></a>
 ### ASSISTANT PROFESSOR
@@ -3958,7 +4035,8 @@ $53.79
 $55.95
 $58.20
 $63.85
-"Applicable to other titles described in Article 24.7, Assigned Overtime Rates NON-TEACHING ADJUNCT IV*,
+"Applicable to other titles described in Article 24.7, Assigned Overtime Rates
+NON-TEACHING ADJUNCT IV*,
 
 <a id="associate-professor-p92"></a>
 ### ASSOCIATE PROFESSOR
@@ -3997,7 +4075,6 @@ $71.07
 "Applicable to other titles described in Article 24.7, Assigned Overtime Rates
 89
 
-
 10/1/2018
 NON-TEACHING ADJUNCT V#,
 
@@ -4033,7 +4110,19 @@ $72.34
 $73.79
 $76.77
 $78.30
-"Applicable to other titles described in Article 24.7, Assigned Overtime Rates ADJUNCTS IN THE CUNY GRADUATE SCHOOL OF JOURNALISM AND IN THE EXECUTIVE PROGRAMS IN THE ZICKLIN SCHOOL OF BUSINESS AT BARUCH COLLEGE Adjunct Lecturer Adjunct Assistant Professor Adjunct Assoc. Professor Adjunct Professor Non-Teaching Adjunct I
+"Applicable to other titles described in Article 24.7, Assigned Overtime Rates
+ADJUNCTS IN THE CUNY GRADUATE SCHOOL OF JOURNALISM AND IN THE
+EXECUTIVE PROGRAMS IN THE ZICKLIN SCHOOL OF BUSINESS AT BARUCH COLLEGE
+Adjunct
+Lecturer
+Adjunct
+Assistant Professor
+Adjunct
+Assoc. Professor
+Adjunct
+Professor
+Non-Teaching
+Adjunct I
 10/1/2018
 $73.02
 to
@@ -4115,7 +4204,6 @@ $66.84
 to
 $198.83
 
-
 Non-Teaching
 Adjunct I|
 Non-Teaching
@@ -4154,17 +4242,29 @@ $108.44
 Assigned Overtime Rates!s
 (a)
 Counseling
-Members of the non-classroom staff engaged in professional psychological counseling assignments shall be remunerated in accordance with the appropriate adjunct or hourly (b)
+Members of the non-classroom staff engaged in professional psychological counseling
+assignments shall be remunerated in accordance with the appropriate adjunct or hourly
+(b)
 (C)
-All other non-classroom staff engaged in counseling assignments shall be remunerated at the appropriate non-teaching adjunct or hourly rate.
+All other non-classroom staff engaged in counseling assignments shall be remunerated at
+the appropriate non-teaching adjunct or hourly rate.
 Professional Library Staff
-Associate Professors, Assistant Professors and Instructors shall be remunerated in accordance with the appropriate non-teaching adjunct/hourly schedule and in accordance with the stated guidelines.
+Associate Professors, Assistant Professors and Instructors shall be remunerated in
+accordance with the appropriate non-teaching adjunct/hourly schedule and in accordance
+with the stated guidelines.
 Professional Registrar Staff
-Associate Registrars and Assistant Registrars shall be remunerated in accordance with the appropriate non-teaching adjunct/hourly schedule and in accordance with the stated guidelines.
-Associate Registrars who are reclassified to the title Higher Education Assistant or Assistant Registrars who are reclassified to the title Assistant to Higher Education Officer or appointed to the title Higher Education Assistant, while continuing to perform registrarial duties, shall continue to be remunerated in accordance with the foregoing paragraph and the practices in effect at the college of employment.
-15 The provisions set forth in Article 24.7 ("Assigned Overtime Rates") are effective August 25, 2022. For the period December 1, 2017, through August 24, 2022, the provisions of Article 24.7 of the 2010-2017 collective bargaining agreement continued in effect.
+Associate Registrars and Assistant Registrars shall be remunerated in accordance with
+the appropriate non-teaching adjunct/hourly schedule and in accordance with the stated
+guidelines.
+Associate Registrars who are reclassified to the title Higher Education Assistant or
+Assistant Registrars who are reclassified to the title Assistant to Higher Education Officer
+or appointed to the title Higher Education Assistant, while continuing to perform
+registrarial duties, shall continue to be remunerated in accordance with the foregoing
+paragraph and the practices in effect at the college of employment.
+15 The provisions set forth in Article 24.7 ("Assigned Overtime Rates") are effective August 25, 2022. For the period
+December 1, 2017, through August 24, 2022, the provisions of Article 24.7 of the 2010-2017 collective bargaining agreement
+continued in effect.
 91
-
 
 Both parties agree that the work required from these staffs during the registration period is an integral part of the total job. Thus, every effort shall be made to minimize compensable time for this group during registration periods. Necessary coverage is to be achieved through work schedule changes.
 (d)
@@ -4198,7 +4298,6 @@ Fellowship Awards
 Eligibility: It is the intention of the parties that the funds for fellowship awards be limited to instructional staff members of the permanent instructional staff. Tenured members of the permanent instructional staff (including, for these purposes, instructional staff who have been approved for tenure effective the following September I), and those holding the title Lecturer with certificates of continuous employment, who have completed six years of continuous paid full-time service with the University exclusive of non-sabbatical or fellowship leave, shall be eligible for a fellowship award. Individuals in professorial titles who are on leave from the title Lecturer with a certificate of continuous employment shall be eligible for a fellowship award. Service shall include service in a school or college maintained in whole or part with City funds immediately preceding service in a college or institution under the jurisdiction of the Board of Trustees, provided that credit for such prior service shall not exceed three (3) years. Fellowship leaves awarded for the Fall semester or for the full academic year shall begin on the day full-time teaching faculty are scheduled to return from annual leave under Section 14.1.
 93
 
-
 (b)
 Applications:
 1.
@@ -4212,10 +4311,9 @@ Improvement of teaching
 The application in the form of a plan shall be submitted to the appropriate departmental committee and, if approved, to the college committee on faculty personnel and budget. If the latter committee approves, it shall forward the application to the President with its endorsement. Such endorsement must state that the work of the department in which the applicant serves can be so arranged as to be carried forward effectively during the period of the leave, and that the work the applicant intends to do is consonant with the principles of the fellowship leave. The President shall transmit such application to the Board of Trustees, with his or her own recommendation.
 The Board of Trustees will consider the advantage of the applicant as a scholar and teacher to be expected from such a fellowship award, and the consequent advantage through his or her service to the college. Special consideration shall be given to those applicants who have not had a sabbatical leave or fellowship in fourteen (14) or more years.
 Application may be for one of three types of fellowship leaves:
-• a full year leave at 80% of the biweekly salary rate a one-half year leave at 80% of the biweekly salary rate a one-half year leave at full pay There is an expectation that there will be a minimum of one half-year leave at fullpay every other year at each college.
+• a full year leave at 80% of the bi-weekly salary rate a one-half year leave at 80% of the bi-weekly salary rate a one-half year leave at full pay There is an expectation that there will be a minimum of one half-year leave at full pay every other year at each college.
 Fellowship leaves received by members of the instructional staff who serve in the libraries will be of the same duration as those of other instructional staff Members of the instructional staff who serve in libraries will not accrue annual leave during the period of the fellowship leave.
 94
-
 
 Members of the unit who receive a full-year fellowship leave at 80% of the biweekly salary rate may, at their option, upon written notice to the President no later than October 30 or March 30, whichever is applicable, terminate the fellowship leave after one-half year.
 Where fellowships are terminated upon request under Section 25.3 (b) 5, such termination relieves the University of any obligation to further claims for the second half of the leave, but does not reduce the time period or other qualifications required for consideration for a subsequent fellowship leave.
@@ -4231,24 +4329,18 @@ The application in the form of a plan shall be submitted to the appropriate depa
 Such endorsement must state that the work of the department in which the applicant serves can be so arranged as to be carried forward effectively during the period of the leave, and that the
 95
 
-
 25.6
 work the applicant intends to do is consonant with the principles of the Scholar Incentive Award.
 Upon positive recommendation of the President, the application shall be forwarded to the Chancellor for review and recommendation.
 The following principles for such Scholar Incentive Awards shall apply:
 1. A candidate shall be a full-time member of the instructional staff in one of the above titles.
-2. A candidate shall have completed not less than one full year of continuous paid full-time
-service with the University before becoming eligible for a Scholar Incentive Award. A candidate shall be eligible for a subsequent Scholar Incentive Award after six years of creditable service with the University since the completion of the last Scholar Incentive Award. A Scholar Incentive Award may not be held concurrently with a Fellowship Leave.
-3. If a Scholar Incentive Award is immediately preceded by full-time continuous service
-creditable for tenure or a Certificate of Continuous Employment or Fellowship Award and immediately followed by such full-time continuous service, the period of creditable service immediately preceding the Scholar Incentive Award shall be counted in computing the years of service required for the granting of tenure, Certificate of Continuous Employment or Fellowship Award.
-4. A candidate may be compensated by the University for up to 25% of annual salary rate. The
-total amount of money earnable with outside support and the University salary may not exceed 100% of the annual salary rate that the person would have received without the leave.
+2. A candidate shall have completed not less than one full year of continuous paid full-time service with the University before becoming eligible for a Scholar Incentive Award. A candidate shall be eligible for a subsequent Scholar Incentive Award after six years of creditable service with the University since the completion of the last Scholar Incentive Award. A Scholar Incentive Award may not be held concurrently with a Fellowship Leave.
+3. If a Scholar Incentive Award is immediately preceded by full-time continuous service creditable for tenure or a Certificate of Continuous Employment or Fellowship Award and immediately followed by such full-time continuous service, the period of creditable service immediately preceding the Scholar Incentive Award shall be counted in computing the years of service required for the granting of tenure, Certificate of Continuous Employment or Fellowship Award.
+4. A candidate may be compensated by the University for up to 25% of annual salary rate. The total amount of money earnable with outside support and the University salary may not exceed 100% of the annual salary rate that the person would have received without the leave.
 The amount may be less than 25% if the amount of any outside fellowship and grant support received would result in earnings above 100% of salary.
-5. The University shall develop guidelines to be utilized in approving applications for Scholar
-Incentive Awards.
+5. The University shall develop guidelines to be utilized in approving applications for Scholar Incentive Awards.
 Effective February 1, 2021, the University will establish a research account at the CUNY Research Foundation for each department chair and Graduate Center executive officer represented by the PSC. The University will deposit $1,750 in the research account of each department chair and Graduate Center executive officer on February 1, 2021, and $3,000 on September 1, 2021, and on or before September 1 every year thereafter. The account is to be used to further the scholarly and/or creative activities of the department chair or executive officer and will be governed by the same guidelines that apply to the PSC-CUNY Research Awards Program. Unused funds may be rolled over to the subsequent year (including the year after the department chair or executive officer leaves office), but must be expended within that year. Any funds not expended within the subsequent year shall be returned by the CUNY Research Foundation to the PSC-CUNY Research Awards account. Funds in the amount of 10 percent of the total deposited in all department chair research accounts annually will be provided to the CUNY Research Foundation on February 1, 2021, September 1, 2021, and every September 1 thereafter to support administrative costs.
 96
-
 
 25.7 Complaint Procedure
 Award decisions made under this Article shall be subject only to the informal complaint procedure specified in Article 20 hereof.
@@ -4264,7 +4356,6 @@ The parties agree that the PSC-CUNY Welfare Fund Trust Indenture entered into on
 26.4
 The University shall contribute to the PSC-CUNY Welfare Fund the following annual amounts on a pro-rata basis for full-time instructional staff (a) who have separated from service subsequent to June 30, 1970, who were eligible to receive supplemental welfare benefits at the time of such separation, who remain primary beneficiaries of the New York City Health Benefits Program and are entitled to benefits paid for by the City through such program, or (b) who have separated from
 97
-
 
 26.5
 27.1
@@ -4295,10 +4386,8 @@ Determination of pension eligibility and benefits are made by the appropriate re
 tax-sheltered annuity contracts for members of the New York City Teachers' Retirement System 16 In order to implement paragraph "5" of the Concluding Agreement on Adjunct Health Insurance, dated July 30, 2014, referenced in Appendix J, the University's contribution to the PSC-CUNY Welfare Fund for the period July 1, 2014 through June 30, 2015 will be reduced by S600,000, effective July 1, 2014, to S1,599,237.
 98
 
-
 Tax Deferred Annuity Program with a different insurer as qualified under section 1035 of the Internal Revenue Code.
-- The University and the PSC agree that CUNY public retirement system retirees shall have the
-option of changing their previous choice of Health Plans and of providing for coverage of eligible dependents acquired subsequent to retirement, in accordance with the rules and regulations of the New York City Department of Personnel Health Insurance Division.
+- The University and the PSC agree that CUNY public retirement system retirees shall have the option of changing their previous choice of Health Plans and of providing for coverage of eligible dependents acquired subsequent to retirement, in accordance with the rules and regulations of the New York City Department of Personnel Health Insurance Division.
 Effective September 1, 1985, or as soon thereafter as practicable, members of the Optional Retirement System (which at present is TIAA-CREF) who have separated from CUNY service and are collecting a retirement benefit based on their service at CUNY shall be eligible for coverage in the City Health Insurance Program, if and when the following additional
 qualifications are met:
 (a)
@@ -4306,28 +4395,19 @@ qualifications are met:
 (c)
 For instructional staff initially appointed to a full-time annual position on or before June
 30, 1976:
-1. Separated from CUNY service at age 55 or over with at least ten (10) years of
-pensionable, continuous, full-time CUNY service, or
-2. Separated from CUNY service prior to age 55 with at least fifteen (15) years of
-pensionable, continuous, full-time CUNY service and attained the age of 55.
+1. Separated from CUNY service at age 55 or over with at least ten (10) years of pensionable, continuous, full-time CUNY service, or 2. Separated from CUNY service prior to age 55 with at least fifteen (15) years of pensionable, continuous, full-time CUNY service and attained the age of 55.
 For instructional staff initially appointed to a full-time annual position between July 1,
 1976 and August 31, 1985:
-1. Separated from CUNY service with at least fifteen (15) years of pensionable,
-continuous, full-time CUNY service and attained the age of 62, or
-2. Separated from CUNY service with at least ten (10) years of pensionable, continuous,
-full-time CUNY service and no subsequent full-time employment in a college, university, or other institution of post-secondary education related to the duties performed while in active service at The City University or to duties normally performed by the instructional staff at the City University and attained the age of 62.
+1. Separated from CUNY service with at least fifteen (15) years of pensionable, continuous, full-time CUNY service and attained the age of 62, or 2. Separated from CUNY service with at least ten (10) years of pensionable, continuous, full-time CUNY service and no subsequent full-time employment in a college, university, or other institution of post-secondary education related to the duties performed while in active service at The City University or to duties normally performed by the instructional staff at the City University and attained the age of 62.
 For instructional staff initially appointed to a full-time annual position on or after
 September 1, 1985:
-1. Separated from CUNY service at age 62 or over with fifteen (15) years of
-pensionable, continuous, full-time CUNY service, or
+1. Separated from CUNY service at age 62 or over with fifteen (15) years of pensionable, continuous, full-time CUNY service, or
 99
-
 
 27.5
 27.6
 27.7
-2. Separated from CUNY service prior to age 62 with fifteen (15) years of pensionable,
-continuous, full-time CUNY service and no subsequent full-time employment in a college, university, or other institution of post-secondary education related to the duties performed while in active service at The City University or to duties normally performed by the instructional staff at The City University and attained the age of 62.
+2. Separated from CUNY service prior to age 62 with fifteen (15) years of pensionable, continuous, full-time CUNY service and no subsequent full-time employment in a college, university, or other institution of post-secondary education related to the duties performed while in active service at The City University or to duties normally performed by the instructional staff at The City University and attained the age of 62.
 (d)
 "Continuous service," as used in this section, shall not be broken by any approved leave of absence without pay. The period of such approved leave without pay shall not count toward the total number of years required for eligibility.
 A member of the full-time instructional staff who participates in the Optional Retirement Program, who becomes disabled, and who is determined by the United States Social Security Administration or by the TIAA/CREF disability program or its successor under this Agreement, to be physically or mentally incapacitated for the performance of duty, shall be eligible to receive paid New York City Employee Benefits Program basic health benefits, provided that he or she had completed at least ten years of full-time service at The University immediately prior to being disabled; he or she is receiving a retirement benefit from the Optional Retirement Program; and he or she receives no basic health coverage from another source.
@@ -4369,7 +4449,6 @@ An adjunct who has taught one or more courses in the same department at the same
 Effective the Fall 2008 semester, Substitute service immediately preceded by and immediately followed by adjunct service shall be counted as continuous adjunct service for the purpose of determining eligibility for tuition remission. Substitute service in academic year 2007-2008 shall be considered qualifying toward this benefit.
 102
 
-
 Effective the Fall 2008 semester, an adjunct who has taught one or more courses at the same college for ten consecutive semesters (not including summer session) and who is appointed to teach a course of not fewer than three contact hours per week in a Fall or Spring semester shall be granted tuition remission for up to one course in that semester.
 Effective with the start of the Spring 2020 semester, tuition at the Doctor of Philosophy Level 3 Resident rate shall be waived for up to four additional semesters (normally, years 6 and 7 of enrollment) for students who have completed 10 semesters of enrollment in a Doctor of Philosophy program and who are employed in a title recognized under Article 1 of the Collective Bargaining Agreement. Students who meet the eligibility criteria above and whose tuition is at a higher rate than the Doctor of Philosophy Level 3 Resident rate shall have the portion of their tuition equivalent to the Doctor of Philosophy Level 3 Resident rate waived under the terms stated herein.
 30.1
@@ -4390,7 +4469,6 @@ An office desk, chair, file drawers, a telephone and book shelves for each full-
 Appropriate facilities for adjuncts. On campuses where capacity exists, teaching adjunct instructional staff will be provided with a CUNY e-mail address. The colleges will use their best efforts to provide teaching adjunct instructional staff with voicemail and, where feasible, to include them in department directories.
 103
 
-
 31.1
 31.2
 
@@ -4404,7 +4482,6 @@ Non-Tenured Persons in the titles Professor, Associate Professor, Assistant Prof
 Any person restored to a position pursuant to this paragraph shall receive notice of reappointment or non-reappointment no later than June 15. The dates provided in Article 18 of this agreement for observations and evaluations shall not apply with respect to any reappointment or non-reappointment of a person restored to service pursuant to this paragraph. When a person is restored to service pursuant to this paragraph, the period of creditable service prior to the discontinuance shall be added to creditable service after such restoration for purposes of computing years of service required for tenure, but an academic year in which such person did not serve a full continuous year shall not be included in computing the years of service required for tenure. Rules and regulations shall be promulgated for the administration of these lists which include provision for the rehiring of persons on a last-released first-rehired basis except for special educational reasons. Acceptance of a position in the same or in a higher title in another college shall cause a person's name to be removed from the eligible list.
 15 In accordance with the November 28, 2011 Board of Trustees Minutes of Proceedings (page 237), the provisions previously contained in Board Bylaw Section 6.14 relating to Lecturers holding CEs have been incorporated as Section 7.4 of the University's Retrenchment Guidelines and such section shall be followed in the case of certificated persons.
 104
-
 
 31.3 Staff in Non-Tenure- and Non-Certificate-Bearing Titles The name of any such person, except a person who has received a notice of non-reappointment prior to being discontinued from his or her position, shall be placed on an eligible list to fill vacancies for a position in his/her title, function, and retrenchment unit which may arise prior to the date which, in the absence of being discontinued, would have been the expiration date of the appointment, or for three years, whichever period is shorter. Should such a position be reestablished, persons on the eligible list shall be restored to service in reverse order of discontinuance, except for special educational reasons, with respect to teaching personnel in these titles.
 31.4
@@ -4424,7 +4501,6 @@ _Page 108_ · _OCR-reconstructed_ · _Topics: discipline_
 The term discontinuance as used in the Agreement means the termination in accordance with retrenchment procedures of an individual's service on dates other than those provided in Articles 9, 10 and 13 of the Agreement and through procedures other than those normally utilized in academic and administrative appointments, reappointments and non-reappointments.
 Any discontinuance of employees in this unit during the term of this Agreement shall be undertaken only after other measures have been explored and implemented to the extent practicable consistent with the Board's responsibilities to govern the University, to carry out the academic programs of the University and to provide a safe and appropriate environment.
 105
-
 
 33.1
 33.2
@@ -4451,7 +4527,6 @@ The PSC will establish a HEO/CLT Professional Development Committee that will be
 If the funds provided in any fiscal year are not fully expended in the fiscal year, they may be rolled over into the next fiscal year. It is agreed, however, that if the funds available in any fiscal year exceed one million dollars ($1,000,000), the parties will meet to negotiate a mutually agreeable expenditure of the funds in excess of $500,000.
 106
 
-
 (d)
 At the end of the fiscal year, the PSC will provide an accounting of the use of the funds to the Senior Vice Chancellor for Labor Relations. This accounting will include the following information: 1) the name of each recipient, 2) the amount of the grant, 3) the specific purpose for which the grant was made, 4) an itemized accounting of other (i.e., administrative) expenditures, 5) the opening balance of the account and 6) the closing balance of the account.
 (e)
@@ -4467,7 +4542,6 @@ The maximum award for professional development activities in any academic year i
 Through December 31, 2019, up to $3,000 annually may be spent from the Fund to reimburse the PSC for administrative expenses incurred by the PSC in implementing the Fund. Effective January 1, 2020, the following provisions will replace the administrative reimbursement set forth above: A sum equal to 7.5 percent of the annual $807,442 allocation to the Fund (i.e., $65,604) will be deducted by the PSC upon receipt of the funds to support administrative costs. Effective February 1, 2021, a sum equal to 7.5 percent of the annual $1,047,442 allocation to the Fund (i.e., $78,558) will be deducted
 107
 
-
 annually from the HEO/CLT Professional Development Fund by the PSC to support administrative costs. The PSC will provide an annual itemized accounting of these expenses.
 (D)
 Members of the HEO-CLT Professional Development Committee may receive a stipend from the HEO-CLT Professional Development Fund of up to $3,000 per person per annum. The cost to the HEO-CLT Professional Development Fund for these stipends may not exceed $12,000 per annum.
@@ -4477,7 +4551,6 @@ Effective each of the following dates, the University will provide the sum of $5
 Effective July 1, 2013, the University will make a one-time cash contribution of $250,000 to the Adjunct Professional Development Fund Effective August 25, 2016, CUNY will provide the sum of $160,000 annually to the Adjunct Professional Development Fund Effective January 1, 2020, the University will provide the sum of $660,000 annually to the Adjunct Professional Development Fund. If the funds provided in any fiscal year are not fully expended in the fiscal year, they may be rolled over into the next fiscal year. Guidelines for the implementation of this provision are contained in Appendix B.
 33.7 This Article shall not be subject to Article 20.
 108
-
 
 34.1
 Medical
@@ -4628,7 +4701,6 @@ $236.95
 $246.43
 $265.22
 $284.06
-
 
 Adj. Assoc. Med.
 Professor
@@ -4806,7 +4878,6 @@ $39.05
 to
 $60.75
 
-
 34.2
 Distinguished Lecturer - Medical Series!?
 10/1/2018
@@ -4850,7 +4921,8 @@ $203,846
 $72,237
 to
 $207,923
-The terms and conditions of employment for the above titles shall be those contained in the Bylaws of the Board and the written policies of the Board and, in addition, only the following
+The terms and conditions of employment for the above titles shall be those contained in the
+Bylaws of the Board and the written policies of the Board and, in addition, only the following
 provisions of this Agreement shall be applicable to the Medical Professorial titles:
 
 <a id="article-21-p114"></a>
@@ -4872,8 +4944,22 @@ _Page 114_ · _OCR-reconstructed_ · _Topics: wages, pension, grievance, discipl
 Unit Stability
 Union Dues and Membership
 Non-Discrimination
-Complaint, Grievance and Arbitration Procedure Disciplinary Actions Medical Separation Leave Procedure Application of Salary Increases Summer Salaries for Department Chairpersons Scholar Incentive Awards Welfare Benefits Retirement Voluntary Phased Retirement Program Workers' Compensation Occupational Safety and Health No Strike Pledge Legislative Action
-2017-2023 Financial Provisions 1With the exception of the applicable salary ranges, the other terms and conditions of employment of Distinguished Lecturers - Medical Series shall be the same as those provided in Article 11.7(a).
+Complaint, Grievance and Arbitration Procedure
+Disciplinary Actions
+Medical Separation Leave Procedure
+Application of Salary Increases
+Summer Salaries for Department Chairpersons
+Scholar Incentive Awards
+Welfare Benefits
+Retirement
+Voluntary Phased Retirement Program
+Workers' Compensation
+Occupational Safety and Health
+No Strike Pledge
+Legislative Action
+2017-2023 Financial Provisions
+1With the exception of the applicable salary ranges, the other terms and conditions of employment of Distinguished Lecturers - Medical
+Series shall be the same as those provided in Article 11.7(a).
 20 With the exception of the applicable salary ranges, the other terms and conditions of employment of Clinical Professors as provided in
 
 <a id="article-11-7-b-shall-apply-to-clinical-professors-in-the-med-p114"></a>
@@ -4881,7 +4967,6 @@ Complaint, Grievance and Arbitration Procedure Disciplinary Actions Medical Sepa
 _Page 114_ · _OCR-reconstructed_
 
 111
-
 
 35.1
 Law School
@@ -5034,7 +5119,6 @@ $52,794
 to
 $120,494
 
-
 Law School
 Adjunct
 Professor
@@ -5164,9 +5248,9 @@ $176,663
 $48,559
 to
 $180,196
-21 With the exception of the applicable salary ranges, the other terms and conditions of employment of Distinguished Lecturers - Law School shall be the same as those provided in Article 11.7 (a).
+21 With the exception of the applicable salary ranges, the other terms and conditions of employment of Distinguished
+Lecturers - Law School shall be the same as those provided in Article 11.7 (a).
 113
-
 
 35.2 Individuals employed in the title Law School Lecturer shall not be employed more than five consecutive months in one academic year.
 35.3
@@ -5179,7 +5263,6 @@ The assigned overtime rates for the Professional Law School Library Staff shall 
 35.4
 In accordance with the special nature of the instructional program of the Law School, individuals in HEO titles only in the Law School may be assigned teaching duties as a part of their regular 35-hour per week assignment. Individuals so assigned shall be released from their regular HEO duties for the number of classroom contact hours taught weekly and, in addition, a number of hours equal to the number of classroom contact hours taught per week.
 114
-
 
 35.5
 The terms and conditions of employment for the titles in the CUNY Law School series shall be those contained in the Bylaws applicable to the Law School and the written policies of the University applicable to the Law School, and, in addition, only the following provisions of this
@@ -5210,11 +5293,22 @@ _Page 118_ · _OCR-reconstructed_ · _Topics: wages, pension, grievance, discipl
 Unit Stability
 Union Dues and Membership
 Non-Discrimination
-Complaint, Grievance and Arbitration Procedure Disciplinary Actions Medical Separation Leave Procedure Distinguished Professor** (Compensation for Distinguished Professors**)
-Application of Salary Increases Welfare Benefits Retirement Voluntary Phased Retirement Program Workers' Compensation Occupational Safety and Health No Strike Pledge Legislative Action
-2017-2023 Financial Provisions ** Article 23.1 and 23.4 - Law School Professors shall be eligible for nomination as Distinguished Professors.
+Complaint, Grievance and Arbitration Procedure
+Disciplinary Actions
+Medical Separation Leave Procedure
+Distinguished Professor**
+(Compensation for Distinguished Professors**)
+Application of Salary Increases
+Welfare Benefits
+Retirement
+Voluntary Phased Retirement Program
+Workers' Compensation
+Occupational Safety and Health
+No Strike Pledge
+Legislative Action
+2017-2023 Financial Provisions
+** Article 23.1 and 23.4 - Law School Professors shall be eligible for nomination as Distinguished Professors.
 115
-
 
 36.1
 Resident
@@ -5321,11 +5415,17 @@ $1,930
 $2,007
 $2,089
 (a)
-To be eligible for appointment to these titles a person must be a member of the Instructional Staff of The City University of New York at the time of application for the position, at least 55 years of age and eligible for service or age retirement, and must retire prior to the appointment to the position.
+To be eligible for appointment to these titles a person must be a member of the
+Instructional Staff of The City University of New York at the time of application for the
+position, at least 55 years of age and eligible for service or age retirement, and must retire
+prior to the appointment to the position.
 (b)
-To be eligible to receive appointment in these titles the individual meeting the above requirements shall have first exhausted retirement leave benefits under Section 3107 of the Education Law. Appointment to these titles shall be discretionary with the Board of Trustees on recommendation of the college and be made only where educationally and financially advantageous to the instructional unit and college.
+To be eligible to receive appointment in these titles the individual meeting the above
+requirements shall have first exhausted retirement leave benefits under Section 3107 of
+the Education Law. Appointment to these titles shall be discretionary with the Board of
+Trustees on recommendation of the college and be made only where educationally and
+financially advantageous to the instructional unit and college.
 116
-
 
 36.2
 36.3
@@ -5397,7 +5497,6 @@ _Page 122_ · _OCR-reconstructed_
 2017-2023 FINANCIAL PROVISIONS The financial provisions of this Agreement are within the funding guidelines mandated by the City of New York and the State of New York and were negotiated in accordance with applicable law.
 119
 
-
 43.1
 43.2
 43.3
@@ -5406,16 +5505,19 @@ _Page 122_ · _OCR-reconstructed_
 ### DURATION
 _Page 123_ · _OCR-reconstructed_
 
-This Agreement shall become effective December 1, 2017 upon its adoption by the Board of Trustees, and its ratification by the membership of the Professional Staff Congress.
-Only the Chancellor or his/her designee together with the President of the PSC or his/her designee may agree to waive a provision of this Agreement.
+This Agreement shall become effective December 1, 2017 upon its adoption by the Board
+of Trustees, and its ratification by the membership of the Professional Staff Congress.
+Only the Chancellor or his/her designee together with the President of the PSC or his/her
+designee may agree to waive a provision of this Agreement.
 This Agreement shall be in effect through February 28, 2023.
 Dated: October 21, 2019
 New York, New York
 Frich.
-The City University of New York Barbar Bew Professional Staff Congress/CUNY
+The City University of New York
+Barbar Bew
+Professional Staff Congress/CUNY
 Witnessed By:
 120
-
 
 2.*
 
@@ -5458,7 +5560,6 @@ expressed a shared goal of reducing the annual undergraduate teaching contact ho
 teaching contact hour reduction was agreed to by the parties on December 8, 2017. As of Academic Year 2020-2021, the teaching contact hour workload reduction plan has been fully implemented as reflected above.
 23 The parties have agreed to a five-year pilot program, beginning with the 2019-2020 academic year and continuing through the end of the 2023-2024 academic year, concerning Baruch College executive master's degree, dual master's degree and international executive master's degree cohort programs. See Appendix N.
 
-
 The annual undergraduate teaching contact hour workload of faculty in Substitute titles shall be three hours greater than the annual undergraduate teaching contact hour workload stated herein for the equivalent rank.
 This provision does not apply to instructional situations involving supervision of students in other than organized classes: appropriate multiples in these and related areas shall be determined by the colleges based on past experience and practices.
 **
@@ -5471,7 +5572,6 @@ The parties agree that some degree of flexibility in terms of class size and in 
 (d)
 Other than as provided in Article 6 and Article 15.1 (d), (e) and (f) of the Collective Bargaining Agreement, determination of the adjustment and assignment of reassigned time shall remain discretionary with the University both as to the amount of reassigned time and as to the identity of the individual member of the Instructional Staff to whom such reassigned time is granted.
 122
-
 
 1.
 2.
@@ -5491,7 +5591,6 @@ Applications must have the approval of one chairperson of a department that is e
 If the chairperson does not approve the application, he/she must provide an explanation for the disapproval.
 Applications must be approved by the Adjunct Professional Development Selection Committee before the funded professional development activity commences. Funds will be disbursed to the
 123
-
 
 employee only upon submission of documentation acceptable to the Adjunct Professional Development Selection Committee.
 The maximum award for professional development activities in any academic year to an individual is $3,000. Preference will be given to employees who have not previously received professional development funds and to employees with long service to the University. Through December 31, 2019, up to $3,000 annually may be spent from the Fund to reimburse for administrative expenses. Effective January 1, 2020, a sum equal to 7.5 percent of the annual $660,000 allocation to the Adjunct Professional Development Fund (i.e. $49,500) will be deducted from the Fund annually by the PSC to support administrative costs. The PSC will provide an annual itemized accounting of these expenses.
@@ -5516,7 +5615,6 @@ Tier III:
 2* Effective August 25, 2016, the permissible salary in excess of the base salary shall be increased to 180% of the last step of the applicable base salary schedule for all eligible titles.
 125
 
-
 4. The PSC hereby withdraws or discontinues with prejudice the following:
 • The grievance concerning the recruitment/retention initiative that it filed by letter dated July
 2, 2001;
@@ -5525,8 +5623,7 @@ Tier III:
 2001;
 • PERB Charge No. U- (Re: Zicklin School memo); and • Barbara Bowen as President of PSC-CUNY v. City University of New York, Index No.
 104015/2002, New York County Supreme Court.
-5. CUNY will advise the colleges that all increases to base salary shall be granted in accordance
-with the CUNY-PSC collective bargaining agreement and with this letter.
+5. CUNY will advise the colleges that all increases to base salary shall be granted in accordance with the CUNY-PSC collective bargaining agreement and with this letter.
 For the City University of New York For the Professional Staff Congress/CUNY /s/ /sl Date June 26, 2002 Date June 25, 2002
 
 <a id="addenda-to-settlement-agreement-p129"></a>
@@ -5542,9 +5639,12 @@ Medical Professor (Clinical)
 Associate Medical Professor (Clinical)
 Assistant Medical Professor (Clinical)
 Law School Professor
-Law School Associate Professor Law School Assistant Professor Law School Library Professor Law School Library Associate Professor Law School Library Assistant Professor
+Law School Associate Professor
+Law School Assistant Professor
+Law School Library Professor
+Law School Library Associate Professor
+Law School Library Assistant Professor
 126
-
 
 Effective August 25, 2016, the settlement agreement dated June 25, 2002 is made applicable to the title Research Associate.
 Effective with the adoption of the 2017-2023 Agreement by the Board of Trustees,? the settlement
@@ -5567,8 +5667,7 @@ recommendation shall be forwarded to the University-wide Provost for review. The
 _Page 131_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, sick-leave, health-welfare, pension, hours, recognition_
 
 CUNY START and CUNY LANGUAGE IMMERSION PROGRAM ("CLIP") INSTRUCTORS The following terms and conditions apply to the full-time CUNY Start Instructor and CLIP Instructor titles, established Fall 2016. Eligible incumbent hourly teachers were moved to the equivalent CUNY Start Instructor and CLIP Instructor titles effective February 12, 2017.
-1. Applicable Provisions: The CUNY Start Instructor and CLIP Instructor titles will be included in
-the PSC bargaining unit but excluded from the provisions of the collective bargaining agreement with the exception of Articles 3, 4, 5, 7, 8, 17, 20, 33.5, 38, 39, 40, 41, 42 and 43.
+1. Applicable Provisions: The CUNY Start Instructor and CLIP Instructor titles will be included in the PSC bargaining unit but excluded from the provisions of the collective bargaining agreement with the exception of Articles 3, 4, 5, 7, 8, 17, 20, 33.5, 38, 39, 40, 41, 42 and 43.
 2. Salary:
 a.
 C.
@@ -5586,7 +5685,6 @@ For employees newly hired to teach in the CUNY Start and CLIP programs on or aft
 • Newly hired teachers in the CLIP program will be hired in a six-month appointment in the hourly Continuing Education Teacher title and will be paid the hourly rate of the CLIP Instructor minimum salary. After such teachers work a complete Fall or
 128
 
-
 Spring semester, if they are reappointed in the CLIP program, they must be appointed to the full-time CLIP Instructor title.
 • Newly hired teachers in the CUNY Start program will be hired as cooperating teachers in a six-month appointment in the hourly Continuing Education Teacher ("CET") title and will be paid at the CET minimum hourly rate. (See CET Supplemental Agreement.) After such teachers work a complete Fall or Spring semester, if they are to be appointed in the CUNY Start program, they will be appointed to the full-time CUNY Start Instructor title, unless required to serve one additional semester as a cooperating teacher based upon the Program's evaluation of the employee.
 3. Time and Leave:
@@ -5600,7 +5698,6 @@ b. Annual and Sick Leave:
 • The sick leave cap for employees in both titles will be 60 days.
 • Employees in both titles will be eligible to participate in the Dedicated Sick Leave and Catastrophic Sick Leave Bank programs, in accordance with the terms of those policies.
 129
-
 
 4. Benefits:
 a. Employees in both titles will have annualized health insurance and participate in the PSC- CUNY Welfare Fund and per capita per annum contributions (pro-rated on a monthly basis)
@@ -5616,7 +5713,6 @@ following:
 No materials shall be placed in the employee's file until the employee has been given the opportunity to read the contents and attach any comments he/she may so desire. Each such document shall be initialed by the employee before being placed in his/her file as evidence of his/her having read such document. This initialing shall not be deemed to constitute approval by the employee of the contents of such document. If the employee refuses to initial any document after having been given an opportunity to read the same, a statement to that effect shall be affixed to the document.
 CLIP and CUNY Start Instructors' personal personnel files will be maintained in the college Human Resources Office and an employee may make an appointment with the Human Resources Office to review his/ her file.
 130
-
 
 6. Discipline: Employees in both titles shall be subject to discharge for just cause subject to the
 grievance and arbitration process set forth in Article 20 herein.
@@ -5718,7 +5814,6 @@ $83,764
 $87,004*
 $92,878**
 131
-
 
 CUNY LANGUAGE IMMERSION PROGRAM ("CLIP") INSTRUCTOR
 
@@ -5836,7 +5931,6 @@ $87,004*
 $92,878**
 132
 
-
 CUNY LANGUAGE IMMERSION PROGRAM ("CLIP") INSTRUCTOR
 
 <a id="hourly-rate-p136"></a>
@@ -5938,35 +6032,26 @@ $90.06
 ### MULTI-YEAR APPOINTMENT FOR TEACHING ADJUNCTS
 _Page 137_ · _OCR-reconstructed_
 
-1. The parties will enter into a pilot program beginning with the 2016-2017 academic year through
-the end of the 2023-2024 academic year. Three-year appointments made within the pilot period shall remain in effect for the term of each appointment. The parties will meet no later than June 30, 2023, to determine whether to continue the pilot program as specified in this Agreement or to modify the pilot program. If the parties are unable to agree to continue or to modify the pilot program, the terms regarding adjunct appointments will revert to those expressed in the 2007- 2010 collective bargaining agreement.
-2. An employee who has served as a teaching adjunct and who has taught at least six (6) contact
-teaching hours per semester within the same department of the college for the 10 most recent consecutive semesters (excluding summer sessions) preceding the effective date of the three-year appointment shall be considered for a three-year appointment, subject to the comprehensive review and assessment referenced in paragraph "4" below. Up to four semesters of substitute service in a teaching title within the same department of the college may be counted as qualifying service. The first three-year appointments shall begin in the Fall 2017 semester and three-year appointments will continue to be available starting in each fall semester through Fall 2023.
+1. The parties will enter into a pilot program beginning with the 2016-2017 academic year through the end of the 2023-2024 academic year. Three-year appointments made within the pilot period shall remain in effect for the term of each appointment. The parties will meet no later than June 30, 2023, to determine whether to continue the pilot program as specified in this Agreement or to modify the pilot program. If the parties are unable to agree to continue or to modify the pilot program, the terms regarding adjunct appointments will revert to those expressed in the 2007- 2010 collective bargaining agreement.
+2. An employee who has served as a teaching adjunct and who has taught at least six (6) contact teaching hours per semester within the same department of the college for the 10 most recent consecutive semesters (excluding summer sessions) preceding the effective date of the three-year appointment shall be considered for a three-year appointment, subject to the comprehensive review and assessment referenced in paragraph "4" below. Up to four semesters of substitute service in a teaching title within the same department of the college may be counted as qualifying service. The first three-year appointments shall begin in the Fall 2017 semester and three-year appointments will continue to be available starting in each fall semester through Fall 2023.
 Adjuncts shall be notified on or before May 15' concerning appointment or non-reappointment for a three-year period.
 With the start of the Fall 2019 semester, the following eligibility criteria, in addition to the criteria in the paragraph above, shall be in effect. An employee who has served as a teaching adjunct and who has taught at least six (6) contact teaching hours per semester within the same department of the college for at least 10 of the 12 most recent consecutive semesters (excluding summer sessions) preceding the effective date of the three-year appointment shall be considered for a three-year appointment, subject to the comprehensive review and assessment referenced in paragraph "4" below, provided that the adjunct was initially assigned to teach at least six (6)
 contact hours in the semesters) resulting in the lack of continuity and that the adjunct lost no more than one course owing to insufficient enrollment or reassignment of the course to another faculty member and/or that the adjunct lost one or more courses owing to medical reasons in the semesters) at issue. A teaching adjunct who believes that his or her service in at least 10 of the 12 most recent semesters counts as qualifying service as set forth herein must self-identify to the college Human Resources Office and the department chair no later than the end of the second week of the Spring semester in which he or she would be considered for the three-year appointment; the college shall determine whether the adjunct meets the eligibility criteria set forth herein for consideration for a three-year appointment and shall notify the adjunct whether he/she is eligible to receive consideration for such appointment.
 134
 
-
 In rare instances in which a department Personnel and Budget Committee determines that an eligible adjunct will not be reappointed to a three-year appointment but could benefit from a oneyear appointment and additional guidance, the adjunct shall be appointed to a one-year appointment. At the end of the one-year appointment, the adjunct must be considered for a threeyear appointment.
-3. As a one-time transition due to the implementation of this pilot program, those adjuncts who
-have taught at least six (6) classroom contact hours per semester within the same department at the same college for 14 out of the last 18 consecutive semesters (excluding summer sessions)
+3. As a one-time transition due to the implementation of this pilot program, those adjuncts who have taught at least six (6) classroom contact hours per semester within the same department at the same college for 14 out of the last 18 consecutive semesters (excluding summer sessions)
 preceding the 2016-17 academic year-including the four semesters (excluding summer sessions) immediately preceding the 2016-17 academic year—-and who are eligible for a twosemester appointment for the Fall 2016 and Spring 2017 semesters under Article 10.1.(a)3., shall receive a two-year appointment for the 2016-17 and 2017-18 academic years, without the necessity of a comprehensive review, but subject to sufficiency of registration and changes in curriculum. Up to four semesters of substitute service in a teaching title within the same department of the college may be counted as qualifying service. An adjunct who believes that he/she meets the eligibility requirements for this two-year appointment must file a notice of interest with his/her department chair no later than October 15, 2016. Filing a notice of interest shall be a pre-condition to receiving consideration for a two-year appointment. It is understood that adjuncts who receive these initial two-year appointments will receive a comprehensive review during said period and will be considered for a three-year appointment effective beginning in the 2018-19 academic year, on the same basis as other adjuncts, as set forth in paragraph "4" below. Adjuncts who file a notice of interest shall be notified on or before February 1, 2017, confirming their appointment to a two-year appointment or notifying them of their lack of eligibility therefor.
-4. To receive a three-year appointment, an adjunct who meets the service requirements must receive
-the positive recommendation of his/her department P&B committee and of the college President, or his/her designee [e.g., Provost, Dean]. The recommendations shall be based upon a comprehensive review of the adjunct's performance and the fiscal and programmatic needs of the department and/or the college.
-5. Adjuncts who receive three-year appointments shall be considered for a subsequent three-year
-appointment, subject to a comprehensive review of the adjunct's performance and an assessment of the fiscal and programmatic needs of the department and/or the college, as referenced in paragraph "4" above. Consistent with paragraph "2" above, if an adjunct serving in a three-year appointment is appointed to teach as a substitute in the same department of the college within the three-year period, such substitute appointment shall not serve to disqualify the adjunct from consideration for another three-year appointment as an adjunct at the conclusion of the current three-year appointment period or thereafter, if the substitute appointment continues beyond the conclusion of the current three-year appointment period but ends within the pilot period.
+4. To receive a three-year appointment, an adjunct who meets the service requirements must receive the positive recommendation of his/her department P&B committee and of the college President, or his/her designee [e.g., Provost, Dean]. The recommendations shall be based upon a comprehensive review of the adjunct's performance and the fiscal and programmatic needs of the department and/or the college.
+5. Adjuncts who receive three-year appointments shall be considered for a subsequent three-year appointment, subject to a comprehensive review of the adjunct's performance and an assessment of the fiscal and programmatic needs of the department and/or the college, as referenced in paragraph "4" above. Consistent with paragraph "2" above, if an adjunct serving in a three-year appointment is appointed to teach as a substitute in the same department of the college within the three-year period, such substitute appointment shall not serve to disqualify the adjunct from consideration for another three-year appointment as an adjunct at the conclusion of the current three-year appointment period or thereafter, if the substitute appointment continues beyond the conclusion of the current three-year appointment period but ends within the pilot period.
 Consistent with section 6.4.d of the Bylaws of the Board of Trustees, there is no presumption of continuous appointments. Adjuncts shall be notified on or before May 15th of the third year of
 135
 
-
 their current three-year appointment concerning reappointment or non-reappointment for a successive three-year period.
-6. During the three-year appointment period, the adjunct shall follow existing departmental policies
-regarding student evaluations; it is understood that the weight to be accorded student evaluations in the comprehensive review process is a matter of academic judgment. At least one 50-minute teaching observation shall be conducted during the three-year period.
+6. During the three-year appointment period, the adjunct shall follow existing departmental policies regarding student evaluations; it is understood that the weight to be accorded student evaluations in the comprehensive review process is a matter of academic judgment. At least one 50-minute teaching observation shall be conducted during the three-year period.
 7. During the three-year appointment period, the adjunct shall be assigned a minimum of six (6)
 classroom contact hours in each Fall and Spring semester, but shall have no entitlement to a particular course(s) or schedule.
-8. Should a department be unable to offer an adjunct a minimum of six (6) classroom contact hours
-in a given semester, the department chair shall offer the adjunct either: A) an academically appropriate non-teaching adjunct appointment in the current semester for an equivalent number of hours at the non-teaching rate; or B) an additional teaching assignment of the number of hours of the contact hour deficit within the following two semesters or summer session. For those adjuncts who receive their primary health insurance by virtue of their adjunct employment at the college and who would lose the health insurance if their assignment at the college fell below six (6) contact hours in any given semester, department chairs shall make every effort to give such adjunct a non-teaching assignment in the same semester as the contact hour deficit sufficient to maintain health insurance; for these purposes only, one non-teaching hour shall be deemed equivalent to 0.4 teaching contact hour.
+8. Should a department be unable to offer an adjunct a minimum of six (6) classroom contact hours in a given semester, the department chair shall offer the adjunct either: A) an academically appropriate non-teaching adjunct appointment in the current semester for an equivalent number of hours at the non-teaching rate; or B) an additional teaching assignment of the number of hours of the contact hour deficit within the following two semesters or summer session. For those adjuncts who receive their primary health insurance by virtue of their adjunct employment at the college and who would lose the health insurance if their assignment at the college fell below six (6) contact hours in any given semester, department chairs shall make every effort to give such adjunct a non-teaching assignment in the same semester as the contact hour deficit sufficient to maintain health insurance; for these purposes only, one non-teaching hour shall be deemed equivalent to 0.4 teaching contact hour.
 A semester in which an adjunct's workload falls below six (6) contact hours for reasons other than his/her declination to teach continues to count as 6 contact teaching hours of service toward eligibility for the following: subsequent three-year adjunct appointments; movement in salary schedule (Article 24.2.(b)); waiver of tuition (Article 29.3); Adjunct Professional Development Fund (Appendix B).
 9. An adjunct may discuss with his/her department chair his/her course and scheduling preferences.
 preferences of full-time faculty are considered but the department chair retains the final authority to determine who will be assigned to teach which courses and when the courses will be offered. If an adjunct declines to teach more than one course as assigned by the department chair during the three-year period, the three-year appointment shall be considered null and void.
@@ -5974,14 +6059,10 @@ Notwithstanding the above, an adjunct serving in a three-year appointment may se
 receipt of an academic grant or fellowship that involves full-time commitment or absence. If approved, such one-semester break in service shall not serve to disqualify the adjunct from
 136
 
-
 consideration for another three-year appointment at the conclusion of the current three-year appointment.
-10. Adjuncts who receive a two-year or three-year appointment under this provision will earn 12
-contact hours per year of personal illness/emergency leave, which may be accrued up to a maximum of 36 contact hours. Adjuncts who are reappointed to a three-year appointment ma arry over up to 36 contact hours of leave. An adjunct is not entitled to carry over the leave to al appointment other than a three-year appointment, nor is an adjunct entitled to receive a payout for unused days.
-11. Adjuncts who receive a three-year appointment continue to be subject to discharge for just cause,
-subject to the Grievance and Arbitration article (Article 20) and not to Article 21 of the collective bargaining agreement.
-12. The second paragraph of section 10.1(a)3. of the collective bargaining agreement, regarding two-
-semester appointments, remains in effect.
+10. Adjuncts who receive a two-year or three-year appointment under this provision will earn 12 contact hours per year of personal illness/emergency leave, which may be accrued up to a maximum of 36 contact hours. Adjuncts who are reappointed to a three-year appointment ma arry over up to 36 contact hours of leave. An adjunct is not entitled to carry over the leave to al appointment other than a three-year appointment, nor is an adjunct entitled to receive a payout for unused days.
+11. Adjuncts who receive a three-year appointment continue to be subject to discharge for just cause, subject to the Grievance and Arbitration article (Article 20) and not to Article 21 of the collective bargaining agreement.
+12. The second paragraph of section 10.1(a)3. of the collective bargaining agreement, regarding twosemester appointments, remains in effect.
 137
 
 <a id="dedicated-sick-leave-program-p141"></a>
@@ -5991,61 +6072,40 @@ _Page 141_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, paren
 This program has been included as an Appendix solely for ease of reference. The parties acknowledge and agree that this is a University program, the terms of which were not bargained. The parties accordingly agree that it is not subject to the terms of Article 20 of this Agreement, including the grievance process.
 I. Program Description
 The Dedicated Sick Leave Program enables individuals who are employed full-time on an annual salary basis to donate sick leave and/or annual leave for use as sick leave by a seriously ill or injured eligible employee who has been designated by the donor. Eligible recipients may receive up to one-hundred and twenty (120) days or six (6) months of paid sick leave, whichever is greater, in any one (1) program year (September 1 - August 31), inclusive of the annual leave period for teaching faculty. Donated leave may be approved in increments not exceeding two (2) months. The Dedicated Sick Leave Program permits donations of annual leave and/or sick leave across campuses and across titles.
-II. Criteria For Recipient Eligibility
-1. An employee must be in a full-time title employed on an annual salary basis and have at least
-two (2) years of continuous full-time service with the University. Those employed in substitute titles with no underlying regular annual appointment are not eligible to receive donated leave.
-2. An employee's illness or injury must not be job-related and must require an absence of at least
-thirty (30) continuous working days. Absence due to illness or injury must be supported by medical documentation acceptable to thé recipient's college. The recipient's college will determine whether requests by eligible employees to receive dedicated sick leave will be approved, based solely upon the nature and severity of the illness or injury. Employees whose requests have been denied may appeal in writing to CUNY's Appeals Panel, as set forth in Section VI., paragraph 2 herein.
-3. All annual leave, sıck leave, compensatory time balances, and sıck leave advancements, to the
-extent applicable, must have been exhausted.
-4. Dedicated sick leave may not be used to supplement or supplant income benefits under any
-applicable collectively-bargained or union-provided short-term or long-term disability program.
+II. Criteria For Recipient Eligibility 1. An employee must be in a full-time title employed on an annual salary basis and have at least two (2) years of continuous full-time service with the University. Those employed in substitute titles with no underlying regular annual appointment are not eligible to receive donated leave.
+2. An employee's illness or injury must not be job-related and must require an absence of at least thirty (30) continuous working days. Absence due to illness or injury must be supported by medical documentation acceptable to thé recipient's college. The recipient's college will determine whether requests by eligible employees to receive dedicated sick leave will be approved, based solely upon the nature and severity of the illness or injury. Employees whose requests have been denied may appeal in writing to CUNY's Appeals Panel, as set forth in Section VI., paragraph 2 herein.
+3. All annual leave, sıck leave, compensatory time balances, and sıck leave advancements, to the extent applicable, must have been exhausted.
+4. Dedicated sick leave may not be used to supplement or supplant income benefits under any applicable collectively-bargained or union-provided short-term or long-term disability program.
 If the employee has already received income benefits under any applicable union provided shortterm or long-term disability program, those benefits must be reimbursed.
 138
 
-
-5. The number of hours that comprise a day for the recipient is determined by the title of the
-recipient.
-6. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave Act
-("FMLA") leave, paid Fellowship leave, or any other applicable paid leave will count towards service in calculating whether the employee has met the two (2) years of full-time continuous CUNY service required for recipient eligibility.
+5. The number of hours that comprise a day for the recipient is determined by the title of the recipient.
+6. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave Act ("FMLA") leave, paid Fellowship leave, or any other applicable paid leave will count towards service in calculating whether the employee has met the two (2) years of full-time continuous CUNY service required for recipient eligibility.
 (b) The time that an employee is on an unpaid child care leave, unpaid Family and Medical Leave Act ("FMLA") leave, or on a Scholar Incentive Award leave will serve to bridge service which immediately precedes and follows such leave in calculating whether the employee has met the two (2) years of full-time continuous CUNY service required for recipient eligibility.
-7. A prospective recipient's College may deny his/her request to use dedicated sick leave if he/she
-is on a disciplinary suspension.
+7. A prospective recipient's College may deny his/her request to use dedicated sick leave if he/she is on a disciplinary suspension.
 II. Criteria For Donating Dedicated Leave An employee who wishes to donate annual leave and/or sick leave to a specific individual must meet the
 following criteria:
 1. The employee must be in a full-time title, employed on an annual salary basis.
-2. Donations must be made in increments of one (1) day, with a minimum donation of one (1) day of
-annual leave or sick leave. The number of hours that comprise a day for the donor is determined by the title of the donor.
-3. Employees with fewer than five (5) years of full-time continuous CUNY service may donate only
-annual leave. There is no minimum length of service required to donate annual leave and no cap on the amount that may be donated. Employees with five (5) or more years of full-time continuous CUNY service may donate annual leave (without limitation) and/or sick leave up to ten (10) sick leave days per program year. In order to donate sick leave, an employee must maintain a sick leave balance of at least twenty-four (24) days.
-4. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave
-Act("FMLA") leave, paid Fellowship leave or any other applicable paid leave will count towards service in calculating whether the employee has met the five (5) years of full-time continuous CUNY service required for donating dedicated sick leave.
+2. Donations must be made in increments of one (1) day, with a minimum donation of one (1) day of annual leave or sick leave. The number of hours that comprise a day for the donor is determined by the title of the donor.
+3. Employees with fewer than five (5) years of full-time continuous CUNY service may donate only annual leave. There is no minimum length of service required to donate annual leave and no cap on the amount that may be donated. Employees with five (5) or more years of full-time continuous CUNY service may donate annual leave (without limitation) and/or sick leave up to ten (10) sick leave days per program year. In order to donate sick leave, an employee must maintain a sick leave balance of at least twenty-four (24) days.
+4. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave Act("FMLA") leave, paid Fellowship leave or any other applicable paid leave will count towards service in calculating whether the employee has met the five (5) years of full-time continuous CUNY service required for donating dedicated sick leave.
 (b) The time that an employee is on an unpaid child care leave, unpaid Family and Medical Leave Act ("FMLA") leave, or on a Scholar Incentive Award leave will serve to bridge service which immediately precedes and follows such leave in calculating whether the employee has met the five (5) years of full-time continuous CUNY service required for donating dedicated sick leave.
 139
-
 
 IV. Program Requirements
 1. There is no enrollment period. Donations are made on an "as-needed" basis.
 2. All dedicated leave is irrevocable.
-3. All dedicated leave is to run concurrently with FMLA leave, i.e., a recipient's use of dedicated
-sick leave shall be counted towards his/her FMLA leave entitlement as though he/she were using his/her own sick leave.
-4. The number of dedicated sick leave days will be extended by any CUNY observed holiday
-contained in a recipient employee's collective bargaining agreement or CUNY policy that is observed during the period of the recipient employee's approved dedicated leave.
+3. All dedicated leave is to run concurrently with FMLA leave, i.e., a recipient's use of dedicated sick leave shall be counted towards his/her FMLA leave entitlement as though he/she were using his/her own sick leave.
+4. The number of dedicated sick leave days will be extended by any CUNY observed holiday contained in a recipient employee's collective bargaining agreement or CUNY policy that is observed during the period of the recipient employee's approved dedicated leave.
 5. If the number of days dedicated is more than the number of days actually used by the recipient.
 the unused days will be transferred by the recipient's College Office of Human Resources, via notice to the University Benefits Office, to the Catastrophic Sick Leave Bank after one (1) year elapses from the date of the recipient's return to work. (The transfer of such leave shall not, however, qualify a donor for participation in the Catastrophic Sick Leave Bank.) In the event of a medically documented recurrence of the original illness or injury during this one (1) year period, the recipient will be permitted, upon approval of his/her respective College Human Resources Office, to utilize the unused balance, provided that all other leave balances have been exhausted.
-6. Each day of leave donated will be debited from the donor's leave balance as one (1) full day;
-however, each day of sick leave donated will be credited to the recipient as one-half (1/2) day.
+6. Each day of leave donated will be debited from the donor's leave balance as one (1) full day; however, each day of sick leave donated will be credited to the recipient as one-half (1/2) day.
 Each day of annual leave donated will be credited to the recipient as one (1) full day.
-7. Dedicated sick leave will be granted to the recipient retroactive to the first day of absence without
-pay. A recipient utilizing dedicated sick leave is deemed to be in active pay status as though the employee were using his/her own sick leave. Annual leave and sick leave will therefore be accrued while using dedicated sick leave, as otherwise appropriate, but will not be credited until the employee returns to work.
-8. A determination regarding a prospective recipient's eligibility should be made, and his/her
-consent should be obtained, before efforts are made to secure donations of leave. Every reasonable effort will be made to maintain confidentiality of employee medical information and the identity of donors.
+7. Dedicated sick leave will be granted to the recipient retroactive to the first day of absence without pay. A recipient utilizing dedicated sick leave is deemed to be in active pay status as though the employee were using his/her own sick leave. Annual leave and sick leave will therefore be accrued while using dedicated sick leave, as otherwise appropriate, but will not be credited until the employee returns to work.
+8. A determination regarding a prospective recipient's eligibility should be made, and his/her consent should be obtained, before efforts are made to secure donations of leave. Every reasonable effort will be made to maintain confidentiality of employee medical information and the identity of donors.
 140
 
-
-V. Procedures For Donating Dedicated Sick Leave
-1. An employee who wishes to donate annual leave and/or sick leave to a designated employee must
-complete Form No. [DSL to Donate 001_2010], "Application to Dedicate Sick Leave," and return it to his/her respective College Office of Human Resources as soon as possible. The application shall include an attestation by the donor that he/she understands that the decision to donate sick leave and/or annual leave to another employee is irrevocable and that the donated leave will not be returned to the donor, unless the intended recipient is deemed ineligible to receive the dedicated leave. The donor's attestation shall also provide that the donor has not been coerced and is not receiving any benefit, express or implied, in return for the donated sick leave and/or annual leave. The donor's identity is confidential and may not be released to the recipient by the college.
+V. Procedures For Donating Dedicated Sick Leave 1. An employee who wishes to donate annual leave and/or sick leave to a designated employee must complete Form No. [DSL to Donate 001_2010], "Application to Dedicate Sick Leave," and return it to his/her respective College Office of Human Resources as soon as possible. The application shall include an attestation by the donor that he/she understands that the decision to donate sick leave and/or annual leave to another employee is irrevocable and that the donated leave will not be returned to the donor, unless the intended recipient is deemed ineligible to receive the dedicated leave. The donor's attestation shall also provide that the donor has not been coerced and is not receiving any benefit, express or implied, in return for the donated sick leave and/or annual leave. The donor's identity is confidential and may not be released to the recipient by the college.
 2. The following steps are to be taken when the employee dedicating leave and the employee
 receiving leave are employed in the same CUNY college:
 Upon receipt of an application to dedicate leave, the College Office of Human Resources must review the application, determine the accuracy of all the statements in accordance with college personnel and payroll records, and complete the appropriate section. The application must be returned to the applicant with the disposition within five (5) working days of receipt. If the employee is deemed eligible to donate leave, and the recipient has been approved to receive donated leave in accordance with Section II above, then the College Office of Human Resources shall make the appropriate adjustments in time and leave records and shall notify the donor and the recipient, respectively, of the number of days to be debited or credited and when such debit or credit will occur. In the event the recipient is determined to be ineligible to receive donated leave, the College Office of Human Resources will so notify the intended donor.
@@ -6055,16 +6115,11 @@ Upon receipt of an application to donate dedicated leave, the donor's College Of
 The application must be returned to the applicant with the disposition within five (5) working days of receipt. If the employee is deemed eligible to donate leave then the donor's College Office of Human Resources shall send a copy of the approved application to the Office of Human Resources of the recipient's college within two (2) working days of the approval. The recipient's college must notify the donor's college whether the recipient has been approved to receive dedicated sick leave. If approved, the donor's Office of Human Resources will make the appropriate adjustment in the time and leave records to debit the donor's leave balances and notify him/her of the number of days to be debited and when such debit will occur. In the event the recipient is determined to be ineligible, the donor's Office of Human Resources will so notify the intended donor.
 141
 
-
-VI. Procedures For Receiving Dedicated Sick Leave
-1. The employee must complete Form No. [DSL to Receive 002_2010], "Application to Receive
-Sick Leave," include medical documentation, and forward the application to his/her College Office of Human Resources. The application will include a release by the intended recipient permitting the College Office of Human Resources or a physician retained by the College to seek clarification or additional information from the employee's physician concerning the medical documentation submitted by the intended recipient. The release shall also provide that the employee shall submit to an examination by a physician retained by the College if deemed necessary. Where practicable, applications should be submitted when the employee has been absent for twenty (20) continuous working days and anticipates being absent in excess of thirty (30) continuous working days, and will not have sufficient leave to cover the projected period of his/her absence.
-2. The College Office of Human Resources must review the application, determine the accuracy of
-all statements in accordance with college personnel and payroll records, and complete the appropriate section. All discrepancies must be resolved with the employee before a determination is made, based solely upon the nature and severity of the illness or injury as indicated by the medical documentation. The College Office of Human Resources shall consult with the Senior Vice Chancellor for Labor Relations or designee, prior to rendering a determination as to whether the applicant's condition qualifies for this benefit. Dedicated Sick Leave approvals will be made in increments not to exceed two (2) months. Employees needing more than two (2) months of Dedicated Sick Leave will be required to submit additional medical documentation for each subsequent two (2) month period, up to a maximum of one-hundred and twenty (120) days or six (6) months of paid leave, whichever is greater. The application of an employee who has been granted or denied approval to receive leave should be returned to the applicant with the disposition within five (5) working days of receipt by the College Office of Human Resources, to the extent feasible. The College Office of Human Resources must inform an employee whose request has been denied that denial of the request may be appealed in writing to CUNY's Appeals Panel, in care of the University Benefits Office, 395 Hudson Street, New York, New York 10014, within fifteen (15) working days of the employee's receipt of the denial.
+VI. Procedures For Receiving Dedicated Sick Leave 1. The employee must complete Form No. [DSL to Receive 002_2010], "Application to Receive Sick Leave," include medical documentation, and forward the application to his/her College Office of Human Resources. The application will include a release by the intended recipient permitting the College Office of Human Resources or a physician retained by the College to seek clarification or additional information from the employee's physician concerning the medical documentation submitted by the intended recipient. The release shall also provide that the employee shall submit to an examination by a physician retained by the College if deemed necessary. Where practicable, applications should be submitted when the employee has been absent for twenty (20) continuous working days and anticipates being absent in excess of thirty (30) continuous working days, and will not have sufficient leave to cover the projected period of his/her absence.
+2. The College Office of Human Resources must review the application, determine the accuracy of all statements in accordance with college personnel and payroll records, and complete the appropriate section. All discrepancies must be resolved with the employee before a determination is made, based solely upon the nature and severity of the illness or injury as indicated by the medical documentation. The College Office of Human Resources shall consult with the Senior Vice Chancellor for Labor Relations or designee, prior to rendering a determination as to whether the applicant's condition qualifies for this benefit. Dedicated Sick Leave approvals will be made in increments not to exceed two (2) months. Employees needing more than two (2) months of Dedicated Sick Leave will be required to submit additional medical documentation for each subsequent two (2) month period, up to a maximum of one-hundred and twenty (120) days or six (6) months of paid leave, whichever is greater. The application of an employee who has been granted or denied approval to receive leave should be returned to the applicant with the disposition within five (5) working days of receipt by the College Office of Human Resources, to the extent feasible. The College Office of Human Resources must inform an employee whose request has been denied that denial of the request may be appealed in writing to CUNY's Appeals Panel, in care of the University Benefits Office, 395 Hudson Street, New York, New York 10014, within fifteen (15) working days of the employee's receipt of the denial.
 The CUNY Appeals Panel will be constituted as follows:
 a) For classified staff, the appeals panel shall consist of the Vice Chancellor for Human Resources Management, the Senior Vice Chancellor for Labor Relations, or their respective designees, and a classified staff union representative; b) For instructional staff, the appeals panel shall consist of the Vice Chancellor for Human Resources Management, the Senior Vice Chancellor for Labor Relations, or their respective designees, and a PSC union representative; c) For classified managerial staff, executive compensation staff, and other non-represented employees, appeals shall be decided by the Vice Chancellor for Human Resources Management or designee;
 142
-
 
 All decisions issued by CUNY's Appeals Panel shall be final and shall not be subject to any further appeal by way of employee collective bargaining agreement or otherwise.
 3.
@@ -6078,96 +6133,62 @@ _Page 147_ · _OCR-reconstructed_ · _Topics: wages, overtime, vacation, sick-le
 This program has been included as an Appendix solely for ease of reference. The parties acknowledge and agree that this is a University program, the terms of which were not bargained. The parties accordingly agree that it is not subject to the terms of Article 20 of this Agreement, including the grievance process.
 I. Program Description
 The Catastrophic Sick Leave Bank ("CSLB") is a pool of sick leave and annual leave voluntarily donated by individuals who are employed full-time on an annual salary basis for potential use as sick leave by eligible full-time employees who are also donors to the bank. Eligible recipients may receive up to ninety (90) days of paid CSLB leave in any one (I) program year (September 1 - August 31). CSLB leave may be approved in increments not to exceed one (1) month. The Catastrophic Sick Leave Bank will be administered centrally by the University's Office of Shared Services.
-II. Criteria for Recipient Eligibility
-1. An employee must be in a full-time title employed on an annual salary basis and have at least
-two (2) years of continuous full-time service with the University. Those employed in substitute titles with no underlying regular annual appointment are not eligible to receive donated leave.
-2. Employees must have donated at least one (1) day of sick leave or annual leave for the program
-year in which leave is needed.
-3. An employee's illness or injury must not be job-related and must require an absence of at least
-thirty (30) continuous working days. Absence due to illness or injury must be supported by medical documentation acceptable to the University Office of Shared Services. The University Office of Shared Services will determine whether requests by eligible employees to receive leave from the Catastrophic Sick Leave Bank will be approved, based solely upon the nature and severity of the illness or injury. An employee whose request has been denied may appeal in writing to CUNY's Appeals Panel, as set forth in Section VI.3. below.
-4. All annual leave, sick leave, compensatory time balances, and sick leave advancements, to the
-extent applicable, must have been exhausted.
-5. CSLB leave may not be used to supplement or supplant income benefits under any applicable
-collectively bargained or union provided short-term or long-term disability program. If the employee has already received income benefits under any applicable union provided short-term or long-term disability program, those benefits must be reimbursed.
+II. Criteria for Recipient Eligibility 1. An employee must be in a full-time title employed on an annual salary basis and have at least two (2) years of continuous full-time service with the University. Those employed in substitute titles with no underlying regular annual appointment are not eligible to receive donated leave.
+2. Employees must have donated at least one (1) day of sick leave or annual leave for the program year in which leave is needed.
+3. An employee's illness or injury must not be job-related and must require an absence of at least thirty (30) continuous working days. Absence due to illness or injury must be supported by medical documentation acceptable to the University Office of Shared Services. The University Office of Shared Services will determine whether requests by eligible employees to receive leave from the Catastrophic Sick Leave Bank will be approved, based solely upon the nature and severity of the illness or injury. An employee whose request has been denied may appeal in writing to CUNY's Appeals Panel, as set forth in Section VI.3. below.
+4. All annual leave, sick leave, compensatory time balances, and sick leave advancements, to the extent applicable, must have been exhausted.
+5. CSLB leave may not be used to supplement or supplant income benefits under any applicable collectively bargained or union provided short-term or long-term disability program. If the employee has already received income benefits under any applicable union provided short-term or long-term disability program, those benefits must be reimbursed.
 144
 
-
-6. The number of hours that comprise a day for the recipient is determined by the title of the
-recipient.
-7. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave Act
-("FMLA") leave, paid Fellowship leave, or any other applicable paid leave will count towards service in calculating whether the employee has met the two (2) years of full-time continuous CUNY service required for recipient eligibility.
+6. The number of hours that comprise a day for the recipient is determined by the title of the recipient.
+7. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave Act ("FMLA") leave, paid Fellowship leave, or any other applicable paid leave will count towards service in calculating whether the employee has met the two (2) years of full-time continuous CUNY service required for recipient eligibility.
 (b) The time that an employee is on an unpaid child care leave, unpaid Family and Medical Leave Act ("FMLA") leave, or on a Scholar Incentive Award leave will serve to bridge service which immediately precedes and follows such leave in calculating whether the employee has met the two (2) years of full-time continuous CUNY service required for recipient eligibility.
-8. The University Office of Shared Services may deny a prospective recipient's request to use CSLB
-leave if he/she is on a disciplinary suspension.
-9. In the event that an employee is deemed eligible to receive donated leave from the Dedicated
-Sick Leave Program (DSL) and the Catastrophic Sick Leave Bank Program (CSLB), such usage shall not exceed a combined total of 160 DSL and CSLB days in any program year.
+8. The University Office of Shared Services may deny a prospective recipient's request to use CSLB leave if he/she is on a disciplinary suspension.
+9. In the event that an employee is deemed eligible to receive donated leave from the Dedicated Sick Leave Program (DSL) and the Catastrophic Sick Leave Bank Program (CSLB), such usage shall not exceed a combined total of 160 DSL and CSLB days in any program year.
 III. Criteria for Donating Leave An employee who wishes to donate annual leave and/or sick leave to the Catastrophic Sick Leave
 Bank must meet the following criteria:
 1. The employee must be in a full-time title, employed on an annual salary basis.
-2. Donations must be made in increments of one (1) day, with a minimum donation of one (1) day
-of annual leave or sick leave per program year. The number of hours that comprise a day for the donor is determined by the title of the donor.
-3. Employees with fewer than five (5) years of full-time continuous CUNY service may donate only
-annual leave. There is no minimum length of service required to donate annual leave and no cap on the amount that may be donated. Employees with five (5) or more years of full-time continuous CUNY service may donate annual leave (without limitation) and/or sick leave up to ten (10) sick leave days per program year. In order to donate sick leave, an employee must maintain a sick leave balance of at least twenty-four (24) days. Please note that as set forth in Paragraph IV., Section 11 (Program Requirements) of the CSLB Program, CUNY reserves the right to limit the number of CSLB days employees are allowed to donate to the bank per program year and/or the number of donated CSLB days that may be kept on reserve in the bank.
+2. Donations must be made in increments of one (1) day, with a minimum donation of one (1) day of annual leave or sick leave per program year. The number of hours that comprise a day for the donor is determined by the title of the donor.
+3. Employees with fewer than five (5) years of full-time continuous CUNY service may donate only annual leave. There is no minimum length of service required to donate annual leave and no cap on the amount that may be donated. Employees with five (5) or more years of full-time continuous CUNY service may donate annual leave (without limitation) and/or sick leave up to ten (10) sick leave days per program year. In order to donate sick leave, an employee must maintain a sick leave balance of at least twenty-four (24) days. Please note that as set forth in Paragraph IV., Section 11 (Program Requirements) of the CSLB Program, CUNY reserves the right to limit the number of CSLB days employees are allowed to donate to the bank per program year and/or the number of donated CSLB days that may be kept on reserve in the bank.
 145
 
-
-4. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave Act
-("MLA") leave, paid Fellowship leave or any other applicable paid leave will count towards service in calculating whether the employee has met the five (5) years of full-time continuous CUNY service required for donating sick leave.
+4. (a) The time that an employee is on a paid parental leave, paid Family and Medical Leave Act ("MLA") leave, paid Fellowship leave or any other applicable paid leave will count towards service in calculating whether the employee has met the five (5) years of full-time continuous CUNY service required for donating sick leave.
 (b) The time that an employee is on an unpaid child care leave, unpaid Family and Medical Leave Act ("FMLA") leave, or on a Scholar Incentive Award leave will serve to bridge service which immediately precedes and follows such leave in calculating whether the employee has met the five (5) years of full-time continuous CUNY service required for donating sick leave.
 IV. Program Requirements
-1. An open enrollment period for leave donations will be held for one (1) month each program year
-(September 1 through August 31) and may be extended or reopened at the discretion of the Vice Chancellor for Human Resources Management. The enrollment period is each October of the program year.
-2. After the initial enrollment period, deductions of the type and amount of leave will automatically
-continue on an annual basis, unless the employee requests a change. Any request to withdraw from the Catastrophic Sick Leave Bank Program or to make any changes in the amount and/or type of leave to be donated must be submitted in writing to the University Office of Shared Services during the annual open enrollment period; changes may not be made at any other time.
-3. If the sick leave balance of an employee who has elected to donate sick leave has fallen below
-twenty-four (24) sick leave days at the time the deduction is made, the type of leave deducted will be converted to annual leave.
+1. An open enrollment period for leave donations will be held for one (1) month each program year (September 1 through August 31) and may be extended or reopened at the discretion of the Vice Chancellor for Human Resources Management. The enrollment period is each October of the program year.
+2. After the initial enrollment period, deductions of the type and amount of leave will automatically continue on an annual basis, unless the employee requests a change. Any request to withdraw from the Catastrophic Sick Leave Bank Program or to make any changes in the amount and/or type of leave to be donated must be submitted in writing to the University Office of Shared Services during the annual open enrollment period; changes may not be made at any other time.
+3. If the sick leave balance of an employee who has elected to donate sick leave has fallen below twenty-four (24) sick leave days at the time the deduction is made, the type of leave deducted will be converted to annual leave.
 4. All leave donated to the bank is irrevocable.
-5. The use of CSLB leave runs concurrently with FMLA leave, i.e., a recipient's use of leave from
-the bank shall be counted towards his/her FMLA leave entitlement as though he/she were using his/her own sick leave.
-6. An employee's use of CSLB leave days will be extended by any CUNY observed holiday
-contained in a recipient employee's collective bargaining agreement or CUNY policy that is observed during the period of the recipient employee's approved CSLB leave.
+5. The use of CSLB leave runs concurrently with FMLA leave, i.e., a recipient's use of leave from the bank shall be counted towards his/her FMLA leave entitlement as though he/she were using his/her own sick leave.
+6. An employee's use of CSLB leave days will be extended by any CUNY observed holiday contained in a recipient employee's collective bargaining agreement or CUNY policy that is observed during the period of the recipient employee's approved CSLB leave.
 7. No withdrawal of leave will be approved which will result in a negative balance to the CSLB.
 The University Office of Shared Services may consider the amount of leave remaining in the CSLB in order to make an equitable distribution of leave among medically qualified applicants, if there is insufficient leave in the CSLB to grant each applicant the amount of leave required.
-8. Leave withdrawn from the CSLB in excess of the amount actually used by a recipient is to be
-returned to the CSLB. The Office of Human Resources of the recipient's college must notify the
+8. Leave withdrawn from the CSLB in excess of the amount actually used by a recipient is to be returned to the CSLB. The Office of Human Resources of the recipient's college must notify the
 146
-
 
 University Office of Shared Services of the number of days to be restored to the CSLB no later than two (2) weeks from the date of the employee's return to work.
 9. Each day of leave donated to the bank will be debited from the donor's leave balance as one (1)
 full day. However, each day of sick leave donated by an eligible employee will be credited to the CSLB as one-half (1/2) of a day. Each day of annual leave donated will be credited to the bank as one (1) full day.
 10. CSLB leave will be granted to the recipient retroactive to the first day of absence without pay.
 A recipient utilizing CSLB leave is deemed to be in active pay status as though the employee were using his/her own sick leave. Annual leave and sick leave will therefore be accrued while using CSLB leave, but will not be credited until the employee returns to work.
-11. The University reserves the right to limit the number of CSLB days employees are allowed to
-donate to the bank per program year and/or the number of donated CSLB days that may be kept on reserve in the bank.
-V. Procedures For Donating Leave To The Catastrophic Sick Leave Bank
-1. An employee who wishes to donate annual leave and/or sick leave to the Catastrophic Sick Leave
-Bank must complete CUNY Form No. 001 CSLB-2013, "Application to Donate Leave to the Catastrophic Sick Leave Bank," and return it to the College's Office of Human Resources during the enrollment period.
-2. The College Office of Human Resources will review the application and determine the accuracy
-of all statements in accordance with the donor's personnel and payroll records, and will notify the employee within five (5) working days of receipt of the application whether he/she is eligible or ineligible. If the employee is determined to be eligible, the College Office of Human Resources will make the appropriate adjustment to the employee's time and leave records and will notify the employee of the type of leave and number of days to be debited and when the debit will occur. The College Office of Human Resources will send a copy of the approved application to the University Office of Shared Services to determine the appropriate number of days to be credited to the CSLB. The application shall include an attestation by the donor that he/she understands that the decision to donate sick leave and/or annual leave to the CSLB is irrevocable and that the donated leave will not be returned to the donor, unless it is determined that the donor is ineligible to donate leave. The donor's attestation shall also provide that the donor has not been coerced and is not receiving any benefit, express or implied, in return for the donated sick leave and/or annual leave, other than the ability to participate in the bank.
-3. The College Office of Human Resources will continue to make automatic deductions from the
-employee's time and leave record-which shall be deducted on a yearly basis during the month following the enrollment period provided that the employee maintains eligibility and has not withdrawn from the CSLB program or has not made any changes to the type or amount of leave
+11. The University reserves the right to limit the number of CSLB days employees are allowed to donate to the bank per program year and/or the number of donated CSLB days that may be kept on reserve in the bank.
+V. Procedures For Donating Leave To The Catastrophic Sick Leave Bank 1. An employee who wishes to donate annual leave and/or sick leave to the Catastrophic Sick Leave Bank must complete CUNY Form No. 001 CSLB-2013, "Application to Donate Leave to the Catastrophic Sick Leave Bank," and return it to the College's Office of Human Resources during the enrollment period.
+2. The College Office of Human Resources will review the application and determine the accuracy of all statements in accordance with the donor's personnel and payroll records, and will notify the employee within five (5) working days of receipt of the application whether he/she is eligible or ineligible. If the employee is determined to be eligible, the College Office of Human Resources will make the appropriate adjustment to the employee's time and leave records and will notify the employee of the type of leave and number of days to be debited and when the debit will occur. The College Office of Human Resources will send a copy of the approved application to the University Office of Shared Services to determine the appropriate number of days to be credited to the CSLB. The application shall include an attestation by the donor that he/she understands that the decision to donate sick leave and/or annual leave to the CSLB is irrevocable and that the donated leave will not be returned to the donor, unless it is determined that the donor is ineligible to donate leave. The donor's attestation shall also provide that the donor has not been coerced and is not receiving any benefit, express or implied, in return for the donated sick leave and/or annual leave, other than the ability to participate in the bank.
+3. The College Office of Human Resources will continue to make automatic deductions from the employee's time and leave record-which shall be deducted on a yearly basis during the month following the enrollment period provided that the employee maintains eligibility and has not withdrawn from the CSLB program or has not made any changes to the type or amount of leave
 147
 
-
 to be donated. The College Office of Human Resources will notify the employee and the University Office of Shared Services of the continued donation or of any changes thereto.
-4. The University Office of Shared Services shall keep a record of employees who are members of
-the CSLB program, updating its records following each enrollment period.
-VI. Procedures For Receiving Leave From The Catastrophic Sick Leave Bank
-1. The employee must complete Form No. 002 CSLB-2013, "Application to Receive Leave From
-the Catastrophic Sick Leave Bank," include medical documentation, and forward the application to the College Office of Human Resources. The application will include a release by the intended recipient permitting the University Office of Shared Services or CUNY's Appeals Panel (should an appeal become necessary)-or a physician retained by either of them—to seek clarification or additional information from the employee's physician concerning the medical documentation submitted by the intended recipient. The release shall also provide that the employee shall submit to an examination by a physician retained by the University Office of Shared Services, if deemed necessary. Where practicable, applications should be submitted when the employee has been absent for twenty (20) continuous working days, but anticipates being absent in excess of thirty (30) continuous working days and will not have sufficient leave to cover the projected period of absence beyond the thirty (30) days.
-2. The College Office of Human Resources must review the application, determine the accuracy of
-all statements in accordance with college personnel and payroll records, and complete the appropriate section.
+4. The University Office of Shared Services shall keep a record of employees who are members of the CSLB program, updating its records following each enrollment period.
+VI. Procedures For Receiving Leave From The Catastrophic Sick Leave Bank 1. The employee must complete Form No. 002 CSLB-2013, "Application to Receive Leave From the Catastrophic Sick Leave Bank," include medical documentation, and forward the application to the College Office of Human Resources. The application will include a release by the intended recipient permitting the University Office of Shared Services or CUNY's Appeals Panel (should an appeal become necessary)-or a physician retained by either of them—to seek clarification or additional information from the employee's physician concerning the medical documentation submitted by the intended recipient. The release shall also provide that the employee shall submit to an examination by a physician retained by the University Office of Shared Services, if deemed necessary. Where practicable, applications should be submitted when the employee has been absent for twenty (20) continuous working days, but anticipates being absent in excess of thirty (30) continuous working days and will not have sufficient leave to cover the projected period of absence beyond the thirty (30) days.
+2. The College Office of Human Resources must review the application, determine the accuracy of all statements in accordance with college personnel and payroll records, and complete the appropriate section.
 The application of an employee who has been deemed ineligible to receive donated leave should be returned to the applicant with the disposition within five (5) working days of receipt by the College Office of Human Resources, to the extent feasible. The application of an employee who has been deemed eligible to receive donated leave must be forwarded to the University Office of Shared Services by the College Office of Human Resources within five (5) working days of its determination, to the extent feasible.
 To the extent feasible, the University Office of Shared Services will return the application within five (5) working days from receipt to the College Office of Human Resources, stating whether the employee's application to receive donated leave will be approved. Thereafter, the College Office of Human Resources will advise the employee of the decision issued by the University Office of Shared Services concerning the CSLB leave. All discrepancies must be resolved with the employee before a determination is made.
 The determination made by the University Office of Shared Services will be based solely upon the nature and severity of the illness or injury of the employee, as indicated by the medical documentation submitted. CSLB leave will be made in increments not to exceed one (1) month.
 Employees needing more than one (1) month of CSLB leave may be required to submit additional medical documentation for each subsequent one (1) month period, up to a maximum of ninety
 148
 
-
 (90) days of paid CSLB leave. The University Office of Shared Services will notify the College Office of Human Resources of the amount of CSLB leave the employee will receive. Upon notification, the College Office of Human Resources will make the appropriate adjustment in the recipient's time and leave records and inform the recipient in writing when such CSLB leave will be credited to the employee.
-3. An employee whose request has been deemed ineligible by the College Office of Human
-Resources or denied by the University Office of Shared Services, may submit an appeal in writing, along with additional medical documentation, if any, to CUNY's Appeals Panel, in care of the Office of Vice Chancellor for Human Resources Management, 205 East 42nd Street, New York, New York 10017, within fifteen (15) working days of the employee's receipt of the denial.
+3. An employee whose request has been deemed ineligible by the College Office of Human Resources or denied by the University Office of Shared Services, may submit an appeal in writing, along with additional medical documentation, if any, to CUNY's Appeals Panel, in care of the Office of Vice Chancellor for Human Resources Management, 205 East 42nd Street, New York, New York 10017, within fifteen (15) working days of the employee's receipt of the denial.
 The CUNY Appeals Panel will be constituted as follows:
 a) For represented classified staff, the appeals panel shall consist of the Vice Chancellor for Human Resources Management, the Senior Vice Chancellor for Labor Relations or their respective designees, and a classified staff union representative; b) For represented instructional staff, the appeals panel shall consist of the Vice Chancellor for Human Resources Management, the Senior Vice Chancellor for Labor Relations or their respective designees, and a PSC representative; and c) For classified managerial staff and executive compensation staff, and other non-represented employees, appeals shall be decided by the Vice Chancellor for Human Resources Management or designee.
 All decisions issued by CUNY's Appeals Panel shall be final and will not be subject to any further appeal by way of employee collective bargaining agreements or otherwise.
@@ -6190,7 +6211,6 @@ charges upon the employee, with a copy to the PSC, which shall set forth:
 (a) the charges against the employee, including a description of each violation charged; and (b) the proposed penalty.
 Within fourteen (14) calendar days of service of the charges, a meeting shall be conducted by the President or his or her designee with the employee, who may be accompanied by an attorney or representative of the Professional Staff Congress, to discuss the charges, the proposed penalty, and the basis of the charges.
 150
-
 
 21.4
 21.5
@@ -6219,13 +6239,11 @@ The disciplinary arbitrator shall be limited to determinations of guilt or innoc
 The disciplinary arbitrator's decision regarding guilt or innocence and the sufficiency of grounds for the penalty shall be final and binding upon the parties. The disciplinary arbitrator may approve or disapprove the penalty or impose other penalties warranted under the circumstances.
 151
 
-
 21.8
 Employees in titles in the Higher Education Officer Series shall be subject to immediate discharge for just cause.
 (a) Disciplinary proceedings shall be initiated by the President of the college by service, personally or by certified mail, of a written Notice of Intent for Immediate Discharge
 upon the employee, with a copy to the PSC, which set forth:
-1. the charges against the employee, and
-2. the proposed penalty of immediate discharge.
+1. the charges against the employee, and 2. the proposed penalty of immediate discharge.
 (b)
 (c)
 (d)
@@ -6234,12 +6252,8 @@ Within three (3) days, exclusive of Saturdays, Sundays, and legal holidays, of s
 If the employee fails to appear at the meeting, the President may issue a Notice of Immediate Discharge which shall be effective immediately.
 Within twenty-four (24) hours of the meeting described in Section 21.8(b), the President
 shall either:
-1. Withdraw the Notice of Intent for Immediate Discharge;
-2. Issue a Notice of Immediate Discharge which shall be effective immediately; or
-3. Issue a Notice of Charges under Section 21.2 seeking a lesser penalty than
-dismissal.
-4. If the President issues a notice of immediate discharge or notice of charges within
-seven (7) days of service of that notice the employee shall be provided with copies of the primary non-privileged documents relied upon in preparing the charges, and a list describing the documents withheld due to claims of privilege. Nothing herein affects the PS's or the employee's right to seek additional information under this Agreement and the applicable law.
+1. Withdraw the Notice of Intent for Immediate Discharge; 2. Issue a Notice of Immediate Discharge which shall be effective immediately; or 3. Issue a Notice of Charges under Section 21.2 seeking a lesser penalty than dismissal.
+4. If the President issues a notice of immediate discharge or notice of charges within seven (7) days of service of that notice the employee shall be provided with copies of the primary non-privileged documents relied upon in preparing the charges, and a list describing the documents withheld due to claims of privilege. Nothing herein affects the PS's or the employee's right to seek additional information under this Agreement and the applicable law.
 (e)
 Within fourteen (14) calendar days of service of the Notice of Immediate Discharge, the employee may appeal by proceeding to disciplinary arbitration in accordance with
 
@@ -6250,7 +6264,6 @@ _Page 155_ · _OCR-reconstructed_ · _Topics: vacation, grievance, discipline_
 Any person against whom charges have been made may, at any time during the pendency of the charges, be suspended by the president of the college. Such suspension shall be without loss of pay.
 A person suspended with pay shall be available for all procedures mandated by Article 21. Upon suspension with pay, notwithstanding any other provision of this Agreement, any request to be absent from any aspect of these procedures must be approved in advance by the Senior Vice
 152
-
 
 Chancellor for Labor Relations upon the recommendation of the President. Failure to be available for any Article 21 proceeding without said approval of a request to be absent for the period specified in the approval of the request shall result in loss of pay status for a period of three weeks. Such period of non-pay status shall be discontinued as of the date of the proceeding if a proceeding under this article is scheduled and held within that three-week period. If, however, the person continues to be unavailable, the person shall be subject to further removal from pay status for successive three-week periods until such time as the proceeding is scheduled and held Said loss of pay status cannot be charged to annual leave, temporary disability leave, or other paid leave.
 21.10 Adjuncts shall be subject to discharge for just cause, subject to the Grievance and Arbitration article and not to Article 21 of this Agreement.
@@ -6273,7 +6286,6 @@ Conviction of a felony shall create a presumption of conduct unbecoming a member
 Should a court of final jurisdiction overturn the conviction, there shall be a right to a hearing before an arbitrator upon application for restoration to service. The issue in the hearing will be whether grounds for discharge pursuant to Article 21.1(a) existed, notwithstanding the reversal of the conviction.
 153
 
-
 (h)
 The parties recognize that an employee may be convicted of a felony after charges have been preferred and that the disciplinary procedures in Article 21 may have commenced prior to the conviction. In such a case, the procedures outlined above will replace Article 21 procedures at the appropriate stage to which the charges had progressed immediately prior to the conviction.
 21.12 A disciplinary proceeding brought pursuant to this article may be resolved by settlement only if agreed to in writing by the Office of Labor Relations and by the PSC Central Office.
@@ -6290,11 +6302,17 @@ Professional Staff Congress/CUNY
 61 Broadway, 15"h floor
 New York, NY 10006
 Dear Dr. Bowen:
-This is to confirm the parties' understanding that appointments to the Distinguished Professor title are expected to contribute to the University's commitment to recruit and retain an excellent faculty representing a rich diversity of gender, ethnicity and race. Your signature on the line set forth below confirms the Union's agreement with this principle.
+This is to confirm the parties' understanding that appointments to the Distinguished Professor title are
+expected to contribute to the University's commitment to recruit and retain an excellent faculty
+representing a rich diversity of gender, ethnicity and race. Your signature on the line set forth below
+confirms the Union's agreement with this principle.
 Sincerely,
 /s/
 Pamela S. Silverblatt
-Vice Chancellor for Labor Relations /s/_ AGREED: For the Professional Staff Congress/CUNY Date
+Vice Chancellor for Labor Relations
+/s/_
+AGREED: For the Professional Staff Congress/CUNY
+Date
 155
 
 <a id="adjunct-health-insurance-eligibility-p159"></a>
@@ -6310,7 +6328,6 @@ a) In order to qualify for health insurance benefits:
 • Adjuncts who receive health insurance for the Fall semester only will receive coverage for the period from the first day of the Fall semester through the following February 28 (February 29 in a leap year). The first day of the Fall semester is the day after the end of the teaching faculty annual leave period as calculated pursuant to Article 14.1 of the PSC- CUNY Collective Bargaining Agreement. Adjuncts who receive health insurance for the Spring semester only will receive coverage for the period from the first day of the Spring semester through the following July 31. Adjuncts who receive health insurance coverage during both the Fall and Spring semesters of a given academic year will continue to receive coverage through the end of the annual leave period as defined in Article 14.1 of the PSC-CUNY Collective Bargaining Agreement.
 • Eligibility as provided in this section shall be based on CUNY-wide service.
 156
-
 
 b) Adjuncts are not eligible for City Health Benefits if they are eligible to receive other primary health care insurance provided by or through another source. Adjuncts must certify each semester that they are not eligible to receive other primary health care insurance provided by or through another source.
 Doctoral student employees who are eligible to receive primary health care insurance through NYSHIP will not be eligible for City Health Benefits.
@@ -6337,7 +6354,6 @@ The Phased Retirement Program is not intended to result in an overall diminution
 Employees in the Higher Education Officer title series with 13.3b status and tenured employees in the College Laboratory Technician title series who will have attained the age of 65 years and will have completed 15 or more years of full-time continuous service as of the start of their phasing period are eligible to participate, subject to the provisions of paragraphs 4B and 6B below.
 158
 
-
 3B.
 During the phasing period, the work commitment of an employee in a title in the Higher Education Officer or College Laboratory Technician title series shall be 80% of the contractual full-time workload for his/her title, and the salary shall be 80% of the full-time salary.
 3C. The parties acknowledge the critical role of professional staff in the work of the University and have designed the relevant portions of the Phased Retirement Program to reflect that understanding.
@@ -6345,11 +6361,10 @@ During the phasing period, the work commitment of an employee in a title in the 
 4B.
 5.
 Eligible employees in HEO or CLT titles may elect to phase for either six (6) months or one year.
-The employee may elect either to take Travia Leave after the phasing period or to be paid Travia Leave in a lump sum at the end of the phasing period. Such employees will be paid at 100% of their full-time biweekly salary rate during Travia Leave or shall be paid in a lump sum for onehalf of their accumulated temporary disability leave up to a maximum of one semester or the equivalent number of school days at 100% of their full-time salary rate.
+The employee may elect either to take Travia Leave after the phasing period or to be paid Travia Leave in a lump sum at the end of the phasing period. Such employees will be paid at 100% of their full-time biweekly salary rate during Travia Leave or shall be paid in a lump sum for one-half of their accumulated temporary disability leave up to a maximum of one semester or the equivalent number of school days at 100% of their full-time salary rate.
 The decision to phase is irrevocable and is contingent upon an irrevocable commitment to retire at the end of the phasing period (or the combined phasing and Travia Leave period). The commitment to retire supersedes any right the employee may otherwise have had to return during or following Travia Leave. An employee who fails to retire at the end of his/her phasing period (or combined phasing and Travia Leave period) shall be deemed to have resigned as of the enddate of his/her phasing period (or combined phasing and Travia leave period).
-During the phasing period, an employee may choose to retire sooner than originally planned (so long as he/she has completed his/her full phasing workload commitment for any given year), but he/she may not decide to retire later. Regardless of the length of the phasing period, all phasing for faculty members will begin on the first day of the Fall semester of the appropriate year; that is, on the third day, excluding Saturdays and Sundays, before August 30. An eligible employee 26 If the employee's Travia Leave extends up to the annual leave period, then one (1) month of the annual leave period will be paid at 100% of the biweekly salary rate and one (1) month will be paid at 50% of the biweekly salary rate.
+During the phasing period, an employee may choose to retire sooner than originally planned (so long as he/she has completed his/her full phasing workload commitment for any given year), but he/she may not decide to retire later. Regardless of the length of the phasing period, all phasing for faculty members will begin on the first day of the Fall semester of the appropriate year; that is, on the third day, excluding Saturdays and Sundays, before August 30. An eligible employee 26 If the employee's Travia Leave extends up to the annual leave period, then one (1) month of the annual leave period will be paid at 100% of the bi-weekly salary rate and one (1) month will be paid at 50% of the biweekly salary rate.
 159
-
 
 6A.
 in a HEO or CLT title may apply to phase starting on the first day of the Fall or Spring semester, to be approved as part of the approval process set forth in paragraph 6B.
@@ -6362,7 +6377,6 @@ In the event that the Department Chair determines that the faculty member's prop
 In the event that 1) the President does not approve the Chair's recommendation that a faculty member be permitted to phase in the upcoming academic year (based either on the faculty member's initial or revised workload configuration), or 2) the President denies a faculty
 160
 
-
 6B.
 member's appeal to phase in the upcoming academic year with the faculty member's initial proposed workload configuration, then the faculty member shall be afforded the opportunity to phase with the initial proposed workload configuration at the beginning of the following academic year (i.e., one year later than initially requested).
 The President's determination to defer an applicant's start-date by one year is final and will not be grievable. (In the event the request to phase is deferred, however, the faculty member retains his/her right to retire without phasing or to elect not to retire.)
@@ -6371,7 +6385,7 @@ Following approval of an application, any proposed changes to the faculty member
 Employees in the Higher Education Officer title series and the College Laboratory Technician title series who wish to phase will be required to submit to their supervisor an application to phase that specifies 1) the length of the phasing period, (i.e., six (6) months or one (1) year); 2)
 how the employee proposes to configure his/her workweek during the phasing period, with the understanding that his/her workload must equal 80% of the contractual workload defined in
 
-<a id="article-15-4-of-the-2007-2010-collective-bargaining-agreement-p164"></a>
+<a id="article-15-4-of-the-2007-2010-collective-bargaining-agreemen-p164"></a>
 ## Article 15 — 4 of the 2007-2010 Collective Bargaining Agreement (i.e., a phasing employee will
 _Page 164_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, health-welfare, pension, hours, recognition_
 
@@ -6380,7 +6394,6 @@ The employee's supervisor shall review the application, including the proposed w
 If the employee's supervisor determines that the proposed workload configuration would adversely affect the area or program, the supervisor may propose an alternative workload configuration. If the supervisor and employee are unable to reach agreement on a mutually acceptable workload configuration or if the College Vice President for Administration does not approve the request, the employee may withdraw the request to phase, appeal to the President o is/her designee, or exercise his/her right to retire. The decision of a supervisor or of the College Vice President for Administration not to recommend approval of an employee's request to phase will not be grievable. The decision of the President or his/her designee on appeal is final and will not be grievable.
 For employees in the titles Chief College Laboratory Technician and Higher Education Officer ("full HEO"), both the request to phase and the proposed phasing configuration are subject to
 161
-
 
 7. _
 8.
@@ -6396,9 +6409,8 @@ Pension contributions will continue to be made by the employer and the phasing e
 The parties agree that it is in an employee's best interest to consult a financial professional and/or a retirement counselor before making the decision to phase. Nothing in this agreement, however, shall be construed as an obligation on the part of CUNY or the PSC to provide such advice.
 Phasing employees will be entitled to the same health insurance and PSC-CUNY Welfare Fund benefits as full-time employees, under the same terms as full-time employees.
 Phasing employees will accrue temporary disability leave at 50% or 80% of the pre-phasing accrual rate, as applicable; the temporary disability leave accrual cap will not change. Phasing employees may be eligible for FMLA leave, to the extent applicable. Phasing employees may apply for and receive sick leave days under the terms of the Dedicated Sick Leave policy for the balance of one semester.
-The annual leave period for teaching faculty and faculty counselors who enter the phased retirement program will be identical to the annual leave period for the full-time position. Salary during the annual leave period for teaching faculty and faculty counselors who take their annual leave over the summer will continue to be paid at 50% of the full-time salary, except following any period of Travia Leave, in which case one (1) month will be paid at 100% of the biweekly salary rate and one (1) month will be paid at 50% of the biweekly salary rate during the annual leave period, if the employee's Travia Leave extends up to that period.
+The annual leave period for teaching faculty and faculty counselors who enter the phased retirement program will be identical to the annual leave period for the full-time position. Salary during the annual leave period for teaching faculty and faculty counselors who take their annual leave over the summer will continue to be paid at 50% of the full-time salary, except following any period of Travia Leave, in which case one (1) month will be paid at 100% of the biweekly salary rate and one (1) month will be paid at 50% of the bi-weekly salary rate during the annual leave period, if the employee's Travia Leave extends up to that period.
 162
-
 
 While phasing, library faculty shall earn annual leave consistent with section 14.3 b) of the Collective Bargaining Agreement, at a 50% rate.
 Employees in HEO and CLT titles shall accrue annual leave during the phasing period, consistent with Article 14.3 a) of the Collective Bargaining Agreement, at an 80% rate.
@@ -6419,7 +6431,6 @@ Phasing employees will retain their departmental voting rights, except during an
 21.
 Contractual observations and professional evaluations, where applicable, will continue to apply during the phasing period
 163
-
 
 22.
 23.
@@ -6442,13 +6453,16 @@ Dear Dr. Bowen:
 Pursuant to the Letter Agreement concerning the pilot program of voluntary Phased Retirement for eligible permanent full-time members of the instructional staff, dated April 26, 2013, it is the mutual understanding of the parties that a full-time faculty member who wishes to enter phased retirement and is serving in a predominantly administrative position, such as the position of Director of an Institute or Center, should consult with the College President or his/her designee to ascertain the feasibility of a mutually acceptable phasing arrangement of an appropriate configuration and duration, not to exceed the limits set forth in paragraphs 2B and 4A of the Letter Agreement. The decision of the College President is final and will not be appealable or grievable. Nothing in this Side-Letter diminishes the
 164
 
-
-ability of an eligible faculty member serving in a predominantly administrative position to retire without phasing or to decide not to retire if no agreement is reached on a plan for phasing.
-If agreement is reached on a plan for phasing, the applicable terms of the Letter Agreement shall apply to phasing faculty members in predominantly administrative positions, except paragraphs 2B and 6A.
+ability of an eligible faculty member serving in a predominantly administrative position to retire without
+phasing or to decide not to retire if no agreement is reached on a plan for phasing.
+If agreement is reached on a plan for phasing, the applicable terms of the Letter Agreement shall apply
+to phasing faculty members in predominantly administrative positions, except paragraphs 2B and 6A.
 Sincerely,
 /s/
 Pamela S. Silverblatt
-Vice Chancellor for Labor Relations Professional Staff Congress/CUNY Date
+Vice Chancellor for Labor Relations
+Professional Staff Congress/CUNY
+Date
 165
 
 <a id="labor-management-committees-p169"></a>
@@ -6466,7 +6480,6 @@ The parties agree to establish a labor-management committee to discuss terms and
 2 The parties acknowledge that they have fulfilled their obligations under the terms of the Memorandum of Agreement.
 29 The parties acknowledge that they have fulfilled their obligations under the terms of the Memorandum of Agreement to discuss enhancements to the terms and conditions of employment for employees serving in represented titles at the Hunter College Campus Schools as reflected in the relevant language of Article 24.5 of the collective bargaining agreement.
 166
-
 
 New York State Health Insurance Program The University will make available up to $700,000 to enable doctoral students in their first five years of enrollment in a Ph.D. program who were not previously enrolled in the New York State Health Insurance Program (NYSHIP) and who have been admitted to a Ph.D. program on a tuition-only basis to receive health insurance through the New York State Health Insurance Program to the extent that such students are appointed to titles within the PSC bargaining unit and meet the eligibility requirements for New York State Health Insurance Program coverage.
 The funds will be made available as follows: $175,000 effective January 1, 2020; $175,000 effective July 1, 2020; $200,000 effective February 1, 2021; and $150,000 effective July 1, 2021. A labor/management committee will be established no later than December 1, 2019, to discuss implementation of expanded access to the New York State Health Insurance Program for graduate employees.
@@ -6502,14 +6515,11 @@ Projects for which faculty are paid a stipend must be completed within a defined
 • Except to the extent, if any, that a stipend is awarded in an amount below $500 or above $10,000; that a stipend is awarded to someone who is not a full-time faculty member; that a stipend is awarded for a project that will exceed one year or is being used to replace reassigned time that is normally allocated for administrative leadership of departments, programs or schools; or that a college fails to pay an agreed-upon stipend, all decisions regarding stipends, including, but not limited to, assignments covered, the amount of the stipend, and the individual to whom the stipend is awarded, shall remain discretionary with the college and/or the University and are not subject to the provisions of Article 20.
 168
 
-
 • The Colleges will track the stipends awarded each year of the pilot, and the University's Office of Academic Affairs will provide the Union with a summary report at the end of each academic year.
 • Ownership of any copyright in work paid for with a stipend as part of the pilot project shall be
 as follows:
-1. If the work consists of creating scholarly or pedagogical work such as instructional
-materials, classroom presentations, curriculum, etc., then the faculty member shall own any copyright.
-2. If the work is other than creating scholarly or pedagogical work, for example if the work
-consists of creating personnel manuals, written policies, administrative handbooks, etc., then the University shall own any copyright
+1. If the work consists of creating scholarly or pedagogical work such as instructional materials, classroom presentations, curriculum, etc., then the faculty member shall own any copyright.
+2. If the work is other than creating scholarly or pedagogical work, for example if the work consists of creating personnel manuals, written policies, administrative handbooks, etc., then the University shall own any copyright
 169
 
 <a id="in-executive-degree-and-international-master-s-programs-p173"></a>
@@ -6525,7 +6535,6 @@ Baruch College Year-Round Cohort Programs Zicklin School of Business Executive M
 • EMBA in Health Care Administration Executive Master of Science (EMS) in Finance • EMS in Information Systems (Data Analytics)
 • EMS in Human Resources Management • EMS in Finance in Sao Paulo, Brazil* • EMS in Entrepreneurship in Sao Paulo, Brazil*
 170
-
 
 • MBA-MS in Entrepreneurship with College of Management in Israel • MBA-MS in Finance with Peking University HSBC Business School (PHBS)
 • MBA-MS in Finance with Renmin University of China (RUC)
@@ -6591,7 +6600,6 @@ Each person employed on or before September 30, 2018, as a Continuing Education 
 "' Continuing Education Teachers appointed to teach in the CUNY Start Program as cooperating teachers shall be paid at the applicable minimum hourly rate for newly hired Continuing Education Teachers. After such teachers work a complete Fall or Spring semester, if they are to be appointed in the CUNY Start Program, they will be appointed to the full-time CUNY Start Instructor title, unless required to serve one additional semester as a cooperating teacher based upon the Program's evaluation of the employee.
 173
 
-
 (b)
 (c)
 (d)
@@ -6617,18 +6625,15 @@ Any teacher who at least once in the period September 1, 1977 - August 31, 1978 
 Any teacher who at least once in the period February 1, 1977 - August 31, 1978 taught a course and was paid the same rate as a rate which appears under the heading "Adjunct and Hourly Professorial Rates, September 1, 1977" in Article 24 of the Agreement between the Board of Higher Education and the Professional Staff Congress/CONY, 1977-78 for teaching a course which ceases to be offered shall be given first opportunity
 174
 
-
 3.
 to teach such course if such course is offered within 18 months of the time that the course ceases to be offered.
 (f)
-1. A Continuing Education Teacher who is appointed to a position that will continue for
-a period of more than six (6) months and requires teaching a minimum of twenty (20)
+1. A Continuing Education Teacher who is appointed to a position that will continue for a period of more than six (6) months and requires teaching a minimum of twenty (20)
 hours per week will be entitled to additions to base pay on the second, fourth and sixth anniversary date of the initial qualifying appointment date, provided the Continuing Education Teacher is continuously employed in the assignment and provides full years of service. A full year of service shall be defined as 30 weeks of service with 30 hours worked per week, an annual total of 900 hours. The hourly rate for each
 addition to base pay will increase as below:
 • Effective the second anniversary of employment, an amount per hour of $1.35 • Effective the fourth anniversary of employment, an additional amount per hour of $1.35 • Effective the sixth anniversary of employment, an additional amount per hour of $1.35 Qualifying service rendered before September 1, 2002 shall be included for the purpose of determining eligibility for additions to base pay effective September 1,
 2002 or thereafter.
-2. Effective April 1, 2021, a Continuing Education Teacher who is appointed to teach in
-the Math Start Program and meets the eligibility requirements for additions to base pay as described in paragraph 2. (f) 1. above will be entitled to the following additions to base pay on the third and fifth anniversary date of the initial qualifying appointment date, provided the Math Start Continuing Education Teacher is continuously employed in and provides full years of service (an annual total of 900 hours) in the
+2. Effective April 1, 2021, a Continuing Education Teacher who is appointed to teach in the Math Start Program and meets the eligibility requirements for additions to base pay as described in paragraph 2. (f) 1. above will be entitled to the following additions to base pay on the third and fifth anniversary date of the initial qualifying appointment date, provided the Math Start Continuing Education Teacher is continuously employed in and provides full years of service (an annual total of 900 hours) in the
 Math Start Program:
 • Effective the third anniversary of employment, an additional amount per hour of $1.35.
 • Effective the fifth anniversary of employment, an additional amount per hour of $1.35.
@@ -6639,7 +6644,6 @@ _Page 178_ · _OCR-reconstructed_
 
 A person who is teaching a course for which degree credit is granted by the college upon successful completion of the course shall receive an Academic Report once each year signed by the Director of Continuing Education or his/her designee. This report shall state that services are satisfactory or unsatisfactory. Where the report indicates unsatisfactory service, the reasons for
 175
-
 
 4.
 concluding that services are unsatisfactory shall be set forth. The person may respond to the Academic Report and if such response is received it should be attached to the report.
@@ -6667,7 +6671,6 @@ Formal Procedure for Grievances:
 Grievances may be filed by an employee in the bargaining unit, on his or her behalf, or by the Professional Staff Congress on its behalf, or by the Professional Staff Congress on behalf of any employee or group of employees in the bargaining unit. Grievances involving employees in more than one College of the University may be filed by the PSC initially at Step 2 of the grievance procedure.
 176
 
-
 (e)
 A grievance must be filed by an employee or the PSC within thirty (30) days, excluding Saturdays, Sundays and legal holidays, after the PSC or the employee on whose behalf the grievance is filed became aware of the action complained of. Any grievance or informal complaint not processed in accordance with the time limits specified herein shall be deemed waived by the grievant.
 A grievance must be stated in writing setting forth the basis therefor with reasonable particularity, including a designation of the section of this Agreement relied upon, and the remedy requested.
@@ -6677,7 +6680,6 @@ Step 3. If the grievance has not earlier been resolved the person or persons who
 As the need arises, the University and the PSC shall select an individual to review Step 3 grievances under this Agreement, and to issue a decision orally, or in writing as to the disposition of the grievance.
 In no event shall such individual have authority to add to, subtract from, modify or amend the provisions of this Agreement or to appoint or direct an appointment of any person Such decision or award shall be binding upon the PSC, the University and the employees affected thereby. The cost of this procedure shall be borne equally by the parties.
 177
-
 
 Expenses for witnesses if utilized, however, shall be borne by the party who calls them.
 On issues of appointment such individual may make a financial award in an amount not to exceed the salary otherwise attributable to the appointment at issue.
@@ -6702,7 +6704,6 @@ Adjuncts teaching non-credit-bearing remedial or ESL instructional programs at a
 Nothing herein should be construed to alter existing college governance plans or University Bylaws, including faculty participation in curriculum matters.
 178
 
-
 7.
 8. _
 
@@ -6724,7 +6725,6 @@ Compensation), Article 39 (Occupational Safety and Health), Article 40 (No Strik
 _Page 182_ · _OCR-reconstructed_
 
 179
-
 
 2.
 
@@ -6755,7 +6755,6 @@ _Page 183_ · _OCR-reconstructed_ · _Topics: wages, health-welfare, pension, sa
 The terms and conditions of employment for the above titles shall be those contained in the University's Bylaws and written policies of the Board for parallel titles, except that application of such Bylaws and policies may require modification because of the special organizational structure of the EOCs; the provisions of a) listed below; and, in addition, the following provisions of the 2017-2023 Agreement between The City University of New York and the Professional Staff Congress/CUNY (the "Master Agreement") set forth in b) below shall be applicable to EOC titles.
 180
 
-
 (a)
 Effective September 1, 1988, for employees of the Bronx, Brooklyn and Manhattan Educational Opportunity Centers, and, effective July 1, 1999, for employees of the Queens Educational Opportunity Center, benefits will be provided.
 1.
@@ -6782,7 +6781,6 @@ Workers' Compensation
 32 Prior to December 31, 2008, health insurance was covered in a side agreement.
 33 Determination of eligibility and benefits is made by the PSC-CUNY Welfare Fund. EOC adjunct instructional staff who are receiving health insurance through the New York City Health Benefits Program pursuant to the letter agreement between the University and the PSC dated July 30, 2014 ("Concluding Agreement") shall be eligible to receive welfare benefits. (See Appendix J.)
 181
-
 
 (b)
 The following articles of the Master Agreement shall be applicable to employees of the EOCs except that application of such articles may require modification of the procedures and practices because of the special funding and organizational structure of the EOCs.
@@ -6823,8 +6821,11 @@ Workers' Compensation
 ## Article 43
 _Page 187_ · _OCR-reconstructed_ · _Topics: safety, no-strike_
 
-Occupational Safety and Health No Strike Pledge Legislative Action
-2017-2023 Financial Provisions Duration
+Occupational Safety and Health
+No Strike Pledge
+Legislative Action
+2017-2023 Financial Provisions
+Duration
 184
 
 <a id="section-3-salary-schedules-p188"></a>
@@ -6853,7 +6854,55 @@ $84,363
 ### EOC LECTURER
 _Page 188_ · _OCR-reconstructed_ · _Topics: hours_
 
-10/31/2019 11/15/2020 4/1/2021 $47,598 $49,418 $51,307 $54,369 $57,078 $59,239 $62,310 $64,476 $66,641 $68,803 $70,966 $73,133 $75,297 $77,462 $80,516 $86,050 $48,550 $50,406 $52,333 $55,457 $58,220 $60,424 $63,556 $65,765 $67,974 $70,179 $72,385 $74,595 $76,803 $79,011 $82,126 $87,771 $50,050 $51,906 $53,833 $56,957 $59,720 $61,924 $65,056 $67,265 $69,474 $71,679 $73,885 $76,095 $78,303 $80,511 $83,626 $89,271
+10/31/2019 11/15/2020 4/1/2021
+$47,598
+$49,418
+$51,307
+$54,369
+$57,078
+$59,239
+$62,310
+$64,476
+$66,641
+$68,803
+$70,966
+$73,133
+$75,297
+$77,462
+$80,516
+$86,050
+$48,550
+$50,406
+$52,333
+$55,457
+$58,220
+$60,424
+$63,556
+$65,765
+$67,974
+$70,179
+$72,385
+$74,595
+$76,803
+$79,011
+$82,126
+$87,771
+$50,050
+$51,906
+$53,833
+$56,957
+$59,720
+$61,924
+$65,056
+$67,265
+$69,474
+$71,679
+$73,885
+$76,095
+$78,303
+$80,511
+$83,626
+$89,271
 11/15/2021 11/1/2022
 $51,051
 $52,944
@@ -6888,7 +6937,6 @@ $83,764
 $87,004*
 $92,878**
 185
-
 
 10/1/2018
 $51,052
@@ -6995,7 +7043,6 @@ $92,242*
 $98,309**
 186
 
-
 10/1/2018
 $77,490
 $80,550
@@ -7017,7 +7064,67 @@ $131,055
 ### EOC HIGHER EDUCATION OFFICER
 _Page 190_ · _OCR-reconstructed_
 
-10/31/2019 11/15/2020 11/15/2021 11/1/2022 $79,040 $82,161 $85,406 $88,390 $91,030 $94,542 $98,056 $101,572 $105,125 $108,681 $113,074 $117,466 $121,852 $125,316 $133,676 $80,621 $83,805 $87,115 $90,158 $92,850 $96,433 $100,017 $103,604 $107,228 $110,855 $115,335 $119,816 $124,289 $127,823 $136,349 $82,233 $85,481 $88,857 $91,961 $94,707 $98,362 $102,017 $105,676 $109,372 $113,072 $117,642 $122,212 $126,774 $130,379 $139,076 $83,878 $87,190 $90,634 $93,800 $96,602 $100,329 $104,057 $107,789 $111,560 $115,333 $119,995 $124,656 $129,310 $132,987* $141,858**
+10/31/2019 11/15/2020 11/15/2021 11/1/2022
+$79,040
+$82,161
+$85,406
+$88,390
+$91,030
+$94,542
+$98,056
+$101,572
+$105,125
+$108,681
+$113,074
+$117,466
+$121,852
+$125,316
+$133,676
+$80,621
+$83,805
+$87,115
+$90,158
+$92,850
+$96,433
+$100,017
+$103,604
+$107,228
+$110,855
+$115,335
+$119,816
+$124,289
+$127,823
+$136,349
+$82,233
+$85,481
+$88,857
+$91,961
+$94,707
+$98,362
+$102,017
+$105,676
+$109,372
+$113,072
+$117,642
+$122,212
+$126,774
+$130,379
+$139,076
+$83,878
+$87,190
+$90,634
+$93,800
+$96,602
+$100,329
+$104,057
+$107,789
+$111,560
+$115,333
+$119,995
+$124,656
+$129,310
+$132,987*
+$141,858**
 10/1/2018
 $62,622
 $65,087
@@ -7039,7 +7146,37 @@ $108,834
 ### EOC HIGHER EDUCATION ASSOCIATE
 _Page 190_ · _OCR-reconstructed_
 
-10/31/2019 11/15/2020 11/15/2021 11/1/2022 $63,874 $66,389 $69,003 $71,988 $74,621 $78,144 $81,647 $85,162 $88,099 $91,030 $94,542 $98,056 $101,572 $104,260 $111,011 $65,152 $67,717 $70,384 $73,428 $76,113 $79,707 $83,280 $86,865 $89,861 $92,850 $96,433 $100,017 $103,604 $106,345 $113,231
+10/31/2019 11/15/2020 11/15/2021 11/1/2022
+$63,874
+$66,389
+$69,003
+$71,988
+$74,621
+$78,144
+$81,647
+$85,162
+$88,099
+$91,030
+$94,542
+$98,056
+$101,572
+$104,260
+$111,011
+$65,152
+$67,717
+$70,384
+$73,428
+$76,113
+$79,707
+$83,280
+$86,865
+$89,861
+$92,850
+$96,433
+$100,017
+$103,604
+$106,345
+$113,231
 187
 $66,455
 $69,071
@@ -7071,7 +7208,6 @@ $104,057
 $107,789
 $110,641*
 $117,805**
-
 
 10/1/2018
 $48,287
@@ -7160,7 +7296,6 @@ $93,134*
 $99,532**
 188
 
-
 10/1/2018
 $40,068
 $41,631
@@ -7185,7 +7320,61 @@ $78,663
 ### EOC ASSISTANT TO HEO
 _Page 192_ · _OCR-reconstructed_
 
-10/31/2019 11/15/2020 2/1/2021 $40,869 $42,464 $44,120 $46,098 $47,814 $50,158 $53,220 $55,930 $58,093 $61,162 $63,328 $65,492 $67,655 $69,817 $71,983 $74,147 $76,019 $80,237 $41,686 $43,313 $45,003 $47,020 $48,770 $51,161 $54,284 $57,048 $59,255 $62,385 $64,595 $66,802 $69,008 $71,213 $73,423 $75,630 $77,539 $81,841 $42,686 $44,313 $46,003 $48,020 $49,770 $52,161 $55,284 $58,048 $60,255 $63,385 $65,595 $67,802 $70,008 $72,213 $74,423 $76,630 $78,539 $82,841
+10/31/2019 11/15/2020 2/1/2021
+$40,869
+$42,464
+$44,120
+$46,098
+$47,814
+$50,158
+$53,220
+$55,930
+$58,093
+$61,162
+$63,328
+$65,492
+$67,655
+$69,817
+$71,983
+$74,147
+$76,019
+$80,237
+$41,686
+$43,313
+$45,003
+$47,020
+$48,770
+$51,161
+$54,284
+$57,048
+$59,255
+$62,385
+$64,595
+$66,802
+$69,008
+$71,213
+$73,423
+$75,630
+$77,539
+$81,841
+$42,686
+$44,313
+$46,003
+$48,020
+$49,770
+$52,161
+$55,284
+$58,048
+$60,255
+$63,385
+$65,595
+$67,802
+$70,008
+$72,213
+$74,423
+$76,630
+$78,539
+$82,841
 11/15/2021 11/1/2022
 $43,540
 $45,199
@@ -7224,7 +7413,6 @@ $79,726
 $81,712*
 $86,188**
 189
-
 
 10/1/2018
 $41,440
@@ -7371,13 +7559,29 @@ $91.67
 $91.67
 $96.47
 * A single hourly rate of $91.67 will be in effect starting 8/25/2022 for these
-titles, except that incumbents earning $96.47 as of 8/25/2022, as a result of previous CUNY employment teaching in an hourly or adjunct capacity, will continue to receive that rate until 11/1/2022, at which time their hourly rate will increase to $98.40. (See Article 24.2 (c) and Article 24.3 (a) 1. (v) a))
-N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the start of the Fall 2022 semester (i.e., August 25, 2022), the salary steps in teaching adjunct titles, except Medical series titles and Resident series titles, shall be eliminated and replaced with a single hourly rate, as reflected in the salary schedules in Article 24.6. As of August 25, 2022, the language concerning movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to teaching adjuncts.
+titles, except that incumbents earning $96.47 as of 8/25/2022, as a result of
+previous CUNY employment teaching in an hourly or adjunct capacity, will
+continue to receive that rate until 11/1/2022, at which time their hourly rate
+will increase to $98.40. (See Article 24.2 (c) and Article 24.3 (a) 1. (v) a))
+N.B.: Pursuant to Article 24.2 (c) and Article 24.3 (a) 1. (v) a): Effective at the
+start of the Fall 2022 semester (i.e., August 25, 2022), the salary steps in teaching
+adjunct titles, except Medical series titles and Resident series titles, shall be
+eliminated and replaced with a single hourly rate, as reflected in the salary
+schedules in Article 24.6. As of August 25, 2022, the language concerning
+movement within schedule and subsections 24.2 (b) 1. (i) and (ii) will not apply to
+teaching adjuncts.
 The November 1, 2022 2% wage increase does not apply to teaching adjunct
 series titles and hourly professorial salary schedules except as follows:
-The November 1, 2022 2% wage increase shall apply to the hourly rates for individuals employed in the following teaching adjunct titles whose hourly rate of pay as of August 25, 2022, as a result of previous CUNY employment as a teaching adjunct, exceeds the hourly rate of pay resulting from the application of a single rate of pay for their title effective August 25, 2022: Adjunct Lecturer, Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct Assistant Professor and Adjunct Assistant Professor (H; Adjunct Associate Professor and Adjunct Associate Professor (H); and Adjunct Professor and Adjunct Professor (H).
+The November 1, 2022 2% wage increase shall apply to the hourly rates for
+individuals employed in the following teaching adjunct titles whose hourly rate
+of pay as of August 25, 2022, as a result of previous CUNY employment as a
+teaching adjunct, exceeds the hourly rate of pay resulting from the application of
+a single rate of pay for their title effective August 25, 2022: Adjunct Lecturer,
+Adjunct Lecturer (H), Adjunct Lecturer Doctoral and Instructor (H); Adjunct
+Assistant Professor and Adjunct Assistant Professor (H; Adjunct Associate
+Professor and Adjunct Associate Professor (H); and Adjunct Professor and
+Adjunct Professor (H).
 191
-
 
 EOC COLLEGE LABORATORY TECHNICIAN,
 
@@ -7440,7 +7644,6 @@ _Page 195_ · _OCR-reconstructed_ · _Topics: hours_
 EOC Lecturers and EOC Lecturers on the Ph.D. schedule may be assigned three additional contact teaching hours per academic year. It is understood that, after consultation with the Lecturer, and as near to the beginning of the academic year as is feasible, the additional three teaching hours may be assigned as one contact hour in each trimester, as two contact hours in one trimester and one contact hour in another trimester, or as three contact hours in one trimester.
 In the event an EOC operates on a semester basis, rather than a trimester basis, in any given academic year, the three additional contact hours may be assigned as two in one semester and one in the other semester, or as three in one semester. In no event shall EOC Lecturers or EOC
 192
-
 
 Lecturers on the Ph.D. schedule be assigned more than three (3) additional contact hours per academic year or more than 18 contact hours in any one trimester or semester as a result of this provision. In no event shall the increase in teaching contact hours extend the overall work week beyond thirty hours.
 

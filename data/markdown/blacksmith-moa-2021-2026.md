@@ -14,9 +14,9 @@ sector: "skilled-trades"
 
 # Blacksmith Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-5-blacksmith-executed-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-5-blacksmith-executed-moa-2021-2026.pdf)
-**Pages:** 2 (2 OCR-reconstructed)
+**Term:** 2021–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-5-blacksmith-executed-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-5-blacksmith-executed-moa-2021-2026.pdf)  
+**Pages:** 2 (2 OCR-reconstructed)  
 **Clauses extracted:** 3
 
 **Workforce:** Blacksmith MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
@@ -43,7 +43,8 @@ Business Manager, Local Lodge No. 5
 ### RENEE CAMPION
 _Page 2_ · _OCR-reconstructed_
 
-Commissioner of Labor Relations Dated: September 29, 2023
+Commissioner of Labor Relations
+Dated: September 29, 2023
 2
 
 ---

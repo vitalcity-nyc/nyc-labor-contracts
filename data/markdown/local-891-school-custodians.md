@@ -12,9 +12,9 @@ sector: "education"
 
 # Local 891 School Custodians
 
-**Term:** term n/a
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/local-891-mou-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/local-891-mou-2020-2025.pdf)
-**Pages:** 3 (2 OCR-reconstructed)
+**Term:** term n/a  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/local-891-mou-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/local-891-mou-2020-2025.pdf)  
+**Pages:** 3 (2 OCR-reconstructed)  
 **Clauses extracted:** 1
 
 **Workforce:** Local 891 School Custodians — see contract for the full recognition clause defining covered titles.
@@ -28,17 +28,26 @@ sector: "education"
 _Page 3_
 
 FOR LOCAL 891 I.U.O.E.:
---------------- BY:
+---------------
+BY:
 Renee Campion
 Commissioner of Labor Relations
 FOR DOE:
 «'7 )
 jvJC./3�
-BY: ----------- David C. Banks Chancellor Board of Education for the City School District of the City of New York
+BY: -----------
+David C. Banks
+Chancellor
+Board of Education for the City School
+District of the City of New York
 BY:
------------ Dr. Angela Green
+-----------
+Dr. Angela Green
 Chairperson
-Board of Education for the City School District of the City of New York b , September2 2023
+Board of Education for the City School
+District of the City of New York
+b ,
+September2 2023
 3
 
 ---

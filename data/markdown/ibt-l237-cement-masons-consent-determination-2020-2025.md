@@ -1,30 +1,67 @@
 ---
 contract_id: ibt-l237-cement-masons-consent-determination-2020-2025
 label: "IBT L237 Cement Masons Consent Determination, 2020-2025"
-expanded_label: "IBT L237 Cement Masons Consent Determination, 2020-2025"
+expanded_label: "International Brotherhood of Teamsters (IBT) — L237 Cement Masons Consent Determination, 2020-2025"
 term_start: 2020
 term_end: 2025
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cement-mason-2020-09-27-2025-10-26.pdf"
 pages: 29
 ocr_pages: 29
-ocr_engine: google-cloud-vision
+pages_with_tables: 0
 clauses: 29
 sector: "other"
 ---
 
-# IBT L237 Cement Masons Consent Determination, 2020-2025
+# International Brotherhood of Teamsters (IBT) — L237 Cement Masons Consent Determination, 2020-2025
 
 **Term:** 2020–2025  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cement-mason-2020-09-27-2025-10-26.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cement-mason-2020-09-27-2025-10-26.pdf)  
-**Pages:** 29 (re-OCR'd via Google Cloud Vision)
+**Pages:** 29 (29 OCR-reconstructed)  
+**Clauses extracted:** 29
 
-> This contract was originally OCR'd via macOS Vision and contained heavy transcription errors. It was re-processed with Google Cloud Vision's DOCUMENT_TEXT_DETECTION on 2026-05-06. The text below is the re-OCR'd output. Verify quotations against the source PDF before publishing.
+**Workforce:** IBT L237 Cement Masons Consent Determination, 2020-2025 — see contract for the full recognition clause defining covered titles.
+
+> This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 
 ---
 
-<a id="page-1"></a>
+## Contents
+
+- [Page 1](#page-1-p1)
+- [Page 2](#page-2-p2)
+- [Page 3](#page-3-p3)
+- [Page 4](#page-4-p4)
+- [Page 5](#page-5-p5)
+- [Page 6](#page-6-p6)
+- [Page 7](#page-7-p7)
+- [Page 8](#page-8-p8)
+- [Page 9](#page-9-p9)
+- [Page 10](#page-10-p10)
+- [Page 11](#page-11-p11)
+- [Page 12](#page-12-p12)
+- [Page 13](#page-13-p13)
+- [Page 14](#page-14-p14)
+- [Page 15](#page-15-p15)
+- [Page 16](#page-16-p16)
+- [Page 17](#page-17-p17)
+- [Page 18](#page-18-p18)
+- [Page 19](#page-19-p19)
+- [Page 20](#page-20-p20)
+- [Page 21](#page-21-p21)
+- [Page 22](#page-22-p22)
+- [Page 23](#page-23-p23)
+- [Page 24](#page-24-p24)
+- [Page 25](#page-25-p25)
+- [Page 26](#page-26-p26)
+- [Page 27](#page-27-p27)
+- [Page 28](#page-28-p28)
+- [Page 29](#page-29-p29)
+
+---
+
+<a id="page-1-p1"></a>
 ### Page 1
-_OCR via Google Cloud Vision_
+_Page 1_ · _OCR-reconstructed_
 
 THE COMPTROLLER OF THE CITY OF NEW YORK
 In the matter of the Complaint of
@@ -54,9 +91,9 @@ Bureau of Labor Law
 Tel: (212) 669-2161
 Fax: (212) 815-8681
 
-<a id="page-2"></a>
+<a id="page-2-p2"></a>
 ### Page 2
-_OCR via Google Cloud Vision_
+_Page 2_ · _OCR-reconstructed_
 
 TO:
 RENEE CAMPION
@@ -70,9 +107,9 @@ City Employees Union Local 237, I.B.T.
 216 West 141h Street
 New York, NY 10011-7296
 
-<a id="page-3"></a>
+<a id="page-3-p3"></a>
 ### Page 3
-_OCR via Google Cloud Vision_
+_Page 3_ · _OCR-reconstructed_
 
 BEFORE THE COMPTROLLER OF THE CITY OF NEW YORK
 In the Matter of the Complaints of
@@ -92,11 +129,11 @@ wages, supplemental benefits and jurisdiction on all issues of law and fact as t
 forth in the caption,
 NOW, THEREFORE, IT IS HEREBY DETERMINED BY CONSENT that:
 The compromised basic rate of wages and supplemental benefits agreed upon are and
-have been for the above-mentioned employces of the City of New York. et al.. as follows:
+have been for the above-mentioned employees of the City of New York. et al.. as follows:
 
-<a id="page-4"></a>
+<a id="page-4-p4"></a>
 ### Page 4
-_OCR via Google Cloud Vision_
+_Page 4_ · _OCR-reconstructed_
 
 CEMENT MASON
 PERIOD
@@ -143,9 +180,9 @@ fund contribution. The per annum per employee active contribution will increase 
 to $2,055. The per annum per employee retiree contribution will increase from $2,086.25 to
 2
 
-<a id="page-5"></a>
+<a id="page-5-p5"></a>
 ### Page 5
-_OCR via Google Cloud Vision_
+_Page 5_ · _OCR-reconstructed_
 
 $2,255. The contributions shall be paid per complainant by the City of New York to the Welfare
 Fund, Local 237 International Brotherhood of Teamsters, 216 West 14th Street, New York, N.Y.
@@ -173,9 +210,9 @@ liability of the City of New York shall in no event exceed the amount hereinabov
 for each hour worked, irrespective of any upward modification by reason of imposition of any
 3
 
-<a id="page-6"></a>
+<a id="page-6-p6"></a>
 ### Page 6
-_OCR via Google Cloud Vision_
+_Page 6_ · _OCR-reconstructed_
 
 tax, lien, attorneys' fee or otherwise, and provided further that the amount of contributions by
 the City shall be limited solely to the payments as provided herein.
@@ -226,16 +263,16 @@ Per Month (hh:mm)
 16:55
 4
 
-<a id="page-7"></a>
+<a id="page-7-p7"></a>
 ### Page 7
-_OCR via Google Cloud Vision_
+_Page 7_ · _OCR-reconstructed_
 
 a) The provisions of this Consent Determination shall be consistent with the applicable
 provisions of the New York State Financial Emergency Act for the City of New York, as
 amended.
 b) The Complainant agrees to execute a full release to the City of New York et al., for the
 period embraced herein, such release being set forth in the General Release and Waiver attached
-hcrcto as Exhibit "A".
+hereto as Exhibit "A".
 c) The Complainant agrees to waive any and all interest on all differentials of basic rates of
 wages and supplemental benefits. It is expressly understood that such waiver, set forth in Exhibit
 "A" annexed hereto, shall include the waiver of any right to interest payments duc pursuant to
@@ -245,7 +282,7 @@ one hundred twenty (120) days after the filing date of this Consent Determinatio
 one hundred twenty (120) days after the effective date of the increase, whichever is
 later, to the date of actual payment,
 (2) Interest on shift differentials, holiday and overtime pay shall accrue at the rate of three
-percent (3%) per annum from one hundred twenty (120) days following their carning,
+percent (3%) per annum from one hundred twenty (120) days following their earning,
 or one hundred twenty (120) days after the filing date of this Consent Determination,
 whichever is later, to the date of actual payment and
 (3) Interest accrued under (1) or (2) above shall be payable only if the amount of interest
@@ -254,9 +291,9 @@ d) The Complainant herein shall refrain from filing any Article 78 proceedings i
 part with respect to any provision made herein and for any additional benefits other than those
 5
 
-<a id="page-8"></a>
+<a id="page-8-p8"></a>
 ### Page 8
-_OCR via Google Cloud Vision_
+_Page 8_ · _OCR-reconstructed_
 
 contained herein excepting that the right is reserved to bring any necessary proceedings for the
 enforcement of the terms of the Consent Determination.
@@ -283,14 +320,14 @@ rates and supplemental benefits but shall be considered rates and benefits in co
 settlement of all issues of law and fact.
 6
 
-<a id="page-9"></a>
+<a id="page-9-p9"></a>
 ### Page 9
-_OCR via Google Cloud Vision_
+_Page 9_ · _OCR-reconstructed_
 
 k) It is further understood and agreed that in consideration of the compromise and settlement
 reached herein, the complaint in this matter is hereby settled.
 1) The submission of any Labor Law complaint, effective on October 27, 2025, can be made
-at the Labor Law Burcau of the Office of the Comptroller on or after that date.
+at the Labor Law Bureau of the Office of the Comptroller on or after that date.
 IN WITNESS WHEREOF, the parties have executed this Agreement on the day and year first
 above written.
 CONSENTED TO:
@@ -319,9 +356,9 @@ Dated: April 18, 2024
 New York, New York
 7
 
-<a id="page-10"></a>
+<a id="page-10-p10"></a>
 ### Page 10
-_OCR via Google Cloud Vision_
+_Page 10_ · _OCR-reconstructed_
 
 UNIT: Cement Masons
 TERM: September 27, 2020 through October 26, 2025
@@ -365,9 +402,9 @@ GREGORY FLOYD
 President
 City Employees Union,
 
-<a id="page-11"></a>
+<a id="page-11-p11"></a>
 ### Page 11
-_OCR via Google Cloud Vision_
+_Page 11_ · _OCR-reconstructed_
 
 The
 City of
@@ -415,9 +452,9 @@ Very truly yours,
 Renee Campion
 9
 
-<a id="page-12"></a>
+<a id="page-12-p12"></a>
 ### Page 12
-_OCR via Google Cloud Vision_
+_Page 12_ · _OCR-reconstructed_
 
 The
 City of
@@ -466,9 +503,9 @@ pursuant to this agreement.
 The lump sum cash payment shall be pensionable, consistent with applicable law.
 10
 
-<a id="page-13"></a>
+<a id="page-13-p13"></a>
 ### Page 13
-_OCR via Google Cloud Vision_
+_Page 13_ · _OCR-reconstructed_
 
 below.
 V.
@@ -491,9 +528,9 @@ Very Truly Yours
 вод
 Rence Campion
 
-<a id="page-14"></a>
+<a id="page-14-p14"></a>
 ### Page 14
-_OCR via Google Cloud Vision_
+_Page 14_ · _OCR-reconstructed_
 
 IN THE EVENT OF ANY INCONSISTENCY BETWEEN APPENDIX A AND
 REQUIREMENTS IMPOSED BY FEDERAL, STATE, OR LOCAL LAW, SUCH AS
@@ -538,9 +575,9 @@ of pay, and the first six months of absence while receiving Workmen's Compensati
 shall be considered as time "served" by the employee.
 In the calculation of annual leave credits, a full month's credit shall be given to an
 
-<a id="page-15"></a>
+<a id="page-15-p15"></a>
 ### Page 15
-_OCR via Google Cloud Vision_
+_Page 15_ · _OCR-reconstructed_
 
 2
 employee who has been in full pay status for at least 15 calendar days during that month,
@@ -580,9 +617,9 @@ I, Sections 5 and 5 (a) above.
 Section 6
 The normal unit of charge against annual leave allowance for vacation and personal
 
-<a id="page-16"></a>
+<a id="page-16-p16"></a>
 ### Page 16
-_OCR via Google Cloud Vision_
+_Page 16_ · _OCR-reconstructed_
 
 3
 business shall be one-half day. Smaller units of charge are authorized for time lost due to
@@ -624,9 +661,9 @@ If the employee so selects, and as an alternative to the above method of computa
 Terminal Leave allowance may be computed on the basis of one day of Terminal Leave for each
 two days of unused sick leave accumulation, to a maximum of one hundred (100) days Terminal
 
-<a id="page-17"></a>
+<a id="page-17-p17"></a>
 ### Page 17
-_OCR via Google Cloud Vision_
+_Page 17_ · _OCR-reconstructed_
 
 4
 Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of
@@ -662,9 +699,9 @@ more than 30 calendar days in the vacation year, he shall lose the sick leave cr
 one month for each 30 days of such accumulated absence even though in full pay status for at
 least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
 
-<a id="page-18"></a>
+<a id="page-18-p18"></a>
 ### Page 18
-_OCR via Google Cloud Vision_
+_Page 18_ · _OCR-reconstructed_
 
 5
 credits under this rule for several months in the vacation year because he has been in full pay
@@ -703,9 +740,9 @@ employee.
 d.
 Absence required because of Health Department ruling with respect to quarantine.
 
-<a id="page-19"></a>
+<a id="page-19-p19"></a>
 ### Page 19
-_OCR via Google Cloud Vision_
+_Page 19_ · _OCR-reconstructed_
 
 6
 e.
@@ -740,9 +777,9 @@ leave may be granted by an agency head not to exceed an additional period of one
 extensions may be granted by an elected official, in an agency headed by such official, of by the
 City Personnel Director for agencies headed by appointed officials.
 
-<a id="page-20"></a>
+<a id="page-20-p20"></a>
 ### Page 20
-_OCR via Google Cloud Vision_
+_Page 20_ · _OCR-reconstructed_
 
 7
 Section 3
@@ -775,9 +812,9 @@ that such employee makes any claim or institutes any action against any party wh
 relation to such disability, reimbursement in the amount of such pay shall be made to the City
 or the agency concerned, as the case may be, from the proceeds of the recovery by such
 
-<a id="page-21"></a>
+<a id="page-21-p21"></a>
 ### Page 21
-_OCR via Google Cloud Vision_
+_Page 21_ · _OCR-reconstructed_
 
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form
@@ -818,9 +855,9 @@ or willful failure to use a safety device, or was not under the influence of alc
 at the time of injury, or did not willfully intend to bring about injury or death upon himself or
 another, and
 
-<a id="page-22"></a>
+<a id="page-22-p22"></a>
 ### Page 22
-_OCR via Google Cloud Vision_
+_Page 22_ · _OCR-reconstructed_
 
 9
 c. The injured employee undergoes such medical examinations as are requested by
@@ -857,9 +894,9 @@ Veteran's Day
 Thanksgiving Day
 Christmas Day
 
-<a id="page-23"></a>
+<a id="page-23-p23"></a>
 ### Page 23
-_OCR via Google Cloud Vision_
+_Page 23_ · _OCR-reconstructed_
 
 ROBERT W. LINN
 Commissioner
@@ -896,9 +933,9 @@ independent healthcare actuary, and any other mutually agreed upon additional ou
 to develop an accounting system to measure and calculate savings.
 1
 
-<a id="page-24"></a>
+<a id="page-24-p24"></a>
 ### Page 24
-_OCR via Google Cloud Vision_
+_Page 24_ · _OCR-reconstructed_
 
 5. The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the
 course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced
@@ -938,9 +975,9 @@ f. The parties shall share the costs for the arbitrator and the actuary the arbi
 selects.
 2
 
-<a id="page-25"></a>
+<a id="page-25-p25"></a>
 ### Page 25
-_OCR via Google Cloud Vision_
+_Page 25_ · _OCR-reconstructed_
 
 If the above accords with your understanding and agreement, kindly execute the signature
 line provided.
@@ -953,9 +990,9 @@ BY:
 Harry Nespoli, Chair
 3
 
-<a id="page-26"></a>
+<a id="page-26-p26"></a>
 ### Page 26
-_OCR via Google Cloud Vision_
+_Page 26_ · _OCR-reconstructed_
 
 The
 City of
@@ -1004,9 +1041,9 @@ iii. In any event, the $600 million pursuant to 1(a)(iv) must be recurring and
 agreed to by the parties within FY 2021, and may not be borrowed from
 other years.
 
-<a id="page-27"></a>
+<a id="page-27-p27"></a>
 ### Page 27
-_OCR via Google Cloud Vision_
+_Page 27_ · _OCR-reconstructed_
 
 c. Savings attributable to CBP programs will continue to be transferred to the City by
 offsetting the savings amounts documented by Empire Blue Cross and GHI against
@@ -1056,9 +1093,9 @@ shall cover all periods addressed by this Agreement (i.e., through June 30, 2021
 and shall be executed within thirty days of the execution of this letter agreement.
 2
 
-<a id="page-28"></a>
+<a id="page-28-p28"></a>
 ### Page 28
-_OCR via Google Cloud Vision_
+_Page 28_ · _OCR-reconstructed_
 
 4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
 payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
@@ -1104,9 +1141,9 @@ referred to Martin Scheinman for resolution consistent with the dispute resoluti
 a. Such dispute shall be resolved within 90 days.
 3
 
-<a id="page-29"></a>
+<a id="page-29-p29"></a>
 ### Page 29
-_OCR via Google Cloud Vision_
+_Page 29_ · _OCR-reconstructed_
 
 b. The arbitrator shall have the authority to impose interim relief that is
 consistent with the parties' intent.
@@ -1121,3 +1158,5 @@ Agreed and Accepted on behalf of the Municipal Labor Committee
 BX: 2
 Harry Nespoli, Chair
 
+---
+_End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cement-mason-2020-09-27-2025-10-26.pdf>_

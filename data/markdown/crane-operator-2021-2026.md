@@ -12,9 +12,9 @@ sector: "skilled-trades"
 
 # Crane Operator 2021 2026
 
-**Term:** term n/a
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/crane-operator-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/crane-operator-2021-2026.pdf)
-**Pages:** 26 (21 OCR-reconstructed)
+**Term:** term n/a  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/crane-operator-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/crane-operator-2021-2026.pdf)  
+**Pages:** 26 (21 OCR-reconstructed)  
 **Clauses extracted:** 42
 
 **Workforce:** Crane Operator 2021 2026 — see contract for the full recognition clause defining covered titles.
@@ -29,14 +29,14 @@ sector: "skilled-trades"
 - [CITY OF NEW YORK](#city-of-new-york-p6)
 - [SECOND PARTY](#second-party-p6)
 - [GENERAL RELEASE AND WAIVER](#general-release-and-waiver-p7)
+- [MONTHLY ACCRUAL](#monthly-accrual-p11)
+- [Section 3](#section-3-p11)
+- [Section 4](#section-4-p11)
 - [IN THE EVENT OF ANY INCONSISTENCY BETWEEN APPENDIX A AND](#in-the-event-of-any-inconsistency-between-appendix-a-and-p11)
 - [APPENDIX A](#appendix-a-p11)
 - [Section 2](#section-2-p11)
 - [CATEGORY](#category-p11)
 - [ANNUAL LEAVE ALLOWANCE](#annual-leave-allowance-p11)
-- [MONTHLY ACCRUAL](#monthly-accrual-p11)
-- [Section 3](#section-3-p11)
-- [Section 4](#section-4-p11)
 - [Section 5](#section-5-p12)
 - [Section 6](#section-6-p12)
 - [Section 2](#section-2-p13)
@@ -79,11 +79,9 @@ State of New York; and
 WHEREAS, the Second Party was, and still i;;, a public employee organization representing employees employed by the City of New York under the title of Crane Operator (including specialties), Captain (Engineer), and Supervisor Crane Operator (AMPES) in .City Departments and Agencies wherein their services are regularly required in five days per week operations; and WHEREAS, certain differences between the parties herein have arisen with respect to rates ,- "
 ofw ages in the City of New York; and WHEREAS, it is the desire of the parties herein to compromise their differences by the acceptance of certain annual or daily rates of pay and perquisites to be paid to employees represented by the Second Party both retroactively and prospectively for the affected period in full settlement of services rendered and to be rendered;
 NOW THEREFORE IT IS MUTUALLY AGREED AS FOLLOWS:
-1. The First Party hereby agrees for the period between January 3, 2021 to February
-2, 2026, except as otherwise provided in this paragraph 1, to provide for the employment of the signatory Second Party as employed in City Departments and Agencies, at the respective annual compensation, number of hours per day and number of days per year more fully hereinafter
+1. The First Party hereby agrees for the period between January 3, 2021 to February 2, 2026, except as otherwise provided in this paragraph 1, to provide for the employment of the signatory Second Party as employed in City Departments and Agencies, at the respective annual compensation, number of hours per day and number of days per year more fully hereinafter
 specified as follows:
 1
-
 
 Crane Operator (including specialties)
 Period
@@ -113,18 +111,39 @@ $72.13
 $74.30
 $76.53
 $79.01
-It is also understood and agreed that in addition to the annual compensation referred to in paragraph "1" herein, that the First Party also agrees to provide to each employee represented by a signatory Second Party in his or her respective title, payment of one (1) additional day's pay in cash at the respective daily rates as indicated in paragraph "1" herein for the holidays listed
+It is also understood and agreed that in addition to the annual compensation referred
+to in paragraph "1" herein, that the First Party also agrees to provide to each employee represented
+by a signatory Second Party in his or her respective title, payment of one (1) additional day's pay
+in cash at the respective daily rates as indicated in paragraph "1" herein for the holidays listed
 below and limited to the day the holiday is observed:
 New Years Day
 Washington's Birthday
 Labor Day
 Veterans Day
-Juneteenth effective May 4, 2022 Martin Luther King Jr.'s Birthday Memorial Day Columbus Day Thanksgiving Day Lincoln's Birthday Independence Day Election Day Christmas Day It is further understood and agreed, that should the services of employees represented by the Second Party be required on any of the above holidays, the First Party will provide to each mployee represented by the Second Party further compensation tor such actual work pertorme y the payment in cash of one and one-half (1-1/2) additional days pay for each eight (8) hours o work at the respective daily rate indicated in paragraph "1" herein only. Such payment shall preclude the grant of any additional time off.
-It is further understood and agreed that the complement of working days referred to in paragraph "1" hereof shall exclude Saturdays, Sundays, and legal holidays.
-In cases of emergency where it becomes necessary to perform work on Sundays, such work shall be compensated for by payment at the rate of double time (2x) in cash. Such payment shall preclude the grant of any additional time off.
-In cases of emergency where it becomes necessary to perform work on Saturdays or legal holidays (except for those legal holidays enumerated in paragraph "2" herein), and work over an eight (8) hour day and chart day, such work shall be compensated for by payment in cash at the
+Juneteenth effective May 4, 2022
+Martin Luther King Jr.'s Birthday
+Memorial Day
+Columbus Day
+Thanksgiving Day
+Lincoln's Birthday
+Independence Day
+Election Day
+Christmas Day
+It is further understood and agreed, that should the services of employees represented by
+the Second Party be required on any of the above holidays, the First Party will provide to each
+mployee represented by the Second Party further compensation tor such actual work pertorme
+y the payment in cash of one and one-half (1-1/2) additional days pay for each eight (8) hours o
+work at the respective daily rate indicated in paragraph "1" herein only. Such payment shall
+preclude the grant of any additional time off.
+It is further understood and agreed that the complement of working days referred
+to in paragraph "1" hereof shall exclude Saturdays, Sundays, and legal holidays.
+In cases of emergency where it becomes necessary to perform work on Sundays, such work
+shall be compensated for by payment at the rate of double time (2x) in cash. Such payment shall
+preclude the grant of any additional time off.
+In cases of emergency where it becomes necessary to perform work on Saturdays or legal
+holidays (except for those legal holidays enumerated in paragraph "2" herein), and work over an
+eight (8) hour day and chart day, such work shall be compensated for by payment in cash at the
 2
-
 
 rate of double time (2x).
 It is further understood and agreed that a shift differential shall be paid to each employee represented by the Second Party for each shift worked between the hours of 4:00 P.M. to Midnight and Midnight to 8:00 A.M. for each day actually worked. The night shift differential shall also be paid when four (4) or more hours in any regular assigned shift are worked within the hours of 4:00 P.M. to 8:00 A.M.
@@ -145,7 +164,6 @@ Effective January 3, 2021, no paid leave benefits set forth in Article III, Sect
 of Appendix A annexed hereto shall apply.
 It is also understood and agreed that vacation-with-pay allowances for employees who work a 249
 3
-
 
 day year and who were hired on or after July 1, 1985 shall accrue as follows:
 Effective January 3. 2021
@@ -170,7 +188,6 @@ Simultaneous with payment of the differentials between rates heretofore paid to 
 Party for the period of this agreement agrees to:
 4
 
-
 (a)
 (b)
 (c)
@@ -186,21 +203,28 @@ Interest on shift differentials, holiday and overtime pay, shall accrue at the r
 Interest accrued under (1) or (2) above shall be payable only if the amount of interest due to an individual exceeds five dollars ($5).
 5
 
-
-8. The provisions of this agreement shall be consistent with applicable provisions of
-the New York State Financial Emergency Act for the City of New York as amended. The terms and conditions of this agreement are subject to approval by the Mayor of the City of New York otherwise the same shall be of no force and effect whatever.
+8. The provisions of this agreement shall be consistent with applicable provisions of the New York State Financial Emergency Act for the City of New York as amended. The terms and conditions of this agreement are subject to approval by the Mayor of the City of New York otherwise the same shall be of no force and effect whatever.
 
 <a id="city-of-new-york-p6"></a>
 ### CITY OF NEW YORK
 _Page 6_
 
-BY: ----------------------- Renee Campion Commissioner of Labor Relations ARTY £/r BY Edwi h � Businti:ess Manager, IUO(_____E Lo cal 14
+BY: -----------------------
+Renee Campion Commissioner of Labor Relations
+ARTY
+£/r
+BY
+Edwi h
+�
+Businti:ess Manager, IUO(_____E Lo cal 14
 
 <a id="second-party-p6"></a>
 ### SECOND PARTY
 _Page 6_
 
-Crane Operators: Five Day Operations Term of Agreement: January 3, 2021 through February 2, 2026 _
+Crane Operators: Five Day Operations
+Term of Agreement: January 3, 2021 through February 2, 2026
+_
 6
 
 <a id="general-release-and-waiver-p7"></a>
@@ -221,22 +245,44 @@ EDWIN L. CHRISTIAN
 Business Manager
 7
 
-
 Office of Labor R-e/ations
-22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Deputy Commissioner Commissioner Health Care Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Program Nicole Andrade General Counsel August 8, 2024 Edwin Christian Business Manager International Union of Operating Engineers - Local 14
+22 Cortlandt Street, New York, NY 10007
+nyc.gov/olr
+Renee Campion Claire Levitt
+Deputy Commissioner
+Commissioner
+Health Care Strategy
+Daniel Pollak
+Georgette Gestely
+First Deputy Commissioner
+Director, Employee Benefits Program
+Nicole Andrade
+General Counsel
+August 8, 2024
+Edwin Christian
+Business Manager
+International Union of Operating Engineers - Local 14
 141-57 Northern Boulevard
 Flushing, New York, NY 11354
-Re: Payroll Paper Pay Stubs 2021-2026 Crane Operator Indenture
+Re: Payroll Paper Pay Stubs 2021-2026 Crane
+Operator Indenture
 Dear Mr. Christian:
-This is to confirm the understanding and agreement of the parties concerning payroll and paper pay stubs for employees covered by the Crane Operator Indenture for the period January 3,
+This is to confirm the understanding and agreement of the parties concerning payroll and
+paper pay stubs for employees covered by the Crane Operator Indenture for the period January 3,
 2021 to February 2, 2026.
-Effective as soon as practicable, following ratification of this agreement, all employees of Mayoral agencies, the Department of Education, and the New York City Housing Authority who receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate method at employers not on NYCAPS.
-If the above accords with your understanding, please indicate your acceptance by signing below.
+Effective as soon as practicable, following ratification of this agreement, all employees of
+Mayoral agencies, the Department of Education, and the New York City Housing Authority who
+receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees
+may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the
+appropriate method at employers not on NYCAPS.
+If the above accords with your understanding, please indicate your acceptance by signing
+below.
 Very truly yours,
 Renee Campion
-A eed 1d Acee ted on Behalf of IUOE Local 14 L Business Manager
+A eed 1d Acee ted on Behalf of IUOE Local 14
+L
+Business Manager
 8
-
 
 Office of Labor Relations
 22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Claire Levitt Commissioner Deputy Commissioner Health Care Strategy Daniel Pollak Georgette Gestely First Deputy Commissioner Director, Employee Benefits Program Nicole Andrade General Counsel August 8, 2024 Edwin Christian Business Manager International Union of Operating Engineers - Local 14
@@ -246,15 +292,12 @@ Re: $3,000 One-Time Lump Sum Ratification Bonus 2021-2026 Crane Operator Indentu
 Dear Mr. Christian:
 This is to confinn the understanding and agreement oft he parties concerning the lump sum cash payment for the employees covered under the Crane Operator Indenture for the period January 3,
 2021 through February 2026.
-i. A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification oft his Agreement to those bargaining unit members who were in active payroll status as of the date ofratification. Active payroll status is defined as being in active payroll status ("B Status"), military leave with pay ("K status"), or on paid family leave.
-11. Employees who were terminated for cause, resigned, retired, or otherwise
-separated from service, for any other reason, prior to the date of ratification of this Agreement shall not be eligible for the lump sum cash payment.
-111. In no event shall any employee receive greater than $3,000 in bonus payments
-pursuant to this agreement.
+i. A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification oft his Agreement to those bargaining unit members who were in active payroll status as of the date of ratification. Active payroll status is defined as being in active payroll status ("B Status"), military leave with pay ("K status"), or on paid family leave.
+11. Employees who were terminated for cause, resigned, retired, or otherwise separated from service, for any other reason, prior to the date of ratification of this Agreement shall not be eligible for the lump sum cash payment.
+111. In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this agreement.
 1v. The lump sum cash payment shall be pensionable, consistent with applicable law.
 v. The lump sum cash payment shall not become part of the employee's basic salary rate, nor will it be added to the employee's basic salary for the calculation of any
 9
-
 
 salary-based benefits, including but not limited to the calculation. of future collective bargaining increases.
 vi. For circumstances not covered by this agreement, the First Deputy Commissioner of Labor Relations may elect to issue, on a case-by-case basis, interpretations concerning the payment of the lump sum ratification bonus. Such interpretations shall not be subject to any dispute resolution procedures.
@@ -263,8 +306,36 @@ Very truly yours,
 Renee Campion
 Agreed and Accepted on behalf ofIUOE Local 14, B B L Y:f� sti��
 
-
 •
+
+<a id="monthly-accrual-p11"></a>
+### MONTHLY ACCRUAL
+_Page 11_ · _OCR-reconstructed_ · _Topics: vacation_
+
+2-1/4 days
+25 Work Days
+(5 weeks)
+20 Want Days
+2 days, plus 1 day at end of
+of vacation year.
+1 - 2/3 days
+
+<a id="section-3-p11"></a>
+### Section 3
+_Page 11_ · _OCR-reconstructed_
+
+There shall be a pro-rating of the above allowance for employees who work less than a
+250-day year.
+
+<a id="section-4-p11"></a>
+### Section 4
+_Page 11_ · _OCR-reconstructed_ · _Topics: wages, vacation_
+
+For the earning of annual leave credits, the time recorded on the payroll at the full rat of pay, and the first six months of absence while receiving Workmen's Compensation payment shall be considered as time "served" by the employee.
+In the calculation of annual leave credits, a full month's credit shall be given to an
+
+2
+employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits earnable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period; and (b) if an employee loses annual leave credits under this rule for several months in the vacation year because he has been total of a or us re calendar days in all pay stars he shal be cried dirt the annual leave credits earnable in 1 month for each 30 days of such full pay status.
 
 <a id="in-the-event-of-any-inconsistency-between-appendix-a-and-p11"></a>
 ### IN THE EVENT OF ANY INCONSISTENCY BETWEEN APPENDIX A AND
@@ -306,36 +377,6 @@ _Page 11_ · _OCR-reconstructed_ · _Topics: vacation_
 27 Work Days
 (5 weeks and 2 days)
 
-<a id="monthly-accrual-p11"></a>
-### MONTHLY ACCRUAL
-_Page 11_ · _OCR-reconstructed_ · _Topics: vacation_
-
-2-1/4 days
-25 Work Days
-(5 weeks)
-20 Want Days
-2 days, plus 1 day at end of
-of vacation year.
-1 - 2/3 days
-
-<a id="section-3-p11"></a>
-### Section 3
-_Page 11_ · _OCR-reconstructed_
-
-There shall be a pro-rating of the above allowance for employees who work less than a
-250-day year.
-
-<a id="section-4-p11"></a>
-### Section 4
-_Page 11_ · _OCR-reconstructed_ · _Topics: wages, vacation_
-
-For the earning of annual leave credits, the time recorded on the payroll at the full rat of pay, and the first six months of absence while receiving Workmen's Compensation payment shall be considered as time "served" by the employee.
-In the calculation of annual leave credits, a full month's credit shall be given to an
-
-
-2
-employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits earnable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period; and (b) if an employee loses annual leave credits under this rule for several months in the vacation year because he has been total of a or us re calendar days in all pay stars he shal be cried dirt the annual leave credits earnable in 1 month for each 30 days of such full pay status.
-
 <a id="section-5-p12"></a>
 ### Section 5
 _Page 12_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
@@ -356,9 +397,10 @@ _Page 12_ · _OCR-reconstructed_ · _Topics: vacation_
 
 The normal unit of charge against annual leave allowance for vacation and personal
 
-
 3
-business shall be one-half day. Smaller units of charge are authorized for time lost due to tardiness, religious observance, and for the time lost by employee representatives duly designated by employee organizations operating under the Mayor's Executive Order No. 38 dated May 16,
+business shall be one-half day. Smaller units of charge are authorized for time lost due to
+tardiness, religious observance, and for the time lost by employee representatives duly designated
+by employee organizations operating under the Mayor's Executive Order No. 38 dated May 16,
 1957, engaged in the following types of union activity:
 8.
 b.
@@ -396,9 +438,9 @@ _Page 13_ · _OCR-reconstructed_ · _Topics: wages, sick-leave_
 Terminal Leave shall be allowed to employees who work at least 250 days per year at the rate of one month for every ten years of service, (a) the rates of which are fixed in accordance with a Comptroller's determination made under Section 220 of the Labor Law of the State of New York, and (b) of service under the Career and Salary Plan Leave Regulations, prorated for a fractional part thereof.
 If the employee so selects, and as an alternative to the above method of computation, his Terminal Leave allowance may be computed on the basis of one day of Terminal Leave for each two days of unused sick leave accumulation, to a maximum of one hundred (100) days Terminal
 
-
 4
-Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of work days, rather than calendar days.
+Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of
+work days, rather than calendar days.
 
 <a id="section-1-p14"></a>
 ### Section 1
@@ -425,7 +467,6 @@ _Page 14_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
 The normal unit for computation of sick leave shall be not less than one-half day. The agency head may authorize smaller units of charge in exceptional and unusual circumstances.
 Credits cannot be earned for the period an employee is on leave of absence without pay. For the earning of sick leave credits, the time recorded on the payroll at the full rate of pay, and the first six months of absence while receiving Workmen's Compensation payments shall be considered as time "served" by the employee.
 In the calculation of sick leave credits, a fuli month's credit shall be given to an employee who has been in full pay status for at least 15 calendar days during that month, provided however, that (a) where an employee has been absent without pay for an accumulated total of more than 30 calendar days in the vacation year, he shall lose the sick leave credits earable in one month for each 30 days of such accumulated absence even though in full pay status for at least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
-
 
 5
 credits under this rule for several months in the vacation year because he has been in full pay status for fewer than 15 days in each month, but accumulates during said months a total of 30 or more calendar days in full pay status, he shall be credited with the sick leave credits earnable in one month for each 30 days of such full pay status.
@@ -455,7 +496,6 @@ Absence not to exceed four work-days in the case of death in the immediate famil
 he endorses his check for jury day fother dur shall be granted to the employee provided that For Court Attendance Under Subpoena or Court Order. Leave to attend court shall be granted when neither the employee nor anyone related to him has a personal interest in the case, and where said attendance at court is not related to any other employment of the employee.
 d.
 Absence required because of Health Department ruling with respect to quarantine.
-
 
 6
 e.
@@ -488,14 +528,14 @@ _Page 16_ · _OCR-reconstructed_
 
 Leaves of absence without pay for reasons not covered in the foregoing rules may be granted to permanent employees by the agency head not to exceed one year. Extension of such leave may be granted by an agency head not to exceed an additional period of one year. Further extensions may be granted by an elected official, in an agency headed by such official, of by the City Personnel Director for agencies headed by appointed officials.
 
-
 7
 
 <a id="section-3-p17"></a>
 ### Section 3
 _Page 17_ · _OCR-reconstructed_ · _Topics: other-leave_
 
-Agencies shall grant any leave of absence without pay, such as military leave, required by law.
+Agencies shall grant any leave of absence without pay, such as military leave, required
+by law.
 V.
 
 <a id="section-1-p17"></a>
@@ -522,7 +562,6 @@ _Page 17_ · _OCR-reconstructed_ · _Topics: wages, sick-leave_
 
 Whenever an employee, not covered by Workmen's Compensation, is physically disabled relation to such disability, reimbursement in the amount of such pay shall be made to the City or the agency concerned, as the case may be, from the proceeds of the recovery by such
 
-
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form and manner prescribed by the Corporation Counsel or other duly empowered counsel. The Agency head may have the injured employee examined by a physician employed by the City in order to determine the extent of the employee's disability and the approval of said physician from a medical viewpoint shall be required for the time granted with pay under this rule. The agency head may require periodic medical examinations of the disabled employee to ascertain the need for continued leave of absence with pay. Notwithstanding the provisions of Article 1, Section 4 and Article II, Section 5 annual and sick leave shall accrue during the first six months only of such absence, and shall be credited upon the employee's return to duty.
 
@@ -546,14 +585,12 @@ The injured employee or any authorized person acting in his behalf agrees that a
 The injured employee has the necessary accrued sick leave and/or annual leave balance or has been advanced credits in accordance with the Comptroller's Leave Regulations which the supplementary pay can be charged, and d.
 The injured employee was not guilty of willful gross disobedience of safety rules or willful failure to use a safety device, or was not under the influence of alcohol or narcotics at the time of injury, or did not willfully intend to bring about injury or death upon himself or another, and
 
-
 9
 The injured employee undergoes such medical examinations as are requested by the Workmen's Compensation Division of the Law Department and his agency; and when found fie for duty by said physicians, returns to his employment.
 2. To take annual leave and receive full pay and Workmen's Compensation medical
 coverage, provided that:
 request in writing, injured employer or any authorized person acting in his behalf makes the The injured employee or any authorized person acting in his behalf agrees to have his annual leave balance charged for such absence, and The injured employee has the necessary accrued annual leave balance.
-3. To receive Workmen's Compensation benefits in their entirety with no charge against sick
-leave and/or annual leave.
+3. To receive Workmen's Compensation benefits in their entirety with no charge against sick leave and/or annual leave.
 During the period when an injured employee is receiving Workmen's Compensation and the differential to bring him to full pay, he will be carried on full-pay status and this time shall be counted for retirement benefits.
 
 <a id="section-1-p19"></a>
@@ -590,7 +627,6 @@ If the parties decide to engage in a centralized purchase of Prescription Drugs,
 4.
 There shall be a joint committee formed that will engage in a process to select an independent healthcare actuary, and any other mutually agreed upon additional outside expertise, to develop an accounting system to measure and calculate savings.
 
-
 The MLC agrees to generate cumulative healthcare savings of S3.4 billion over the course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced in Paragraph 2 above and generated in the individual fiscal years as follows: (i) $400 million in Fiscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) $1 billion in Fiscal Year 2017; (iv)
 $1.3 billion in Fiscal Year 2018; and (v) for every fiscal year thereafter, the savings on a citywide basis in health care costs shall continue on a recurring basis. At the conclusion of Fiscal Year 2018, the parties shall calculate the savings realized during the prior four-year period. In the event that the MILC has generated more than $3.4 billion in cumulative healthcare savings during the four-year period, as determined by the jointly selected healthcare actuary, up to the first $365 million of such additional savings shall be credited proportionately to each union as a one-time lump sum pensionable bonus payment for its members. Should the union desire to use these funds for other purposes, the parties shall negotiate in good faith to attempt to agree on an appropriate alternative use. Any additional savings generated for the four-year period beyond the first $365 million will be shared equally with the City and the MLC for the same purposes and subject to the same procedure as the first $365 million. Additional savings beyond $1.3 billion in FY 2018 that carry over into FY 2019 shall be subject to negotiations between the parties.
 6.
@@ -605,13 +641,13 @@ d. The arbitrator shall have the authority to meet with the parties at such time
 e. If the parties are unable to agree on the independent health care actuary described above, the arbitrator shall select the impartial health care actuary to be retained by f. The parties shall share the costs for the arbitrator and the actuary the arbitrator selects.
 2
 
-
-If the above accords with your understanding and agreement, kindly execute the signature line provided.
+If the above accords with your understanding and agreement, kindly execute the signature
+line provided.
 Sincerely,
 Robert W. Linn
 Commissioner
-Agreed and Accepted on behalf of the Municipal Labor Committee ' or haml
-
+Agreed and Accepted on behalf of the Municipal Labor Committee
+' or haml
 
 The
 City f
@@ -636,7 +672,10 @@ Health Care Cost Management
 ### OFFICE OF LABOR RELATIONS
 _Page 23_ · _OCR-reconstructed_
 
-40 Rector Street, New York, N.Y. 10006-1705 nyc.gov/olr MAYRA E. BELL General Counsel
+40 Rector Street, New York, N.Y. 10006-1705
+nyc.gov/olr
+MAYRA E. BELL
+General Counsel
 
 <a id="georgette-gestely-p23"></a>
 ### GEORGETTE GESTELY
@@ -662,30 +701,24 @@ ii. $210 million in FY 2019, $310 million in FY 2020, and $580 million in FY 202
 ili. In any event, the $600 million pursuant to 1(a)(iv) must be recurring and agreed to by the parties within FY 2021, and may not be borrowed from other years.
 1
 
-
 c. Savings attributable to CBP programs will continue to be transferred to the City by offsetting the savings amounts documented by Empire Blue Cross and GHI against the equalization payments from the City to the Stabilization Fund for FY 19, FY 20 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this offset to expire, any savings achieved in this manner must be replaced in order to meet the recurring obligation under 1(a)(iv) above.
 d.
 The parties agree that any savings within the period of FY 2015 - 2018 over $3.4 billion arising from the 2014 City/MLC Health Agreement will be counted towards the FY 2019 goal. This is currently estimated at approximately $131 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the City's and the MC's actuaries.
 The parties agree that recurring savings over $1.3 billion for FY 2018 arising under the 2014 City/MLC Health Agreement will be counted toward the goal for Fiscal Years 2019, 2020, 2021 and for purposes of the recurring obligation under 1(a)(iv)
 above. This is currently estimated at approximately $40 million but will not be finalized until the full year of FY 2018 data is transmitted and analyzed by the City's and the MLC's actuaries. Once the amount is finalized, that amount shall be applied to Fiscal Years 2019, 2020, 2021 and to the obligation under 1(a)(iv).
-2. After the conclusion of Fiscal Year 2021, the parties shall calculate the savings realized during
-the 3 year period. In the event that the MLC has generated more than $600 million in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings
+2. After the conclusion of Fiscal Year 2021, the parties shall calculate the savings realized during the 3 year period. In the event that the MLC has generated more than $600 million in recurring healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings
 shall be utilized as follows:
 a. The first $68 million will be used by the City to make a $100 per member per year increase to welfare funds (actives and retirees) effective July 1, 2021. If a savings amount over $600 million but less than $668 million is achieved, the $100 per member per year (actives and retirees) increase will be prorated.
 b. Any savings thereafter shall be split equally between the City and the MLC and applied in a manner agreed to by the parties.
-3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the
-parties shall authorize the quarterly provision of the following data to the City's and MC's actuaries on an ongoing quarterly basis: (1) detailed claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
+3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the parties shall authorize the quarterly provision of the following data to the City's and MC's actuaries on an ongoing quarterly basis: (1) detailed claim-level health data from Emblem Health and Empire Blue Cross including detailed claim-level data for City employees covered under the GHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
 utilization data under the HIP-HMO plan. Such data shall be provided within 60 days of the end of each quarterly period. The HIP-HMO utilization data will also be provided to the City's and MLC's actuaries within 60 days of the execution of this letter agreement for City Fiscal Year 2018 as baseline information to assess ongoing savings. The HIP-HMO data shall include: (i)
 utilization by procedure for site of service benefit changes; (ii) utilization by disease state, by procedure (for purposes of assessing Centers of Excellence); and (ill) member engagement data for the Wellness program, including stratifying members by three tranches (level I, II and II).
 The data shall include baseline data as well as data regarding the assumptions utilized in determining expected savings for comparison. The data described in this paragraph shall be provided pursuant to a data sharing agreement entered into by the City and MLC, akin to prior data agreements, which shall provide for the protection of member privacy and related concerns, shall cover all periods addressed by this Agreement (i.e., through June 30, 2021 and thereafter), and shall be executed within thirty days of the execution of this letter agreement.
 2
 
-
-4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
-payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
+4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
 2018 and July 1, 2019.
-5. The parties recognize that despite extraordinary savings to health costs accomplished in the last
-round of negotiations through their efforts and the innovation of the MLC, and the further savings which shall be implemented as a result of this agreement, that the longer term sustainability of health care for workers and their families, requires further study, savings and efficiencies in the method of health care delivery. To that end, the parties will within 90 days establish a Tripartite Health Insurance Policy Committee of MLC and City members, chaired by one member each appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study the issues using appropriate data and recommend for implementation as soon as practicable during the term of this Agreement but no later than June 30, 2020, modifications to the way in which health care is currently provided or funded. Among the topics the Committee shall
+5. The parties recognize that despite extraordinary savings to health costs accomplished in the last round of negotiations through their efforts and the innovation of the MLC, and the further savings which shall be implemented as a result of this agreement, that the longer term sustainability of health care for workers and their families, requires further study, savings and efficiencies in the method of health care delivery. To that end, the parties will within 90 days establish a Tripartite Health Insurance Policy Committee of MLC and City members, chaired by one member each appointed by the MLC and the City, and Martin F. Scheinman, Esq. The Committee shall study the issues using appropriate data and recommend for implementation as soon as practicable during the term of this Agreement but no later than June 30, 2020, modifications to the way in which health care is currently provided or funded. Among the topics the Committee shall
 discuss:
 a. Self-insurance and/or minimum premium arrangements for the HIP HMO plan.
 b. Medicare Advantage- adoption of a Medicare Advantage benchmark plan for retirees c. Consolidated Drug Purchasing- welfare funds, PICA and health plan prescription costs pooling their buying power and resources to purchase prescription drugs.
@@ -694,14 +727,11 @@ e. Audits and Coordination of Benefits- audit insurers for claims and financial 
 f. Other areas- Centers of Excellence for specific conditions; Hospital and provider tiering; Precertification Fees; Amendment of Medicare Part B reimbursement; Reduction of cost for Pre-Medicare retirees who have access to other coverage; Changes to the Senior Care rate; Changes to the equalization formula.
 g. Potential RFPs for all medical and hospital benefits.
 h. Status of the Stabilization Fund The Committee will make recommendations to be considered by the MLC and the City.
-6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee
-(THIPC) and shall be independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address areas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC will each be responsible for the costs of its actuary.
-7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer
-in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
+6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee (THIPC) and shall be independent of the existing "Technical Committee." The "Technical Committee" will continue its work and will work in conjunction with the THIPC as designated above to address areas of health benefit changes. The Technical Committee will continue to be supported by separate actuaries for the City and the MLC. The City and the MLC will each be responsible for the costs of its actuary.
+7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
 2014 City/MLC Health Agreement:
 a. Such dispute shall be resolved within 90 days.
 3
-
 
 b. The arbitrator shall have the authority to impose interim relief that is consistent with the parties' intent.
 The arbitrator shall have the authority to meet with the parties as such times as is appropriate to enforce the terms of this agreement.
