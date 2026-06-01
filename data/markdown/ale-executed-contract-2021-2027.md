@@ -350,7 +350,7 @@ All Member Aides who are working for a Council Member that leaves office before 
 
 <a id="article-viii-new-session-reorganization-period-p11"></a>
 ## Article VIII — NEW SESSION REORGANIZATION PERIOD
-_Page 11_ · _OCR-reconstructed_ · _Topics: overtime, holidays, vacation, sick-leave, other-leave, discipline_
+_Page 11_ · _OCR-reconstructed_ · _Topics: wages, overtime, holidays, vacation, sick-leave, other-leave, discipline_
 
 In the event a Council Member serves successive terms, at the beginning of the new term, any employee that had worked for the Member's Office in the previous term for at least 9 months and continued to remain employed at the end of that term will be subject to a new session reorganization period for the new term. The duration of this period will be 60 calendar days, starting from the first day of the Member's new term. A Council Member may separate staff from service during this 60-day period without employee access to the disciplinary procedure described in Article VII, Section 9.
 9
@@ -1268,7 +1268,7 @@ IX.
 
 <a id="parental-leave-p33"></a>
 ### PARENTAL LEAVE
-_Page 33_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, parental-leave, other-leave, training_
+_Page 33_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, parental-leave, other-leave, hours, training_
 
 Upon request, an employee may take a parental leave of absence in connection with the birth of a child or the placement of a child with the employee for adoption or foster care. As described below, an employee's parental leave of absence may include paid parental leave in conjunction with other forms of leave (paid or unpaid), up to 80 workdays (560 hours) within When an employee's use of paid parental leave is foreseeable, the employee must provide at least thirty calendar days'
 advance notice to their supervisor prior to the beginning of the leave period.

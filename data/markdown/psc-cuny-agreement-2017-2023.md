@@ -6067,7 +6067,7 @@ consideration for another three-year appointment at the conclusion of the curren
 
 <a id="dedicated-sick-leave-program-p141"></a>
 ### DEDICATED SICK LEAVE PROGRAM
-_Page 141_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, parental-leave, grievance, discipline, safety_
+_Page 141_ · _OCR-reconstructed_ · _Topics: wages, overtime, vacation, sick-leave, parental-leave, grievance, discipline, safety_
 
 This program has been included as an Appendix solely for ease of reference. The parties acknowledge and agree that this is a University program, the terms of which were not bargained. The parties accordingly agree that it is not subject to the terms of Article 20 of this Agreement, including the grievance process.
 I. Program Description

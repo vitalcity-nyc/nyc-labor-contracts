@@ -63,7 +63,7 @@ sector: "other"
 
 <a id="page-1-p1"></a>
 ### Page 1
-_Page 1_ · _OCR-reconstructed_
+_Page 1_ · _OCR-reconstructed_ · _Topics: wages_
 
 THE COMPTROLLER OF THE CITY OF NEW YORK
 In the matter of the Complaint of
@@ -109,7 +109,7 @@ New York, NY 10011-7296
 
 <a id="page-3-p3"></a>
 ### Page 3
-_Page 3_ · _OCR-reconstructed_
+_Page 3_ · _OCR-reconstructed_ · _Topics: wages_
 
 BEFORE THE COMPTROLLER OF THE CITY OF NEW YORK
 In the Matter of the Complaints on behalf of employees in the title:
@@ -132,7 +132,7 @@ been for the above mentioned employees of the City of New York, et al., as follo
 
 <a id="page-4-p4"></a>
 ### Page 4
-_Page 4_ · _OCR-reconstructed_
+_Page 4_ · _OCR-reconstructed_ · _Topics: overtime, holidays, grievance, hours_
 
 MAINTENANCE WORKER
 PERIOD
@@ -260,7 +260,7 @@ day is part of the regular work week.
 
 <a id="page-5-p5"></a>
 ### Page 5
-_Page 5_ · _OCR-reconstructed_
+_Page 5_ · _OCR-reconstructed_ · _Topics: overtime, holidays, vacation, sick-leave, hours, shift-differential_
 
 Work performed in excess of the regularly scheduled forty (40) hours shall be paid for in
 cash at the aforesaid overtime rate. For the purposes of this paragraph, paid holidays shall be
@@ -309,7 +309,7 @@ At the beginning of the employee's 9th year
 
 <a id="page-6-p6"></a>
 ### Page 6
-_Page 6_ · _OCR-reconstructed_
+_Page 6_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, health-welfare, hours, work-rules_
 
 *Annual Leave at the Housing Authority includes vacation, sick, personal business and religious observance days.
 These provisions supersede the annual leave accrual schedule set forth in the Personnel Rules and Regulations of the
@@ -345,7 +345,7 @@ Effective January 2, 2026, there shall be an increase of $31.25 per employee per
 
 <a id="page-7-p7"></a>
 ### Page 7
-_Page 7_ · _OCR-reconstructed_
+_Page 7_ · _OCR-reconstructed_ · _Topics: health-welfare, pension_
 
 $1,886.25 per annum per active employee and $2,086.25 per annum per retiree. Effective January 2,
 2027, there shall be an increase of $168.75 per employee per annum, for a rate of $2,055 per annum
@@ -373,7 +373,7 @@ prorated amount, which is calculated against an eight hour day, up to a maximum 
 
 <a id="page-8-p8"></a>
 ### Page 8
-_Page 8_ · _OCR-reconstructed_
+_Page 8_ · _OCR-reconstructed_ · _Topics: wages, overtime_
 
 annum. For the purposes of these payments, excluded from paid working days are all scheduled
 days off, all days in non-pay status, and all paid overtime.
@@ -403,7 +403,7 @@ increase, whichever is later, to the date of actual payment,
 
 <a id="page-9-p9"></a>
 ### Page 9
-_Page 9_ · _OCR-reconstructed_
+_Page 9_ · _OCR-reconstructed_ · _Topics: overtime, holidays, hours_
 
 (2) Interest on shift differentials, holiday and overtime pay shall accrue at the rate of
 three percent (3%) per annum from one hundred twenty (120) days following their
@@ -436,7 +436,7 @@ supplemental benefits of any kind whatsoever, are merged in this compromise and 
 
 <a id="page-10-p10"></a>
 ### Page 10
-_Page 10_ · _OCR-reconstructed_
+_Page 10_ · _OCR-reconstructed_ · _Topics: wages_
 
 period of the compromise and settlement contained herein.
 i) The foregoing basic rates of wages and supplemental benefits are due and payable to
@@ -490,7 +490,7 @@ TERM: January 2, 2022 through February 1, 2027
 
 <a id="page-12-p12"></a>
 ### Page 12
-_Page 12_ · _OCR-reconstructed_
+_Page 12_ · _OCR-reconstructed_ · _Topics: wages, discipline_
 
 GENERAL RELEASE AND WAIVER
 Local 237, I.B.T. (hereinafter referred to as the "Union"), as the certified collective
@@ -531,7 +531,7 @@ Local 237, I.B.T.
 
 <a id="page-13-p13"></a>
 ### Page 13
-_Page 13_ · _OCR-reconstructed_
+_Page 13_ · _OCR-reconstructed_ · _Topics: parental-leave, other-leave, recognition_
 
 The
 City of
@@ -582,7 +582,7 @@ The lump sum cash payment shall be pensionable, consistent with applicable law.
 
 <a id="page-14-p14"></a>
 ### Page 14
-_Page 14_ · _OCR-reconstructed_
+_Page 14_ · _OCR-reconstructed_ · _Topics: wages_
 
 below.
 V.
@@ -656,7 +656,7 @@ GREGORY FLOYD
 
 <a id="page-16-p16"></a>
 ### Page 16
-_Page 16_ · _OCR-reconstructed_
+_Page 16_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, parental-leave_
 
 IN THE EVENT OF ANY INCONSISTENCY BETWEEN APPENDIX A AND
 REQUIREMENTS IMPOSED BY FEDERAL, STATE, OR LOCAL LAW, SUCH AS
@@ -703,7 +703,7 @@ In the calculation of annual leave credits, a full month's credit shall be given
 
 <a id="page-17-p17"></a>
 ### Page 17
-_Page 17_ · _OCR-reconstructed_
+_Page 17_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
 
 2
 employee who has been in full pay status for at least 15 calendar days during that month,
@@ -746,7 +746,7 @@ The normal unit of charge against annual leave allowance for vacation and person
 
 <a id="page-18-p18"></a>
 ### Page 18
-_Page 18_ · _OCR-reconstructed_
+_Page 18_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, sick-leave_
 
 3
 business shall be one-half day. Smaller units of charge are authorized for time lost due to
@@ -790,7 +790,7 @@ two days of unused sick leave accumulation, to a maximum of one hundred (100) da
 
 <a id="page-19-p19"></a>
 ### Page 19
-_Page 19_ · _OCR-reconstructed_
+_Page 19_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
 
 4
 Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of
@@ -828,7 +828,7 @@ least 15 calendar days in each month during this period, and (b) if an employee 
 
 <a id="page-20-p20"></a>
 ### Page 20
-_Page 20_ · _OCR-reconstructed_
+_Page 20_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave, other-leave_
 
 5
 credits under this rule for several months in the vacation year because he has been in full pay
@@ -868,7 +868,7 @@ Absence required because of Health Department ruling with respect to quarantine.
 
 <a id="page-21-p21"></a>
 ### Page 21
-_Page 21_ · _OCR-reconstructed_
+_Page 21_ · _OCR-reconstructed_ · _Topics: parental-leave, promotion_
 
 e.
 6
@@ -906,7 +906,7 @@ City Personnel Director for agencies headed by appointed officials.
 
 <a id="page-22-p22"></a>
 ### Page 22
-_Page 22_ · _OCR-reconstructed_
+_Page 22_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, other-leave, layoff, safety, promotion_
 
 7
 Section 3
@@ -940,7 +940,7 @@ or the agency concerned, as the case may be, from the proceeds of the recovery b
 
 <a id="page-23-p23"></a>
 ### Page 23
-_Page 23_ · _OCR-reconstructed_
+_Page 23_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, safety_
 
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form
@@ -985,7 +985,7 @@ another, and
 
 <a id="page-24-p24"></a>
 ### Page 24
-_Page 24_ · _OCR-reconstructed_
+_Page 24_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, pension_
 
 c. The injured employee undergoes such medical examinations as are requested by
 the Workmen's Compensation Division of the Law Department and his agency; and when found
@@ -1022,7 +1022,7 @@ Christmas Day
 
 <a id="page-25-p25"></a>
 ### Page 25
-_Page 25_ · _OCR-reconstructed_
+_Page 25_ · _OCR-reconstructed_ · _Topics: wages, health-welfare_
 
 ROBERT W. LINN
 Commissioner
@@ -1220,7 +1220,7 @@ and shall be executed within thirty days of the execution of this letter agreeme
 
 <a id="page-30-p30"></a>
 ### Page 30
-_Page 30_ · _OCR-reconstructed_
+_Page 30_ · _OCR-reconstructed_ · _Topics: health-welfare_
 
 4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
 payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,

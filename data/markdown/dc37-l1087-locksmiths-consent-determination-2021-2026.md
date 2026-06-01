@@ -634,7 +634,7 @@ Upon reinstatement of an employee to a permanent position, unused sick leave and
 
 <a id="section-4-p20"></a>
 ### Section 4
-_Page 20_ · _OCR-reconstructed_ · _Topics: vacation, safety_
+_Page 20_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave, safety_
 
 Subject to limitations of Art. I, Sec. 8 above, the annual leave allowance and the sick leave allowance herein granted shall be applicable to part-time employees on a pro-rated basis.
 VI.

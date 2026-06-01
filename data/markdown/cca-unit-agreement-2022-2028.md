@@ -27,7 +27,7 @@ sector: "other"
 
 <a id="page-1-p1"></a>
 ### Page 1
-_Page 1_ · _OCR-reconstructed_
+_Page 1_ · _OCR-reconstructed_ · _Topics: health-welfare_
 
 The
 City of
@@ -75,7 +75,7 @@ pursuant to agreements between the City and Municipal Labor Committee.
 
 <a id="page-2-p2"></a>
 ### Page 2
-_Page 2_ · _OCR-reconstructed_
+_Page 2_ · _OCR-reconstructed_ · _Topics: wages, other-leave, grievance, hours_
 
 3. As soon as practicable after November 30, 2027, the City shall make a one-time lump
 sum annuity contribution of $4,518,304, which shall be distributed by the annuity fund in
@@ -111,7 +111,7 @@ Renee Campion
 
 <a id="page-3-p3"></a>
 ### Page 3
-_Page 3_ · _OCR-reconstructed_
+_Page 3_ · _OCR-reconstructed_ · _Topics: hours_
 
 The
 City of

@@ -61,7 +61,7 @@ sector: "other"
 
 <a id="page-1-p1"></a>
 ### Page 1
-_Page 1_ · _OCR-reconstructed_
+_Page 1_ · _OCR-reconstructed_ · _Topics: wages_
 
 THE COMPTROLLER OF THE CITY OF NEW YORK
 In the matter of the Complaint of
@@ -109,7 +109,7 @@ New York, NY 10011-7296
 
 <a id="page-3-p3"></a>
 ### Page 3
-_Page 3_ · _OCR-reconstructed_
+_Page 3_ · _OCR-reconstructed_ · _Topics: wages_
 
 BEFORE THE COMPTROLLER OF THE CITY OF NEW YORK
 In the Matter of the Complaints of
@@ -133,7 +133,7 @@ have been for the above-mentioned employees of the City of New York. et al.. as 
 
 <a id="page-4-p4"></a>
 ### Page 4
-_Page 4_ · _OCR-reconstructed_
+_Page 4_ · _OCR-reconstructed_ · _Topics: overtime, health-welfare, hours, shift-differential_
 
 CEMENT MASON
 PERIOD
@@ -182,7 +182,7 @@ to $2,055. The per annum per employee retiree contribution will increase from $2
 
 <a id="page-5-p5"></a>
 ### Page 5
-_Page 5_ · _OCR-reconstructed_
+_Page 5_ · _OCR-reconstructed_ · _Topics: wages, health-welfare, pension_
 
 $2,255. The contributions shall be paid per complainant by the City of New York to the Welfare
 Fund, Local 237 International Brotherhood of Teamsters, 216 West 14th Street, New York, N.Y.
@@ -212,7 +212,7 @@ for each hour worked, irrespective of any upward modification by reason of impos
 
 <a id="page-6-p6"></a>
 ### Page 6
-_Page 6_ · _OCR-reconstructed_
+_Page 6_ · _OCR-reconstructed_ · _Topics: holidays, vacation, sick-leave, pension_
 
 tax, lien, attorneys' fee or otherwise, and provided further that the amount of contributions by
 the City shall be limited solely to the payments as provided herein.
@@ -265,7 +265,7 @@ Per Month (hh:mm)
 
 <a id="page-7-p7"></a>
 ### Page 7
-_Page 7_ · _OCR-reconstructed_
+_Page 7_ · _OCR-reconstructed_ · _Topics: wages, overtime, holidays, hours_
 
 a) The provisions of this Consent Determination shall be consistent with the applicable
 provisions of the New York State Financial Emergency Act for the City of New York, as
@@ -293,7 +293,7 @@ part with respect to any provision made herein and for any additional benefits o
 
 <a id="page-8-p8"></a>
 ### Page 8
-_Page 8_ · _OCR-reconstructed_
+_Page 8_ · _OCR-reconstructed_ · _Topics: wages, overtime, holidays, hours_
 
 contained herein excepting that the right is reserved to bring any necessary proceedings for the
 enforcement of the terms of the Consent Determination.
@@ -358,7 +358,7 @@ New York, New York
 
 <a id="page-10-p10"></a>
 ### Page 10
-_Page 10_ · _OCR-reconstructed_
+_Page 10_ · _OCR-reconstructed_ · _Topics: wages, discipline_
 
 UNIT: Cement Masons
 TERM: September 27, 2020 through October 26, 2025
@@ -454,7 +454,7 @@ Renee Campion
 
 <a id="page-12-p12"></a>
 ### Page 12
-_Page 12_ · _OCR-reconstructed_
+_Page 12_ · _OCR-reconstructed_ · _Topics: parental-leave, other-leave, recognition_
 
 The
 City of
@@ -505,7 +505,7 @@ The lump sum cash payment shall be pensionable, consistent with applicable law.
 
 <a id="page-13-p13"></a>
 ### Page 13
-_Page 13_ · _OCR-reconstructed_
+_Page 13_ · _OCR-reconstructed_ · _Topics: wages_
 
 below.
 V.
@@ -530,7 +530,7 @@ Rence Campion
 
 <a id="page-14-p14"></a>
 ### Page 14
-_Page 14_ · _OCR-reconstructed_
+_Page 14_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, parental-leave_
 
 IN THE EVENT OF ANY INCONSISTENCY BETWEEN APPENDIX A AND
 REQUIREMENTS IMPOSED BY FEDERAL, STATE, OR LOCAL LAW, SUCH AS
@@ -577,7 +577,7 @@ In the calculation of annual leave credits, a full month's credit shall be given
 
 <a id="page-15-p15"></a>
 ### Page 15
-_Page 15_ · _OCR-reconstructed_
+_Page 15_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
 
 2
 employee who has been in full pay status for at least 15 calendar days during that month,
@@ -619,7 +619,7 @@ The normal unit of charge against annual leave allowance for vacation and person
 
 <a id="page-16-p16"></a>
 ### Page 16
-_Page 16_ · _OCR-reconstructed_
+_Page 16_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, sick-leave_
 
 3
 business shall be one-half day. Smaller units of charge are authorized for time lost due to
@@ -663,7 +663,7 @@ two days of unused sick leave accumulation, to a maximum of one hundred (100) da
 
 <a id="page-17-p17"></a>
 ### Page 17
-_Page 17_ · _OCR-reconstructed_
+_Page 17_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
 
 4
 Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of
@@ -701,7 +701,7 @@ least 15 calendar days in each month during this period, and (b) if an employee 
 
 <a id="page-18-p18"></a>
 ### Page 18
-_Page 18_ · _OCR-reconstructed_
+_Page 18_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave, other-leave_
 
 5
 credits under this rule for several months in the vacation year because he has been in full pay
@@ -742,7 +742,7 @@ Absence required because of Health Department ruling with respect to quarantine.
 
 <a id="page-19-p19"></a>
 ### Page 19
-_Page 19_ · _OCR-reconstructed_
+_Page 19_ · _OCR-reconstructed_ · _Topics: parental-leave, promotion_
 
 6
 e.
@@ -779,7 +779,7 @@ City Personnel Director for agencies headed by appointed officials.
 
 <a id="page-20-p20"></a>
 ### Page 20
-_Page 20_ · _OCR-reconstructed_
+_Page 20_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, other-leave, layoff, safety, promotion_
 
 7
 Section 3
@@ -814,7 +814,7 @@ or the agency concerned, as the case may be, from the proceeds of the recovery b
 
 <a id="page-21-p21"></a>
 ### Page 21
-_Page 21_ · _OCR-reconstructed_
+_Page 21_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, safety_
 
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form
@@ -857,7 +857,7 @@ another, and
 
 <a id="page-22-p22"></a>
 ### Page 22
-_Page 22_ · _OCR-reconstructed_
+_Page 22_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, pension_
 
 9
 c. The injured employee undergoes such medical examinations as are requested by
@@ -896,7 +896,7 @@ Christmas Day
 
 <a id="page-23-p23"></a>
 ### Page 23
-_Page 23_ · _OCR-reconstructed_
+_Page 23_ · _OCR-reconstructed_ · _Topics: wages, health-welfare_
 
 ROBERT W. LINN
 Commissioner
@@ -1095,7 +1095,7 @@ and shall be executed within thirty days of the execution of this letter agreeme
 
 <a id="page-28-p28"></a>
 ### Page 28
-_Page 28_ · _OCR-reconstructed_
+_Page 28_ · _OCR-reconstructed_ · _Topics: health-welfare_
 
 4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
 payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,

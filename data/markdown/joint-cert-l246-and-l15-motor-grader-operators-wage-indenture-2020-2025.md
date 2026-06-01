@@ -27,7 +27,7 @@ sector: "skilled-trades"
 
 <a id="page-1-p1"></a>
 ### Page 1
-_Page 1_ · _OCR-reconstructed_
+_Page 1_ · _OCR-reconstructed_ · _Topics: wages, parental-leave, other-leave_
 
 2020-2025 Memorandum of Agreement
 Motor Grader Operator
@@ -74,7 +74,7 @@ MOA shall be payable as soon as practicable upon ratification of this MOA.
 
 <a id="page-2-p2"></a>
 ### Page 2
-_Page 2_ · _OCR-reconstructed_
+_Page 2_ · _OCR-reconstructed_ · _Topics: wages, health-welfare_
 
 5. Annuity
 a.

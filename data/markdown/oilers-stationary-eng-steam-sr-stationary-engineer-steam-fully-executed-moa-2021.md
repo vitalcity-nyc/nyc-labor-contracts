@@ -39,7 +39,7 @@ sector: "skilled-trades"
 
 <a id="page-1-p1"></a>
 ### Page 1
-_Page 1_ · _OCR-reconstructed_
+_Page 1_ · _OCR-reconstructed_ · _Topics: wages, parental-leave, other-leave_
 
 2021-2026 Local 15/ Local 30
 Oilers, Stationary Engineer and Senior Stationary Engineer
@@ -80,7 +80,7 @@ soon as practicable upon ratification of this MOA.
 
 <a id="page-2-p2"></a>
 ### Page 2
-_Page 2_ · _OCR-reconstructed_
+_Page 2_ · _OCR-reconstructed_ · _Topics: wages, training_
 
 b. The general wage increases pursuant to Section 2.a., 2.b. and 2.c. of this MOA shall
 be payable as soon as practicable upon ratification of this MOA.
@@ -135,7 +135,7 @@ Date: November 14, 2023
 
 <a id="page-4-p4"></a>
 ### Page 4
-_Page 4_ · _OCR-reconstructed_
+_Page 4_ · _OCR-reconstructed_ · _Topics: wages_
 
 The
 City of
@@ -243,7 +243,7 @@ Determination:
 
 <a id="page-7-p7"></a>
 ### Page 7
-_Page 7_ · _OCR-reconstructed_
+_Page 7_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, sick-leave, health-welfare_
 
 Annual Welfare Fund contribution
 Hourly Annuity contribution
@@ -283,7 +283,7 @@ Engineer “A” rate.
 
 <a id="page-8-p8"></a>
 ### Page 8
-_Page 8_ · _OCR-reconstructed_
+_Page 8_ · _OCR-reconstructed_ · _Topics: wages_
 
 negotiated for the period commencing March 1, 2026 through a date to be determined by
 the parties will be consistent with the wage and benefit formulas in 2. and 3.b.i. through v.

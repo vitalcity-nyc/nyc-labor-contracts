@@ -229,7 +229,7 @@ _
 
 <a id="general-release-and-waiver-p7"></a>
 ### GENERAL RELEASE AND WAIVER
-_Page 7_ · _OCR-reconstructed_ · _Topics: wages, other-leave, discipline, recognition_
+_Page 7_ · _OCR-reconstructed_ · _Topics: wages, parental-leave, other-leave, discipline, recognition_
 
 Local 14, I.U.O.E., AFL-CIO, (hereinafter referred to as the "Union"), as the certified collective bargaining representative of employees in the title, Crane Operator (including specialties), Captain (Engineer), and Supervisor Crane Operator (AMPES) for and in consideration of the wage rates and supplemental benefit package negotiated and agreed upon by the Union and the City of New York as set forth in a collective bargaining agreement for the period January 3, 2021 through February 2, 2026, a copy of which has been made available to the Union, hereby
 voluntarily and knowingly agrees to:

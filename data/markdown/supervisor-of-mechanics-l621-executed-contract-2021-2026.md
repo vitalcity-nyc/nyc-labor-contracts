@@ -752,7 +752,7 @@ The Union may post notices on bulletin boards in places and locations where noti
 
 <a id="article-xi-personnel-and-pay-practices-p28"></a>
 ## Article XI — PERSONNEL AND PAY PRACTICES
-_Page 28_ · _Topics: vacation, layoff, hours_
+_Page 28_ · _Topics: vacation, layoff, hours, promotion_
 
 Section 1.
 The Employer agrees to authorize all agencies, covered hereunder, effective January 1, 1971, to estab1ish imprest funds for the reimbursement to employees of all necessary and authorized carfare, telephone, automobile and meal expenses and such other types of expenses as the Comptroller may approve. The funds shall be administered in accordance with the rules and regulations of the Comptroller.

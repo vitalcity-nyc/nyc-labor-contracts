@@ -152,7 +152,7 @@ iv. Employees of the Comptroller, the District Attorneys, the Borough Presidents
 
 <a id="section-2-exclusions-p3"></a>
 ### Section 2 — Exclusions
-_Page 3_ · _Topics: wages, sick-leave, parental-leave, other-leave, pension, discipline, layoff, hours, safety, promotion_
+_Page 3_ · _Topics: wages, sick-leave, parental-leave, other-leave, pension, discipline, layoff, hours, safety, work-rules, promotion_
 
 a. Prevailing rate employees are excluded from the coverage of this Agreement.
 b. Managerial, confidential, exempt civil service employees, and other employees ineligible for collective bargaining are excluded from the coverage of this Agreement.
@@ -679,7 +679,7 @@ Effective July I, 200 I 28¢ per mile
 
 <a id="article-ix-personnel-and-pay-practices-p32"></a>
 ## Article IX — PERSONNEL AND PAY PRACTICES
-_Page 32_ · _Topics: wages, overtime, sick-leave, pension, hours, promotion_
+_Page 32_ · _Topics: wages, overtime, vacation, sick-leave, pension, hours, promotion_
 
 Section 1.
 All regular paychecks of City employees shall be itemized to include overtime, additional wage benefits (including back pay), and differentials.

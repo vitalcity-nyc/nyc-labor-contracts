@@ -66,6 +66,13 @@
     <p>These five contracts cover roughly <strong>50,000 additional NYC public-sector unionized employees</strong>. Each is flagged in the contracts directory with its source ("olr-direct" or "cuny-direct") to distinguish from the OLR Recent Agreements set.</p>
     <p><em>Still missing:</em> the post-2023 NYSNA H+H pay-parity successor agreement, and any UFA/UFOA award from the current arbitration round. Both are tracked here for future ingestion when published.</p>
 
+    <h2 id="ocr-corrections">OCR accuracy and corrections</h2>
+    <p>Because most source PDFs are scanned images, the OCR text can contain misread words. Two kinds of cleanup have been applied:</p>
+    <ul>
+      <li><strong>Token corrections.</strong> Multiple review passes (a fuzzy edit-distance scanner against a corpus-derived wordlist, followed by manual review) have fixed roughly 1,000 high-confidence single-token misreads — for example <em>employce&nbsp;&rarr;&nbsp;employee</em>, <em>Depuly&nbsp;&rarr;&nbsp;Deputy</em>, <em>earnable</em> mis-scanned as <em>carnable</em>. Each correction is scoped to the specific contract(s) where it occurs and recorded in <code>data/ocr-corrections-batch*.json</code> for auditability. The seven worst-quality contracts were re-OCR'd from scratch via Google Cloud Vision.</li>
+      <li><strong>Text-native re-sourcing.</strong> Where a union publishes a clean, text-native copy of the same agreement, the full text is taken from that copy instead of OCR — eliminating scan errors entirely. The <strong>CIR 2021-2027</strong> contract was re-sourced from the <a href="https://www.cirseiu.org/wp-content/uploads/2024/09/H-H-Final-Contract-2021-2027-Revised-9.23.24.pdf" target="_blank" rel="noopener">union's published final contract</a> (dropping it from 52 OCR pages to 2), and the <strong>PSC-CUNY 2023-2027 MOA</strong> from the <a href="https://psc-cuny.org/wp-content/uploads/2024/12/PSC-CUNY-Memorandum-of-Agreement-2023-2027.pdf" target="_blank" rel="noopener">PSC's published MOA</a> (from 55 OCR pages to 0). The OLR/CUNY scan remains the canonical executed version linked from each contract's detail page; only the searchable text was upgraded.</li>
+    </ul>
+
     <h2>Limitations</h2>
     <ul>
       <li><strong>OCR is not perfect.</strong> Scanned pages may have spelling errors that would not appear in a clean text PDF. The <span class="ocr-flag">OCR</span> flag tells you when to be cautious. Always verify by clicking through to the source PDF.</li>

@@ -30,7 +30,7 @@ wage_cumulative_pct: 18.77
 
 <a id="page-1-p1"></a>
 ### Page 1
-_Page 1_ · _OCR-reconstructed_
+_Page 1_ · _OCR-reconstructed_ · _Topics: wages_
 
 "2022- 2027" Uniformed Officers Coalition Economic Agreement
 ("UOCEA")
@@ -70,7 +70,7 @@ Unit Agreement, Employees shall receive a rate increase of
 
 <a id="page-2-p2"></a>
 ### Page 2
-_Page 2_ · _OCR-reconstructed_
+_Page 2_ · _OCR-reconstructed_ · _Topics: wages_
 
 (IE)
 Effective on the first day of the 13th month of the applicable
@@ -118,7 +118,7 @@ applicable Successor Separate Unit Agreement.
 
 <a id="page-3-p3"></a>
 ### Page 3
-_Page 3_ · _OCR-reconstructed_
+_Page 3_ · _OCR-reconstructed_ · _Topics: wages, grievance_
 
 o. The increases provided in this Section 3 shall be applied to the base rates
 and salary grades fixed for the applicable titles, except as may be modified

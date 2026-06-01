@@ -489,7 +489,7 @@ Upon reinstatement of an employee to a permanent positio11y unused sick leave an
 
 <a id="section-4-p21"></a>
 ### Section 4
-_Page 21_ · _Topics: wages, vacation, safety_
+_Page 21_ · _Topics: wages, vacation, sick-leave, safety_
 
 Subject to limitations of An. I, Sec. ~ above, the annual leave allowance and the sick leave allowance herein granted shall be applicable to part-time employees on a pro-rated basis.
 n ABUNCE DUE TO INJURY INClJRRm IN THE PERFORMANCE OF omCIAL PJ1TIF8 Sectjont Whenever an employee. not covered by Workmen's Compensation, is physically disabled in the performance of bis official duties, the head of the agency is empowered to grant such employee a leave of absence with pay not to exceed one calendar year. In such case the eIIJ:l>loyee lhall be required to execute an agreement, whemn it is stipulated that, in the event that such employee makes any claim or instirur.es any action against any pany whatsoever in relation to such disability, reimbursement in the amount of such pay shall be made to the City or the agency com::emed, as the case may be. from the proceeds of the recovery by such

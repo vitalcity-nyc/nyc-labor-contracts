@@ -360,7 +360,7 @@ with future general wage increases.
 
 <a id="article-iv-health-and-welfare-benefits-p7"></a>
 ## Article IV — HEALTH AND WELFARE BENEFITS
-_Page 7_ · _OCR-reconstructed_ · _Topics: wages, health-welfare_
+_Page 7_ · _OCR-reconstructed_ · _Topics: wages, health-welfare, pension_
 
 Section 1.
 (a)

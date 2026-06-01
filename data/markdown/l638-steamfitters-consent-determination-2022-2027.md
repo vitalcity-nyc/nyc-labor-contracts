@@ -559,7 +559,7 @@ Upon reinsw.ement of an employee to a permanent position, unused sick leave and 
 
 <a id="section-4-p23"></a>
 ### Section 4
-_Page 23_ · _Topics: vacation_
+_Page 23_ · _Topics: vacation, sick-leave_
 
 Subject to limitations of An. I, Sec. 8 above, the annual leave allowance and the sick leave allowance herein granted shall be applicable to pan-time employees on a pro-rated basis.
 YI. IN
