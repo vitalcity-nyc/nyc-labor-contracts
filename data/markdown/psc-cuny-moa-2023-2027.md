@@ -29,23 +29,26 @@ headcount_approx: 30000
 
 ## Contents
 
-- [THE PROFESSIONAL STAFF CONGRESS/CUNY](#the-professional-staff-congress-cuny-p1)
-- [Article 15 — 1(b).](#article-15-1-b-p5)
-- [Article 25 — 1](#article-25-1-p10)
-- [Article 25 — 2 (a):](#article-25-2-a-p10)
-- [APPENDIX P](#appendix-p-p16)
-- [Article 20 — of the PSC-CUNY collective bargaining agreement.](#article-20-of-the-psc-cuny-collective-bargaining-agreement-p19)
-- [Article 24 — 8 CL T Series/Assistant to HEO/HEO Assistant Differentials for Advanced](#article-24-8-cl-t-series-assistant-to-heo-heo-assistant-diff-p23)
-- [Article 29 — Waiver of Tuition Benefits](#article-29-waiver-of-tuition-benefits-p24)
-- [Article 9 — 10 Pilot](#article-9-10-pilot-p32)
-- [UNIVERSITY](#university-p55)
+- [THE PROFESSIONAL STAFF CONGRESS/CUNY](#page-1)
+- [Article 15 — 1(b).](#page-5)
+- [Article 25 — 1](#page-10)
+- [Article 25 — 2 (a):](#page-10)
+- [APPENDIX P](#page-16)
+- [Article 20 — of the PSC-CUNY collective bargaining agreement.](#page-19)
+- [Article 24 — 8 CL T Series/Assistant to HEO/HEO Assistant Differentials for Advanced](#page-23)
+- [Article 29 — Waiver of Tuition Benefits](#page-24)
+- [Article 9 — 10 Pilot](#page-32)
+- [UNIVERSITY](#page-55)
 
 ---
 
-<a id="the-professional-staff-congress-cuny-p1"></a>
-### THE PROFESSIONAL STAFF CONGRESS/CUNY
-_Page 1_ · _Topics: wages, hours_
+<a id="page-1"></a>
+## Page 1
 
+MEMORANDUM OF AGREEMENT
+FOR A SUCCESSOR COLLECTIVE BARGAINING AGREEMENT
+BETWEEN THE CITY UNIVERSITY OF NEW YORK AND
+THE PROFESSIONAL STAFF CONGRESS/CUNY
 This "Memorandum of Agreement" (hereinafter, also "Agreement") is effective
 upon final approval which is the latter date of membership ratification and
 approval by the Trustees of CUNY.
@@ -76,6 +79,8 @@ September 1, 2026.
 Lecturers and Doctoral Lecturers, including all EOC Lecturers, who newly
 attain a CCE after September 1, 2026.
 
+<a id="page-2"></a>
+## Page 2
 
 • A lump-sum payment in the amount of $5,000 will be provided to all full-time
 CL T title series employees who are on payroll as of September 1, 2026, and
@@ -117,6 +122,8 @@ Agreement College Lab Tech Salary Schedule as of March I, 2027.
 2 Increases to the Salary Schedule for HCCS Sr College Lab Techs is limited to those on the PSC-CUNY
 AnrPPmPnt o;;:r rf"\11PoP T o,h TPrh <;:o,bn, <::rhP~111P O>O n f 1\1forr h 1 ?()?7
 
+<a id="page-3"></a>
+## Page 3
 
 2. Assistants to HEO and EOC Assistants to HEO: Effective March 1, 2027, each
 Non Top Step on the Assistant to Higher Education Officer salary schedules
@@ -153,6 +160,8 @@ $129.17 per hour or $7,750 per three contact-hour course
 • Adjunct Professor and Adjunct Professor (H): $137.50 per hour or
 $8,250 per three contact-hour course
 
+<a id="page-4"></a>
+## Page 4
 
 Employees in the teaching adjunct titles - except teaching adjuncts in Medical
 series titles, Law School series titles, Resident series titles, the Graduate
@@ -195,6 +204,8 @@ Lecturer Doctoral & Instructor (H): $7,100 per 3 contact-hour course
 ($2,366.67 per teaching contact hour)
 • Adjunct Assistant Professor and Adjunct Assistant Professor (H): $
 
+<a id="page-5"></a>
+## Page 5
 
 $7,600 per 3 contact-hour course ($2,533.33 per teaching contact hour)
 • Adjunct Associate Professor and Adjunct Associate Professor (H):
@@ -211,11 +222,7 @@ of Attachment 8 - "Adjunct Workload") to the term sheet) in the overload
 course(s) they teach. The remaining responsibilities referenced in
 paragraphs 1c , 1 d, and 1e of Attachment 8 - "Adjunct Workload" shall fall
 within the scope of their full-time employment responsibilities, subject to
-
-<a id="article-15-1-b-p5"></a>
-## Article 15 — 1(b).
-_Page 5_ · _Topics: wages, health-welfare, hours, promotion_
-
+Article 15.1(b).
 • The teaching contact hour will remain the basis for calculating salary and
 benefits eligibility. In the event the conversion from an hourly rate to a course
 rate impacts a benefit or term of employment under the collective bargaining
@@ -240,6 +247,8 @@ mentoring of one's students);
 b. Course-related responsibilities in assigned courses (e.g., teaching, weekly
 office hours; timely grading submission of all course assignments, grade
 
+<a id="page-6"></a>
+## Page 6
 
 appeals, incomplete grade follow-up, timely submission of syllabus in advance
 of the first day of the semester, and timely submission of textbooks);
@@ -281,6 +290,8 @@ Amend Article 15.2
 Adjuncts teaching a jumbo course, as defined and determined by a department or
 college, shall be provided the same workload credit in the same manner and under
 
+<a id="page-7"></a>
+## Page 7
 
 the same conditions that apply to full-time faculty teaching the same course in the
 department.
@@ -319,6 +330,8 @@ teaching adjuncts beginning in the 2025-2026 academic year. Two-year appointment
 and discretionary third years shall be available starting each Fall semester and will
 continue to be available through Fall 2028. For terms of the multi-year appointments
 
+<a id="page-8"></a>
+## Page 8
 
 for Teaching Adjuncts Pilot, see Appendix E attached as Attachment C.
 Adjunct Notification of Appointment and Nonreappointment
@@ -361,6 +374,8 @@ hours per week)
 Amend Article 1.1 - the list of excluded positions section - "Employees in the
 following functions or titles are excluded:"
 
+<a id="page-9"></a>
+## Page 9
 
 • Rename "Office of Labor Designee" to "Office of General Counsel/Labor
 Designee"
@@ -404,6 +419,8 @@ Attachment D.
 Lecturer shall be eligible for consideration for a promotion to a Senior Doctoral
 Lecturer in accordance with bullet #2.
 
+<a id="page-10"></a>
+## Page 10
 
 • CUNY shall establish the qualifications and promotional criteria for P&B's to
 review the candidacies of Lecturers and Doctoral Lecturers for promotion to
@@ -418,11 +435,7 @@ PSC-CUNY Research Awards
 Replace February 27, 2014 Letter Agreement and all other prior and
 subsequent letters with below.
 Modify Article 25
-
-<a id="article-25-1-p10"></a>
-## Article 25 — 1
-_Page 10_
-
+Article 25.1
 The PSC-CUNY Research Awards ("Research Awards") will be funded
 as follows:
 a. Effective July 1, 2025, CUNY will provide $4,184,218 annually.
@@ -435,11 +448,7 @@ of the funds in excess of $250,000 shall be added to the funds
 available for that academic year's PSC-CUNY Research Awards.
 The calculation and contribution of said funds shall be effected by
 December 15 of each year.
-
-<a id="article-25-2-a-p10"></a>
-## Article 25 — 2 (a):
-_Page 10_ · _Topics: discipline, training_
-
+Article 25.2 (a):
 1. Purpose
 It is the intention of the parties that the funds for research and
 scholarly and creative activities shall be available without restriction
@@ -450,6 +459,8 @@ the City or State of New York. The parties intend that the funding
 shall be used to support activities in the creative arts and all
 academically relevant research in the areas of natural science, social
 
+<a id="page-11"></a>
+## Page 11
 
 science and the humanities, including but not limited to· research
 related to curriculum development, improvement in teaching,
@@ -489,6 +500,8 @@ Track 2 Award, a panel chair may submit the Track 2 Award
 application to an "expert" reviewer in the field of the application, in
 accordance with Paragraph 6(c).
 
+<a id="page-12"></a>
+## Page 12
 
 c. Each panel will be composed of a chair and between four (4) and
 twelve (12) additional panel faculty members. Any panel chair who
@@ -537,6 +550,8 @@ University Committee on Research Awards ("UCRA"). There will be
 two Co-Chairs of the UCRA; one to be designated by the Associate
 Vice Chancellor for Research and one by the PSC President. Both
 
+<a id="page-13"></a>
+## Page 13
 
 Co-Chairs shall be selected from among the UCRA members.
 Ideally, the Co-Chairs will serve for a full three-year term. In the
@@ -580,6 +595,8 @@ preceding rolling five-year period (for Track 2 Awards). Effective the
 each year among the eighteen (18) panels, based upon the average
 number of Track 1 and Track 2 applications received in the respective
 
+<a id="page-14"></a>
+## Page 14
 
 disciplines during the preceding rolling five-year period. Each panel
 should fund the Track 1 applications that are deemed meritorious, with
@@ -622,6 +639,8 @@ review and consideration in accordance with Paragraphs 6(e) and
 6(f).
 Upon request, applicants for Track 2 Awards for whom an "expert"
 
+<a id="page-15"></a>
+## Page 15
 
 review is conducted will receive copies of the reviews of their
 applications (with the name of the reviewer redacted) when they are
@@ -665,6 +684,8 @@ their respective designees, may jointly issue clarifications or
 supplementary guidance with respect to the procedures set forth herein.
 The Associate Vice Chancellor for Research and the PSC President will
 
+<a id="page-16"></a>
+## Page 16
 
 consult with the Co-Chairs of the UCRA, as needed.
 9. Periodic Review of Research Awards
@@ -690,11 +711,7 @@ end of the 2028-2029 academic year. For the terms of the Post-Tenure
 Assistant and Associate Professor Reassigned Time Award Pilot, see Appendix
 P.
 Add Appendix P
-
-<a id="appendix-p-p16"></a>
-### APPENDIX P
-_Page 16_ · _Topics: discipline, recognition_
-
+APPENDIX P
 Terms of Post-Tenure Assistant and Associate Professor Reassigned Time Award
 Pilot
 A. Purpose:
@@ -707,6 +724,8 @@ allocated to the pilot as follows:
 2025-2026 Academic Year: 33% of the Research Awards Excess Funds
 Account Balance in excess of $250,000
 
+<a id="page-17"></a>
+## Page 17
 
 2026-2027 Academic Year: 50% of the Research Awards Excess Funds
 Account Balance in excess of $250,000
@@ -749,6 +768,8 @@ proposals will not be considered, and deadlines will not be extended.
 2. A completed award application requires:
 a. A description of the applicant's research project,
 
+<a id="page-18"></a>
+## Page 18
 
 b. List of scholarly goals to accomplish that the reassigned time is
 intended to support.; and
@@ -788,6 +809,8 @@ meritorious award applications as follows:
 Category 1: number of years since tenure;
 Category 2: Within Category 1 - college;
 
+<a id="page-19"></a>
+## Page 19
 
 Category 3: Within Category 2 - application date.
 11. By April 15, the Research Foundation will forward the list of prioritized
@@ -816,11 +839,7 @@ applicants.
 for reassigned time), are final. No appeals or requests for reconsideration will
 be entertained. Award decisions and a college's decision regarding reassigned
 time are neither grievable nor subject to the informal complaint procedures of
-
-<a id="article-20-of-the-psc-cuny-collective-bargaining-agreement-p19"></a>
-## Article 20 — of the PSC-CUNY collective bargaining agreement.
-_Page 19_ · _Topics: wages, parental-leave, pension, hours, recognition, promotion_
-
+Article 20 of the PSC-CUNY collective bargaining agreement.
 Carryover of Department Chair Research Funds & Inclusion of SPS
 Directors under Article 25.6
 Amend Article 25.6
@@ -832,6 +851,8 @@ research account of each department chair and Graduate Center executive officer 
 February I, 2021, and $3,000 on September 1, 2021, and on or before September 1
 every year thereafter.
 
+<a id="page-20"></a>
+## Page 20
 
 Effective September 1, 2025, the University will establish a research account at the
 CUNY Research Foundation for each School of Professional Studies (SPS) Director
@@ -873,6 +894,8 @@ child.
 The negotiated Paid Parental Leave Policy was further amended during
 the negotiations of the 2023-2027 collective bargaining agreement and is
 
+<a id="page-21"></a>
+## Page 21
 
 attached as the new Appendix O (attached to MOA as Attachment E)
 • Effective March 1, 2025, the terms of paid parental leave shall be governed by
@@ -911,6 +934,8 @@ CLT Promotional Opportunities and Assignment Differential
 Replace Article 22.2 and Article 22.5 ("Increased Promotional
 Opportunities") with:
 
+<a id="page-22"></a>
+## Page 22
 
 22.2 (a) In order to increase promotional opportunities for members of the Instructional
 Staff in the College Laboratory Technician titles, and in an effort to reach goals in each
@@ -952,6 +977,8 @@ all CL T promotions.
 22.5 In recognition of the non-promotional status of the Higher Education Officer
 series titles the parties agree that:
 
+<a id="page-23"></a>
+## Page 23
 
 (a) Upon the recommendation of the appropriate supervisory personnel in recognition
 of excellence in performance or increased responsibilities, a HEO-series employee
@@ -975,11 +1002,7 @@ completed applications to the college HR office by July 1 of each year shall rec
 notification of the President's decision no later than the following January 15
 HEO Assistant Advanced Degree Differential
 Amend Article 24.8
-
-<a id="article-24-8-cl-t-series-assistant-to-heo-heo-assistant-diff-p23"></a>
-## Article 24 — 8 CL T Series/Assistant to HEO/HEO Assistant Differentials for Advanced
-_Page 23_ · _Topics: wages, vacation_
-
+Article 24.8 CL T Series/Assistant to HEO/HEO Assistant Differentials for Advanced
 Degrees
 (a) Effective March 19, 2010, College Laboratory Technicians, Senior College
 Laboratory Technicians, Chief College Laboratory Technicians, and Assistants
@@ -999,6 +1022,8 @@ degree from an accredited university in a field related to their job duties shal
 receive a $2,500 annual salary differential.
 CLIP/Start Instructor 2-Year Appointments and Benefits Equity
 
+<a id="page-24"></a>
+## Page 24
 
 Modify Appendix D ("CUNY START and CUNY LANGUAGE IMMERSION
 PROGRAM ("CLIP") INSTRUCTORS")
@@ -1026,11 +1051,12 @@ their annual salary as CUNY Start Instructors.
 Delete subparagraph c. language and replace it with:
 CUNY Start and CLIP instructors shall be covered by the following provisions of
 the PSC-CUNY collective Bargaining Agreement:
-
-<a id="article-29-waiver-of-tuition-benefits-p24"></a>
-## Article 29 — Waiver of Tuition Benefits
-_Page 24_ · _Topics: overtime, grievance, training_
-
+Article 16.4: Travia Leave
+Article 16.8: Special Leaves for Childcare Leave
+Article 16.10: Paid Parental Leave
+Article 16.11: Dedicated Sick Leave and Catastrophic Sick Leave Programs
+Article 26: Welfare Benefits
+Article 29: Waiver of Tuition Benefits
 • Add New #8 (Multi-Year Appointments):
 The parties shall enter into a pilot program for appointments for Fall 2025 through
 Fall 2027 (3 years). Two-year appointments made within the pilot period shall be
@@ -1039,6 +1065,8 @@ through Fall 2027. The parties agree to meet no later than February 1, 2027, to
 determine whether to continue the pilot program or to modify the pilot program
 beyond Fall 2027. The pilot proQram shall sunset unless the parties aQree to
 
+<a id="page-25"></a>
+## Page 25
 
 modify or extend it beyond Fall 2027. For the terms of the CLIP/CUNY Start Multi
 Year Appointment Pilot, see Appendix Q.
@@ -1082,6 +1110,8 @@ appointment.
 Matters of academic judgement are not subject to review under the grievance
 procedure. Matters of academic judgement include, but are not limited to:
 
+<a id="page-26"></a>
+## Page 26
 
 1. the determination of how many CUNY Start and CLIP instructors are needed
 at each campus;
@@ -1126,6 +1156,8 @@ Compensatory time earned during a quarter of the contractual HEO
 series "leave year" (September 1 - August 31) shall be scheduled to
 be used as oromotlv as oossible within the auarter. but no later than
 
+<a id="page-27"></a>
+## Page 27
 
 30 calendar days after the end of the quarter in which the
 compensatory time was earned. The use of compensatory time shall
@@ -1169,6 +1201,8 @@ response in accordance with (2) above, the employee may
 submit a written request consisting of a minimum of two
 alternatives to use the excess days before December 31st to
 
+<a id="page-28"></a>
+## Page 28
 
 the senior executive(s) designated by the President of the
 College. The senior executive designated by the college
@@ -1214,6 +1248,8 @@ potential impact on terms and conditions of employment, within 120 days of the
 effective date of the Agreement, the parties shall establish a Labor-Management
 Committee on Educational Technoloav to discuss issues of educational and non-
 
+<a id="page-29"></a>
+## Page 29
 
 educational technology as they relate to the Instructional Staff's terms and
 conditions of employment. The committee shall be composed of three members
@@ -1252,6 +1288,8 @@ remain as is.
 • Incorporate into Article 24
 Lonqevitv Service Credit:
 
+<a id="page-30"></a>
+## Page 30
 
 • HCCS shall grant service credit of years taught in a NYC public school toward
 a longevity step to teachers from a NYC public school who are hired by HCCS
@@ -1289,6 +1327,8 @@ Labor Management Committees
 Amend Appendix L
 CUNY and the PSC agree to establish a labor-management committee(s) to
 
+<a id="page-31"></a>
+## Page 31
 
 continue discussing the interests identified in negotiations relating to the following
 topics:
@@ -1327,6 +1367,8 @@ Amend Appendix M:
 • Modify bullet 1 to extend the pilot program through December 31, 2027.
 • Modify bullet 2 to read:
 
+<a id="page-32"></a>
+## Page 32
 
 Eligibility for stipends will be limited to:
 1. full time faculty members who are on the regular University payroll
@@ -1349,11 +1391,7 @@ Baruch College Workload Credit in Executive Degree and International
 Master's Programs (Appendix N):
 Modify Appendix N
 • The pilot is extended through December 31, 2027.
-
-<a id="article-9-10-pilot-p32"></a>
-## Article 9 — 10 Pilot
-_Page 32_
-
+Article 9.10 Pilot
 Amend Article 9.10 to make pilot permanent.
 The President shall be required to respond to an appeal from a full-time faculty
 member regarding the negative decision on reappointment or tenure within 120
@@ -1367,6 +1405,8 @@ federal, state, and University trainings amongst all instructional staff employe
 Legislative Action: It is agreed by and between the parties that
 any provision of this agreement requiring legislative action to
 
+<a id="page-33"></a>
+## Page 33
 
 permit its implementation by amendment of law or by providing
 the additional funds therefore shall not become effective unti I the
@@ -1393,9 +1433,8 @@ I,, (
 Date: I~ ao 2.'f Date: I.I. / , /,,
 I
 
-
-
-
+<a id="page-35"></a>
+## Page 35
 
 | Title Number | Description | Top Step Increase |  |  | Title Number | Description | Non Top Step Increase |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1443,9 +1482,8 @@ I
 Atta
 achment A
 
-
-
-
+<a id="page-37"></a>
+## Page 37
 
 | 11/1/2022 | 3/1/2023 | 4/1/2024 | 9/1/2025 | 9/1/2026 | Hourly -3/1/27 |
 | --- | --- | --- | --- | --- | --- |
@@ -1470,9 +1508,8 @@ achment A
 Attachment B
 CLIP Instructor Annual Rate Effective 3/1/27
 
-
-
-
+<a id="page-39"></a>
+## Page 39
 
 Attachment C - Part 1
 Multi-Year Appointment ForTeachjngAdjuncts
@@ -1505,6 +1542,8 @@ appointing and evaluating performance in the academic program. The parties shall
 a mutually agreed to process by which to review academic programs. A college's
 determination as to whether an academic program qualifies is not subject to Article 20.
 
+<a id="page-40"></a>
+## Page 40
 
 5. Ienno_f_Ap_p_ointment
 a. Two Year Appointment
@@ -1542,6 +1581,8 @@ teaching work not assigned in the previous semester and that fully offsets the d
 contact hours during no more than one semester during a two-year appointment shall
 remain eligible.
 
+<a id="page-41"></a>
+## Page 41
 
 c. No declination of an assigned course. Adjuncts shall not be disqualified for declination if
 they meet the identical criteria in the Expired App E- declination due to their own illness,
@@ -1577,6 +1618,8 @@ be communicated to the employee as soon as the department has determined that it
 programmatic needs and/or fiscal ability have changed from the time of the initial
 appointment such that it is unable to assign the adjunct 6 contact hours.
 
+<a id="page-42"></a>
+## Page 42
 
 c. Adjuncts assigned less than 6 contact hours pursuant to this paragraph will be eligible to
 enroll in COBRA and maintain their health benefits at no cost for one semester during a
@@ -1598,6 +1641,8 @@ of all pending claims and meet with CUNY within 30 days of ratification and Boar
 approval of Memorandum of Agreement to discuss the settlement of pending claims for
 all adjuncts not reappointed for reasons other than performance.
 
+<a id="page-43"></a>
+## Page 43
 
 Attachment C - part 2
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
@@ -1625,6 +1670,8 @@ following the Substitute service, as though there were no break in adjunct servi
 of detennining eligibility for appointment for both the following Fall and Spring semester.
 II P ge
 
+<a id="page-44"></a>
+## Page 44
 
 October 24. 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1665,6 +1712,8 @@ college for at least twelve (12) of the fourteen (14) most recent consecutive se
 (6) contact hours in the semesters(s) resulting in the lack of continuity and that the adjunct
 21 p ,'. s:
 
+<a id="page-45"></a>
+## Page 45
 
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1704,6 +1753,8 @@ the list provided by the PSC and, subject to the approval of the Department Chai
 Dean or Provost or their designee, shall include the credit bearing courses within academic
 programs and/or academic programs with credit-bearing courses that satisfy the following
 
+<a id="page-46"></a>
+## Page 46
 
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1748,6 +1799,8 @@ appointment under Paragraph 8(b).
 I
 4 I'" g-:
 
+<a id="page-47"></a>
+## Page 47
 
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1789,6 +1842,8 @@ with Paragraph 6.
 ln assessing the performance of an eligible adjunct, the Department P&B and Department Chair
 Sl f'~1ge
 
+<a id="page-48"></a>
+## Page 48
 
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1828,6 +1883,8 @@ department.
 The criteria and the weight accorded to the assessment of continuing need for the position by the
 Chair and the College President or their designee [e.g., Provost or Dean] is an exercise of academic
 
+<a id="page-49"></a>
+## Page 49
 
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1868,6 +1925,8 @@ Adjuncts appointed to such 2-semester appointments shall be notified of the appo
 June 15. Such notification of appointment shall be subject to sufficiency of registration and
 71 Page
 
+<a id="page-50"></a>
+## Page 50
 
 October 24 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 1
@@ -1911,6 +1970,8 @@ when there are changes in the programmatic needs or the availability of funding 
 department/college during the term of the appointment that prevent the assignment of six (6)
 8\ l'a'.,:c:
 
+<a id="page-51"></a>
+## Page 51
 
 October 24, 2024 CUNY Counter Proposal to September 19. 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1950,6 +2011,8 @@ Each Fall semester, CUNY shall provide the PSC with the list of all eligible adj
 91 g ,:':
 d
 
+<a id="page-52"></a>
+## Page 52
 
 October 24, 2024 CUNY Counter Proposal to September 19, 2024 PSC Counter
 Successor to Appendix E Pilot for Teaching Adjuncts
@@ -1977,6 +2040,8 @@ I
 10 P c
 '.lg
 
+<a id="page-53"></a>
+## Page 53
 
 Attachment D - page 1
 Senior Lecturer Salary Scale
@@ -1995,6 +2060,8 @@ $ 97,487
 $101,040
 $107,686
 
+<a id="page-54"></a>
+## Page 54
 
 Attachment D - page 2
 Senior Lecturer Doctorate Salary Scale
@@ -2010,15 +2077,13 @@ $ 98,995
 $102,017
 $109,025
 
+<a id="page-55"></a>
+## Page 55
 
 Attachment E
 THE CITY Office of the Senior Vice Cha II
 for L1bDr Relation,
-
-<a id="university-p55"></a>
-### UNIVERSITY
-_Page 55_ · _Topics: vacation, parental-leave, hours, recognition_
-
+UNIVERSITY
 OF
 NEW YORK .\ew York, ~y 10017
 l646) 664-2970 tel
@@ -2049,6 +2114,8 @@ annual leave, as defined in section 14.1 of the PSC/CUNY collective bargaining a
 Parental Leave Benefit.
 3 Rc:frrence to "adoption" shall be understood to mean the formal placement of a child with the employee for adoption.
 
+<a id="page-56"></a>
+## Page 56
 
 mother's period of disability leave, if any), but must be taken consecutively. The couple
 would be eligible for two consecutive leaves limited to a combined total of 21 rather than
@@ -2082,6 +2149,8 @@ release over the course of both semesters. The scheduling option is subject to t
 4 It is understood and agreed that the provisions of this policy pertaining to teaching faculty also apply to
 faculty counselor approvals hired of prior to September I. 1998.
 
+<a id="page-57"></a>
+## Page 57
 
 c) It is the intention of the parties that a faculty member not be on leave for two semesters;
 faculty, accordingly, are encouraged to utilize the course release options in
@@ -2116,6 +2185,8 @@ must be made ("decision year"), as applicable. An employee who becomes eligible 
 parental leave on or after June 1st of the year prior to the decision year will not be eligible for the
 above-referenced election; his/ her period of paid parental leave shall count as service.
 
+<a id="page-58"></a>
+## Page 58
 
 An eligible Instructor who takes a paid parental leave during his/ her first four years of service
 may similarly elect to have the period of the leave serve as a bridge - in the same manner as
@@ -2149,6 +2220,8 @@ d) Holidays and/or, for teaching faculty. inter session period(s) (excluding the
 annual leave as defined in Article 14.1 of the PSC/CUNY collective bargaining
 agreement) that occur while an employee is on paid parental leave do not serve to extend
 
+<a id="page-59"></a>
+## Page 59
 
 the period of the leave, but rather are counted as part of the period of paid parental
 leave.
@@ -2161,9 +2234,8 @@ semester may return either to teaching or to administrative duties for the balan
 semester, at the discretion of, and as assigned by, the Department Chair after consultation
 with the employee.
 
-
-
-
+<a id="page-61"></a>
+## Page 61
 
 •
 Adjunct Professor Compensation Side Letter

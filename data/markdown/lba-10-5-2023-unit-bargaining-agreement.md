@@ -23,9 +23,8 @@ sector: "uniformed-police"
 
 ---
 
-<a id="lba-10-5-2023-unit-bargaining-agreement-p1"></a>
-### Lba 10 5 2023 Unit Bargaining Agreement
-_Page 1_ · _OCR-reconstructed_ · _Topics: wages, longevity, health-welfare, grievance, hours_
+<a id="page-1"></a>
+## Page 1  ·  _OCR-reconstructed_
 
 The
 New York
@@ -72,6 +71,9 @@ $137,143
 $137,393
 $149,518
 
+<a id="page-2"></a>
+## Page 2  ·  _OCR-reconstructed_
+
 6. The 20-year longevity increment shall be increased by the wage increases set forth in
 Sections 3.a.iii., iv, and v of the OCEA, resulting in the following amounts:
 3/16/24
@@ -80,15 +82,21 @@ $9,569
 $9,904
 3/16/26
 $10,300
-7. Effective August 1, 2027, the annual contribution to the welfare fund on behalf of active and retired employees shall be increased by $100.
-8. Effective February 16, 2027, the annual contribution to the Employee Expense Reimbursement Account shall be increased by $392.
-9. Effective August 1, 2027, there shall be a lump sum contribution of $266,622 to the Employee Expense Reimbursement Fund.
-10. Lieutenants shall participate in the 10 and 12-hour tour pilot. The parties agree to work together to agree upon terms for such participation within 90 days of execution of this agreement.
-This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the OCEA MOA.
+7. Effective August 1, 2027, the annual contribution to the welfare fund on behalf of active
+and retired employees shall be increased by $100.
+8. Effective February 16, 2027, the annual contribution to the Employee Expense
+Reimbursement Account shall be increased by $392.
+9. Effective August 1, 2027, there shall be a lump sum contribution of $266,622 to the
+Employee Expense Reimbursement Fund.
+10. Lieutenants shall participate in the 10 and 12-hour tour pilot. The parties agree to work
+together to agree upon terms for such participation within 90 days of execution of this
+agreement.
+This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the OCEA
+MOA.
 If the above conforms to your understanding, please execute the signature line below.
 Sincerely,
 ReR
-Renee Campion
+Renee Campi
 ouis Turco, President
 
 ---

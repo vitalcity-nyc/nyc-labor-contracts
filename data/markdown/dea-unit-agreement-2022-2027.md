@@ -29,9 +29,8 @@ wage_cumulative_pct: 18.77
 
 ---
 
-<a id="dea-unit-agreement-2022-2027-p1"></a>
-### DEA Unit Agreement, 2022-2027
-_Page 1_ · _OCR-reconstructed_ · _Topics: wages, overtime, grievance, hours_
+<a id="page-1"></a>
+## Page 1  ·  _OCR-reconstructed_
 
 The
 Cigf
@@ -57,7 +56,7 @@ New York, NY 10007
 RE: 2022-2027 Uniform Officers Coalition Economic Agreement ("UOCEA")
 Dear Mr. DiGiacomo:
 This is to confirm the parties' mutual understanding and agreement concerning additional
-Bargainic tems negotiated by the parties pursuant to Section 4 of the VOCEA (Unit
+Bargainic tems negoliated by the parties pursuant to Section 4 of the VOCEA (Unit
 1. Effective January 1, 2024, two steps shall be eliminated from the salary schedule for
 Detective Investigator Third Grade and Detective Specialist Third Grade (title codes
 7021A and 7021D) and the following salary schedule shall apply:
@@ -82,11 +81,23 @@ on Step 1.
 A Police Officer on the "after 3.5 years" step shall be placed on Step 2.
 A Police Officer on the "after 4.5 years" step shall be placed on Step 3.
 
+<a id="page-2"></a>
+## Page 2  ·  _OCR-reconstructed_
+
 • A Police Officer on the "after 5.5 years" step shall be placed on Step 4.
-• Those placed on Steps 1 to 3 shall advance to Step 4 once they have 5.5 years ot uniformed police service. Advancement to Step 4 changes the employee's anniversary date for step advancement to the date of advancement to Step 4.
-2. As soon as practicable after ratification of this agreement, the parties shall reconvene the Labor-Management Committee set forth in Section 9 of the parties' 2019-2022 Memorandum of Agreement to discuss the issue of off-duty work performed by Detectives outside of and in addition to their regularly scheduled tours/hours of duty.
-3. Detectives assigned to patrol in commands in which Police Officers are currently participating in the 10 and 12-hour tour pilot shall participate in such pilot. The parties agree to work together to agree upon terms for such participation within 90 days of execution of this agreement.
-This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the OCEA MOA, except as set forth in Sections 2 and 3 above.
+• Those placed on Steps 1 to 3 shall advance to Step 4 once they have 5.5 years ot
+uniformed police service. Advancement to Step 4 changes the employee's
+anniversary date for step advancement to the date of advancement to Step 4.
+2. As soon as practicable after ratification of this agreement, the parties shall reconvene the
+Labor-Management Committee set forth in Section 9 of the parties' 2019-2022
+Memorandum of Agreement to discuss the issue of off-duty work performed by
+Detectives outside of and in addition to their regularly scheduled tours/hours of duty.
+3. Detectives assigned to patrol in commands in which Police Officers are currently
+participating in the 10 and 12-hour tour pilot shall participate in such pilot. The parties
+agree to work together to agree upon terms for such participation within 90 days of
+execution of this agreement.
+This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the OCEA
+MOA, except as set forth in Sections 2 and 3 above.
 If the above conforms to your understanding, please execute the signature line below.
 Sincerely
 Renee Campion

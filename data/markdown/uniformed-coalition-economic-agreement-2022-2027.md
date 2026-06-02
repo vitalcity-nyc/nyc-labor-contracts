@@ -28,210 +28,187 @@ wage_cumulative_pct: 18.77
 
 ---
 
-<a id="page-1-p1"></a>
-### Page 1
-_Page 1_ · _OCR-reconstructed_ · _Topics: wages_
+<a id="page-1"></a>
+## Page 1  ·  _OCR-reconstructed_
 
-"2022- 2027" Uniformed Officers Coalition Economic Agreement
-("UOCEA")
-th
+•
+2022 - 2027" Uniformed Officers Coalition Bconoic Agreement
+("'JOCEA")
 MEMORANDUM OF ECONOMIC AGREEMENT made this 13 day of June, 2023,
 ("2022-2027 Uniformed Officers Coalition Economic Agreement") by and between
-the undersigned Unions ("the Unions") and the City of New York ("the Employer");
-WITNESSETE
-WHEREAS, the undersigned parties desire to enter into collective bargaining agreements,
-Including this 2022-2027 Uniformed Officers Coalition Economic Agreement
-("UOCEA") and agreements successor to existing unit agreements expiring on: July 30,
-2021 (UPOA); February 15, 2022 (LBA); December 31, 2022 (USCA); February 28,
+the undersigned Unions ("the Unions") and the City of New York ("the Employer"
+WITNESSCTE
+WATEREAS, the undersigned parties desire to enter into collective bargaining agreements,
+including this 2022-2027
+Uniformed Officers Coalltion Bconomio Agreement
+("VOCEA") and agreements successor to existing unit agreements expiring on: July 30,
+2021 (UFOA); February 15, 2022 (LBA); December 31, 2022 (USCA); February 28,
 2022 (COBA); July 31, 2022 (CEA); November 29, 2022 (CCA); June 24,
-2023 (SOA); May 31, 2023 (ADW/DWA); December 9, 2021 (SBA); May 31, 2022
-(DEA); July 31, 2020 (UFA-Firefighters/Fire Marshals); July 27, 2021 (UFA-
-Pilots/Marine Engineers) and July 31, 2020 (UFA-Wipers) respectively, to cover the
+2023 (SOA); May 31, 2023 (ADW/DWA); December 2, 2021 (SBA); May 3L, 2022
+(DEA); July 31, 2020 (UFA-Firefighters/Pire Marshals); July 27, 2021 (UFA-
+Pilots/Marine Engineers) and July 31, 2020 (UF A-Wipers) respectively, to cover the
 employees represented by the Unions ("Employees"); and
-WHEREAS, the undersigned parties intend by this UOCEA to cover all cost-related
-matters and to incorporate the terms of this UOCEA into the Separate Unit Agreements,
-NOW, THEREFORE, it is jointly agreed as follows:
+WHOREAS, the undersigned parties intend by this OCEA to cover all cost-related
+matters and to incorporate the terms of this VOCE/ into the Separate Unit Agreements,
+NOW, THEREFORE, it isjointly agreed as follows:
 Section 1.
-Term
-The term of each Separate Unit Agreement shall be sixty (60) months from the
+Term.
+The term of each Separare Unit Agreement shall be sixty (60) months from the
 expiration date of the Predecessor Separate Unit Agreements.
-Section 2.
+Section 2,
 Continuation of Terms.
-All terms of the Predecessor Separate Unit Agreements shall be continued
-except as modified pursuant to this UOCEA
 Section 3.
+. (i)
 General Wage Increases.
-a. The general increases, effective as indicated, shall be:
-(i)
+The general increases, effective as indicated, shall be:
 Effective on the first day of the applicable Successor Separate
 Unit Agreement, Employees shall receive a rate increase of
 3.25%.
 1
+•
 
-<a id="page-2-p2"></a>
-### Page 2
-_Page 2_ · _OCR-reconstructed_ · _Topics: wages_
+<a id="page-2"></a>
+## Page 2  ·  _OCR-reconstructed_
 
-(IE)
-Effective on the first day of the 13th month of the applicable
+(SE)
+Bffeotive on the first day of the 13th month of the applicable
 Successor Separate Unit Agreement, Employees shall receive an
-additional rate increase of 3.25%,
-(Iil) Effective on the first day of the 25th month of the applicable
-Successor Separate Unit Agreement, Employees shall receive an
-additional rate increase of 3.5%.
+additlonal rate increase of 3,25%.
+(lil)
+Effective on the fust day of the 25th month of the applicable
+Successor Separate Unit Agreement, Binployees shall receive an
+additional rate increase of 3,5%.
 (iv)
+Bffective on the first day of the 37th month of the applicable
+Suocessor Separate Unit Agreement, Employees shall receive an
+additional rate inorease of 3,5%.
 (v)
-3
-Effective on the first day of the 37th month of the applicable
+Effective on the first day of the 49th month of the appliable
 Successor Separate Unit Agreement, Employees shall receive an
-additional rate increase of 3.5%.
-Effective on the first day of the 49th month of the applicable
-Successor Separate Unit Agreement, Employees shall receive an
-additional rate increase of 4.00%.
-b. The increases provided for in this Section 3 a. shall be calculated as follows:
-(i)
-The increases in Section 3a. (1) shall be based upon the base rates (which
-shall include salary or Incremental schedules) of the applicable titles
-in effect on the last day' of the prior Agreement,
-(if) The increases in Section 3a. (H) shall be based upon the base rates
-(which shall include salary or incremental schedules) of the applicable
-titles in effect on the last day of the 12th month of the applicable
-Successor Separate Unit Agreement.
-(ii) The increases in Section 3a. (iii) shall be based upon the base rates
+additional rate intreaso of 4.00%.
+b. The inorenses provided for in this Section 3 a, shall be caloulated as follows:
+(1)
+The increases in Section 3a, (l) shall be based upon the base rates (which
+shall inalude salary or Incremental sohedules) of the applicable titles
+in effect on the last day! of the prior Agreeinent,
+(16)
+The inoreases in Section 3a. (il) shall be based upon the base rates
+(which shall include salary or incremental sohedules) of the applicable
+titles in effect on the last day of the 12 month of the applicable
+Successor Separate Unit Agreement,
+(ili)
+The increases in Section 3a, (ill) shall be based upon the base rates
 (which shall include salary or incremental schedules) of the
-applicable titles in effect on the last day of the 24th month of the
-applicable Successor Separate Unit Agreement.
-(iv) The increases in Section 3a. (iv) shall be based upon the base rates
+applicable titles in effet on the last day of the 24' month of the
+applicable Successor Separate Unit Agrcement,
+(iv)
+The increases in Section 3a, (iv) shall be based upon the base rates
+(which shall inolude salary or incremental schedules)
+applicable titles in effect on the last day of the 36 month of the
+applicable Successor Soparate Unit Agreement.
+(V)
+The increases in Section 3a, (Y) shall be based upon the base rates
 (which shall include salary or incremental schedules) of the
-applicable titles in effect on the last day of the 36th month of the
-applicable Successor Separate Unit Agreement.
-(v)
-The increases in Section 3a. (v) shall be based upon the base rates
-(which shall include salary or incremental schedules) of the
-applicable titles in effect on the last day of the 48th month of the
-applicable Successor Separate Unit Agreement.
-1 July 30, 2021 (UFPOA); February 15, 2022 (LBA); December 31, 2022 (USCA); February 28, 2022 (COBA); July 31, 2022
-(CEA); November 29, 2022 (CCA); June 24, 2023 (SOA); May 31, 2023 (ADW/DWA); December 9, 2021 (SBA); May 31,
-2022 (DEA); July 31, 2020 (UFA-Firefighters/Fire Marshals); July 27, 2021 (UFA-Pilots/Marine Engineers) and July 31,
-2020 (UFA-Wipers)
+applicable titles in effet on the last day of the 48l month of the
+applicable Successor Separate Unit Agreement,
+July 30,2021 (UPOA; February 15, 2022 (LBA); December 31, 2022 (USCA); February 28, 2022 (COBA); July 31, 2022
+(CEA); November 29, 2022(CCA); June 24, 2023(SOA); May 31, 2023 (ADW/DWA); Deoember 2, 2021 (SBA): May 3L,
+2022 (DEA); July 31, 2020 (UFA-Firefighters/Pire Marshals); July 27, 2021 (URA-Plots/Marino Engineers) and July 31,
+2020 (UPA-Wipers)
 2
 
-<a id="page-3-p3"></a>
-### Page 3
-_Page 3_ · _OCR-reconstructed_ · _Topics: wages, grievance_
+<a id="page-3"></a>
+## Page 3  ·  _OCR-reconstructed_
 
-o. The increases provided in this Section 3 shall be applied to the base rates
-and salary grades fixed for the applicable titles, except as may be modified
-In the separate Unit Agreement (other than basic maximum salary).
-Section 4.
-Unit Bargaining.
-A. Effective on the first day of the 37th month of the applicable Successor
+o, The increases provided in this Section 3 shall be applied to the base rates
+11d salary grades fixed for the applicable titles, except as may be modifie
+n the separate Unit Agreement (other than basio maximum salary)
+Section 4, " Unit Bargalning.
+A. Iffective on the first day of the 37th month of the applicable Successor
 Separate Unit Agreement, each union shall have 0.21% available to spend
-on mutually agreeable items that will help improve salary compression
-and/or recruitment/retention Issues. Each member of the Uniformed
+on mutually agrecable items that will help improve salary compressio
+and/or recruitment/retention Issues. Each member of the Uniforme
 Officers' Coalition and each employing agency shall have a committee to
-discuss each individual unit's unique issues (both employer and employee).
-The parties may mutually agree to additional savings and/or credits needed,
-including extending the term set forth in Section 1, to fund any additional
-economic proposals other than to enhance the general wage increases set
-forth in Section 3.
+discuss each individual unit's unique issues (both employer and employee)
+'he parties may mutually agree to additional savings and/or credits neede
+cluding extending the term set forth in Seotion 1, to fund any addition
+economio proposals other than to enhance the general wage increases set
+forth in Seotion 3,
 B. Any terms and conditions of employment which are the subject of
 proposals made in Unit Bargaining which are not mutually agreed by the
-parties shall remain unchanged from the prior Agreement, and any economic
+parties shall remain unchanged from the prior Agreement, and any coonomic
 demands may not be submitted to binding interest arbitration. The parties
 may mutually agree to waive this Section 4(B) and submit any proposal(s)
 to binding interest arbitration upon mutual consent. Any dispute about
-whether a demand has an economic cost may be submitted to impartial
+. whether a demand has an economto cost may be submitted to impartial
 arbitration by either party under the rules of the Office of Collective
-Bargaining. In such case, the arbitration must be resolved before any
-interest arbitration panel is established.
+Bargaining. In such case, the arbitration must be resolvod before any
+interest arbitration panel is cstablished,
 C. The parties agree to commence Unit Bargaining as soon as practicable after
-the execution of this UOCEA,
+the execution of this VOCIA,
 Section 6.
 Conditions of Payment.
-The general wage increases provided for in Section 3 of the UOCEA shall be
-payable as soon as practicable upon ratification of the UOCEA and after the effective
+The general wage increases provided for in Section 3 of the OCEA shall be
+payable as soon as practicable upon ratification of the OCEA and after the effeotive
 date of such increases.
 Section 7.
 Approval of Agreements.
-This UOCEA and the separate unit agreements are subject to union ratification
-in accordance with each union's rules and bylaws and subject to approval in accordance
+This VOCE and the separate unit agreements are subject to union ratifioation
+in accordanoe with each union's rules and bylaws and subject to approval In accordance
 with applicable law.
 3
 
-<a id="page-4-p4"></a>
-### Page 4
-_Page 4_ · _OCR-reconstructed_
+<a id="page-4"></a>
+## Page 4  ·  _OCR-reconstructed_
 
-Section 8. Incorporation of Certain Provisions Into Other Agreements,
-All applicable provisions of this UOCDA shall be (incorporated into the
-Strocessor Separate Unit Agreements.
-Section 9, Savings Clause.
-In the event that any provision of this UOCEA is found to be invalid, such
-finding shall not Impaly the validity and enforceability of the remaining provisions of
-This UOGEN.
-The failure of any Union to ratify this UOCEA, or the successor Unit
-Agreement, whichever is placed for ratification, shall not impair the validity and
-enformoubility of this UOCEA with regard to any Union ratifying,
-This UOGEA sets out the parles' complete agrocniont on all subjects on which
-the parties bargained or could have bargained and codifies all agreements and
-understandings na between the Olly and the UOC, except as it relates to the unit
+Seation 8, Incorgoratlen of Corsin Provisions Inle Other Agrecinents,
+Scotion 9, Savings Clause.
+In the ayone that any provision of this JOCEd is found to bo invalld, such
+finding sholl not impalt the vallilly and enforceabllity of the romaining provisions of
+Ihis VOGEL.
+ho faffura of any Unlon to relity this OCEA, or the sucoessor Ur
+groomont, wiichever is placed for railtalion, shall not impais the volldity ar
+torosalily of this JOCE with sogard to any Union ratifying.
+This JOCE/ seis out the parles consploto agroenion on all subjaci on which
+this prutlos bargained or could have bargaíned and codifies all agreements and
+indorstandings nd botween us Olly and the COC, excopt as It relates to the unt
 bargaining set forth in Section 4.
-th
-WHEREFORE, we linys ficrounto set our hands and seals this 1 day of June,
-2023.
-FOR THE CITY OF NEW YORK
-By
-RENEE CAMPION
-Commissioner of Labor Relations
-FOR THE CAPTAINS ENDOWMENT ASSOCIATION
-BY
-CHRIS MONAHAN
-President
-FOR THE LIEUTENANTS BENEVOLENT ASSOCIATION
-BY
-LOU TURCO
-President
-FOR THE SERGEANTS BENEVOLENT ASSOCIATION
-By
-VINCENT VALLELONG
-President
-4
+WEREROR, wolina founso set our hands and sents this 3
+.. day of Juna,
+2023,
+•
+NOR THE CITY OF NEW YORK
+By!
+RENER CAMPION
+Commissioner of Tibor Relations
+FOR IHE CAPTAINS INDO WMENT ASSOCIATION
+•
+President-
+DOITILIUTENANTE BENEYOLENT ASSOCIATION
+BYL TOU TORICO
+Prosident
+TOR THE SEROO HIS MENDOLENT ASSOCIATION
+By!...
+-VINCENT VALLELONG
+Prosident
 
-<a id="page-5-p5"></a>
-### Page 5
-_Page 5_ · _OCR-reconstructed_
+<a id="page-5"></a>
+## Page 5  ·  _OCR-reconstructed_
 
-FOR THE DETECTIVESENDOWMENT ASSOOLATION
-By
-PAUL DIGIACOMO
-Président
-FOR TAB UNIFORMED WERE FATHERS ASSOCIATION
-FAMES MOSARTAY
-President
-FOR THE UNIFORMED FIRESTERS ABSOCIATION
-Bу)
-ANDREW ANGBRO
-President
-FOR THE ASSISTANT DEPUTY WARDENS/DEPUTY WARDENS ASSOCIATION
-JOSPRIT RUSSO
-Pobident
-FOR THE CORRECTION CAMAINE ASSOCIATION;
-BY_
-Trick
-PATRICK PERRAINOLO
-President
-BOR THE CORRECTION OFFICERS BENBYOLENT AGIOOÍATION
-By
-BENNY BOBOIO,JR
-President
-BOR THEYNIFORMED SANITATION CERNS ASSOCIATION
-ب الإلا
-Prosicont
-FOR THE SANITATION OFFICERS ASSOCIATION´
-Jasesh Mannion
-By
-JOSEPH MANNION
+TEBMOSAN
+Pros|dext
+ANDREN ANGARO
+prasle
+HOXIIDOSBY SURA ZECIRACA/A SLABSAAULONSSY GA XOX
+TOX TAD CORRICTION CAFLAINE LESOOEALION:
+Byl
+Fenil
+PAZRIOK PERRATTODO
+••
+BOR TH "SANATON OBEICERE ARSOCIAȚION"
+Mansion
+2ras dca'
+pran....
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/uniformed-coalition-economic-agreement-executed-2022-2027.pdf>_

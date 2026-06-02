@@ -29,9 +29,8 @@ wage_cumulative_pct: 18.77
 
 ---
 
-<a id="sba-unit-agreement-2021-2026-p1"></a>
-### SBA Unit Agreement, 2021-2026
-_Page 1_ · _Topics: wages, grievance, hours_
+<a id="page-1"></a>
+## Page 1
 
 Office of Labor Relations
 22 Cortlandt Street, New York, NY 10007
@@ -69,9 +68,17 @@ Step 6 $134,819 $140,212
 time'' at the end of their tour. The applicable NYPD operations order and/or any other
 applicable NYPD policy or procedure shall be amended to reflect wash-up time of 5
 
-minutes at the beginning of the tour and 5 minutes at the end of the tour. The Department shall have the right to implement this provision pending ratification, but shall revert to the prior practice in the event this agreement is not ratified.
-4. All prior agreements of the parties, including the "stop and pause" amendment to the collective bargaining agreement set forth in section 6.b of the 2018-2021 MOA, remain in effect except as modified by this agreement.
-This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the UOCEA MOA.
+<a id="page-2"></a>
+## Page 2
+
+minutes at the beginning of the tour and 5 minutes at the end of the tour. The Department
+shall have the right to implement this provision pending ratification, but shall revert to
+the prior practice in the event this agreement is not ratified.
+4. All prior agreements of the parties, including the "stop and pause" amendment to the
+collective bargaining agreement set forth in section 6.b of the 2018-2021 MOA, remain
+in effect except as modified by this agreement.
+This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the UOCEA
+MOA.
 If the above conforms to your understanding, please execute the signature line below.
 Sincerely,
 ~

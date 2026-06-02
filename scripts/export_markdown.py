@@ -142,42 +142,37 @@ def export_contract(c: dict, clauses: list, units_by_id: dict, wages_by_id: dict
     out.append("---")
     out.append("")
 
-    # Table of contents
-    if len(contract_clauses) > 5:
+    # Navigation outline — built from detected clause headings, linking to the
+    # page where each appears. Purely a convenience; the full text below is
+    # authoritative and complete regardless of segmentation.
+    headed = [cl for cl in contract_clauses if cl.get("heading")]
+    if len(headed) > 5:
         out.append("## Contents")
         out.append("")
-        for cl in contract_clauses:
-            heading = cl.get("heading") or "Untitled section"
-            anchor = slug_anchor(heading) + f"-p{cl.get('page', 0)}"
-            out.append(f"- [{heading}](#{anchor})")
+        for cl in headed:
+            heading = cl["heading"]
+            out.append(f"- [{heading}](#page-{cl.get('page', 0)})")
         out.append("")
         out.append("---")
         out.append("")
 
-    # Clauses
-    for cl in contract_clauses:
-        heading = cl.get("heading") or "Untitled section"
-        anchor = slug_anchor(heading) + f"-p{cl.get('page', 0)}"
-        out.append(f'<a id="{anchor}"></a>')
-        # Use H2 for Article-level, H3 for Section-level
-        is_article = (heading or "").lower().startswith("article")
-        marker = "##" if is_article else "###"
-        out.append(f"{marker} {heading}")
-        # Meta line
-        meta_bits = [f"_Page {cl.get('page', '?')}_"]
-        if cl.get("ocr"):
-            meta_bits.append("_OCR-reconstructed_")
-        topics = cl.get("topics") or []
-        if topics:
-            meta_bits.append("_Topics: " + ", ".join(topics) + "_")
-        out.append(" · ".join(meta_bits))
+    # Full contract text, page by page. This renders the COMPLETE extracted text
+    # for every page (not just clauses the segmenter recognized), so letter-style
+    # MOAs without Article/Section headings are captured in full. Page text from
+    # extract.py already contains pipe-delimited Markdown tables where detected.
+    for p in pages_meta:
+        body = (p.get("text") or "").strip()
+        if not body:
+            continue
+        pno = p.get("page")
+        out.append(f'<a id="page-{pno}"></a>')
+        hdr = f"## Page {pno}"
+        if p.get("ocr"):
+            hdr += "  ·  _OCR-reconstructed_"
+        out.append(hdr)
         out.append("")
-        body = (cl.get("text") or "").strip()
-        if body:
-            # Body already contains pipe-delimited markdown tables where extract.py
-            # detected them. Pass through unchanged.
-            out.append(body)
-            out.append("")
+        out.append(body)
+        out.append("")
     out.append("---")
     out.append(f"_End of contract. Source PDF: <{c['url']}>_")
     out.append("")

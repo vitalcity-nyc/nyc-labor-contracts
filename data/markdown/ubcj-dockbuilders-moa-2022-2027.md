@@ -25,9 +25,8 @@ sector: "skilled-trades"
 
 ---
 
-<a id="ubcj-dockbuilders-moa-2022-2027-p1"></a>
-### UBCJ Dockbuilders MOA, 2022-2027
-_Page 1_ · _OCR-reconstructed_ · _Topics: wages, overtime, holidays, vacation, sick-leave, parental-leave, other-leave_
+<a id="page-1"></a>
+## Page 1  ·  _OCR-reconstructed_
 
 2022-2027 Memorandum of Agreement
 Dockbuilder and Supervisor Dockbuilder,
@@ -106,31 +105,55 @@ service prior to the date of ratification of this MOA shall not be eligible for 
 cash payment.
 1
 
-In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this section.
+<a id="page-2"></a>
+## Page 2  ·  _OCR-reconstructed_
+
+In no event shall any employee receive greater than $3,000 in bonus payments pursuant to
+this section.
 4. Conditions of Payment
-a. The lump sum cash payment pursuant to Section 3 of this MOA shall be payable as soon as practicable upon ratification of this MOA.
-b. The wage rates pursuant to Section 2.a. and 2.b. of this MOA shall be payable as soon as practicable upon ratification of this MOA c. The wage rates pursuant to Section 2.c. of this MOA shall be payable as soon as practicable following the effective date of such wage rates.
-5. Prohibition of Further Economic Demands No Party to this agreement shall make additional economic or non-economic demands during the term of this MOA.
+a. The lump sum cash payment pursuant to Section 3 of this MOA shall be payable as
+soon as practicable upon ratification of this MOA.
+b. The wage rates pursuant to Section 2.a. and 2.b. of this MOA shall be payable as
+soon as practicable upon ratification of this MOA
+c. The wage rates pursuant to Section 2.c. of this MOA shall be payable as soon as
+practicable following the effective date of such wage rates.
+5. Prohibition of Further Economic Demands
+No Party to this agreement shall make additional economic or non-economic demands
+during the term of this MOA.
 6. Compensatory Time Option
-a. As soon as practicable, employees shall have the option of cash compensation or compensatory time for overtime, including overtime worked at a premium rate on Saturday and Sunday, as well as the option of cash compensation or compensatory time for work performed on holidays, at the discretion of their employing agency.
-Such option shall be subject to applicable law, including the Fair Labor Standards Act. Overtime compensated in compensatory time shall be compensated at the same rate and under the same rules as overtime compensated in cash.
-b. Any agency may continue to compensate overtime or holidays solely in cash at their discretion, or may deny requests for compensatory time in lieu of cash.
+a. As soon as practicable, employees shall have the option of cash compensation or
+compensatory time for overtime, including overtime worked at a premium rate on
+Saturday and Sunday, as well as the option of cash compensation or compensatory
+time for work performed on holidays, at the discretion of their employing agency.
+Such option shall be subject to applicable law, including the Fair Labor Standards
+Act. Overtime compensated in compensatory time shall be compensated at the same
+rate and under the same rules as overtime compensated in cash.
+b. Any agency may continue to compensate overtime or holidays solely in cash at
+their discretion, or may deny requests for compensatory time in lieu of cash.
 7. Annuity
-An additional supplemental benefit in the form of an Annuity Fund payment shall be Dockbuilders and Supervisor Dockbuilders Period Hourly
+An additional supplemental benefit in the form of an Annuity Fund payment shall be
+Dockbuilders and Supervisor Dockbuilders
+Period
+Hourly
 02/1/2022
 02/1/2024
 02/1/2026
-- 01/31/2024
+-
+01/31/2024
 $7.41
 01/31/2026
 $9.85
-- 01/31/2027
+-
+01/31/2027
 $9.89
 Daily
 $59.28
 $78.80
 $79.12
 2
+
+<a id="page-3"></a>
+## Page 3  ·  _OCR-reconstructed_
 
 8. Annual Leave
 Dockbuilders and Supervisor Dockbuilders, Hired on or before June 30, 2017.
@@ -199,6 +222,9 @@ Employee Self-Service or the appropriate method at employers not on NYCAPS.
 The terms of the predecessor Consent Determination, MOA, and related agreements shall
 be continued except as modified pursuant to this MOA.
 3
+
+<a id="page-4"></a>
+## Page 4
 
 (cid:4)(cid:5)(cid:2) (cid:7)(cid:49)(cid:50)(cid:53)(cid:48)(cid:59)(cid:26)(cid:41)(cid:62)(cid:48)(cid:32)(cid:62)(cid:8)(cid:35)(cid:52)(cid:29)(cid:29)(cid:44)(cid:29)(cid:46)(cid:55)
 (cid:23)(cid:36)(cid:37)(cid:54)(cid:62)(cid:17)(cid:19)(cid:9)(cid:62)(cid:37)(cid:54)(cid:62)(cid:54)(cid:58)(cid:27)(cid:39)(cid:30)(cid:28)(cid:56)(cid:62)(cid:57)(cid:48)(cid:62)(cid:58)(cid:47)(cid:38)(cid:48)(cid:47)(cid:62)(cid:53)(cid:26)(cid:57)(cid:37)(cid:34)(cid:28)(cid:26)(cid:57)(cid:37)(cid:48)(cid:47)

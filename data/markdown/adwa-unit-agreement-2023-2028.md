@@ -25,25 +25,53 @@ sector: "uniformed-correction"
 
 ---
 
-<a id="adwa-unit-agreement-2023-2028-p1"></a>
-### ADWA Unit Agreement, 2023-2028
-_Page 1_ · _OCR-reconstructed_ · _Topics: wages, health-welfare, hours_
+<a id="page-1"></a>
+## Page 1  ·  _OCR-reconstructed_
 
 The
 New York
 Office of Labor Relations
-22 Cortlandt Street, New York NY 10007 nyc.goviolr Renee Campion Commissioner Daniel Pollak First Deputy Commissioner Claire Levitt Deputy Commissioner Health Core Strategy Georgette Gestely Director, Employee Benefits Progrom July 1B, 2024 Xiomara Maloney President Assistant Deputy Wardens-Deputy Wardens Association
+22 Cortandt Street, New York NY 10007
+nyc.goviolr
+Ronoo Campion
+Commissioner
+Daniel Pollak
+First Deputy Commissioner
+Claire Levitt
+Deputy Commissioner
+Health Core Strategy
+Georgette Gestely
+Director, Employee Benefits Progrom
+July 1B, 2024
+Xiomara Maloney
+President
+Assistant Deputy Wardens-Deputy Wardens Association
 364 Decker Avenue
 Staten Island, NY 10302
 RE: 2022-2027 Uniform Officers Coalition Economic Agreement ("VOCEA")
 Dear Ms. Maloney:
-This is to confirm the parties' mutual understanding and agreement concerning additional economic items negotiated by the parties pursuant to Section 4 of the UOCEA ("Unit Bargaining").
+This is to confirm the parties' mutual understanding and agreement concerning additional economic
+items negotiated by the parties pursuant to Section 4 of the UOCEA ("Unit Bargaining").
 1. The term of the agreement set forth in Section 1 of the UOCEA shall be extended by 2 months.
 Therefore, the term of the unit agreement shall be June 1, 2023 through July 31, 2028.
-2. Sections 3.a.ii, ili, iv, and v of the UOCEA shall be amended to delay each of those general wage increases by three months each (i.e., general wage increases of 3.25% on September 1, 2024, 3.50% on September 1, 2025, 3.50% on September 1, 2026, and 4% on September 1, 2027).
-3. The salary siep below basic maximum shall be eliminated for all Assistant Deputy Wardens promoted to that rank between November 1, 2022 and November 1, 2024 and active in the title as of November 1, 2025.
-4. The salary step below basic maximum shall be eliminated for all Deputy Wardens promoted to that rank between May 1, 2022 and November 1, 2023 and active in the title as of July 1, 2025 5. Effective April 1, 2025, the City shall make a one-time lump sum annuity contribution of $3,750 on behalf of Assistant Deputy Wardens promoted prior to November 7, 2022 and Deputy Wardens/Deputy Wardens-in-Command promoted prior to May 1, 2022, provided they were on active payroll or on terminal leave on January 1, 2024. The list of eligible employees is attached to this agreement as Appendix A.
-6. Effective from September 1, 2024 until and ceasing July 31, 2028, the City shall provide an additional two days per week of release time to designated union officials, subject to the terms
+2. Sections 3.a.ii, ili, iv, and v of the UOCEA shall be amended to delay each of those general wage
+increases by three months each (i.e., general wage increases of 3.25% on September 1, 2024,
+3.50% on September 1, 2025, 3.50% on September 1, 2026, and 4% on September 1, 2027).
+3. The salary siep below basic maximum shall be eliminated for all Assistant Deputy Wardens
+promoted to that rank between November 1, 2022 and November 1, 2024 and active in the title
+as of November 1, 2025.
+4. The salary step below basic maximum shall be eliminated for all Deputy Wardens promoted to
+that rank between May 1, 2022 and November 1, 2023 and active in the title as of July 1, 2025
+5. Effective April 1, 2025, the City shall make a one-time lump sum annuity contribution of $3,750
+on behalf of Assistant Deputy Wardens promoted prior to Vovember 7, 2022 and Deputy
+Wardens/Deputy Wardens-in-Command promoted prior to May 1, 2022, provided they were on
+active payroll or on terminal leave on January 1, 2024. The list of eligible employees is attached
+to this agreement as Appendix A.
+6. Effective from September 1, 2024 until and ceasing July 31, 2028, the City shall provide an
+additional two days per week of release time to designated union officials, subject to the terms
+
+<a id="page-2"></a>
+## Page 2  ·  _OCR-reconstructed_
 
 Appendix A
 List of employees eligible for a one-time lump sum annuity contribution of $3,750
@@ -125,6 +153,9 @@ WILKINS, TISHA E
 WILLIAMS, VANESSA
 WILSON, DYREE
 
+<a id="page-3"></a>
+## Page 3  ·  _OCR-reconstructed_
+
 2
 and conditions in Executive Order 75. Notice of the use of such release time shall be provided to
 DOC Labor Relations at least one week in advance and shall be subject to the operational needs
@@ -137,7 +168,7 @@ the civil legal support fund.
 Entry
 After 1 year
 After 2 years
-After 3 years
+Afier 3 years
 After 4 years
 $132,301
 $132.512
@@ -148,7 +179,7 @@ $149,518
 Entry
 After 1 year
 After 2 years
-After 3 years
+Afier 3 years
 $152,938
 $155.178
 $160,131

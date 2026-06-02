@@ -25,9 +25,8 @@ sector: "uniformed-police"
 
 ---
 
-<a id="cea-unit-agreement-2022-2027-p1"></a>
-### CEA Unit Agreement, 2022-2027
-_Page 1_ · _Topics: wages, longevity, health-welfare, grievance, hours_
+<a id="page-1"></a>
+## Page 1
 
 | Step 1 $160,030 |
 | --- |
@@ -70,17 +69,29 @@ wage increases to September 22nd of the applicable year (i.e., general wage incr
 2026).
 4. Effective August 1, 2025, the following salary schedule for Captains shall apply:
 
-5. Effective October 1, 2023, the $35 annual contribution to the 40l(a) savings incentive plan will cease, and the annual contribution to the Employee Expense Reimbursement Fund shall be increased by $35.
-6. Effective August 1, 2027, the annual contribution to the welfare fund on behalf of active and retired employees shall be increased by $100.
-7. Effective August 1, 2027, the annual contribution to the Employee Expense Reimbursement Account shall be increased by $245.
-8. Effective August 1, 2027, the 15 and 20-year longevity steps shall each be increased by $650.
-This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the UOCEA MOA.
+<a id="page-2"></a>
+## Page 2
+
+5. Effective October 1, 2023, the $35 annual contribution to the 40l(a) savings incentive
+plan will cease, and the annual contribution to the Employee Expense Reimbursement
+Fund shall be increased by $35.
+6. Effective August 1, 2027, the annual contribution to the welfare fund on behalf of active
+and retired employees shall be increased by $100.
+7. Effective August 1, 2027, the annual contribution to the Employee Expense
+Reimbursement Account shall be increased by $245.
+8. Effective August 1, 2027, the 15 and 20-year longevity steps shall each be increased by
+$650.
+This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the UOCEA
+MOA.
 If the above conforms to your understanding, please execute the signature line below.
 Sincerely,
 Renee Campion
 Agreed to by the CEA
 BY:
 Christopher Monahan, President
+
+<a id="page-3"></a>
+## Page 3
 
 Office of Labor Relations
 22 Cortlandt Street, New York, NY 10007

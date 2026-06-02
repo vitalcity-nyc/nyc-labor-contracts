@@ -25,26 +25,110 @@ sector: "skilled-trades"
 
 ---
 
-<a id="for-the-city-of-new-york-p3"></a>
-### FOR THE CITY OF NEW YORK
-_Page 3_ · _OCR-reconstructed_
+<a id="page-1"></a>
+## Page 1  ·  _OCR-reconstructed_
 
+2020-2025 Memorandum of Agreement
+Stationary Engineer (Electric) & Senior Stationary Engineer (Electric)
+Local 3, International Brotherhood of Electrical Workers and
+the City of New York
+1. Term: April 1, 2020 - April 30, 2025 (61 months)
+2. General Wage Increases
+below:
+a. The following general wage increases shall be effective as of the dates set forth
+Effective Date
+General Wage Increases
+i.
+ii.
+May 25, 2020
+3.00%
+April 1, 2021
+3.00% compounded
+iii.
+April 1, 2022
+3.00% compounded
+iv.
+April 1, 2023
+3.00% compounded
+V.
+April 1, 2024
+3.25% compounded
+b. The general wage increases set forth above shall be applied to hourly base wages,
+overtime, compensatory time, and premium time (including Saturday, Sunday,
+holiday, and night shift differential).
+3. Ratification Bonus
+A lump sum cash payment in the amount of $3,000, pro-rated for other than full time
+employees, shall be payable as soon as practicable upon ratification of this 2020-2025
+Stationary Engineer (Electric) and Senior Stationary Engineer (Electric) Memorandum of
+Agreement (MOA") to those employees who are in active payroll status and in a title
+covered by this MOA, as of the date of ratification. Active payroll status is defined as
+being in active payroll status ("B Status"), military leave with pay ("K status"), or on paid
+family leave. The lump sum cash payment shall be pensionable, consistent with applicable
+law.
+All full time per annum and full time per diem employees who were in active status on the
+date of the ratification are entitled to receive the lump sum cash payment of $3,000.
+Employees who were terminated for cause, resigned, retired, or otherwise separated from
+service prior to the date of ratification of this MOA shall not be eligible for the lump sum
+cash payment.
+
+<a id="page-2"></a>
+## Page 2  ·  _OCR-reconstructed_
+
+In no event shall any employee receive greater than $3,000 in bonus payments pursuant to
+this section.
+4. Conditions of Payment
+a. The lump sum cash payment pursuant to Section 3 of this MOA shall be payable as
+soon as practicable upon ratification of this MOA.
+b. The general wage increases pursuant to Section 2.a.i., ii, ili, and iv. and Section 2.b.
+of this MOA shall be payable as soon as practicable upon ratification of this MOA.
+c. The general wage increase pursuant to Section 2.a.v. and Section 2.b. of this MOA
+shall be payable as soon as practicable following the effective date of such increase.
+5. Welfare Fund Contributions
+a. Effective April 1, 2020, there shall be a $50 per annum per employee increase to
+the active welfare fund contribution, from $1,906.25 to $1,956.25.
+b. Effective April 1, 2020, there shall be a $250 per annum per employee increase to
+the retiree welfare fund contribution, from $1,906.25 to $2,156.25.
+c. Effective April 1, 2024, there shall be a $71.42 per annum per employee increase
+to the retiree welfare fund contribution, from $2,156.25 to $2,227.67.
+6. Prohibition of Further Economic Demands
+No Party to this agreement shall make additional economic or non-economic demands
+during the term of this MOA.
+7. Compensatory Time Option
+a. As soon as practicable, employees shall have the option to take compensatory time
+for overtime hours worked in lieu of cash, subject to applicable laws, including
+FLSA, at the discretion of their employing agency. Overtime compensated in
+compensatory time shall be compensated at the same rate and under the same rules
+as overtime compensated in cash.
+b. Any agency may continue to compensate overtime solely in cash at their discretion,
+or may deny requests for compensatory time in lieu of cash.
+8. Payroll
+Effective as soon as practicable following ratification of this agreement, all employees of
+Mayoral agencies, the Department of Education, and the New York City Housing
+Authority who receive paychecks via direct deposit shall be opted out of receiving paper
+2
+
+<a id="page-3"></a>
+## Page 3  ·  _OCR-reconstructed_
+
+pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS
+Employee Self-Service or the appropriate method at employers not on NYCAPS.
+9. Continuation of Terms
+The terms of the predecessor consent determination and related agreements shall be
+continued except as modified pursuant to this MOA and the side letters hereto.
+10. Approval of Agreement
+This MOA is subject to union ratification.
+FOR THE CITY OF NEW YORK
 or Bee
-
-<a id="renee-campn-p3"></a>
-### RENEE CAMPN
-_Page 3_ · _OCR-reconstructed_
-
+RENEE CAMPN
 Commissioner of Labor Relations
 Dated: November 22, 2023
 FOR LOCAL 3, IBEW
 Fitzpalmak
-
-<a id="sean-fitzpatrick-p3"></a>
-### SEAN FITZPATRICK
-_Page 3_ · _OCR-reconstructed_ · _Topics: wages_
-
+SEAN FITZPATRICK
 Business Representative
+
+<a id="page-4"></a>
+## Page 4  ·  _OCR-reconstructed_
 
 The
 City f
@@ -83,8 +167,11 @@ Sean Fitzpatrick
 Business Representative
 4
 
+<a id="page-5"></a>
+## Page 5  ·  _OCR-reconstructed_
+
 The
-City of
+Cityof
 New York
 Office of Labor Relations
 22 Cortlandt Street, New York, NY 10007
@@ -121,19 +208,11 @@ below.
 Very truly yours,
 Red
 Renee Campion
-
-<a id="agreed-and-accepted-on-behalf-p5"></a>
-### AGREED AND ACCEPTED ON BEHALF
-_Page 5_ · _OCR-reconstructed_
-
+AGREED AND ACCEPTED ON BEHALF
 OF LOCAL 3, IBEW:
 BY:
 Lean Fitzpotnal
-
-<a id="sean-fitzpatrick-p5"></a>
-### SEAN FITZPATRICK
-_Page 5_ · _OCR-reconstructed_
-
+SEAN FITZPATRICK
 Business Representative
 5
 

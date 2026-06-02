@@ -27,88 +27,243 @@ sector: "other"
 
 ## Contents
 
-- [Article I — RECOGNITION](#article-i-recognition-p3)
-- [Article II — COMMITTEE SECURITY, DUES AND PAC CHECKOFF](#article-ii-committee-security-dues-and-pac-checkoff-p4)
-- [Section 1 — Performance Levels](#section-1-performance-levels-p5)
-- [Section 2 — Performance Compensation](#section-2-performance-compensation-p5)
-- [Section 1 — Retroactive Lump Sum payment](#section-1-retroactive-lump-sum-payment-p6)
-- [Article V — VACATIONS AND LEAVE TIME](#article-v-vacations-and-leave-time-p9)
-- [Section 9 — Personal Well-being Days](#section-9-personal-well-being-days-p10)
-- [Article VI — INDIVIDUAL CONTRACTS](#article-vi-individual-contracts-p10)
-- [Article VII — WORK SCHEDULES](#article-vii-work-schedules-p11)
-- [Article VIII — PATIENT CARE TRUST FUND](#article-viii-patient-care-trust-fund-p15)
-- [Article IX — – CHILD CARE FUND](#article-ix-child-care-fund-p16)
-- [Article X — COMBINED REIMBURSEMENT FUND](#article-x-combined-reimbursement-fund-p16)
-- [Article XI — CIR HOUSE STAFF BENEFITS PLAN](#article-xi-cir-house-staff-benefits-plan-p17)
-- [Article XII — HEALTH AND HOSPITAL BENEFITS](#article-xii-health-and-hospital-benefits-p17)
-- [Article XIII — ON-CALL ROOMS](#article-xiii-on-call-rooms-p18)
-- [Article XIV — MEDICAL BOARD REPRESENTATION](#article-xiv-medical-board-representation-p19)
-- [Article XV — MALPRACTICE INSURANCE](#article-xv-malpractice-insurance-p19)
-- [Article XVI — GRIEVANCE PROCEDURES](#article-xvi-grievance-procedures-p20)
-- [Article XVII — DISCIPLINARY ACTION](#article-xvii-disciplinary-action-p23)
-- [Section 8 — Remediation](#section-8-remediation-p24)
-- [Section 9 — Probation](#section-9-probation-p25)
-- [Article XVIII — PROHIBITION AGAINST DISCRIMINATION](#article-xviii-prohibition-against-discrimination-p25)
-- [Article XIX — LOUNGES](#article-xix-lounges-p25)
-- [Article XX — NO STRIKES](#article-xx-no-strikes-p26)
-- [Section 1 — Interest Pavments](#section-1-interest-pavments-p26)
-- [Section 2 — Translators](#section-2-translators-p26)
-- [Section 3 — Bulletin Boards](#section-3-bulletin-boards-p26)
-- [Section 4 — Rotations](#section-4-rotations-p26)
-- [Section 5 — Access to Files](#section-5-access-to-files-p27)
-- [Section 6 — Personal Security](#section-6-personal-security-p27)
-- [Section 7 — Uniforms](#section-7-uniforms-p27)
-- [Section 8 — Payroll Lag](#section-8-payroll-lag-p27)
-- [Section 9 — Depository Checks](#section-9-depository-checks-p27)
-- [Section 10 — Orientations](#section-10-orientations-p27)
-- [Section 11 — House Staff Information](#section-11-house-staff-information-p28)
-- [Section 12 — Computer Tapes](#section-12-computer-tapes-p28)
-- [Section 13 — Prescription Medication](#section-13-prescription-medication-p29)
-- [Section 14 — Health & Safety Committees](#section-14-health-safety-committees-p29)
-- [Section 15 — Meals](#section-15-meals-p29)
-- [Section 16 — Health Care Flexible Spending Account](#section-16-health-care-flexible-spending-account-p29)
-- [Section 17 — New Resident Differential](#section-17-new-resident-differential-p30)
-- [Section 18 — Required Courses and Exams](#section-18-required-courses-and-exams-p30)
-- [Section 19 — House Staff Appreciation Day](#section-19-house-staff-appreciation-day-p30)
-- [Section 20 — Direct Deposit](#section-20-direct-deposit-p31)
-- [Article XXII — COMMITTEE ACTIVITY](#article-xxii-committee-activity-p31)
-- [Section 1 — Well-being Committee](#section-1-well-being-committee-p31)
-- [Section 2 — Personal/Well-being Leave Days](#section-2-personal-well-being-leave-days-p31)
-- [Article XXIV — BEEPERS](#article-xxiv-beepers-p32)
-- [Article XXV — MOTOR VEHICLE IDENTIFICATION](#article-xxv-motor-vehicle-identification-p32)
-- [Article XXVI — SAVING CLAUSE](#article-xxvi-saving-clause-p32)
-- [Article XXVII — FINANCIAL EMERGENCY ACT](#article-xxvii-financial-emergency-act-p32)
-- [Article XXVIII — ATTACHMENTS](#article-xxviii-attachments-p33)
-- [Article XXIX — TERMINATION AND RENEWAL](#article-xxix-termination-and-renewal-p33)
-- [RENEE CAMPION](#renee-campion-p34)
-- [FOR THE NEW YORK CITY](#for-the-new-york-city-p34)
-- [OFFICE OF LABOR RELATIONS](#office-of-labor-relations-p35)
-- [OFFICE OF LABOR RELATIONS](#office-of-labor-relations-p38)
-- [GEORGETTE GESTELY](#georgette-gestely-p38)
-- [AGREED AND ACCEPTED ON BEHALF OF CIR](#agreed-and-accepted-on-behalf-of-cir-p42)
-- [AGREED AND ACCEPTED ON BEHALF OF CIR](#agreed-and-accepted-on-behalf-of-cir-p43)
-- [APPENDIX D](#appendix-d-p44)
-- [NEW YEARS DAY](#new-years-day-p44)
-- [CHRISTMAS DAY](#christmas-day-p44)
-- [HOSPITALS](#hospitals-p45)
-- [APPENDIXE](#appendixe-p45)
-- [M7IJ1PIX](#m7ij1pix-p46)
-- [HOSPITALS](#hospitals-p47)
-- [APPENDIXG](#appendixg-p47)
-- [HOSPITALS](#hospitals-p48)
-- [APPENDIXH](#appendixh-p48)
-- [HOSPITALS](#hospitals-p49)
-- [APPENDIX I](#appendix-i-p49)
-- [HOSPITALS](#hospitals-p51)
-- [APPENDIXJ](#appendixj-p51)
-- [HOSPITALS](#hospitals-p52)
+- [Article I — RECOGNITION](#page-3)
+- [Article II — COMMITTEE SECURITY, DUES AND PAC CHECKOFF](#page-4)
+- [Section 1 — Performance Levels](#page-5)
+- [Section 2 — Performance Compensation](#page-5)
+- [Section 1 — Retroactive Lump Sum payment](#page-6)
+- [Article V — VACATIONS AND LEAVE TIME](#page-9)
+- [Section 9 — Personal Well-being Days](#page-10)
+- [Article VI — INDIVIDUAL CONTRACTS](#page-10)
+- [Article VII — WORK SCHEDULES](#page-11)
+- [Article VIII — PATIENT CARE TRUST FUND](#page-15)
+- [Article IX — – CHILD CARE FUND](#page-16)
+- [Article X — COMBINED REIMBURSEMENT FUND](#page-16)
+- [Article XI — CIR HOUSE STAFF BENEFITS PLAN](#page-17)
+- [Article XII — HEALTH AND HOSPITAL BENEFITS](#page-17)
+- [Article XIII — ON-CALL ROOMS](#page-18)
+- [Article XIV — MEDICAL BOARD REPRESENTATION](#page-19)
+- [Article XV — MALPRACTICE INSURANCE](#page-19)
+- [Article XVI — GRIEVANCE PROCEDURES](#page-20)
+- [Article XVII — DISCIPLINARY ACTION](#page-23)
+- [Section 8 — Remediation](#page-24)
+- [Section 9 — Probation](#page-25)
+- [Article XVIII — PROHIBITION AGAINST DISCRIMINATION](#page-25)
+- [Article XIX — LOUNGES](#page-25)
+- [Article XX — NO STRIKES](#page-26)
+- [Section 1 — Interest Pavments](#page-26)
+- [Section 2 — Translators](#page-26)
+- [Section 3 — Bulletin Boards](#page-26)
+- [Section 4 — Rotations](#page-26)
+- [Section 5 — Access to Files](#page-27)
+- [Section 6 — Personal Security](#page-27)
+- [Section 7 — Uniforms](#page-27)
+- [Section 8 — Payroll Lag](#page-27)
+- [Section 9 — Depository Checks](#page-27)
+- [Section 10 — Orientations](#page-27)
+- [Section 11 — House Staff Information](#page-28)
+- [Section 12 — Computer Tapes](#page-28)
+- [Section 13 — Prescription Medication](#page-29)
+- [Section 14 — Health & Safety Committees](#page-29)
+- [Section 15 — Meals](#page-29)
+- [Section 16 — Health Care Flexible Spending Account](#page-29)
+- [Section 17 — New Resident Differential](#page-30)
+- [Section 18 — Required Courses and Exams](#page-30)
+- [Section 19 — House Staff Appreciation Day](#page-30)
+- [Section 20 — Direct Deposit](#page-31)
+- [Article XXII — COMMITTEE ACTIVITY](#page-31)
+- [Section 1 — Well-being Committee](#page-31)
+- [Section 2 — Personal/Well-being Leave Days](#page-31)
+- [Article XXIV — BEEPERS](#page-32)
+- [Article XXV — MOTOR VEHICLE IDENTIFICATION](#page-32)
+- [Article XXVI — SAVING CLAUSE](#page-32)
+- [Article XXVII — FINANCIAL EMERGENCY ACT](#page-32)
+- [Article XXVIII — ATTACHMENTS](#page-33)
+- [Article XXIX — TERMINATION AND RENEWAL](#page-33)
+- [RENEE CAMPION](#page-34)
+- [FOR THE NEW YORK CITY](#page-34)
+- [OFFICE OF LABOR RELATIONS](#page-35)
+- [OFFICE OF LABOR RELATIONS](#page-38)
+- [GEORGETTE GESTELY](#page-38)
+- [AGREED AND ACCEPTED ON BEHALF OF CIR](#page-42)
+- [AGREED AND ACCEPTED ON BEHALF OF CIR](#page-43)
+- [APPENDIX D](#page-44)
+- [NEW YEARS DAY](#page-44)
+- [CHRISTMAS DAY](#page-44)
+- [HOSPITALS](#page-45)
+- [APPENDIXE](#page-45)
+- [M7IJ1PIX](#page-46)
+- [HOSPITALS](#page-47)
+- [APPENDIXG](#page-47)
+- [HOSPITALS](#page-48)
+- [APPENDIXH](#page-48)
+- [HOSPITALS](#page-49)
+- [APPENDIX I](#page-49)
+- [HOSPITALS](#page-51)
+- [APPENDIXJ](#page-51)
+- [HOSPITALS](#page-52)
 
 ---
 
-<a id="article-i-recognition-p3"></a>
-## Article I — RECOGNITION
-_Page 3_ · _Topics: recognition_
+<a id="page-1"></a>
+## Page 1
 
+TO: HEADS OF CONCERNED CITY DEPARTMENTS AND AGENCIES
+FROM: RENEE CAMPION, COMMISSIONER
+SUBJECT: EXECUTED CONTRACT: INTERNS AND RESIDENTS
+TERM: DECEMBER 16, 2021 TO JUNE 15, 2027
+Attached for your information and guidance is a copy of the executed contract entered
+into by the Commissioner of Labor Relations and NYC Health and Hospitals on behalf of the
+City of New York and the Committee of Interns and Residents on behalf of the incumbents of
+positions listed in Article I of said contract.
+The contract incorporates terms of an agreement reached through collective bargaining
+negotiations and related procedures.
+DATED:
+R
+C
+D
+F
+eo
+a
+ir
+nm
+n
+s t
+em
+i e
+D
+e C
+i s s
+l P o
+e p u
+a m
+i o n
+l l a
+t y C
+p i
+e r
+k
+o m
+o
+m
+n
+is s io n e r
+O f f i c e
+2 2 C
+oo
+r t
+f
+la n d
+Lt
+S t rn
+ae
+y
+ec
+b
+t ,
+. g
+No ev
+ow/
+o
+Ylr
+ro
+r k ,
+RN
+Y 1
+e0
+0 0
+l7 a
+C
+D
+H
+G
+D
+l aee
+eir
+ipa
+oe
+t i o n s
+r e L e v i t t
+u t y C o m m is s io
+lt h C a r e S t r a t e
+r g e t t e G e s t e
+c t o r , E m p lo y e e
+n e
+g y
+l y
+B
+r
+e n e f it s P r o g r a m
+
+<a id="page-2"></a>
+## Page 2
+
+2021-2027 INTERNS AND RESIDENTS AGREEMENT
+TABLE OF CONTENTS
+ARTICLE I - RECOGNITION ....................................................................................................................................... 1
+ARTICLE II· COMMITTEE SECURITY, DUES AND PAC CHECKOFF…………………………………………2
+ARTICLE III • PRODUCTIVITY AND PERFORMANCE .......................................................................................... 3
+ARTICLE IV· WAGES ................................................................................................................................................. 4
+ARTICLE V - VACATIONS AND LEAVE TIME ....................................................................................................... 7
+ARTICLE VI - INDIVIDUAL CONTRACTS ............................................................................................................. …8
+ARTICLE VII • WORK SCHEDULES ....................................................................................................................... ..9
+ARTICLE VIII- PATIENT CARE TRUST FUNO ..................................................................................................... 13
+ARTICLE IX- CHILD CARE FUND……………………………………………………………………………………14
+ARTICLE X- COMBINED REIMBURSEMENT FUND ............................................................................................. 14
+ARTICLE XI - CIR HOUSE STAFF BENEFITS PLAN ............................................................................................ 15
+ARTICLE XII- HEALTH AND HOSPITAL BENEFITS ............................................................................................ 15
+ARTICLE XIII - ON-CALL ROOMS .......................................................................................................................... 16
+ARTICLE XIV - MEDICAL BOARD REPRESENTATION .......................................................................................17
+ARTICLE XV - MALPRACTICE INSURANCE........................................................................................................ 17
+ARTICLE XVI ·GRIEVANCE PROCEDURES .......................................................................................................... 18
+ARTICLE XVII - DISCIPLINARY ACTION ............................................................................................................. 21
+ARTICLE XVIII - PROHIBITION AGAINST DISCRIMINATION………………………………………………23
+ARTICLE XIX-LOUNGES ..........................................................................................................................23
+ARTICLE XX· NO STRIKES....................................................................................................................................... 24
+ARTICLE XXI - MISCELLANEOUS ........................................................................................................................... 24
+Section 1. Interest Payments ........................................................................................................................... 25
+Section 2. Translators .................................................................................................................................... 25
+Section 3. Bulletin Boards ............................................................................................................................. 25
+Section 4. Rotations ........................................................................................................................................ 25
+Section 5. Access to Files ............................................................................................................................... 25
+Section 6. Personal Security ........................................................................................................................... 25
+Section 7. Uniforms........................................................................................................................................ 26
+Section 8. Payroll Lag .................................................................................................................................... 26
+Section 9. Depository Checks ........................................................................................................................ 26
+Section 10. Orientations ................................................................................................................................. 26
+Section 11. House Staff Information .............................................................................................................. 27
+Section 12. Computer Tapes ......................................................................................................................... 27
+Section 13. Prescription Medication .............................................................................................................. 27
+Section 14. Health & Safety Committees ....................................................................................................... 27
+Section 15. Meals.................................................................................................................................... 27
+Section 16. Health Care Flexible Spending Account...................................................................................... 28
+Section 17. New Resident Differential ............................................................................................................ 28
+Section 18. Required Courses and Exams ....................................................................................................... 28
+Section 19. House Staff Appreciation Day ..................................................................................................... 29
+Section 20. Direct Deposit. ............................................................................................................................ 29
+ARTICLE XXII · COMMITTEE ACTIVITY .............................................................................................................. 29
+ARTICLE XXIII · RESIDENT WELL-BEING ........................................................................................................... 29
+ARTICLE XXIV - BEEPERS .............................................................................................................................................. 30
+ARTICLE XXV- MOTOR VEHICLE IDENTIFICATION ......................................................................................... 30
+ARTICLE XXVI - SAVING CLAUSE ......................................................................................................................... 30
+ARTICLE XXVII • FINANCIAL EMERGENCY ACT .............................................................................................. 30
+ARTICLE XXVIII · ATTACHMENTS ........................................................................................................................ 31
+ARTICLE XXIX - TERMINATION AND RENEWAL. ............................................................................................. 31
+
+<a id="page-3"></a>
+## Page 3
+
+2021-2027 INTERNS AND RESIDENTS AGREEMENT
+AGREEMENT entered into this 13th day of September, 2024, by and between the City of
+New York and the New York City Health and Hospitals Corporation d/b/a NYC
+Health + Hospitals (hereinafter referred to as "NYC H+H") (hereinafter referred to
+jointly as the "Employer") and the Committee of Interns and Residents of New
+York City (the "Committee"), for the period from December 16, 2021 through June 15, 2027.
+WITNESSETH:
+WHEREAS, the parties hereto have entered into collective bargaining and desire to reduce the
+results thereof to writing,
+NOW, THEREFORE, it is mutually agreed as follows:
+ARTICLE I - RECOGNITION
 Section 1.
 The City recognizes the Committee as the sole collective bargaining representative for employees
 (hereinafter collectively referred to as "House Staff Officers" or "HSOs") of the City in the
@@ -133,16 +288,14 @@ Section 2.
 The terms "employee," "employees," "House Staff Officer" and "HSO" as used in this Agreement
 1
 
+<a id="page-4"></a>
+## Page 4
 
 shall mean only those persons in the unit described in Section l of this Article.
 Section 3.
 It is not the intention of NYC H+H to utilize volunteers at any NYC H+H Hospital to undermine
 the rights of HSOs covered by this Agreement.
-
-<a id="article-ii-committee-security-dues-and-pac-checkoff-p4"></a>
-## Article II — COMMITTEE SECURITY, DUES AND PAC CHECKOFF
-_Page 4_ · _Topics: wages, agency-shop, diversity_
-
+ARTICLE II - COMMITTEE SECURITY, DUES AND PAC CHECKOFF
 Section 1.
 The City agrees that all HSOs employed by the City, if any, and NYC H+H agrees that all HSOs
 employed by NYC H+H are eligible to become and remain members of the Committee of Interns
@@ -170,6 +323,8 @@ authorization pursuant to and in accordance with the terms of the dues check off
 card.
 2
 
+<a id="page-5"></a>
+## Page 5
 
 Section 5.
 Five (5) differing amounts of dues deductions will be made available to the Committee. Dues and
@@ -187,11 +342,8 @@ to NYC H+H which bears the HSO's signature.
 A copy of the Summary Annual Report to the Federal Election Commission ("FEC") of any fund
 established pursuant to this Section shall be submitted to the Comptroller of the City of New York
 and the Office of Labor Relations at the time of its submission to the FEC.
-
-<a id="section-1-performance-levels-p5"></a>
-### Section 1 — Performance Levels
-_Page 5_ · _Topics: training_
-
+ARTICLE III - PRODUCTIVITY AND PERFORMANCE
+Section 1. Performance Levels
 Delivery of medical services in the most efficient and effective manner and the provision of an
 effective training program for HSOs are of paramount importance to the City and NYC H+H. Such
 achievement is recognized to be a mutual obligation of all parties within their respective roles and
@@ -202,20 +354,17 @@ Collective Bargaining Law to establish and/or revise medical performance standar
 notwithstanding the existence of prior medical levels, norms or standards consistent with accepted
 medical and training program practices and requirements. Such standards may be used to
 determine acceptable performance levels and to measure the performance of each HSO.
-
-<a id="section-2-performance-compensation-p5"></a>
-### Section 2 — Performance Compensation
-_Page 5_ · _Topics: wages_
-
+Section 2. Performance Compensation
 The Union acknowledges the Employer's right to pay additional compensation for outstanding
 performance.
 The Employer agrees to notify the Union of its intent to pay such additional compensation.
 3
 
-<a id="section-1-retroactive-lump-sum-payment-p6"></a>
-### Section 1 — Retroactive Lump Sum payment
-_Page 6_ · _Topics: wages, grievance, training_
+<a id="page-6"></a>
+## Page 6
 
+ARTICLE IV - WAGES
+Section 1. Retroactive Lump Sum payment
 The parties agree that in lieu of any retroactive wage payments to current and former Residents for
 the period December 16, 2021 through May 16, 2024, Residents who are in active service as of
 May 16, 2024 shall instead receive the following:
@@ -254,6 +403,8 @@ years of service the HSO has completed in an accredited training program. Additi
 credit, if any, for non-accredited training programs to be granted in establishing the
 4
 
+<a id="page-7"></a>
+## Page 7
 
 | PGY |  | 9.27% | Adjustment Amount | With Adjustment | 3.00% | 3.25% |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -293,6 +444,8 @@ Section 6.
 a. Effective as of the dates hereafter indicated, the following pay levels shall be established:
 5
 
+<a id="page-8"></a>
+## Page 8
 
 | PGY-3 | $74,469 | $81,374 | $4,000 | $85,374 | $87,935 | $90,793 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -330,6 +483,8 @@ $4,722 $5,160 $5,315 $5,488
 The Chief Resident differential shall be paid only when authorized in writing by the Chief of
 6
 
+<a id="page-9"></a>
+## Page 9
 
 Service or, when for a period of two or more calendar months, a House Staff Officer substantially
 performs the duties of a Chief Resident with the knowledge and consent of the Chief of Service.
@@ -345,11 +500,7 @@ in amounts greater than 25% of the HSO's regular gross pay, except if the amount
 overpayment exceeds $1,000. In cases where the overpayment exceeds $1,000, deductions may be
 made in larger installments at the discretion of the Agency Head. Any recoupment shall be limited
 to the period up to six years prior to the commencement of such proceedings for recoupment.
-
-<a id="article-v-vacations-and-leave-time-p9"></a>
-## Article V — VACATIONS AND LEAVE TIME
-_Page 9_ · _Topics: vacation, sick-leave, other-leave_
-
+ARTICLE V - VACATIONS AND LEAVE TIME
 Section 1.
 The vacation for all HSOs shall be four weeks per annum (July 1 through June 30). The Hospitals
 will make a reasonable effort not to assign House Staff Officers on-call duty (including beeper
@@ -369,6 +520,8 @@ case of Residents serving their last year of residence, where full House Staff c
 service cannot, in the discretion of the appropriate Chief of Service, be obtained.
 7
 
+<a id="page-10"></a>
+## Page 10
 
 Section 5.
 Medical disability due to pregnancy or childbirth shall be considered as sick leave.
@@ -389,17 +542,9 @@ a. Eligibility for non-chargeable education leave shall be as per NYC H+H policy
 b. Effective July I, 1989, reimbursement for conference expenses was assumed by the CIR
 House Staff Benefits Plan and any obligation for future funding of such expenses by the
 City or NYC H+H ceased.
-
-<a id="section-9-personal-well-being-days-p10"></a>
-### Section 9 — Personal Well-being Days
-_Page 10_
-
+Section 9. Personal Well-being Days
 See Article XXIII section (2).
-
-<a id="article-vi-individual-contracts-p10"></a>
-## Article VI — INDIVIDUAL CONTRACTS
-_Page 10_ · _Topics: wages, hours, training_
-
+ARTICLE VI - INDIVIDUAL CONTRACTS
 Section 1.
 a. Each HSO shall, prior to the HSO's employment in any Hospital of NYC H+H, receive a
 written contract not inconsistent with any of the provisions herein, which shall set forth the
@@ -412,6 +557,8 @@ commence employment on or after July 1, I983, and the provisions of this Agreeme
 provisions of this Agreement shall prevail.
 8
 
+<a id="page-11"></a>
+## Page 11
 
 Section 2.
 The form of individual contract presently used by NYC H+H shall be furnished to the Committee
@@ -436,11 +583,7 @@ regard to each HSO affected shall be to assign such HSO, with concurrence of the
 which concurrence shall not be unreasonably withheld, to an approved program at another
 NYC H+H Hospital, or where appropriate, NYC H+H shall make other necessary
 arrangements to settle the employment contract and training program obligations.
-
-<a id="article-vii-work-schedules-p11"></a>
-## Article VII — WORK SCHEDULES
-_Page 11_ · _Topics: holidays, grievance, hours, training_
-
+ARTICLE VII - WORK SCHEDULES
 Section 1.
 The parties recognize the undesirability of excessive work hours for HSOs inconsistent with
 optimum patient care and high standards of training and will make every effort to resolve problems
@@ -454,6 +597,8 @@ Step I. The Employee and/or the Committee shall present the grievance in the for
 memorandum to the Executive Director not later than ninety (90) days after the date
 9
 
+<a id="page-12"></a>
+## Page 12
 
 on which the grievance arose. The Employee may also request an appointment to
 discuss the grievance. The Executive Director shall take any steps necessary for a
@@ -493,6 +638,8 @@ rates indicated below. This provision includes HSOs listed on the "jeopardy" or 
 schedule:
 10
 
+<a id="page-13"></a>
+## Page 13
 
 2/26/18
 Week Night $4 l 8
@@ -538,6 +685,8 @@ H+H in the annual amounts below, to be apportioned equitably among the NYC H+H
 facilities employing HSOs covered by this Agreement.
 11
 
+<a id="page-14"></a>
+## Page 14
 
 12/16/21 12/16/24
 $379,474 $500,000
@@ -577,6 +726,8 @@ shifts, within the allowable work hours regulations set forth by the ACGME, ADA,
 AOA, or RCPSC as applicable.
 12
 
+<a id="page-15"></a>
+## Page 15
 
 b. Additional work hours shall be prohibited during the HSO's first post-graduate year (PGY-
 1).
@@ -592,11 +743,7 @@ e. House Staff Officers that meet the above criteria shall be compensated at the
 Critical Care Coverage rate of $418 for coverage on a weekday or $558 for coverage on a
 weekend or holiday. This rate shall not be increased without the express consent of the
 parties.
-
-<a id="article-viii-patient-care-trust-fund-p15"></a>
-## Article VIII — PATIENT CARE TRUST FUND
-_Page 15_ · _Topics: grievance_
-
+ARTICLE VIII - PATIENT CARE TRUST FUND
 a. Effective each April 1st and October 1st, NYC H+H shall transfer a sum equivalent to 0.15
 percent (fifteen one-hundredths of one percent) of the Gross Annual Payroll for HSOs to
 the Patient Care Trust Fund (PCTF). For purposes of this provision, the Gross Annual
@@ -622,6 +769,8 @@ e. Prior to the purchase of any equipment or the funding of any programs or rese
 PCTF shall present its proposal(s) for the funding of programs or research or for the
 13
 
+<a id="page-16"></a>
+## Page 16
 
 purchase of equipment or supplies to the President of NYC H+H or his/her designee for
 approval. The CIR and the PCTF shall make best efforts to invite the NYC H+H President
@@ -638,11 +787,7 @@ his/her designee. The decision of the President or bis/her designee is final and
 provision is not subject to the grievance and arbitration provisions of the Agreement. It is
 understood that there is no continuing obligation for the City or NYC H+H to make any
 additional such payment during the term of this Agreement.
-
-<a id="article-ix-child-care-fund-p16"></a>
-## Article IX — – CHILD CARE FUND
-_Page 16_
-
+ARTICLE IX – CHILD CARE FUND
 Section 1.
 Effective October 27, 20 I7, and continuing thereafter, pursuant to the provisions of a separate
 agreement between the City of New York, NYC H+H, and CIR, 0.52 percent of the gross payroll
@@ -652,11 +797,7 @@ quarter.
 Effective December 26, 2019, the above Child Care Fund contribution shall be increased by an
 additional 0.354% of gross annual payroll, for a new total contribution amount of0.874% of the
 gross annual payroll.
-
-<a id="article-x-combined-reimbursement-fund-p16"></a>
-## Article X — COMBINED REIMBURSEMENT FUND
-_Page 16_
-
+ARTICLE X - COMBINED REIMBURSEMENT FUND
 a. A Combined Reimbursement Fund is to be established for the reimbursement of
 employment related expenses as may be jointly approved by the parties. The Fund shall be
 administered by trustees appointed by CIR subject to the terms of a signed separate
@@ -672,10 +813,10 @@ not automatically increase with future collective bargaining and will not be fac
 the percentage of gross annual payroll in section (b) above.
 14
 
-<a id="article-xi-cir-house-staff-benefits-plan-p17"></a>
-## Article XI — CIR HOUSE STAFF BENEFITS PLAN
-_Page 17_ · _Topics: health-welfare_
+<a id="page-17"></a>
+## Page 17
 
+ARTICLE XI - CIR HOUSE STAFF BENEFITS PLAN
 a. This Agreement incorporates the terms of the May 5, 2014 and June 28, 2018 Letter
 Agreements regarding health savings and welfare fund contributions between the City of
 New York and the Municipal Labor Committee, as appended to this agreement.
@@ -688,11 +829,7 @@ trusted fund agreement between the City, NYC H+H and the Committee.
 d. The Committee agrees to provide welfare fund benefits to domestic partners of covered
 HSOs in the same manner as those benefits are provided to spouses of married covered
 HSOs.
-
-<a id="article-xii-health-and-hospital-benefits-p17"></a>
-## Article XII — HEALTH AND HOSPITAL BENEFITS
-_Page 17_ · _Topics: health-welfare_
-
+ARTICLE XII- HEALTH AND HOSPITAL BENEFITS
 Section 1.
 The parties agree that the following provisions from the 1993 Municipal Memorandum of
 Economic Agreement shall remain in full force and effect, except as otherwise modified by
@@ -713,6 +850,8 @@ Section 4.
 Pursuant to paragraph 7 of the Health Benefits Agreement dated January 11, 2001, notwithstanding
 15
 
+<a id="page-18"></a>
+## Page 18
 
 the above, in each of the fiscal years 2001 and 2002, the City shall not make the annual $35 million
 contribution to the health insurance Stabilization Fund.
@@ -723,11 +862,7 @@ reconfiguration of this package which in no event will provide for costs in exce
 of the 2000 DC 37 Memorandum of Economic Agreement as set forth therein. However, it is
 understood that CIR will not be treated any better or any worse than any other Union participating
 in the citywide or program-wide Health Program with regard to increased health insurance costs.
-
-<a id="article-xiii-on-call-rooms-p18"></a>
-## Article XIII — ON-CALL ROOMS
-_Page 18_ · _Topics: grievance_
-
+ARTICLE XIII - ON-CALL ROOMS
 Section 1.
 a. On-call rooms shall be regularly cleaned and shall have functioning locks with keys
 available to House Staff Officers. Bathrooms and showers in on-call areas shall be
@@ -755,10 +890,10 @@ to follow a particular course of action which will effectuate compliance with th
 for the involved facility for such purposes.
 16
 
-<a id="article-xiv-medical-board-representation-p19"></a>
-## Article XIV — MEDICAL BOARD REPRESENTATION
-_Page 19_
+<a id="page-19"></a>
+## Page 19
 
+ARTICLE XIV - MEDICAL BOARD REPRESENTATION
 Section 1.
 Each NYC H+H Hospital Medical Board shall include in its regular voting membership two
 representatives of the House Staff of such Hospital, one of whom shall be the President of the
@@ -785,11 +920,7 @@ Section 5.
 Each NYC H+H Hospital will notify the Committee of the date of inspection by JCAHO and will
 make available to the Committee representative or representatives on the Medical Board the
 JCAHO report that is presented to the Medical Board.
-
-<a id="article-xv-malpractice-insurance-p19"></a>
-## Article XV — MALPRACTICE INSURANCE
-_Page 19_ · _Topics: safety_
-
+ARTICLE XV - MALPRACTICE INSURANCE
 Section 1.
 The City shall be liable for and save harmless each HSO covered hereunder for any claim for
 damages and/or personal injuries alleged to have been sustained by a claimant as a result of any
@@ -797,6 +928,8 @@ action or omission occurring in the performance of the HSO's duties and within t
 her employment.
 17
 
+<a id="page-20"></a>
+## Page 20
 
 Section 2.
 The foregoing is conditioned upon each of the following:
@@ -813,11 +946,7 @@ municipal employees.
 e. In the event of any appeal from a judgment against NYC H+H's HSOs, the City will
 promptly satisfy the judgment or stay the execution thereof by filing the appropriate bonds
 or instruments so that execution shall not issue against the HSOs.
-
-<a id="article-xvi-grievance-procedures-p20"></a>
-## Article XVI — GRIEVANCE PROCEDURES
-_Page 20_ · _Topics: grievance_
-
+ARTICLE XVI - GRIEVANCE PROCEDURES
 Section 1.
 The term "grievance" shall mean:
 a. A dispute concerning the application or interpretation of the terms of this collective
@@ -835,6 +964,8 @@ Step I The Employee and/or the Committee shall present the grievance in writing 
 Service or to the Executive Director or the Director's designee no later than ninety (90) days after
 18
 
+<a id="page-21"></a>
+## Page 21
 
 the date on which the grievance arose, and in grievances brought under Section 1 (D) the grievance
 shall be presented no later than ninety (90) days after the date on which written notice of non-
@@ -879,6 +1010,8 @@ shall not add to, subtract from, or modify any contract, rule, regulation, autho
 or order mentioned in Section l(b) and l(c) of this Article existing at the time the grievance arose.
 19
 
+<a id="page-22"></a>
+## Page 22
 
 Section 3.
 As a condition to the right of the Committee to invoke impartial arbitration set forth in this Article,
@@ -916,17 +1049,15 @@ Section 9.
 The grievance and arbitration procedure contained in this agreement shall be the exclusive remedy
 20
 
+<a id="page-23"></a>
+## Page 23
 
 for the resolution of disputes defined as "grievances" herein. This shall not be interpreted to
 preclude either party from enforcing the arbitrator's award in court.
 Section 10.
 HSOs may be assisted at all stages of the procedures herein set forth in this Article by
 representatives of the Committee.
-
-<a id="article-xvii-disciplinary-action-p23"></a>
-## Article XVII — DISCIPLINARY ACTION
-_Page 23_ · _Topics: grievance, discipline_
-
+ARTICLE XVII - DISCIPLINARY ACTION
 Section 1.
 HSOs shall have the right to a hearing before being subject to disciplinary action except as
 hereinafter provided. There shall be no disciplinary action taken against an HSO except for cause
@@ -956,6 +1087,8 @@ shall issue a determination in writing to the HSO and the Committee affirming, r
 modifying the charges and the proposed disciplinary action.
 21
 
+<a id="page-24"></a>
+## Page 24
 
 Section 5.
 The proposed decision of NYC H+H Director of Labor Relations shall become final unless the
@@ -990,15 +1123,13 @@ in arbitration pursuant to Section 6 hereof.
 Section 7.
 The Hospital will arrange the schedules of HSOs who are involved in disciplinary or grievance
 procedures so as to permit reasonable time off
-
-<a id="section-8-remediation-p24"></a>
-### Section 8 — Remediation
-_Page 24_
-
+Section 8. Remediation
 Effective March 26, 2020, if, in the discretion of the Facility Chief Medical Officer, the HSO's
 chief of service, or program director, it is decided that an HSO should be placed on a remediation
 22
 
+<a id="page-25"></a>
+## Page 25
 
 plan, the department will inform the HSO in a timely manner that his/her performance is
 considered to be substandard and will indicate what the specific aspects of the HSO's performance
@@ -1013,11 +1144,7 @@ successful fulfillment of the remediation plan. The Remediation Plan should serv
 educational tool to assist the HSO in meeting the required performance standards. HSO's should
 be offered the opportunity to have CIR representation in meetings with the employer to discuss
 their remediation plan.
-
-<a id="section-9-probation-p25"></a>
-### Section 9 — Probation
-_Page 25_ · _Topics: discipline_
-
+Section 9. Probation
 Effective, March 26, 2020, if an HSO is placed on probation (Probation defined as a process that
 places the HSO into a "trial period" to evaluate performance and provide necessary, outlined,
 performance improvements) for any reason, that action must be in writing and include: a summary
@@ -1031,11 +1158,7 @@ representation in all Probationary meetings.
 The Employer is not required to place IISO's on a remediation plan and/or probation to pursue
 disciplinary charges and reserves its rights to proceed directly to discipline in situations where it
 deems appropriate.
-
-<a id="article-xviii-prohibition-against-discrimination-p25"></a>
-## Article XVIII — PROHIBITION AGAINST DISCRIMINATION
-_Page 25_ · _Topics: training, diversity_
-
+ARTICLE XVIII - PROHIBITION AGAINST DISCRIMINATION
 No NYC H+H institution shall discriminate against an HSO on account of race, color, creed,
 national origin, place of medical education, sex, sexual orientation, affectional preference, or age
 in any matter of hiring or employment, housing, credit, contracting, provision of service, or any
@@ -1043,16 +1166,14 @@ other matter whatsoever. Further, in relation to equal employment opportunity in
 and training for physically handicapped individuals, NYC H+H shall follow the procedures set
 forth in the Mayor's Executive Order No. 14, dated May 21, 1974. Standards and policies affecting
 HSOs for provision of facilities shall be justly applied to all HSOs.
-
-<a id="article-xix-lounges-p25"></a>
-## Article XIX — LOUNGES
-_Page 25_
-
+ARTICLE XIX - LOUNGES
 NYC H+H's Vice President for Corporate Affairs shall issue a memorandum within thirty (30)
 days of the Financial Control Board's approval of the Contract to the Hospitals' Executive Directors
 directing them to ascertain if lounge space can be made available for utilization by HSOs. If lounge
 23
 
+<a id="page-26"></a>
+## Page 26
 
 space can be made available, the Executive Director, in conjunction with the House Staff Affairs
 Committee in each hospital, shall prepare a proposal recommending designation of such space for
@@ -1060,43 +1181,24 @@ House Staff lounges. Subject to the availability of funds and the concurrence of
 Director, the proposal shall also recommend reasonable measures to be taken to make the lounge
 area clean and secure and to set forth a projected timetable for completion. Implementation of such
 proposals shall be within sixty (60) days after the concurrence of the Executive Director.
-
-<a id="article-xx-no-strikes-p26"></a>
-## Article XX — NO STRIKES
-_Page 26_
-
+ARTICLE XX - NO STRIKES
 Neither the Committee nor any Employee shall induce or engage in any strikes, slowdowns, work
 stoppages, or mass absenteeism, or induce any mass resignations.
-
-<a id="section-1-interest-pavments-p26"></a>
-### Section 1 — Interest Pavments
-_Page 26_ · _Topics: wages_
-
+ARTICLE XXI - MISCELLANEOUS
+Section 1. Interest Pavments
 Interest on wage increases shall accrue at the rate of three percent (3%) per annum from one
 hundred twenty (120) days after execution of the applicable Contract or one hundred twenty (120)
 days after the effective date of the increase, whichever is later, to the date of actual payment.
 Interest accrued shall be payable only if the amount of interest due to an individual HSO exceeds
 five dollars ($5).
-
-<a id="section-2-translators-p26"></a>
-### Section 2 — Translators
-_Page 26_
-
+Section 2. Translators
 Each NYC H+H Hospital will make reasonable efforts to provide or compile a list of available
 personnel to act as translators.
-
-<a id="section-3-bulletin-boards-p26"></a>
-### Section 3 — Bulletin Boards
-_Page 26_
-
+Section 3. Bulletin Boards
 Each NYC H+H Hospital will provide bulletin board space for use by the Committee and
 conference rooms, at the Committee's request, for House Staff meetings related to the Hospital or
 NYC H+H.
-
-<a id="section-4-rotations-p26"></a>
-### Section 4 — Rotations
-_Page 26_ · _Topics: hours_
-
+Section 4. Rotations
 a. The parties recognize that rotation between the payrolls of NYC H+H and NYC H+H
 affiliates is a special concern of this unit and that, on occasion, it affects rotating House
 Staff Officers in various ways, including such areas as payroll lag, work week computation
@@ -1109,50 +1211,28 @@ b. The NYC H+H will notify the CIR on a periodic basis, but no less than once a 
 malpractice insurance coverage provided to Corporate House Staff Officers upon their
 24
 
+<a id="page-27"></a>
+## Page 27
 
 rotation to non-NYC H+H facilities.
-
-<a id="section-5-access-to-files-p27"></a>
-### Section 5 — Access to Files
-_Page 27_
-
+Section 5. Access to Files
 Each HSO shall have access, upon the HSO's request, to the HSO's personnel files. The HSO shall
 have the right to place in the HSO's file the HSO's response to any evaluatory statement in the
 HSO's personnel file. In addition, NYC H+H will allow to each HSO such rights as are provided
 in Article X of the 1995-2001 Citywide Agreement.
-
-<a id="section-6-personal-security-p27"></a>
-### Section 6 — Personal Security
-_Page 27_
-
+Section 6. Personal Security
 NYC H+H shall make reasonable efforts to provide for the personal security of HSOs working in
 the facilities of NYC H+H. The remedy for any claimed violation shall be as provided in Article
 XIV, Section 2(e) and (f), of the 1995-2001 Citywide Agreement.
-
-<a id="section-7-uniforms-p27"></a>
-### Section 7 — Uniforms
-_Page 27_
-
+Section 7. Uniforms
 Each HSO shall be assigned six serviceable uniforms at all times. At the conclusion of the HSO's
 employment by NYC H+H the HSO shall return all such uniforms.
-
-<a id="section-8-payroll-lag-p27"></a>
-### Section 8 — Payroll Lag
-_Page 27_ · _Topics: hours_
-
+Section 8. Payroll Lag
 NYC H+H shall have the right to initiate a payroll lag of one week for all HSOs covered by this
 agreement in accordance with a schedule to be determined by NYC H+H.
-
-<a id="section-9-depository-checks-p27"></a>
-### Section 9 — Depository Checks
-_Page 27_
-
+Section 9. Depository Checks
 The City may eliminate its depository check cashing accounts.
-
-<a id="section-10-orientations-p27"></a>
-### Section 10 — Orientations
-_Page 27_ · _Topics: hours_
-
+Section 10. Orientations
 Effective February 26, 2018, when orientation kits are supplied to new House Staff, the CIR shall
 be permitted to have included in the kits CIR literature, provided such literature is first approved
 for such purpose by NYC H+H's Office of Labor Relations.
@@ -1166,6 +1246,8 @@ permitted to have included in the kits CIR literature, provided such literature 
 such purpose by NYC H+H's Office of Labor Relations.
 25
 
+<a id="page-28"></a>
+## Page 28
 
 The Vice-President responsible for Human Resources will issue a memorandum to NYC H+H
 facilities requesting that they provide the CIR notice of the scheduling of orientation sessions for
@@ -1176,11 +1258,7 @@ benefits to the new House Staff.
 Nothing contained above shall prevent a Facility, in their unilateral discretion, from allowing CIR
 more than sixty (60) minutes to meet with new House Staff during orientations, if operationally
 feasible.
-
-<a id="section-11-house-staff-information-p28"></a>
-### Section 11 — House Staff Information
-_Page 28_ · _Topics: recognition_
-
+Section 11. House Staff Information
 Effective February 26, 2018:
 a. The NYC H+H shall provide, whether centrally or at the hospital level, the home addresses
 of House Staff Officers as soon after the NYC H+H or the facility obtains them as is
@@ -1199,35 +1277,23 @@ the new July 1st Resident class. A final listing of the entire bargaining unit, 
 new Resident class, will be sent to the CIR by August 15th and shall include employee
 name, job class number, facility, Original Date of Appointment (ODA), work email,
 Employee ID number and if available, home address.
-
-<a id="section-12-computer-tapes-p28"></a>
-### Section 12 — Computer Tapes
-_Page 28_
-
+Section 12. Computer Tapes
 Upon request, NYC H+H will provide computer tapes to CIR for which CIR will pay a one-time
 development fee and an on-going production fee.
 26
 
-<a id="section-13-prescription-medication-p29"></a>
-### Section 13 — Prescription Medication
-_Page 29_
+<a id="page-29"></a>
+## Page 29
 
+Section 13. Prescription Medication
 Pursuant to Operating Procedure 140-9, prescription medication shall be available to House Staff
 Officers through the facility pharmacy, except that, when the Employee Health Service is closed,
 the prescription may be written by any licensed physician other than the House Staff Officer.
-
-<a id="section-14-health-safety-committees-p29"></a>
-### Section 14 — Health & Safety Committees
-_Page 29_ · _Topics: safety_
-
+Section 14. Health & Safety Committees
 The NYC H+H will issue a memorandum to its facilities stating that CIR should be a member of
 the facility Labor-Management Health and Safety Committee established pursuant to Article XIV,
 Section 2(d), of the 1995-2001 Citywide Contract or any successor agreement thereto.
-
-<a id="section-15-meals-p29"></a>
-### Section 15 — Meals
-_Page 29_
-
+Section 15. Meals
 a. NYC H+H shall continue to pay House Staff Officers assigned to its facilities and on its
 payroll the sum of three-thousand five hundred ($3,500) dollars per year. Effective December
 16, 2024, the meal payment shall be increased by three-hundred ($300) dollars per year. The
@@ -1239,11 +1305,7 @@ b. ln order to continue to provide its portion of this funding, CIR agrees to th
 of $100,000 from the On-Call Pool and of $500,000 from the Combined Reimbursement Fund.
 c. Any issues that may arise concerning the implementation of this agreement shall be referred to
 a joint labor/management committee.
-
-<a id="section-16-health-care-flexible-spending-account-p29"></a>
-### Section 16 — Health Care Flexible Spending Account
-_Page 29_ · _Topics: wages, health-welfare_
-
+Section 16. Health Care Flexible Spending Account
 a. The parties agree that the following provisions from the 1993 Municipal Coalition
 Agreement shall remain in full force and effect, except as otherwise modified by provisions
 of the 2000 DC37 Memorandum of Economic Agreement and Appendices.
@@ -1260,6 +1322,8 @@ payments, excess expenses beyond plan limits, physical exams and health related
 transportation costs for vision, dental, medical and prescription drug plans where the
 27
 
+<a id="page-30"></a>
+## Page 30
 
 employee and dependents are covered. In no case will any of the above expenses include
 those non-deductible expenses as defined as non-deductible in IRS Publication 502.
@@ -1267,19 +1331,11 @@ d. An administrative fee of $1.00 per week for the first year shall be charged f
 in the program. An employee's participation in the account is irrevocable during a plan
 year. At the close of the plan year any excess balance in an employee's account will not be
 refunded.
-
-<a id="section-17-new-resident-differential-p30"></a>
-### Section 17 — New Resident Differential
-_Page 30_
-
+Section 17. New Resident Differential
 Each July 1st all Residents new to NYC H+H on that date, excluding Fellows and residents
 immediately transferring from another payroll, will receive a lump sum payment of $550 gross
 pay.
-
-<a id="section-18-required-courses-and-exams-p30"></a>
-### Section 18 — Required Courses and Exams
-_Page 30_
-
+Section 18. Required Courses and Exams
 a. NYC H+H shall, within the NYC H+H system, provide and pay for Advanced Cardiac Life
 Support (including Pediatric Advanced Life Support), Basic Life Support, and/or
 Advanced Trauma Life Support classes and materials for House Staff who are required to
@@ -1290,11 +1346,7 @@ of Service or his/her designee, and subject to the restrictions and rules in pla
 facility.
 b. NYC H+H shall continue, in accordance with past practices, to pay for all required in-
 service exams within the NYC H+H System for House Staff Officers.
-
-<a id="section-19-house-staff-appreciation-day-p30"></a>
-### Section 19 — House Staff Appreciation Day
-_Page 30_ · _Topics: recognition_
-
+Section 19. House Staff Appreciation Day
 During the term of this contract, NYC H+H, in collaboration with CIR, agrees to hold an annual
 System-wide House Staff Appreciation Day. House Staff appreciation activities will highlight
 the contributions of House Staff members to the healthcare system in New York City, serve as a
@@ -1311,32 +1363,25 @@ The parties will meet before March 26, 2020 in order to mutually agree how the f
 made available to CIR.
 28
 
-<a id="section-20-direct-deposit-p31"></a>
-### Section 20 — Direct Deposit
-_Page 31_
+<a id="page-31"></a>
+## Page 31
 
+Section 20. Direct Deposit
 Effective January 16, 2020 the Employer may require that all newly hired employees be paid
 exclusively through direct deposit or electronic funds transfer. For employees on direct deposit,
 the employer may provide pay stubs electronically except where the employee has requested in
 writing to receive a printed stub.
 Further, the parties shall work together regarding incumbent employees' enrollment in direct
 deposit, with the objective of 100% of employees being paid electronically.
-
-<a id="article-xxii-committee-activity-p31"></a>
-## Article XXII — COMMITTEE ACTIVITY
-_Page 31_
-
+ARTICLE XXII - COMMITTEE ACTIVITY
 Time spent by HSO representatives in the conduct of labor relations with the City and on
 Committee activities shall be governed by the terms of Executive Order No. 75, as amended, dated
 March 22, 1973, entitled "Time Spent on the Conduct of Labor Relations between the City and Its
 Employees and on Union Activity," or any successor thereto. Pursuant to agreement of the parties,
 effective 7/1/05 no House Staff Officer will be eligible for full-time release pursuant to Executive
 Order 75.
-
-<a id="section-1-well-being-committee-p31"></a>
-### Section 1 — Well-being Committee
-_Page 31_
-
+ARTICLE XXIII - RESIDENT WELL-BEING
+Section 1. Well-being Committee
 The parties shall create a joint H+H, Union and Resident "Well-being Committee" made up of an
 equal number of H+H and Union/Residents, as determined by the H+H Chief Medical Officer and
 CIR. The Well-being Committee may be a Sub-committee of an existing Committee or a newly
@@ -1349,27 +1394,21 @@ burnout prevention, and compliance with ACGME standards for Well-being as set fo
 Common Program Requirements (See Section VI.C, effective July 1, 2019).
 The parties will meet before March 26, 2020 in order to mutually agree how the funding will be
 made available to CIR.
-
-<a id="section-2-personal-well-being-leave-days-p31"></a>
-### Section 2 — Personal/Well-being Leave Days
-_Page 31_ · _Topics: sick-leave_
-
+Section 2. Personal/Well-being Leave Days
 The parties agree that January 15, 2020, Residents shall be eligible to use up to two (2) sick-leave
 days per year as "Personal/Well-being" days.
 Unused Personal/Well-being days shall not be carried over from year to year and shall be
 scheduled, with the approval of the Program Director, at least thirty (30) days in advance, unless
 29
 
+<a id="page-32"></a>
+## Page 32
 
 the Program Director/Department and Resident come to a mutually agreeable alternative
 arrangement Well-being days can be taken in full or one-half day increments.
 Nothing contained above shall prevent a Facility/Program, in their unilateral discretion, from
 allowing Residents to use additional sick leave days as Well-being days, if operationally feasible.
-
-<a id="article-xxiv-beepers-p32"></a>
-## Article XXIV — BEEPERS
-_Page 32_ · _Topics: grievance_
-
+ARTICLE XXIV - BEEPERS
 Section 1.
 A committee consisting of representatives of the Central Offices of the Vice President responsible
 for medical affairs, the Vice President responsible for finance, and the Vice President responsible
@@ -1386,42 +1425,26 @@ statement of the hardship. The Chief of Service shall make a determination withi
 working days and shall respond to the House Staff Officer(s) or Committee of Interns and
 Residents by memorandum. The decision of the Chief of Service is final and binding and is not
 subject to the contractual grievance procedure or arbitration.
-
-<a id="article-xxv-motor-vehicle-identification-p32"></a>
-## Article XXV — MOTOR VEHICLE IDENTIFICATION
-_Page 32_
-
+ARTICLE XXV- MOTOR VEHICLE IDENTIFICATION
 NYC H+H will establish a procedure for the issuance of a motor vehicle identification sign suitable
 for display in a car visor or windshield which will identify the House Staff Officer as a Resident
 employed by NYC H+H. NYC H+H will notify the Department of Traffic of the meaning of the
 sign.
-
-<a id="article-xxvi-saving-clause-p32"></a>
-## Article XXVI — SAVING CLAUSE
-_Page 32_
-
+ARTICLE XXVI- SAVING CLAUSE
 In the event that any provision of this Agreement is found to be invalid, such invalidity shall not
 impair the validity and enforceability of the remaining provisions of this Agreement.
-
-<a id="article-xxvii-financial-emergency-act-p32"></a>
-## Article XXVII — FINANCIAL EMERGENCY ACT
-_Page 32_
-
+ARTICLE XXVII - FINANCIAL EMERGENCY ACT
 The provisions of this Agreement are subject to applicable provisions of law, including the New
 York State Financial Emergency Act for the City of New York as amended.
 30
 
-<a id="article-xxviii-attachments-p33"></a>
-## Article XXVIII — ATTACHMENTS
-_Page 33_
+<a id="page-33"></a>
+## Page 33
 
+ARTICLE XXVIII - ATTACHMENTS
 The attachment(s), if any, appended hereto shall be deemed a part of this Agreement as if fully set
 forth herein.
-
-<a id="article-xxix-termination-and-renewal-p33"></a>
-## Article XXIX — TERMINATION AND RENEWAL
-_Page 33_ · _Topics: discipline_
-
+ARTICLE XXIX - TERMINATION AND RENEWAL
 Section 1.
 This Agreement shall be in full force and effect until June 15, 2027, and shall continue in effect
 and be automatically renewed from year to year thereafter until either party gives notice in writing
@@ -1433,22 +1456,16 @@ this Agreement. It is further understood that with respect to this item each par
 respective rights and this Agreement does not constitute a bar.
 31
 
+<a id="page-34"></a>
+## Page 34
 
 we have hereunto set our hand
 WHEREFORE,
 BY:
 ---------
-
-<a id="renee-campion-p34"></a>
-### RENEE CAMPION
-_Page 34_
-
+RENEE CAMPION
 Commissioner of Labor Relations
-
-<a id="for-the-new-york-city-p34"></a>
-### FOR THE NEW YORK CITY
-_Page 34_
-
+FOR THE NEW YORK CITY
 o
 :cJz;
 �ot__
@@ -1474,10 +1491,11 @@ D LLAR MONTALVAN,MD
 Regional Vice-President
 e 15,2 027
 
-<a id="office-of-labor-relations-p35"></a>
-### OFFICE OF LABOR RELATIONS
-_Page 35_ · _Topics: wages, health-welfare_
+<a id="page-35"></a>
+## Page 35
 
+THE CITY OF NEW YORK
+OFFICE OF LABOR RELATIONS
 40 Rector street, New York, NY 10006-1705
 hnp://nyc.gov/olr
 ROBERTW. LINN
@@ -1508,6 +1526,8 @@ independent healthcare actuary, and any other mutually agreed upon additional ou
 to develop an acxounting system to measure and calculate savings.
 1
 
+<a id="page-36"></a>
+## Page 36
 
 5. The MLC agrees to generate cumulative healthcare savings of S3.4 billion over the
 course of Fiscal Years 2015 through 2018. said savings to be exclusive of the monies refer:enced
@@ -1548,6 +1568,8 @@ f. The parties shall share the costs for the arbitrator and the actuary the arbi
 selects.
 2
 
+<a id="page-37"></a>
+## Page 37
 
 If the above accords with your understanding and agreement, kindly execute the signature
 line provided.
@@ -1566,19 +1588,16 @@ ___.
 Hany Nespoli, Chair
 3
 
-<a id="office-of-labor-relations-p38"></a>
-### OFFICE OF LABOR RELATIONS
-_Page 38_
+<a id="page-38"></a>
+## Page 38
 
+OFFICE OF LABOR RELATIONS
 40 Rector Street, New Yodt, N.Y. 10006-1705
 llfC-PfN/Olr
 ROBERT W. LINN MAYRA E. BELL
 Commlalanttr GnnlQJunset
-
-<a id="georgette-gestely-p38"></a>
-### GEORGETTE GESTELY
-_Page 38_
-
+RENEE CAMPION
+GEORGETTE GESTELY
 Find ae,iu,y Camnissloner
 Dlntdor. Emplo)lee8ene61sAogmn
 Ct.AIRE LEVITT
@@ -1614,6 +1633,8 @@ iii. In 1111y event,, the $600 million pursuant to 1 (a)(iv) must be recurring a
 agreed to by the parties within FY 2021, and may not be borrowi:d from
 other years.
 
+<a id="page-39"></a>
+## Page 39
 
 c. Savings attributable to CBP programs will continue to be transferred to the City by
 offsetting the savings amounts documented by Empire Blue Cross and GHI against
@@ -1663,6 +1684,8 @@ shall cover all periods addressed by this Agreement (i.e., through June 30, 2021
 and shall be executed within thirty days of the execution of this letter agreement.
 2
 
+<a id="page-40"></a>
+## Page 40
 
 4, The parties agree that the Welfare Funds will receive two St 00 per member one-time lump-sum
 payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July I,
@@ -1710,6 +1733,8 @@ referred to Martin SchcirunllJl for resolution consistent with the dispute resol
 a. Such dispute shall be resolved within 90 days.
 3
 
+<a id="page-41"></a>
+## Page 41
 
 b. The arbitrator shall have the authority to impose interim relief that is
 consistent with the parties' intent
@@ -1724,6 +1749,8 @@ Robert W. Linn ---""'---
 Accepted on behalf of the Municipal Labor Committee
 4
 
+<a id="page-42"></a>
+## Page 42
 
 Office of Labor Relations
 22 Coa11andt Slm!I. NawYmt. NY 10007
@@ -1752,15 +1779,13 @@ implemented by tha City ofNcw York, as soon as practicable 8IXl agree to take tb
 steps to implemeot, subject to ratification by the membership.
 If the above accords with )'Our underslandin& kindly execute"the !dgaaturc line provided
 below.
-
-<a id="agreed-and-accepted-on-behalf-of-cir-p42"></a>
-### AGREED AND ACCEPTED ON BEHALF OF CIR
-_Page 42_ · _Topics: parental-leave_
-
+AGREED AND ACCEPTED ON BEHALF OF CIR
 c::/44..>&t
 Earl Mathurin
 Associate Director
 
+<a id="page-43"></a>
+## Page 43  ·  _OCR-reconstructed_
 
 Appendix C
 City f
@@ -1797,21 +1822,15 @@ very truly yours
 Rence Carpion
 6 015/19
 Commissioner
-
-<a id="agreed-and-accepted-on-behalf-of-cir-p43"></a>
-### AGREED AND ACCEPTED ON BEHALF OF CIR
-_Page 43_ · _OCR-reconstructed_
-
+AGREED AND ACCEPTED ON BEHALF OF CIR
 Eart Mathurin
 Associale Director
 
+<a id="page-44"></a>
+## Page 44  ·  _OCR-reconstructed_
 
 To be inserted as a new Appendix D to the collective bargaining agreement
-
-<a id="appendix-d-p44"></a>
-### APPENDIX D
-_Page 44_ · _OCR-reconstructed_ · _Topics: holidays, hours_
-
+APPENDIX D
 Mr. Lalit Clarkson
 Regional Director
 Committee of Interns and Residents
@@ -1827,17 +1846,15 @@ Under the Pilot Program, effective upon ratification of the MOA. Residents will
 be eligible to receive a lump sum cash payment of two-hundred ($200) dollars per shift, if
 they are scheduled and work 50% or more of their shift on any of the holidays listed
 below:
-
-<a id="new-years-day-p44"></a>
-### NEW YEARS DAY
-_Page 44_ · _OCR-reconstructed_
-
+NEW YEARS DAY
 MARTIN LUTHER KING JR. DAY
-
-<a id="christmas-day-p44"></a>
-### CHRISTMAS DAY
-_Page 44_ · _OCR-reconstructed_ · _Topics: wages, hours_
-
+WASHINGTON'S BIRTHDAY
+MEMORIAL DAY
+JUNETEENTH
+INDEPENDENCE DAY
+LABOR DAY
+THANKSGIVING DAY
+CHRISTMAS DAY
 This $200 shift payment shall be in addition to the Resident's regular salary and
 shall be subject to all legally required deductions and withholdings.
 This Pilot Program shall expire on June 15. 2027 or when the total $3.300.000 in
@@ -1846,14 +1863,12 @@ NYCH+H and or the City of New York shall in no way be liable for any
 payments beyond the $3.300.000 Jump sum cash amount. Any balance that may be
 6
 
+<a id="page-45"></a>
+## Page 45
 
 ,vc
 HEALTH+
-
-<a id="hospitals-p45"></a>
-### HOSPITALS
-_Page 45_
-
+HOSPITALS
 .Andrta 0. Cohal
 Gcncnl Counsc:I
 Senior Vice Pn:sidait, Legal Affairl
@@ -1863,11 +1878,7 @@ NYC Hcallh + Hmpilals
 NC'II' Yen, NY 10013
 212-7811-lJOC
 11mlm1.coh�n)'l:hhc:.,1111
-
-<a id="appendixe-p45"></a>
-### APPENDIXE
-_Page 45_
-
+APPENDIXE
 Mr. Earl Mathurin
 Associate Director
 Committee of Interns and Residents
@@ -1894,6 +1905,8 @@ Residents A eement.
 gr
 COMMllTt:t: OF INTERNS & RElilDENTS 2011-2021 ACREEMENT
 
+<a id="page-46"></a>
+## Page 46
 
 d
 Office of Labor Relations
@@ -1905,11 +1918,7 @@ Office of Labor Relations
 MIIMO........Glllfrtmrr..w......
 fllt... Dal... .
 ....,a.-,
-
-<a id="m7ij1pix-p46"></a>
-### M7IJ1PIX
-_Page 46_
-
+M7IJ1PIX
 I'
 Eal,..,,..¥ I ..,th
 C• •• llf--•.....,,
@@ -1928,14 +1937,12 @@ Ifdie ....,. midi wllh yaur t 11 I • rTndly euedl de tc"" Hne pllfflClld
 1
 bltlaw.
 
+<a id="page-47"></a>
+## Page 47
 
 NYC
 HEALTH+
-
-<a id="hospitals-p47"></a>
-### HOSPITALS
-_Page 47_
-
+HOSPITALS
 Andrea G. Coha1
 GcncmlCounsd
 Senior Vii:e Pn:sidc:nt, Legal Affain
@@ -1945,11 +1952,7 @@ NYC Hcallb -t-Hmpilall
 New York, NY 10013
 212-788-3304
 an1lrc.i.�ohm@.n)Chl1C.om
-
-<a id="appendixg-p47"></a>
-### APPENDIXG
-_Page 47_ · _Topics: hours_
-
+APPENDIXG
 Mr. Earl Mathurin
 Associate Director
 Committee of Interns and Residents
@@ -1980,15 +1983,13 @@ vtt=-[c�
 ANDREA G. COHEN
 COMMJTTEE OF INTERNS & RF.slDENTS 2018-1021 ACRllMENT
 
+<a id="page-48"></a>
+## Page 48
 
 "'C
 l:lr.•
 HEALTH+
-
-<a id="hospitals-p48"></a>
-### HOSPITALS
-_Page 48_
-
+HOSPITALS
 Andrm 0. Cohai
 GcnaalCounsd
 Senior Yacc Pn:sidc:nt, Lqpil Affairs
@@ -1999,11 +2000,7 @@ New Yark, NY 10013
 212·788-3304
 nm
 andn:a.c:uhcn(!!,ny,:hhc
-
-<a id="appendixh-p48"></a>
-### APPENDIXH
-_Page 48_
-
+APPENDIXH
 Mr. Earl Mathurin
 Associate Director
 Committee of Interns and Residents
@@ -2024,13 +2021,11 @@ m6/1--z_
 ANDREA G. COHEN
 COMMITIEE OF INTERNS & REslDENTS 2018-2021 AGREEMENT
 
+<a id="page-49"></a>
+## Page 49
 
 HEALTH +
-
-<a id="hospitals-p49"></a>
-### HOSPITALS
-_Page 49_
-
+HOSPITALS
 Andrea G. Cohen
 General Counsel
 Senior Vice President Legal Affairs
@@ -2040,11 +2035,7 @@ NYC Health + Hospitals
 New York, NY 10013
 212-788-3304
 Andrca.cohen@nychhc.org
-
-<a id="appendix-i-p49"></a>
-### APPENDIX I
-_Page 49_ · _Topics: grievance, training_
-
+APPENDIX I
 Mr. Lalit Clarkson
 Area Director
 Committee of Interns and Residents
@@ -2075,6 +2066,8 @@ programs, workloads of House Staff Officers, and the level of patient care.
 8. Voluntary elective rotations.
 9. Travel reimbursement for mandatory outside rotations.
 
+<a id="page-50"></a>
+## Page 50
 
 10. Facility support for House Staff Officers academic research.
 11. Fatigue Mitigation.
@@ -2104,15 +2097,13 @@ Very Truly Yours,
 ___________________
 Andrea G. Cohen, Esq.
 
+<a id="page-51"></a>
+## Page 51
 
 -
 .,
 HEALTH+
-
-<a id="hospitals-p51"></a>
-### HOSPITALS
-_Page 51_
-
+HOSPITALS
 Andrea G. Cabm
 Omcnl Counsel
 Sauar Vice President, Lepl Aff'ain
@@ -2122,11 +2113,7 @@ NYC llcallh + Hmpilals
 Nc,v York, NY 10013
 212-7U-]304
 :nln::Lcuh�nyi:hlic.llf¥
-
-<a id="appendixj-p51"></a>
-### APPENDIXJ
-_Page 51_
-
+APPENDIXJ
 Mr. Earl Mathurin
 Associate Director
 Committee of Interns and Residents
@@ -2147,14 +2134,12 @@ O'(._
 ANDREA G. COHEN
 COMMITIEE OF INTERNS & llESIDENTS 1011-1021 ACU:FMENT
 
+<a id="page-52"></a>
+## Page 52
 
 NYC
 HEALTH+
-
-<a id="hospitals-p52"></a>
-### HOSPITALS
-_Page 52_
-
+HOSPITALS
 Andn:aG. Cohen
 Gener.ii COlmel
 Saiiar Via: Pnsidcat, Lcpl AJran

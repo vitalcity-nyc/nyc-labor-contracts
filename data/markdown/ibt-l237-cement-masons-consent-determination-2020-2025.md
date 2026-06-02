@@ -27,100 +27,98 @@ sector: "other"
 
 ## Contents
 
-- [Page 1](#page-1-p1)
-- [Page 2](#page-2-p2)
-- [Page 3](#page-3-p3)
-- [Page 4](#page-4-p4)
-- [Page 5](#page-5-p5)
-- [Page 6](#page-6-p6)
-- [Page 7](#page-7-p7)
-- [Page 8](#page-8-p8)
-- [Page 9](#page-9-p9)
-- [Page 10](#page-10-p10)
-- [Page 11](#page-11-p11)
-- [Page 12](#page-12-p12)
-- [Page 13](#page-13-p13)
-- [Page 14](#page-14-p14)
-- [Page 15](#page-15-p15)
-- [Page 16](#page-16-p16)
-- [Page 17](#page-17-p17)
-- [Page 18](#page-18-p18)
-- [Page 19](#page-19-p19)
-- [Page 20](#page-20-p20)
-- [Page 21](#page-21-p21)
-- [Page 22](#page-22-p22)
-- [Page 23](#page-23-p23)
-- [Page 24](#page-24-p24)
-- [Page 25](#page-25-p25)
-- [Page 26](#page-26-p26)
-- [Page 27](#page-27-p27)
-- [Page 28](#page-28-p28)
-- [Page 29](#page-29-p29)
+- [Page 1](#page-1)
+- [Page 2](#page-2)
+- [Page 3](#page-3)
+- [Page 4](#page-4)
+- [Page 5](#page-5)
+- [Page 6](#page-6)
+- [Page 7](#page-7)
+- [Page 8](#page-8)
+- [Page 9](#page-9)
+- [Page 10](#page-10)
+- [Page 11](#page-11)
+- [Page 12](#page-12)
+- [Page 13](#page-13)
+- [Page 14](#page-14)
+- [Page 15](#page-15)
+- [Page 16](#page-16)
+- [Page 17](#page-17)
+- [Page 18](#page-18)
+- [Page 19](#page-19)
+- [Page 20](#page-20)
+- [Page 21](#page-21)
+- [Page 22](#page-22)
+- [Page 23](#page-23)
+- [Page 24](#page-24)
+- [Page 25](#page-25)
+- [Page 26](#page-26)
+- [Page 27](#page-27)
+- [Page 28](#page-28)
+- [Page 29](#page-29)
 
 ---
 
-<a id="page-1-p1"></a>
-### Page 1
-_Page 1_ · _OCR-reconstructed_ · _Topics: wages_
+<a id="page-1"></a>
+## Page 1  ·  _OCR-reconstructed_
 
 THE COMPTROLLER OF THE CITY OF NEW YORK
+X
 In the matter of the Complaint of
 CITY EMPLOYEES UNION, LOCAL 237, I.B.T.
-Against
--X
 NOTICE
 OF
 FILING
+Against
 CITY OF NEW YORK OFFICE OF LABOR RELATIONS,
 For a determination of the prevailing rate of wage and
-supplements in accordance with New York State Labor Law
+supplements in accordance with New York State Labor Law:
 Article Eight.
--X
+---X
 PLEASE TAKE NOTICE that annexed hereto is a true copy of a Consent Determination
 that was duly filed on April 18, 2024 in the Office of the Comptroller in the matter of a
 complaint for the fixation of compensation of Cement Mason (92210).
-By:
 Brad Lander
 Comptroller of the City of New York
 One Centre Street
 New York, NY 10007
-Darli
+By:
 Paul Brumlik
 Director of Classifications
-Bureau of Labor Law
+Bureau of Labor Law :
 Tel: (212) 669-2161
 Fax: (212) 815-8681
 
-<a id="page-2-p2"></a>
-### Page 2
-_Page 2_ · _OCR-reconstructed_
+<a id="page-2"></a>
+## Page 2  ·  _OCR-reconstructed_
 
 TO:
 RENEE CAMPION
 Commissioner
 City of New York Office of Labor Relations
-40 Rector Street, 4th Floor
+40 Rector Street, 4* Floor
 New York, NY 10006
-GREGORY FLOYD.
+GREGORY FLOYD
 President
 City Employees Union Local 237, I.B.T.
 216 West 141h Street
 New York, NY 10011-7296
 
-<a id="page-3-p3"></a>
-### Page 3
-_Page 3_ · _OCR-reconstructed_ · _Topics: wages_
+<a id="page-3"></a>
+## Page 3  ·  _OCR-reconstructed_
 
 BEFORE THE COMPTROLLER OF THE CITY OF NEW YORK
+---X
 In the Matter of the Complaints of
 CEMENT MASON (92210)
 for the fixation of their compensation as employees of the City of New York,
 et al., at the prevailing rate of wages pursuant to New York State Labor Law
-§ 220 et seq.
--X
+§ 220 et seg.
+----X
 CONSENT DETERMINATION
 A Complaint under Section 220 of the New York State Labor Law, having been filed
-by City Employees Union, Local 237, International Brotherhood of Teamsters
+by City Employees Union,
+Local 237, International Brotherhood of Teamsters
 ("Complainant"), representing employees of the City of New York, et al., in the above
 referenced title ("employees"), and this Consent Determination having been agreed to
 between the Mayor's Office of Labor Relations ("OLR") on behalf of the City of New York,
@@ -129,37 +127,35 @@ wages, supplemental benefits and jurisdiction on all issues of law and fact as t
 forth in the caption,
 NOW, THEREFORE, IT IS HEREBY DETERMINED BY CONSENT that:
 The compromised basic rate of wages and supplemental benefits agreed upon are and
-have been for the above-mentioned employees of the City of New York. et al.. as follows:
+have been for the above-mentioned employces of the City of New York. et al.. as follows:
 
-<a id="page-4-p4"></a>
-### Page 4
-_Page 4_ · _OCR-reconstructed_ · _Topics: overtime, health-welfare, hours, shift-differential_
+<a id="page-4"></a>
+## Page 4  ·  _OCR-reconstructed_
 
 CEMENT MASON
 PERIOD
 HOURLY RATE
-OVERTIME RATE
 Expired
 $48.10
-$96.20
 9/27/20 to 9/26/21
 $49.54
-$99.08
 9/27/21 to 9/26/22
 $51.03
-$102.06
 9/27/22 to 9/26/23
 $52.56
-$105.12
 9/27/23 to 9/26/24
 $54.14
-$108.28
 9/27/24 to 10/26/25
-$55.90
+/ $55.90
+OVERTIME RATE
+$96.20
+$99.08
+$102.06
+$105.12
+$108.28
 $111.80
-seven
 With regard to overtime rates, work performed in excess of the regularly scheduled
-1.
+seven
 (7) hour day shall be paid for in cash, or compensatory time, at the rate of double (2x) the
 straight time rate.
 A shift differential shall be paid for all scheduled hours worked between the hours of
@@ -169,224 +165,212 @@ rate.
 The total supplemental benefits package agreed upon by Local 237, International
 Brotherhood of Teamsters on behalf of the Complainants and the City of New York et al.
 as reflecting the prevailing supplements or their "equivalents" are as follows:
-Effective September 27, 2020, a Welfare Fund contribution shall continue to be paid at the
-rate of $1,855 per annum per active employee and at the rate of $2,055 per annum per retired
-employee. Effective September 27, 2024, there shall be a recurring $31.25 per annum per
-employee (active and retiree) increase to the welfare fund contribution. The per annum per
-employee active contribution will increase from $1,855 to $1,886.25. The per annum per employee
-retiree contribution will increase from $2,055 to $2,086.25. Effective September 27, 2025, there
-shall be a recurring $168.75 per annum per employee (active and retiree) increase to the welfare
-fund contribution. The per annum per employee active contribution will increase from $1,886.25
-to $2,055. The per annum per employee retiree contribution will increase from $2,086.25 to
+1.
+Effective September 27, 2020, a Welfare Fund contribution shall continuc to be paid at the
+rate of $1,855 pcr annum per active employee and at the rate of $2,055 per annum per retired
+employee. Effective September 27, 2024, there shall be a recurring $31.25 per annum por
+employee (active and retire) increase to the welfare fund contribution. The per annum per
+employee active contribution will incrcasc from $1,855 to $1,886.25. The per annum per employee
+retiree contribution will incrcase from $2,055 to $2,086.25. Effective September 27, 2025, therc
+shall be a recurring $168.75 pcr annum per cmployee (active and retircc) increase to the welfare
+fund contribution. The per annum por employee active contribution will incrcasc from $1,886.25
+to $2,055. The per annum per employee retire contribution will inerease from $2,086.25 to
 2
 
-<a id="page-5-p5"></a>
-### Page 5
-_Page 5_ · _OCR-reconstructed_ · _Topics: wages, health-welfare, pension_
+<a id="page-5"></a>
+## Page 5  ·  _OCR-reconstructed_
 
 $2,255. The contributions shall be paid per complainant by the City of New York to the Welfare
-Fund, Local 237 International Brotherhood of Teamsters, 216 West 14th Street, New York, N.Y.
+Fund, Local 237 International Brotherhood of Tcamsters, 216 West 14th Strect, New York, N.Y.
 Employees who have been separated from service subsequent to July 1, 1971, and who
 were covered by a Welfare Fund at the time of such separation pursuant to a separate
 agreement between the City of New York and the Certified union representing such
-employees, shall continue to be so covered subject to the provisions hereof, on the same
+employees, shall continue to be so covered subject to the provisions hercof, on the same
 contributory basis as incumbent employees. Contributions shall be made only for such time
 as said individuals remain primary beneficiaries of the New York City Health Insurance
-Program and are entitled to benefits paid for by the City through such program; or are retirees
+Program and are entitled to bencfits paid for by the City through such program; or are retirees
 of the New York City Employees Retirement System who have completed five (5) years of
 full in time service with the City of New York, except that contributions for those employees
-hired after December 27, 2001 shall be governed by the provisions of $12-126 of the
+hired after December 27, 2001 shall be governed by the provisions of §12-126 of the
 Administrative Code of the City of New York, as amended.
-2. An additional supplemental benefit in the form of a compensation accrual fund
-payment shall continue to be disbursed for cach day actually worked. Compensation
+2. An additional supplemental bencfit in the form of a compensation accrual fund
+payment shall continuc to be disbursed for cach day actually worked. Compensation
 Accrual Fund payments shall be as follows:
 Effective:
-9/27/20 through 10/26/25
 Rate:
-$5.61 per hour actually worked to a maximum of $39.27 per day.
-This additional supplemental benefit in the form of a compensation accrual fund will
+9/27/20 through 10/26/25
+$5.61 pcr hour actually worked to a maximum of $39.27 per day.
+This additional supplemental bencfit in the form of a compensation accrual fund will
 be subject to a separate agreement between the City of New York and Local #237 I.B.T. The
-liability of the City of New York shall in no event exceed the amount hereinabove set forth
-for each hour worked, irrespective of any upward modification by reason of imposition of any
+liability of the City of New York shall in no event exceed the amount hercinabove set fott h
+for cach hour worked, irrespective of any upward modification by rcason of imposition of any
 3
 
-<a id="page-6-p6"></a>
-### Page 6
-_Page 6_ · _OCR-reconstructed_ · _Topics: holidays, vacation, sick-leave, pension_
+<a id="page-6"></a>
+## Page 6  ·  _OCR-reconstructed_
 
-tax, lien, attorneys' fee or otherwise, and provided further that the amount of contributions by
+tax, lien, attorncys' fee or otherwisc, and provided further that the amount of contributions by
 the City shall be limited solely to the payments as provided herein.
-3.
-4.
 Continuation of statutory pension benefits.
 Continuation of City Health Benefit (Insurance) program. The parties agree that the May
-5, 2014 and June 28, 2018 letters between the City and the MLC are incorporated as if fully set
+5,2014 and June 28, 2018 letters between the City and the MLC are incorporated as if fully sct
 forth herein.
-5.
-Dr. Martin Luther King, Jr.'s Birthday, the third Monday in January, shall continue to be
+Dr. Martin Luther King, Jr.'s Birthday, the third Monday in January, shall continuc to be
 a regular holiday with pay. Effective April 25, 2022, Juneteenth shall be a regular holiday with
 pay. These holidays are in addition to those set forth in Appendix A of the Comptroller's Time
 and Leave Regulations.
-6.
-Continuation of Article III Sections (1) (a)-(f) of Appendix A: "Other Authorized
+Continuation of Article II Sections (1) (a)-(f) of Appendix A: "Other Authorized
 absences with pay".
-7.
+Effective 10/1/09: All employees shall continue to reccive twelve (12) sick Icave days per
 усаг.
 8.
-Effective 10/1/09: All employees shall continue to receive twelve (12) sick leave days per
-Any annual leave set forth in Appendix A of the Comptroller's Time and Leave
+Any annual Icave set forth in Appendix A of the Comptroller's Time and Leave
 Regulations shall be modified to provide for the following:
-Effective 10/1/09 annual leave allowance for employees in the title of Cement
-Mason who works at least 250 days per year shall continue to accrue at the
-following rate.
+Effective 10/1/09 annual Icave allowance for employees in the title of Cement
+Mason who works at least 250 days per year shall continuc to accruc at tho
+following ratc.
 Years of Service
-At the beginning of the employee's 1 Year
-At the beginning of the employee's 2nd Year
-At the beginning of the employee's 4th Year
-At the beginning of the employee's 5th Year
-At the beginning of the employee's 8th Year
-At the beginning of the employee's 15th Year
-Annual Leave
+AnnualLeave
+At the beginning of the employce's 1" Year
+At the beginning of the employce's 2d Year
+At the beginning of the employee's 4'h Year
+At the beginning of the employce's 5' Y car
+At the beginning of the employee's 8'h Ycar
+At the beginning of the employee's 15" Year
 Per Year
 12 workdays
 15 workdays
 17 workdays
+22 workdays
+27 workdays
+29 workdays
 Per Month (hh:mm)
 7:00
 8:45
 9:55
-22 workdays
 12:50
-27 workdays
 15:45
-29 workdays
 16:55
 4
 
-<a id="page-7-p7"></a>
-### Page 7
-_Page 7_ · _OCR-reconstructed_ · _Topics: wages, overtime, holidays, hours_
+<a id="page-7"></a>
+## Page 7  ·  _OCR-reconstructed_
 
 a) The provisions of this Consent Determination shall be consistent with the applicable
 provisions of the New York State Financial Emergency Act for the City of New York, as
-amended.
+amended
 b) The Complainant agrees to execute a full release to the City of New York et al., for the
-period embraced herein, such release being set forth in the General Release and Waiver attached
-hereto as Exhibit "A".
-c) The Complainant agrees to waive any and all interest on all differentials of basic rates of
-wages and supplemental benefits. It is expressly understood that such waiver, set forth in Exhibit
+period embraced herein, such release being set forth in the Gencral Release and Waiver attached
+hercto as Exhibit "A".
+c) The Complainant agrecs to waive any and all interest on all differentials of basic rates of
+wages and supplemental bencfits. It is expressly understood that such waiver, sct forth in Exhibit
 "A" annexed hereto, shall include the waiver of any right to interest payments duc pursuant to
-subdivision 8c of Section 220 of the Labor Law (L. 1967, c, 502, 1). However,
-(1) Interest on wage increases shall accrue at the rate of three percent (3%) per annum from
+subdivision 8c of Section 220 of the Labor Law (L. 1967, c, 502, I). However,
+(1) Interest on wage increases shall accruc at the rate of threc percent (3%) per annum from
 one hundred twenty (120) days after the filing date of this Consent Determination, or
-one hundred twenty (120) days after the effective date of the increase, whichever is
+one hundred twenty (120) days after the effective date of the increasc, whichever is
 later, to the date of actual payment,
-(2) Interest on shift differentials, holiday and overtime pay shall accrue at the rate of three
-percent (3%) per annum from one hundred twenty (120) days following their earning,
+(2) Interest on shift differentials, holiday and overtime pay shall accruc at the rate of threc
+percent (3%) per annum from on hundred twenty (120) days following their carning,
 or one hundred twenty (120) days after the filing date of this Consent Determination,
 whichever is later, to the date of actual payment and
 (3) Interest accrued under (1) or (2) above shall be payable only if the amount of interest
-duc to an individual Employee excccds five dollars ($5.00).
-d) The Complainant herein shall refrain from filing any Article 78 proceedings in whole or in
-part with respect to any provision made herein and for any additional benefits other than those
+due to an individual Employee exceeds five dollars ($5.00).
+d) The Complainant hercin shall refrain from filing any Article 78 proceedings in whole or in
+part with respect to any provision made herein and for any additional bencfits other than those
 5
 
-<a id="page-8-p8"></a>
-### Page 8
-_Page 8_ · _OCR-reconstructed_ · _Topics: wages, overtime, holidays, hours_
+<a id="page-8"></a>
+## Page 8  ·  _OCR-reconstructed_
 
-contained herein excepting that the right is reserved to bring any necessary proceedings for the
+contained herein excopting that the right is rescrved to bring any necessary proceedings for the
 enforcement of the terms of the Consent Determination.
 c) The Complainant agrees to withdraw any and all objections in all of the periods embodied
-herein.
-f) The Complainant agrees to waive any and all supplemental benefits payable under
-subdivision 3 of Section 220 of the Labor Law of the State of New York, such waiver being set
-forth in Exhibit "A" annexed hereto, and accept in licu thereof the supplemental benefits set forth
-in this Consent Determination, and as set forth in Appendix A annexed hereto as modified herein.
-g) Any new Employee who may be hired by the City of New York, et al., during the term of
+herein
+f) The Complainant agrees to
+waive any and all supplemental bencfits payable under
+subdivision 3 of Scetion 220 of the Labor Law of the State of New York, such waiver being set
+forth in Exhibit "A" annexed hereto, and accept in lieu thercof the supplemental benefits set forth
+in this Consent Determination, and as sct forth in Appendix A annexed hercto as modified hercin.
+g) Any now Employee who may be hired by the City of New York, ct al., during the term of
 this settlement shall be required to comply with all of the terms and conditions herein upon the
 payment of rates and supplemental benefits herein.
-h) Any legal claims of any nature, including specifically, but not limited thereto, premium
+h) Any Iegal claims of any nature, including specifically, but not limited thercto, premium
 rates, holiday rates, shift rates, overtime rates or any other legal claims affecting rates and
 supplemental benefits of any kind whatsoever, are merged in this compromise and settlement for
-the period of the compromise and settlement contained herein.
-i) The foregoing basic rates of wages and supplemental benefits are due and payable to cach
-and every employee of the City of New York, ct al., serving in the above-referenced titles
+the period of the compromise and scttlement contained herein.
+i)
+The forgoing basic rates of wages and supplemental benefits are due and payable to cach
+and every employee of the City of Now York, ct al., serving in the above-referenced titles
 beginning as of the effective date of the complaint filed herein, and shall be applicable to all
-employees of the City of New York, et al., serving in the above-referenced titles who are
+employces of the City of New York, et al., serving in the above-referenced titles who are
 represented by the Complainant.
-j) The basic rates and supplemental benefits herein are not to be construed as true prevailing
-rates and supplemental benefits but shall be considered rates and benefits in compromise and
+j) The basic rates and supplemental benefits herein are not to be construed as truc prevailing
+rates and supplemental bencfits but shall be considered rates and bencfits in compromise and
 settlement of all issues of law and fact.
 6
 
-<a id="page-9-p9"></a>
-### Page 9
-_Page 9_ · _OCR-reconstructed_
+<a id="page-9"></a>
+## Page 9  ·  _OCR-reconstructed_
 
-k) It is further understood and agreed that in consideration of the compromise and settlement
+k) It is further understood and agreed that in considcration of the compromise and settlement
 reached herein, the complaint in this matter is hereby settled.
 1) The submission of any Labor Law complaint, effective on October 27, 2025, can be made
-at the Labor Law Bureau of the Office of the Comptroller on or after that date.
-IN WITNESS WHEREOF, the parties have executed this Agreement on the day and year first
+at the Labor Law Burcau of the Office of the Comptroller on or after that date.
+IN WITNESS WHEREOF, the parties have executed this Agreement on the day and ycar first
 above written.
 CONSENTED TO:
 FOR THE CITY OF NEW YORK
-вод
+Ro
 BY:
 RENEE CAMPION
-FOR CITY EMPLOYEES UNION,
-LOCAL 237, I.B.T.
-BY:
 Commissioner of
 Labor Relations
-GREGORY LOND
+FOR CITY EMPLOYEES UNION.
+LOCAL 237, I.B.T.
+BY:
+2.
+GREGORYBE
 President
 City Employees Union,
 Local 237, I.B.T.
-The basic rates and supplemental benefits agreed to herein between the parties are not to
+The basic rates and supplemental bencfits agreed to hercin between the parties are not to
 be construed as truc prevailing rates and supplemental benefits, but shall be deemed substitute
 rates and benefits in compromise and settlement of all issues of law and fact raised in the complaint
 filed herein pursuant to Labor Law Section 220.8-d.
 IT IS SO DETERMINED AND ENTERED
-Biler
+Bile
 BRAD LANDER
 Comptroller
 Dated: April 18, 2024
 New York, New York
 7
 
-<a id="page-10-p10"></a>
-### Page 10
-_Page 10_ · _OCR-reconstructed_ · _Topics: wages, discipline_
+<a id="page-10"></a>
+## Page 10  ·  _OCR-reconstructed_
 
 UNIT: Cement Masons
 TERM: September 27, 2020 through October 26, 2025
 GENERAL RELEASE AND WAIVER
-Local 237, I.B.T. (hereinafter referred to as the "Union"), as the certified collective
+Local 237, 1.B.T. (hercinafter referred to as the "Union"), as the certific collective
 bargaining representative of employees in the title, CEMENT MASON for and in consideration of
-the wage rates and supplemental benefit package negotiated and agreed upon by the Union and the
-City of New York as set forth in a collective bargaining agreement for the period beginning
-September 27, 2020 and terminating October 26, 2025, a copy of which has been made available
+the wage rates and supplemental bencfit package negotiated and agreed upon by the Union and the
+City of New York as set forth in a collective bargaining agreement for the pcriod beginning
+September 27, 2020 and terminating October 26, 2025, a copy of which has been made availablo
 to the Union, hereby voluntarily and knowingly agrees to:
-1.
-2.
-3.
-4.
 Waive, withdraw, relinquish, and refrain from filing, pursuing or instituting any
-claim for wages, supplements or other benefits, or any right, remedy, action or
-proceeding, which the Union has or may have under Section 220 of the Labor Law.
+place for age, spleents or her have inder anyone one cro
 Discontinue any and all action or proceedings, if any, heretofore commenced by me
 or on my behalf of the above mentioned titles under and pursuant to Section 220 of
 the Labor Law applicable to the period September 27, 2020 through October 26,
-2025.
+3.
 Waive any and all interest on all differentials of basic rates of wages and
 supplemental benefits from September 27, 2020 through October 26, 2025 except
 as expressly agreed upon in writing by the Union and the City. It is expressly
 understood that such waiver shall include the waiver of any right to interest payments
 pursuant to Subdivision 8c of Section 220 of the Labor Law (L. 1967,c. 502, Section
 1).
-Release and forever discharge the City of New York from all manner of actions, cause
+Release and forever discharge the City of New York from all mannerof actions, cause
 and causes of actions, suits, debts, dues, sums of money, accounts, reckonings,
 bonds, bills, specialties, covenants, contracts, controversies, agreements, promises,
 cariances, trespasses, damages, judgments, extents, executions, claims and demands
@@ -395,19 +379,17 @@ titles, shall or may have, by reason of any claim for wages or supplemental bene
 pursuant to Section 220 of the Labor Law from September 27, 2020 through
 October 26, 2025 except as expressly agreed upon in writing by the Union and the
 City for that period.
-8
 LOCAL 237, I.B.T.
 BY:
-GREGORY FLOYD
+GREGORY SLOYD
 President
-City Employees Union,
+City Employces Union,
+8
 
-<a id="page-11-p11"></a>
-### Page 11
-_Page 11_ · _OCR-reconstructed_
+<a id="page-11"></a>
+## Page 11  ·  _OCR-reconstructed_
 
 The
-City of
 New York
 Renee Campion
 Commissioner
@@ -418,19 +400,19 @@ Generol Counsel
 April 12, 2024
 Gregory Floyd
 President
+City Employees Union, Local 237, I.B.T.
+216 West 14" Street, 5" Floor
+New York, NY 10011
 Office of Labor Relations
 22 Cortlandt Street, New York, NY 10007
-City Employees Union, Local 237, I.B.T.
-216 West 14th Street, 5th Floor
-New York, NY 10011
-Dear Mr. Floyd:
-nyc.gov/olr
+nуc.gov/or
 Claire Levitt
 Deputy Commissioner
 Health Core Strategy
 Georgette Gestely
 Director, Employee Benefits Program
 RE: Direct Deposit, 2020-2025 Cement Masons Agreement
+Dear Mr. Floyd:
 This is to confirm the understanding and agreement of the parties concerning enrollment
 in direct deposit for employees covered under the Cement Masons Consent Determination for the
 period September 27, 2020 through October 26, 2025.
@@ -440,24 +422,17 @@ deposit, the employer may provide pay stubs electronically except where the empl
 requested in writing to receive a printed pay stub.
 Further, the parties shall work together regarding incumbent employees' enrollment in
 direct deposit, with the objective of 100% of employees being paid electronically.
-below.
 If the above accords with your understanding, kindly execute the signature line provided
-AGREED AND ACCEPTED ON BEHALF
-OF LOCAL 237, IBT:
-BY:
-요
-GREGORY FLOYD
+below.
 Very truly yours,
-под
+Rog
 Renee Campion
-9
+AGREED AND ACCEPTED ON BEHALF
 
-<a id="page-12-p12"></a>
-### Page 12
-_Page 12_ · _OCR-reconstructed_ · _Topics: parental-leave, other-leave, recognition_
+<a id="page-12"></a>
+## Page 12  ·  _OCR-reconstructed_
 
 The
-City of
 New York
 Renee Campion
 Commissioner
@@ -467,7 +442,7 @@ Nicole Andrade
 General Counsel
 Office of Labor Relations
 22 Cortlandt Street, New York, NY 10007
-nyc.gov/olr
+nyc.gov/oir
 Claire Levitt
 Deputy Commissioner
 Health Care Strategy
@@ -477,7 +452,7 @@ April 12, 2024
 Gregory Floyd
 President
 City Employees Union, Local 237, I.B.T.
-216 West 14th Street, 5th Floor
+216 West 14'* Street, 5'h Floor
 New York, NY 10011
 RE: 2020-2025 Cement Mason Consent Determination $3,000 One-Time Lump Sum
 Ratification Bonus
@@ -485,52 +460,47 @@ Dear Mr. Floyd:
 This is to confirm the understanding and agreement of the parties concerning the lump sum
 cash payment for the employees covered by the Cement Mason Consent Determination for the
 period September 27, 2020 through October 26, 2025.
-i.
-ii.
-iii.
-iv.
+i
 A lump sum cash payment in the amount of $3,000, pro-rated for other than full
 time employees, shall be payable as soon as practicable upon ratification of this
 Agreement to those bargaining unit members who were in active payroll status as
 of February 15, 2024, the date of ratification. Active payroll status is defined as
 being in active payroll status ("B Status"), military leave with pay ("K status"), or
 on paid family leave.
+ii.
 Employees who were terminated for cause, resigned, retired, or otherwise separated
 from service, for any other reason, prior to the date of ratification of this Agreement
 shall not be eligible for the lump sum cash payment.
+її.
 In no event shall any employee receive greater than $3,000 in bonus payments
 pursuant to this agreement.
+iv.
 The lump sum cash payment shall be pensionable, consistent with applicable law.
 10
 
-<a id="page-13-p13"></a>
-### Page 13
-_Page 13_ · _OCR-reconstructed_ · _Topics: wages_
+<a id="page-13"></a>
+## Page 13  ·  _OCR-reconstructed_
 
-below.
 V.
 vi.
 The lump sum cash payment shall not become part of the employee's basic salary
 rate, nor will it be added to the employee's basic salary for the calculation of any
-salary-based benefits, including but not limited to the calculation of future
+salary-based benefits, including but not limited to the calculation of futur
 collective bargaining increases.
 For circumstances not covered by this agreement, the First Deputy Commissioner
-of Labor Relations may elect to issue, on a case-by-case basis, interpretations
+of Labor Relations may elect to issuc, on a casc-by-case basis, interpretations
 concerning the payment of the lump sum ratification bonus. Such interpretations
 shall not be subject to any dispute resolution procedures.
 If the above accords with your understanding, please indicate your acceptance by signing
+below.
+Very Truly Yours
 AGREED AND ACCEPTED ON BEHALF
 OF LOCAL 237, IBT:
 BY:
-GREGORY FLOYD
-5
-Very Truly Yours
-вод
 Rence Campion
 
-<a id="page-14-p14"></a>
-### Page 14
-_Page 14_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, parental-leave_
+<a id="page-14"></a>
+## Page 14  ·  _OCR-reconstructed_
 
 IN THE EVENT OF ANY INCONSISTENCY BETWEEN APPENDIX A AND
 REQUIREMENTS IMPOSED BY FEDERAL, STATE, OR LOCAL LAW, SUCH AS
@@ -541,31 +511,31 @@ APPENDIX A
 Time and Leave Benefits:
 1- ANNUAL LEAVE ALLOWANCE
 Section 1
+Section 2
 A combined vacation, personal business and religious holiday leave allowance, shall be
 established, which shall be known as "annual leave allowance".
-Section 2
 EFFECTIVE MAY 1, 1970
 Annual leave allowance shall be granted to permanent employees who work at least a
 250-day year, as follows:
 CATEGORY
 Employees who have
-ANNUAL LEAVE ALLOWANCE
-MONTHLY ACCRUAL
-27 Work Days
-2-1/4 days
 completed 15 years of
 service.
+ANNUAL LEAVE ALLOWANCE
+27 Work Days
 (5 weeks and 2 days)
+MONTHLY ACCRUAL
+2 - 1/4 days
 Employees who have
-completed 8 years of service.
+completod 8 years of service.
 All other employees
 25 Work Days
 (5 weeks)
+20 Work Daya
+(4 weeks)
 2 days, plus 1 day at end of
 of vacation year.
-20 Work Days
-(4 weeks)
-1 - 2/3 days
+1 - 23 days
 Section 3
 There shall be a pro-rating of the above allowance for employees who work less than a
 250-day year.
@@ -575,15 +545,14 @@ of pay, and the first six months of absence while receiving Workmen's Compensati
 shall be considered as time "served" by the employee.
 In the calculation of annual leave credits, a full month's credit shall be given to an
 
-<a id="page-15-p15"></a>
-### Page 15
-_Page 15_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave_
+<a id="page-15"></a>
+## Page 15  ·  _OCR-reconstructed_
 
 2
 employee who has been in full pay status for at least 15 calendar days during that month,
 provided however, that (a) where an employee has been absent without pay for an accumulated
 total of more than 30 calendar days in the vacation year, he shall lose the annual leave credits
-earnable in one month for each 30 days of such accumulated absence even though in full pay
+carnable in one month for each 30 days of such accumulated absence even though in full pay
 status for at least 15 calendar days in each month during this period; and (b) if an employee loses
 annual leave credits under this rule for several months in the vacation year because he has been
 in full pay status for fewer than 15 days in each month, but accumulates during said months a
@@ -596,49 +565,46 @@ employee to the employee's credit on April 30th and not used in the succeeding v
 may be carried over from said vacation year to the next succeeding vacation year only, with the
 approval of the agency head; and any such time not used within the prescribed period shall be
 added to the employee's sick leave balance.
-a. All annual leave accumulations to the credit of employees on May 1, 1961, which
-exceed the allowance permitted in Article 1, Section 5, shall remain to their credit but shall be
+All annual leave accumulations to the credit of employees on May 1, 1961, which
+exceed the allowance permitted in Article I, Section 5, shall remain to their credit but shall be
 reduced to the maximum set by the Leave Regulations by May 1, 1970. This shall be
 accomplished in the following manner:
 (1) Any accumulations in excess of 40 days shall be established as an annual leave reserve
 bank, which shall be in existence until May 1, 1970.
-(2) Any time left in the annual leave reserve bank on May 1, 1970 shall be transferred to the
+(2)
+Any time left in the annual leave reserve bank on May 1, 1970 shall be transferred to the
 sick leave balances of employees. If any such transfer causes an employee's sick leave balance
 to rise above the 180-day maximum established by the Leave Regulations, the sick leave surplus
 which exceeds 180 days shall be placed in the employees sick leave bank and shall remain to his
 credit, notwithstanding the provisions of Article II, Sec. 2.
-After May 1, 1970, the full provisions of Article I, Section 5 apply.
-(3)
-b.
-In the event, however, that the Mayor or an elected official of any department
-calls upon an employee to forego his vacation or any part thereof in any year, that portion
+(3) After May 1, 1970, the full provisions of Article I, Section 5 apply.
+b. In the event, however, that the Mayor or an elected official of any department
+calls upon an employce to forego his vacation or any part thereof in any year, that portion
 thereof shall be carried over as vacation even though the same exceeds the limits fixed in Article
-I, Sections 5 and 5 (a) above.
+1, Sections 5 and 5 (a) above.
 Section 6
 The normal unit of charge against annual leave allowance for vacation and personal
 
-<a id="page-16-p16"></a>
-### Page 16
-_Page 16_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, sick-leave_
+<a id="page-16"></a>
+## Page 16  ·  _OCR-reconstructed_
 
 3
 business shall be one-half day. Smaller units of charge are authorized for time lost due to
 tardiness, religious observance, and for the time lost by employee representatives duly designated
 by employee organizations operating under the Mayor's Executive Order No. 38 dated May 16,
 1957, engaged in the following types of union activity:
-Attendance at union meetings or conventions.
-&.
+8.
 b.
-Organizing and recruitment
 C.
-Solicitation of member.
 d.
+Attendance at union meetings or conventions.
+Organizing and recruitment
+Solicitation of member.
 Collection of union dues.
-e.
-Distribution of union pamphlets, circulars and other literature.
+e. Distribution of union pamphlets, circulars and other literature.
 The agency is authorized to make such other exceptions as warranted.
-Section 7
-Earned annual leave allowance shall be taken by the employees at the time convenient to
+Section 2
+Barned annual leave allowance shall be taken by the employees at the time convenient to
 the department. In exceptional and unusual circumstances, an agency head may permit use of
 annual leave allowance before it is earned, not exceeding two weeks.
 Section 8
@@ -661,9 +627,8 @@ If the employee so selects, and as an alternative to the above method of computa
 Terminal Leave allowance may be computed on the basis of one day of Terminal Leave for each
 two days of unused sick leave accumulation, to a maximum of one hundred (100) days Terminal
 
-<a id="page-17-p17"></a>
-### Page 17
-_Page 17_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave_
+<a id="page-17"></a>
+## Page 17  ·  _OCR-reconstructed_
 
 4
 Leave Allowance. Under the latter option, Terminal Leave shall be computed on the basis of
@@ -671,8 +636,8 @@ work days, rather than calendar days.
 II. SICK LEAVE ALLOWANCE
 Section 1
 Sick leave allowance of one day per month of service shall be credited to permanent
-employees, provisional employees and temporary employees and shall be used only for personal
-illness of the employee.
+employees, provisional employees and temporary employees and shall be used only for persona
+liness of the employee.
 Section 2
 Sick leave allowance shall be cumulative up to a maximum of 200 work-days. After this
 maximum is reached, no more sick leave credits may be earned by the employee except to the
@@ -699,9 +664,8 @@ more than 30 calendar days in the vacation year, he shall lose the sick leave cr
 one month for each 30 days of such accumulated absence even though in full pay status for at
 least 15 calendar days in each month during this period, and (b) if an employee loses sick leave
 
-<a id="page-18-p18"></a>
-### Page 18
-_Page 18_ · _OCR-reconstructed_ · _Topics: vacation, sick-leave, other-leave_
+<a id="page-18"></a>
+## Page 18  ·  _OCR-reconstructed_
 
 5
 credits under this rule for several months in the vacation year because he has been in full pay
@@ -711,7 +675,7 @@ in one month for each 30 days of such full pay status.
 Section 5
 In the discretion of the agency head, employees except provisional and temporary
 employees, who have exhausted all earned sick leave and annual leave balances due to personal
-illness may be permitted to use unearned sick leave allowance up to the amount earnable in one
+¡liness may be permitted to use unearned sick leave allowance up to the amount earnable in one
 year of service, chargeable against future earned sick leave.
 Section 6
 At the discretion of the agency head, permanent employees may also be granted sick
@@ -719,38 +683,33 @@ leave with pay for three months after ten years of City Service, after all credi
 In special instances, sick leave with pay may be further extended, with the approval of the
 agency head. The agency head shall be guided in this matter by the nature and extent of illness
 and the length and character of service.
-III.
-OTHER AUTHORIZED ABSENCES WITH PAY
+II, OTHER AUTHORIZED ABSENCES WITH PAY
 Section 1
 Absence of permanent employees, provisional employees and temporary employees for
 the reasons indicated below, shall be excusable in the discretion of the agency head without
 charge to sick leave or annual leave balances, upon submittal of evidence satisfactory to the
 agency head:
-8. Absence not to exceed four work-days in the case of death in the immediate
-family. Family shall be defined for this purpose as spouse; natural, foster, step-parent, child,
-brother or sister; father-in-law or mother-in-law; or any relative residing in the household.
-b.
+Absence not to exceed four work-days in the case of death in the immediate
+amily. Family shall be defined for this purpose as spouse; natural, foster, step-parent, child
+rotner or sister; tatner-in-law or mother-in-law; or any relative residing in the household
 For Jury Duty. Leave for jury duty shall be granted to the employee provided that
 he endorses his check for jury duty to the City.
-C.
 For Court Attendance Under Subpoena or Court Order. Leave to attend court
 shall be granted when neither the employee nor anyone related to him has a personal interest in
 the case, and where said attendance at court is not related to any other employment of the
-employee.
-d.
-Absence required because of Health Department ruling with respect to quarantine.
+employce.
+d. Absence required because of Health Department ruling with respect to quarantine.
 
-<a id="page-19-p19"></a>
-### Page 19
-_Page 19_ · _OCR-reconstructed_ · _Topics: parental-leave, promotion_
+<a id="page-19"></a>
+## Page 19  ·  _OCR-reconstructed_
 
+•
 6
-e.
 For attendance at New York City Civil Service examination, or for official
 investigation interview or appointment interview in relation to the resulting eligible list.
-f. For attendance of delegates and alternates at State or National conventions of
-veterans' organizations and volunteer firemen's organizations.
-8. Absence by employee representatives, duly designated by employee organizations
+For attendance of delegates and alternates at State or National conventions e
+eterans organizations and volunteer firemen's organization
+Absence by employee representatives, duly designated by employee organizations
 operating under the Mayor's Executive Order No. 38 dated May 16, 1957, acting on matters
 related to the interests of employees of their own respective departments, to negotiate with and
 appear before departmental and other City officials and agencies including the Board of Estimate,
@@ -761,48 +720,43 @@ required for absence under (b), (c), (e), (f), and (g) of Section 1 above. The e
 notice to the agency as soon as possible in all other cases.
 Section 3
 Agency heads shall grant any leave of absence with pay required by law.
-IV LEAVES OF ABSENCE WITHOUT PAY
+I LEAVES OF ABSENCE WITHOUT PAY
 Section 1
 Maternity Leave. Existence of pregnancy shall be reported by the employee, in writing,
 to the head of agency not later than the completion of the fourth month of pregnancy. Maternity
-leave of absence, commencing not later than the completion of the fifth month of pregnancy,
 shall be granted for a period of twelve months, and upon application of the employee, may be
-extended by the agency head for an additional period, not to exceed six months. Total leave for
-this purpose shall not exceed 18 months. An employee on maternity leave may be required to
-report for physical examination before resuming service.
+this purpose shall not exceed 18 months. An employce on maternity leave may be required to
 Section 2
-Leaves of absence, without pay for reasons not covered in the foregoing rules may be
+Leaves of absence without pay for reasons not covered in the foregoing rules may be
 granted to permanent employees by the agency head not to exceed one year. Extension of such
 leave may be granted by an agency head not to exceed an additional period of one year. Further
-extensions may be granted by an elected official, in an agency headed by such official, of by the
+extensions may be granted by an clected official, in an agency headed by such official, of by the
 City Personnel Director for agencies headed by appointed officials.
 
-<a id="page-20-p20"></a>
-### Page 20
-_Page 20_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, other-leave, layoff, safety, promotion_
+<a id="page-20"></a>
+## Page 20  ·  _OCR-reconstructed_
 
+•
 7
 Section 3
-by law.
 Agencies shall grant any leave of absence without pay, such as military leave, required
-V.
-MISCELLANEOUS PROVISIONS
+by law.
+V. MISCELLANEOUS PROVISIONS
 Section 1
-Daily time records shall be maintained showing the actual hours worked by each
 employee.
 Section 2
+Daily time records shall be maintained showing the actual hours worked by each
 Upon transfer of a permanent employee, or appointment from an eligible list with
 continuous service in another City agency, sick leave and annual leave balances shall be
 transferred with the employee.
 Section 3
 Upon reinstatement of an employee to a permanent position, unused sick leave and
-vacation balance, at the time of resignation or layoff, shall be restored to his credit.
+vacation balance at the time of resignation or layoff, shall be restored to his credit.
 Section 4
 Subject to limitations of Art. I, Sec. 8 above, the annual leave allowance and the sick
 leave allowance herein granted shall be applicable to part-time employees on a pro-rated basis.
-VL
-ABSENCE DUE TO INJURY INCURRED IN THE PERFORMANCE OF
-OFFICIAL DUTIES
+VI ABSENCE DUE TO INJURY INCURRED IN THE PERFORMANCE OF
+OFFICIAL DUTTES
 Section 1
 Whenever an employee, not covered by Workmen's Compensation, is physically disabled
 in the performance of his official duties, the head of the agency is empowered to grant such
@@ -812,14 +766,13 @@ that such employee makes any claim or institutes any action against any party wh
 relation to such disability, reimbursement in the amount of such pay shall be made to the City
 or the agency concerned, as the case may be, from the proceeds of the recovery by such
 
-<a id="page-21-p21"></a>
-### Page 21
-_Page 21_ · _OCR-reconstructed_ · _Topics: wages, vacation, sick-leave, safety_
+<a id="page-21"></a>
+## Page 21  ·  _OCR-reconstructed_
 
 8
 employee but not to exceed the amount of such proceeds. Such agreement shall be in a form
 and manner prescribed by the Corporation Counsel or other duly empowered counsel. The
-Agency head may have the injured employee examined by a physician employed by the City in
+Agency head may have the injured employce examined by a physician employed by the City in
 order to determine the extent of the employee's disability and the approval of said physician from
 a medical viewpoint shall be required for the time granted with pay under this rule. The agency
 head may require periodic medical examinations of the disabled employee to ascertain the need
@@ -831,15 +784,14 @@ The agency head is empowered to grant leave of absence with pay for the first we
 absence of an employee covered by Workmen's Compensation who is physically disabled in the
 performance of official duties.
 Section 3
-a. An employee physically disabled in the performance of his official duties who has
+An employce physically disabled in the performance of his official duties who has
 accrued sick and/or annual leave or has been advanced credits in accordance with the
 Comptroller's Leave Regulations may elect one of the following, in addition to the benefits to
 which he is entitled under the Workmen's Compensation Law, such election to be made within
 the first seven calendar days of absence by the employee or someone in his behalf:
-1.
 To receive the difference between the amount of his weekly salary and the compensation
 rate, provided that:
-a.
+8.
 The injured employee or any authorized person acting in his behalf makes the
 request in writing, and
 b.
@@ -847,35 +799,33 @@ The injured employee or any authorized person acting in his behalf agrees that a
 pro-rated charge be made against his sick leave and/or annual leave balances equal to the number
 of working days of absence less the number of working days represented by the Workmen's
 Compensation payments, and
-c. The injured employee has the necessary accrued sick leave and/or annual leave
+C.
+The injured employee has the necessary accrued sick leave and/or annual leave
 balance or has been advanced credits in accordance with the Comptroller's Leave Regulations
 which the supplementary pay can be charged, and
-d. The injured employee was not guilty of willful gross disobedience of safety rules
+d.
+The injured employee was not guilty of willful gross disobedience of safety rules
 or willful failure to use a safety device, or was not under the influence of alcohol or narcotics
 at the time of injury, or did not willfully intend to bring about injury or death upon himself or
 another, and
 
-<a id="page-22-p22"></a>
-### Page 22
-_Page 22_ · _OCR-reconstructed_ · _Topics: wages, holidays, vacation, pension_
+<a id="page-22"></a>
+## Page 22  ·  _OCR-reconstructed_
 
 9
-c. The injured employee undergoes such medical examinations as are requested by
-the Workmen's Compensation Division of the Law Department and his agency; and when found
+The injured employee undergoes such medical examinations as are requested by
+he Workmen's Compensation Division of the Law Department and his agency: and when foun
 fit for duty by said physicians, returns to his employment.
-2.
-To take annual leave and receive full pay and Workmen's Compensation medical
-coverage, provided that:
-a. The injured employer or any authorized person acting in his behalf makes the
+Zoverage, pale dad thal leave and receive full pay and. Workmen's Compensation medica
+The injured employer or any authorized person acting in his behalf makes the
 request in writing, and
-b.
 The injured employee or any authorized person acting in his behalf agrees to have
 his annual leave balance charged for such absence, and
+The injured employee has the necessary accrued annual leave balance.
 3.
-C. The injured employee has the necessary accrued annual leave balance.
 To receive Workmen's Compensation benefits in their entirety with no charge against sick
 leave and/or annual leave.
-b. During the period when an injured employee is receiving Workmen's
+b. During the period when an injured employce is receiving Workmen's
 Compensation and the differential to bring him to full pay, he will be carried on full-pay status
 and this time shall be counted for retirement benefits.
 VII HOLIDAYS WITH PAY
@@ -886,24 +836,24 @@ New Year's Day
 Washington's Birthday
 Lincoln's Birthday
 Memorial Day
-Independence Day
-Labor Day
 Columbus Day
+Independence Day
 Election Day
-Veteran's Day
 Thanksgiving Day
 Christmas Day
+Labor Day
+Veteran's Day
 
-<a id="page-23-p23"></a>
-### Page 23
-_Page 23_ · _OCR-reconstructed_ · _Topics: wages, health-welfare_
+<a id="page-23"></a>
+## Page 23  ·  _OCR-reconstructed_
 
-ROBERT W. LINN
-Commissioner
+•
 THE CITY OF NEW YORK
 OFFICE OF LABOR RELATIONS
 40 Rector Street, New York, NY 10006-1705
 http://nyc.gov/olr
+ROBERT W. LINN
+Commissioner
 May 5, 2014
 Harry Nespoli
 Chair, Municipal Labor Committee
@@ -922,38 +872,36 @@ York to be used to support wage increases and other economic items for the curre
 collective bargaining (for the period up to and including fiscal year 2018). Up to an additional
 total amount of $150 million will be available over the four year period from the Stabilization
 Fund for the welfare funds, the allocation of which shall be determined by the parties. Thereafter,
-$60 million per year will be available from the Stabilization Fund for the welfare funds, the
+$ 60 million per year will be available from the Stabilization Fund for the welfare funds, the
 allocation of which shall be determined by the parties.
-3. If the parties decide to engage in a centralized purchase of Prescription Drugs, and
+3.
+If the parties decide to engage in a centralized purchase of Prescription Drugs, and
 savings and efficiencies are identified therefrom, there shall not be any reduction in welfare fund
-contributions.
-4.
 There shall be a joint committee formed that will engage in a process to select an
 independent healthcare actuary, and any other mutually agreed upon additional outside expertise,
 to develop an accounting system to measure and calculate savings.
 1
 
-<a id="page-24-p24"></a>
-### Page 24
-_Page 24_ · _OCR-reconstructed_
+<a id="page-24"></a>
+## Page 24  ·  _OCR-reconstructed_
 
-5. The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the
+The MLC agrees to generate cumulative healthcare savings of $3.4 billion over the
 course of Fiscal Years 2015 through 2018, said savings to be exclusive of the monies referenced
 in Paragraph 2 above and generated in the individual fiscal years as follows: (i) $400 million in
-Fiscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) $1 billion in Fiscal Year 2017; (iv)
+Piscal Year 2015; (ii) $700 million in Fiscal Year 2016; (iii) S1 billion in Fiscal Year 2017; (iv)
 $1.3 billion in Fiscal Year 2018; and (v) for every fiscal year thereafter, the savings on a
 citywide basis in health care costs shall continue on a recurring basis. At the conclusion of Fiscal
 Year 2018, the parties shall calculate the savings realized during the prior four-year period. In
-the event that the MLC has generated more than $3.4 billion in cumulative healthcare savings
+the event that the MIC has generated more than $3.4 billion in cumulative healthcare savings
 during the four-year period, as determined by the jointly selected healthcare actuary, up to the
 first $365 million of such additional savings shall be credited proportionately to each union as a
 one-time lump sum pensionable bonus payment for its members. Should the union desire to use
-these funds for other purposes, the parties shall negotiate in good faith to attempt to agree on an
+these funds tor other purposes, the parties shall negotiate in good faith to attempt to agree on an
 appropriate alternative use. Any additional savings generated for the four-year period beyond the
-first $365 million will be shared equally with the City and the MLC for the same purposes and
-subject to the same procedure as the first $365 million. Additional savings beyond $1.3 billion in
+first $365 million will be shared equally with the City and the MC for the same purposes and
+subject to the same procedure as the first S365 million. Additional savings beyond $1.3 billion in
 FY 2018 that carry over into FY 2019 shall be subject to negotiations between the parties.
-6. The following initiatives are among those that the MLC and the City could consider in
+The following initiatives are among those that the MLC and the City could consider in
 their joint efforts to meet the aforementioned annual and four-year cumulative savings figures:
 minimum premium, self-insurance, dependent eligibility verification audits, the capping of the
 HIP HMO rate, the capping of the Senior Care rate, the equalization formula, marketing plans,
@@ -966,36 +914,32 @@ dispute shall be referred to Arbitrator Martin F. Scheinman for resolution.
 b. Such dispute shall be resolved within 90 days.
 c. The arbitrator shall have the authority to impose interim relief that is consistent
 with the parties' intent.
-d. The arbitrator shall have the authority to meet with the parties at such times as the
+d. The arbitrator shall have the authonty to meet with the parties at such times as the
 arbitrator determines is appropriate to enforce the terms of this agreement.
 e. If the parties are unable to agree on the independent health care actuary described
 above, the arbitrator shall select the impartial health care actuary to be retained by
 the parties.
 f. The parties shall share the costs for the arbitrator and the actuary the arbitrator
-selects.
+selects
 2
 
-<a id="page-25-p25"></a>
-### Page 25
-_Page 25_ · _OCR-reconstructed_
+<a id="page-25"></a>
+## Page 25  ·  _OCR-reconstructed_
 
 If the above accords with your understanding and agreement, kindly execute the signature
 line provided.
 Sincerely,
-Пех
 Robert W. Linn
 Commissioner
 Agreed and Accepted on behalf of the Municipal Labor Committee
 BY:
 Harry Nespoli, Chair
-3
 
-<a id="page-26-p26"></a>
-### Page 26
-_Page 26_ · _OCR-reconstructed_
+<a id="page-26"></a>
+## Page 26  ·  _OCR-reconstructed_
 
+•
 The
-City of
 New York
 ROBERT W. LINN
 Commissioner
@@ -1003,55 +947,35 @@ RENEE CAMPION
 First Deputy Commissioner
 CLAIRE LEVITT
 Deputy Commissioner
+Health Care Cost Managament
 OFFICE OF LABOR RELATIONS
-Health Care Cost Management
 40 Rector Street, New York, N.Y. 10006-1705
-nyc.gov/olr
 MAYRA E. BELL
-General Counsel
-GEORGETTE GESTELY
-Director, Employee Benefits Program
+Genere! Counsel
 June 28, 2018
 Harry Nespoli, Chair
 Municipal Labor Committee
 125 Barclay Street
 New York, New York
 Dear Mr. Nespoli:
-1. This is to confirm the parties' mutual understanding concerning the health care agreement for
-Fiscal Years 2019-2021:
+1. This is to confirm the parties" mutual understanding concerning the health care agreement for
+Fiscal Years 2019 - 2021:
 a. The MLC agrees to generate cumulative healthcare savings of $1.1 billion over the
 course of New York City Fiscal Years 2019 through 2021. Said savings shall be
-generated as follows:
-i. $200 million in Fiscal Year 2019;
-ii. $300 million in Fiscal Year 2020;
-iii. $600 million in Fiscal Year 2021, and
-iv. For every fiscal year thereafter, the $600 million per year savings on a
-citywide basis in healthcare costs shall continue on a recurring basis.
-b. Savings will be measured against the projected FY 2019-FY 2022 City Financial
-Plan (adopted on June 15, 2018) which incorporates projected City health care cost
-increases of 7% in Fiscal Year ("FY") 2019, 6.5% in FY 2020 and 6% in FY 2021.
-Non-recurring savings may be transferrable within the years FY 2019 through FY
-2021 pursuant only to 1(a)(i), 1(a)(ii), 1(a)(iii) above. For example:
-i. $205 million in FY 2019 and $295 million in FY 2020 will qualify for those
-years' savings targets under 1(a)(i) and I(a)(ii).
-ii. $210 million in FY 2019, $310 million in FY 2020, and $580 million in FY
-2021 will qualify for those years' savings targets under 1(a)(i), 1(a)(ii),
-1(a)(iii).
-iii. In any event, the $600 million pursuant to 1(a)(iv) must be recurring and
-agreed to by the parties within FY 2021, and may not be borrowed from
-other years.
+1
 
-<a id="page-27-p27"></a>
-### Page 27
-_Page 27_ · _OCR-reconstructed_
+<a id="page-27"></a>
+## Page 27  ·  _OCR-reconstructed_
 
-c. Savings attributable to CBP programs will continue to be transferred to the City by
+c.
+Savings attributable to CBP programs will continue to be transferred to the City by
 offsetting the savings amounts documented by Empire Blue Cross and GHI against
 the equalization payments from the City to the Stabilization Fund for FY 19, FY 20
 and FY 21, unless otherwise agreed to by the City and the MLC. In order for this
 offset to expire, any savings achieved in this manner must be replaced in order to
 meet the recurring obligation under 1(a)(iv) above.
-d. The parties agree that any savings within the period of FY 2015-2018 over $3.4
+d.
+The parties agree that any savings within the period of FY 2015 - 2018 over $3.4
 billion arising from the 2014 City/MLC Health Agreement will be counted towards
 the FY 2019 goal. This is currently estimated at approximately $131 million but will
 not be finalized until the full year of FY 2018 data is transmitted and analyzed by the
@@ -1059,32 +983,33 @@ City's and the MLC's actuaries.
 e. The parties agree that recurring savings over $1.3 billion for FY 2018 arising under
 the 2014 City/MLC Health Agreement will be counted toward the goal for Fiscal
 Years 2019, 2020, 2021 and for purposes of the recurring obligation under 1(a)(iv)
-above. This is currently estimated at approximately $40 million but will not be
+above. This is currently estimated at approximately S40 million but will not be
 finalized until the full year of FY 2018 data is transmitted and analyzed by the City's
-and the MLC's actuaries. Once the amount is finalized, that amount shall be applied
+and the MC's actuaries. Once the amount is finalized, that amount shall be applied
 to Fiscal Years 2019, 2020, 2021 and to the obligation under 1(a)(iv).
 2. After the conclusion of Fiscal Year 2021, the parties shall calculate the savings realized during
 the 3 year period. In the event that the MLC has generated more than $600 million in recurring
-healthcare savings, as agreed upon by the City's and the MLC's actuaries, such additional savings
+healthcare savings, as agreed upon by the City's and the MC's actuaries, such additional savings
 shall be utilized as follows:
-a. The first $68 million will be used by the City to make a $100 per member per year
-increase to welfare funds (actives and retirees) effective July 1, 2021. If a savings
-amount over $600 million but less than $668 million is achieved, the $100 per member
+a.
+The first $68 million will be used by the City to make a $100 per member per year
+increase to welfare funds (actives and retirees) effective Juiy 1, 2021. If a savings
+amount over $600 million but less than $668 million is achieved, the S100 per member
 per year (actives and retirees) increase will be prorated.
-b. Any savings thereafter shall be split equally between the City and the MLC and applied
+b. Any savings thereafter shall be split equally between the City and the MiLC and applied
 in a manner agreed to by the parties.
 3. Beginning January 1, 2019, and continuing unless and until the parties agree otherwise, the
-parties shall authorize the quarterly provision of the following data to the City's and MLC's
+parties shall authorize the quarterly provision of the following data to the City's and MC's
 actuaries on an ongoing quarterly basis: (1) detailed claim-level health data from Emblem Health
 and Empire Blue Cross including detailed claim-level data for City employees covered under the
 GHI-CBP programs (including Senior Care and Behavioral Health information); and (2)
 utilization data under the HIP-HMO plan. Such data shall be provided within 60 days of the end
 of each quarterly period. The HIP-HMO utilization data will also be provided to the City's and
-MLC's actuaries within 60 days of the execution of this letter agreement for City Fiscal Year
+ML's actuaries within 60 days of the execution of this letter agreement for City Fiscal Year
 2018 as baseline information to assess ongoing savings. The HIP-HMO data shall include: (i)
-utilization by procedure for site of service benefit changes; (ii) utilization by disease state, by
+utilization by procedure for site of service benefit changes; (il) utilization by disease state, by
 procedure (for purposes of assessing Centers of Excellence); and (iii) member engagement data
-for the Wellness program, including stratifying members by three tranches (level I, II and II).
+for the Wellness program, including stratifying members by three tranches (level I, Il and II).
 The data shall include baseline data as well as data regarding the assumptions utilized in
 determining expected savings for comparison. The data described in this paragraph shall be
 provided pursuant to a data sharing agreement entered into by the City and MLC, akin to prior
@@ -1093,13 +1018,12 @@ shall cover all periods addressed by this Agreement (i.e., through June 30, 2021
 and shall be executed within thirty days of the execution of this letter agreement.
 2
 
-<a id="page-28-p28"></a>
-### Page 28
-_Page 28_ · _OCR-reconstructed_ · _Topics: health-welfare_
+<a id="page-28"></a>
+## Page 28  ·  _OCR-reconstructed_
 
 4. The parties agree that the Welfare Funds will receive two $100 per member one-time lump-sum
 payments (actives and retirees) funded by the Joint Stabilization Fund payable effective July 1,
-2018 and July 1, 2019.
+2018 and July 1,2019.
 5. The parties recognize that despite extraordinary savings to health costs accomplished in the last
 round of negotiations through their efforts and the innovation of the MLC, and the further savings
 which shall be implemented as a result of this agreement, that the longer term sustainability of
@@ -1111,21 +1035,23 @@ the issues using appropriate data and recommend for implementation as soon as pr
 during the term of this Agreement but no later than June 30, 2020, modifications to the way in
 which health care is currently provided or funded. Among the topics the Committee shall
 discuss:
-a. Self-insurance and/or minimum premium arrangements for the HIP HMO plan.
+Self-insurance and/or minimum premium arrangements for the HIP HMO plan.
 b. Medicare Advantage- adoption of a Medicare Advantage benchmark plan for retirees
 c. Consolidated Drug Purchasing- welfare funds, PICA and health plan prescription costs
 pooling their buying power and resources to purchase prescription drugs.
 d. Comparability- investigation of other unionized settings regarding their methodology for
 delivering health benefits including the prospect of coordination/cooperation to increase
 purchasing power and to decrease administrative expenses.
-e. Audits and Coordination of Benefits-audit insurers for claims and financial accuracy,
-coordination of benefits, pre-65 disabled Medicare utilization, End Stage Renal Disease,
+e. Audits and Coordination of Benefits- audit insurers for claims and financial accuracy,
+coordination of benefits, pre-65 disabled Medicare utilization, End Stage Renal Discase,
 PICA, and Payroll Audit of Part Time Employees.
-f. Other areas- Centers of Excellence for specific conditions; Hospital and provider tiering;
+f.
+Other areas- Centers of Excellence for specific conditions; Hospital and provider tiring;
 Precertification Fees; Amendment of Medicare Part B reimbursement; Reduction of cost
 for Pre-Medicare retirees who have access to other coverage; Changes to the Senior Care
 rate; Changes to the equalization formula.
-g. Potential RFPs for all medical and hospital benefits.
+g.
+Potential RFPs for all medical and hospital benefits.
 h. Status of the Stabilization Fund.
 The Committee will make recommendations to be considered by the MLC and the City.
 6. The joint committee shall be known as the Tripartite Health Insurance Policy Committee
@@ -1133,30 +1059,27 @@ The Committee will make recommendations to be considered by the MLC and the City
 Committee" will continue its work and will work in conjunction with the THIPC as designated
 above to address areas of health benefit changes. The Technical Committee will continue to be
 supported by separate actuaries for the City and the MLC. The City and the MLC will each be
-responsible for the costs of its actuary,
+responsible for the costs of its actuary.
 7. In the event of any dispute under sections 1-4 of this Agreement, the parties shall meet and confer
 in an attempt to resolve the dispute. If the parties cannot resolve the dispute, such dispute shall be
 referred to Martin Scheinman for resolution consistent with the dispute resolution terms of the
 2014 City/MLC Health Agreement:
-a. Such dispute shall be resolved within 90 days.
+a Such dispute shall be resolved within 90 days.
 3
 
-<a id="page-29-p29"></a>
-### Page 29
-_Page 29_ · _OCR-reconstructed_
+<a id="page-29"></a>
+## Page 29  ·  _OCR-reconstructed_
 
+•
 b. The arbitrator shall have the authority to impose interim relief that is
-consistent with the parties' intent.
+consistent with the parties" intent.
 c. The arbitrator shall have the authority to meet with the parties as such
 times as is appropriate to enforce the terms of this agreement.
 d. The parties shall share the costs for the arbitrator (including Committee
 meetings).
 If the above conforms to your understanding, please countersign below.
-Sincerely
-Robert W. Linn
 Agreed and Accepted on behalf of the Municipal Labor Committee
-BX: 2
-Harry Nespoli, Chair
+ату Nespoli, Chair
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/cement-mason-2020-09-27-2025-10-26.pdf>_
