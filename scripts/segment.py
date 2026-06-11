@@ -71,6 +71,11 @@ def segment_contract(contract):
         line = raw.strip()
         if not line:
             continue
+        # Table-of-contents lines ("ARTICLE I - RECOGNITION ........ 1") are
+        # navigation, not headings — treat as body text so they don't spawn
+        # phantom clauses that shadow the real article.
+        if "...." in line:
+            continue
         m = ARTICLE_RE.match(line)
         if m:
             boundaries.append((i, "article", m.group("num"), (m.group("title") or "").strip()))
@@ -104,6 +109,24 @@ def segment_contract(contract):
             "ocr": bool(ocr_pages),
         })
         return clauses
+
+    # Capture any text BEFORE the first detected heading (letter-style MOAs
+    # put their whole substance there; previously this was silently dropped).
+    first_li = boundaries[0][0]
+    preamble = "\n".join(lines[:first_li]).strip()
+    if len(re.sub(r"\s", "", preamble)) >= 80:
+        clauses.append({
+            "id": f"{cid}__preamble",
+            "contract_id": cid,
+            "article": None,
+            "article_label": None,
+            "section": None,
+            "section_label": None,
+            "heading": contract["label"],
+            "text": preamble,
+            "page": 1,
+            "ocr": 1 in ocr_pages,
+        })
 
     cur_article = None
     cur_article_label = None
@@ -142,6 +165,30 @@ def segment_contract(contract):
         })
     # Drop empty clauses
     clauses = [c for c in clauses if c["text"]]
+
+    # Safety net: if heading-based segmentation still captured less than 70%
+    # of the document's substance, fall back to one clause per page so the
+    # full text is searchable. Better page-level granularity than silent loss.
+    full_n = len(re.sub(r"\s", "", full))
+    got_n = sum(len(re.sub(r"\s", "", c["text"])) for c in clauses)
+    if full_n > 200 and got_n / full_n < 0.70:
+        clauses = []
+        for pi, ptext in enumerate(full.split("\f"), start=1):
+            body = ptext.strip()
+            if not body:
+                continue
+            clauses.append({
+                "id": f"{cid}__page{pi}",
+                "contract_id": cid,
+                "article": None,
+                "article_label": None,
+                "section": None,
+                "section_label": None,
+                "heading": f"{contract['label']} — page {pi}",
+                "text": body,
+                "page": pi,
+                "ocr": pi in ocr_pages,
+            })
     return clauses
 
 

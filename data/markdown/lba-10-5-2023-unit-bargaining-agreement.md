@@ -12,9 +12,9 @@ sector: "uniformed-police"
 
 # Lieutenants Benevolent Association (LBA) — 10 5 2023 Unit Bargaining Agreement
 
-**Term:** term n/a  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/lba-10-5-2023-unit-bargaining-agreement.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/lba-10-5-2023-unit-bargaining-agreement.pdf)  
-**Pages:** 2 (2 OCR-reconstructed)  
+**Term:** term n/a
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/lba-10-5-2023-unit-bargaining-agreement.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/lba-10-5-2023-unit-bargaining-agreement.pdf)
+**Pages:** 2 (2 OCR-reconstructed)
 **Clauses extracted:** 1
 
 **Workforce:** Lba 10 5 2023 Unit Bargaining Agreement — see contract for the full recognition clause defining covered titles.
@@ -29,38 +29,20 @@ sector: "uniformed-police"
 The
 New York
 Office of Labor Relations
-22 Cortlandt Street, New York, NY 10007
-nyc.gov/olr
-Renee Campion
-Commissioner
-Daniel Pollak
-First Deputy Commissioner
-Claire Levitt
-Deputy Commissioner
-Health Care Strategy
-Georgette Gestely
-Director, Employee Benefits Program
-October 5, 2023
-Louis Turco
-President
-Lieutenants Benevolent Association
+22 Cortlandt Street, New York, NY 10007 nyc.gov/olr Renee Campion Commissioner Daniel Pollak First Deputy Commissioner Claire Levitt Deputy Commissioner Health Care Strategy Georgette Gestely Director, Employee Benefits Program October 5, 2023 Louis Turco President Lieutenants Benevolent Association
 233 Broadway
 New York, NY 10279
 RE: 2022-2027 Uniform Officers Coalition Economic Agreement ("VOCEA")
 Dear Mr. Turco:
-This is to confirm the parties' mutual understanding and agreement concerning additional
-economic items negotiated by the parties pursuant to Section 4 of the UOCEA ("Unit
-Bargaining").
+This is to confirm the parties' mutual understanding and agreement concerning additional economic items negotiated by the parties pursuant to Section 4 of the UOCEA ("Unit Bargaining").
 1. The term of the agreement set forth in Section 1 of the UOCEA shall be extended by 2
-months. Therefore, the term of the LBA unit agreement shall be February 16, 2022
-through April 15, 2027.
+months. Therefore, the term of the LBA unit agreement shall be February 16, 2022 through April 15, 2027.
 2. Effective November 28, 2023 and ceasing April 15, 2027, the LBA shall be granted one
 additional position on full-time release with pay.
 3. The 24 additional union excusal days per year to which the LBA is entitled shall be
 forfeited for calendar year 2023.
 4. Sections 3.a.iii., iv, and v of the UOCEA shall be amended to delay each of those general
-wage increases by one month each (i.e., general wage increases of 3.50% on March 16,
-2024, 3.50% on March 16, 2025, and 4% on March 16, 2026).
+wage increases by one month each (i.e., general wage increases of 3.50% on March 16, 2024, 3.50% on March 16, 2025, and 4% on March 16, 2026).
 5. Effective February 16, 2025, the following salary schedule for Lieutenants shall apply:
 Step 1
 Step 2
@@ -89,14 +71,12 @@ Reimbursement Account shall be increased by $392.
 9. Effective August 1, 2027, there shall be a lump sum contribution of $266,622 to the
 Employee Expense Reimbursement Fund.
 10. Lieutenants shall participate in the 10 and 12-hour tour pilot. The parties agree to work
-together to agree upon terms for such participation within 90 days of execution of this
-agreement.
-This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the OCEA
-MOA.
+together to agree upon terms for such participation within 90 days of execution of this agreement.
+This agreement fully resolves all unit bargaining matters as set forth in Section 4 of the OCEA MOA.
 If the above conforms to your understanding, please execute the signature line below.
 Sincerely,
 ReR
-Renee Campi
+Renee Campion
 ouis Turco, President
 
 ---

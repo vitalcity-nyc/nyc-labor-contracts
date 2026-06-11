@@ -213,6 +213,28 @@
     return { phrases, rest };
   }
 
+  // Union-acronym awareness: a search for "PBA" should also match clauses that
+  // spell out "Patrolmen's Benevolent Association" and vice versa. Returns the
+  // original query plus expanded/contracted variants to search in parallel.
+  function queryVariants(q) {
+    const variants = new Set([q]);
+    const map = window.LABOR_ACRONYMS || {};
+    // acronym -> full name (token-wise, case-insensitive)
+    Object.entries(map).forEach(([abbr, full]) => {
+      const rx = new RegExp(`(^|[^A-Za-z0-9])${abbr.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}($|[^A-Za-z0-9])`, "i");
+      if (rx.test(q)) variants.add(q.replace(rx, `$1${full}$2`));
+    });
+    // full name -> acronym (substring, case-insensitive)
+    const lower = q.toLowerCase();
+    Object.entries(map).forEach(([abbr, full]) => {
+      const fl = full.toLowerCase();
+      if (fl.length > 6 && lower.includes(fl)) {
+        variants.add(lower.replace(fl, abbr));
+      }
+    });
+    return [...variants];
+  }
+
   function searchHits() {
     if (!state.query) return null;
     const { phrases, rest } = parseQuery(state.query);
@@ -222,9 +244,14 @@
     const flexQuery = [rest, ...phrases].filter(Boolean).join(" ");
     let candidates;
     if (flexQuery) {
-      const results = state.index.search(flexQuery, { limit: 500, suggest: true });
       const ids = new Set();
-      results.forEach(r => r.result.forEach(id => ids.add(id)));
+      queryVariants(flexQuery).forEach((v, i) => {
+        // suggest:true only for the user's literal query; expanded variants
+        // must match ALL their tokens or short unions like "Association"
+        // would flood the results.
+        const results = state.index.search(v, { limit: 500, suggest: i === 0 });
+        results.forEach(r => r.result.forEach(id => ids.add(id)));
+      });
       candidates = state.clauses.filter(c => ids.has(c.id));
     } else {
       candidates = state.clauses;

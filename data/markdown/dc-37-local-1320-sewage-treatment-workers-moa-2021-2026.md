@@ -8,16 +8,16 @@ source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2
 pages: 3
 ocr_pages: 3
 pages_with_tables: 0
-clauses: 3
+clauses: 4
 sector: "clerical-and-professional"
 ---
 
 # DC 37 Local 1320 Sewage Treatment Workers Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026  
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf)  
-**Pages:** 3 (3 OCR-reconstructed)  
-**Clauses extracted:** 3
+**Term:** 2021–2026
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc37-local-1320-sewage-treatment-workers-fully-executed-11323-2021-2026.pdf)
+**Pages:** 3 (3 OCR-reconstructed)
+**Clauses extracted:** 4
 
 **Workforce:** DC 37 Local 1320 Sewage Treatment Workers MOA, 2021-2026 — see contract for the full recognition clause defining covered titles.
 
@@ -28,9 +28,7 @@ sector: "clerical-and-professional"
 <a id="page-1"></a>
 ## Page 1  ·  _OCR-reconstructed_
 
-2021-2026 Memorandum of Agreement
-District Council 37, Local 1320, Sewage Treatment Workers
-and the City of New York
+2021-2026 Memorandum of Agreement District Council 37, Local 1320, Sewage Treatment Workers and the City of New York
 1. Term: 5 years, 1 month
 9/23/21 - 10/22/26
 2. Wage Increases
@@ -53,53 +51,29 @@ September 23, 2025
 3.00% compounded
 3.25% compounded
 3. Ratification Bonus
-a. A lump sum cash payment in the amount of $3,000, pro-rated for other than full time
-employees, shall be payable as soon as practicable upon ratification of the Agreement
-to those employees who are in active payroll status and in a title covered by this
-Agreement, as of the date of ratification. Active payroll status is defined as being in
-active payroll status ("B Status"), military leave with pay ("K status"), or on paid
-family leave. The lump sum cash payment shall be pensionable, consistent with
-applicable law.
-All full time per annum and full time per diem employees who were in active status on
-the date of the ratification are entitled to receive the lump sum cash payment of $3,000.
-Employees who were terminated for cause, resigned, retired, or otherwise separated
-from service prior to the date of ratification of this Agreement shall not be eligible for
-the lump sum cash payment.
-In no event shall any employee receive greater than $3,000 in bonus payments pursuant
-to this section.
+a. A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification of the Agreement to those employees who are in active payroll status and in a title covered by this Agreement, as of the date of ratification. Active payroll status is defined as being in active payroll status ("B Status"), military leave with pay ("K status"), or on paid family leave. The lump sum cash payment shall be pensionable, consistent with applicable law.
+All full time per annum and full time per diem employees who were in active status on the date of the ratification are entitled to receive the lump sum cash payment of $3,000.
+Employees who were terminated for cause, resigned, retired, or otherwise separated from service prior to the date of ratification of this Agreement shall not be eligible for the lump sum cash payment.
+In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this section.
 4. Conditions of Payment
-a. The Lump sum cash payment pursuant to Section 3 of this 2021-2026 MOA shall be
-payable as soon as practicable upon ratification of this 2021-2026 MOA.
+a. The Lump sum cash payment pursuant to Section 3 of this 2021-2026 MOA shall be payable as soon as practicable upon ratification of this 2021-2026 MOA.
 
 <a id="page-2"></a>
 ## Page 2  ·  _OCR-reconstructed_
 
-b. The general wage increases pursuant to Section 2.a.i., ii. and iii. of this 2021-2026
-MOA shall be payable as soon as practicable upon ratification of this 2021-2026
-MOA.
-c. The general wage increases pursuant to Section 2.a.iv., and v. of this 2021-2026 MOA
-shall be payable as soon as practicable following the effective date of such increases.
+b. The general wage increases pursuant to Section 2.a.i., ii. and iii. of this 2021-2026 MOA shall be payable as soon as practicable upon ratification of this 2021-2026 MOA.
+c. The general wage increases pursuant to Section 2.a.iv., and v. of this 2021-2026 MOA shall be payable as soon as practicable following the effective date of such increases.
 5. Annuity Contribution
-Effective September 23, 2025, the annuity contribution shall be increased from $4.97 to
-$5.25 for each paid working day, up to a maximum of $1,370.25 per annum.
-Effective September 23, 2026, the annuity contribution shall be increased from $5.25 to
-$6.37 for each paid working day, up to a maximum of $1,662.57 per annum.
+Effective September 23, 2025, the annuity contribution shall be increased from $4.97 to $5.25 for each paid working day, up to a maximum of $1,370.25 per annum.
+Effective September 23, 2026, the annuity contribution shall be increased from $5.25 to $6.37 for each paid working day, up to a maximum of $1,662.57 per annum.
 6. Welfare Fund
-Effective September 23, 2026, there shall be a recurring $50 per annum per employee
-(active and retiree) increase to the welfare fund contribution from $1,825 to $1,875 per
-annum.
+Effective September 23, 2026, there shall be a recurring $50 per annum per employee (active and retiree) increase to the welfare fund contribution from $1,825 to $1,875 per annum.
 7. Prohibition of Further Economic Demands
-No party to this agreement shall make additional economic or non-economic demands
-during the term of this 2021-2026 MOA.
+No party to this agreement shall make additional economic or non-economic demands during the term of this 2021-2026 MOA.
 8. Payroll
-Effective as soon as practicable following ratification of this agreement, all employees of
-Mayoral agencies, and the New York City Housing Authority who receive paychecks via
-direct deposit shall be opted out of receiving paper pay stubs. Employees may choose to
-opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate
-method at employers not on NYCAPS.
+Effective as soon as practicable following ratification of this agreement, all employees of Mayoral agencies, and the New York City Housing Authority who receive paychecks via direct deposit shall be opted out of receiving paper pay stubs. Employees may choose to opt-in and receive paper stubs via NYCAPS Employee Self-Service or the appropriate method at employers not on NYCAPS.
 9. Continuation of Terms
-The terms of the predecessor collective bargaining agreement, MOA, and related
-agreements shall be continued except as modified pursuant to this MOA.
+The terms of the predecessor collective bargaining agreement, MOA, and related agreements shall be continued except as modified pursuant to this MOA.
 10. Approval of Agreement
 This Agreement is subject to union ratification.
 2
@@ -112,18 +86,7 @@ BY:
 D.P. fer
 R. C.
 RENEE CAMPION
-Commissioner of Labor Relations
-FOR DISTRICT COUNCIL 37,
-AFSCME, AEL-CIO
-Associate Director
-FOR DISTRICT COUNCIL 37,
-LOCAL 1320, AFSCME, AEL-CIO
-mat
-laaa
-THOMAS CUSTANCE
-President
-November
-Dated: October 3, 2023
+Commissioner of Labor Relations FOR DISTRICT COUNCIL 37, AFSCME, AEL-CIO Associate Director FOR DISTRICT COUNCIL 37, LOCAL 1320, AFSCME, AEL-CIO mat laaa THOMAS CUSTANCE President November Dated: October 3, 2023
 3
 
 ---
