@@ -11,7 +11,7 @@ pages_with_tables: 0
 clauses: 58
 sector: "uniformed-fire"
 union_full: "Uniformed Fire Officers Association (UFOA), IAFF Local 854"
-headcount_approx: 2500
+headcount_approx: 2400
 ---
 
 # Uniformed Fire Officers Association (UFOA) — Fire Officers Agreement, 2018-2021

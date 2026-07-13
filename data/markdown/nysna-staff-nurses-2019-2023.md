@@ -11,7 +11,7 @@ pages_with_tables: 6
 clauses: 88
 sector: "health"
 union_full: "New York State Nurses Association (NYSNA)"
-headcount_approx: 8500
+headcount_approx: 8000
 ---
 
 # New York State Nurses Association (NYSNA) — Staff Nurses, 2019-2023

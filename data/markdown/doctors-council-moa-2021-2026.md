@@ -11,7 +11,7 @@ pages_with_tables: 0
 clauses: 4
 sector: "health-professional"
 union_full: "Doctors Council, SEIU Local 10MD"
-headcount_approx: 3000
+headcount_approx: 500
 wage_verified: "full"
 wage_cumulative_pct: 16.21
 ---

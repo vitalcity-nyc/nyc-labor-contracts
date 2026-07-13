@@ -284,8 +284,8 @@
   "union_full": "Doctors Council, SEIU Local 10MD",
   "local": "Doctors Council / SEIU Local 10MD",
   "employer": "NYC Health + Hospitals + multiple city agencies",
-  "headcount": 3000,
-  "headcount_note": "~3,000 city-employed physicians per Doctors Council public statements.",
+  "headcount": 500,
+  "headcount_note": "~500 city-employed physicians (NYC H+H, DOHMH, and OCME medical examiners) covered by this Doctors Council public-sector MOA, per the NYC Mayor's Office (Dec 16, 2024). A separate ~2,500 attending physicians at H+H are employed by affiliate groups (PAGNY, Mount Sinai, NYU) and bargain outside this agreement.",
   "summary": "Represents salaried physicians and dentists working for the City — at H+H, NYC DOHMH, DOC, and other agencies.",
   "titles": [
    "Physician",
@@ -1470,8 +1470,8 @@
   "union_full": "Uniformed Firefighters Association of Greater New York (UFA), IAFF Local 94",
   "local": "IAFF Local 94",
   "employer": "NYC Fire Department",
-  "headcount": 9500,
-  "headcount_note": "~9,500 NYC firefighters per UFA public statements and FDNY headcount data.",
+  "headcount": 8500,
+  "headcount_note": "~8,500 active FDNY firefighters (8,533 filled in the Firefighter title as of 10/10/2025), per the FDNY Fire Workforce Analysis published by the NYC Council Finance Division. UFA's own site rounds to ~9,000.",
   "summary": "Represents all NYC firefighters below officer rank. UFA contracts in NYC have historically come out of impasse arbitration. Most recent published contract on OLR is the 2017-2020 MOA; economic terms for the 2022-2027 cycle are set by the Uniformed Coalition Economic Agreement (also in this corpus).",
   "titles": [
    "Firefighter",
@@ -1491,8 +1491,8 @@
   "union_full": "Uniformed Fire Officers Association (UFOA), IAFF Local 854",
   "local": "IAFF Local 854",
   "employer": "NYC Fire Department",
-  "headcount": 2500,
-  "headcount_note": "~2,500 FDNY officers per UFOA public statements.",
+  "headcount": 2400,
+  "headcount_note": "~2,400 active FDNY fire officers (lieutenants, captains, battalion and deputy chiefs, medical officers and supervising fire marshals; 2,406 filled as of 10/10/2025), per the FDNY Fire Workforce Analysis (NYC Council Finance Division).",
   "summary": "Represents FDNY lieutenants, captains, battalion chiefs, deputy chiefs, fire medical officers, and supervising fire marshals. Most recent published contract on OLR is the 2018-2021 Fire Officers Agreement; economic terms for the 2022-2027 cycle are set by the Uniformed Coalition Economic Agreement.",
   "titles": [
    "Lieutenant",
@@ -1513,8 +1513,8 @@
   "union_full": "New York State Nurses Association (NYSNA)",
   "local": "NYSNA",
   "employer": "NYC Health + Hospitals (Mayoral)",
-  "headcount": 8500,
-  "headcount_note": "~8,500 staff nurses at NYC Health + Hospitals per NYSNA's December 2019 tentative-agreement summary; current membership reportedly 8,000-9,000.",
+  "headcount": 8000,
+  "headcount_note": "~8,000 RNs across NYC H+H facilities and mayoral agencies, per NYSNA's 2023 pay-parity contract announcement (July 31, 2023). Not an H+H-only subtotal.",
   "summary": "Represents registered nurses at NYC Health + Hospitals (the City's public hospital system) and the Mayoral / civilian workforce. Most recent published contract on OLR is the 2019-2023 Staff Nurses Agreement; the historic 2023+ pay-parity successor agreement (announced July 2023) is not yet posted on OLR at time of corpus build.",
   "titles": [
    "Staff Nurse",
