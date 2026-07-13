@@ -64,7 +64,7 @@ This notebook contains the full text of {manifest['contracts']} collective barga
 
 ## How the text was produced
 
-Many of the source documents are scanned image PDFs with no embedded text. Each page was extracted with a text-layer reader where possible and with optical character recognition (macOS Vision, with Google Cloud Vision for the seven worst-quality documents) where not. Roughly 1,000 high-confidence OCR misreads have been hand-reviewed and corrected, and two agreements — the Committee of Interns and Residents contract and the PSC-CUNY 2023-2027 memorandum of agreement — are drawn from text-native copies published by the unions themselves, which eliminates OCR error in those documents entirely.
+Many of the source documents are scanned image PDFs with no embedded text. Each page was extracted with a text-layer reader where possible and with optical character recognition (macOS Vision, with Google Cloud Vision for the seven worst-quality documents) where not. Roughly 500 high-confidence OCR misreads have been hand-reviewed and corrected, and two agreements — the Committee of Interns and Residents contract and the PSC-CUNY 2023-2027 memorandum of agreement — are drawn from text-native copies published by the unions themselves, which eliminates OCR error in those documents entirely.
 
 ## Cautions for answering questions
 
