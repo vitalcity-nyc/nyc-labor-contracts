@@ -1,4 +1,4 @@
-"""Export a NotebookLM-friendly bundle containing ONLY contract text.
+"""Export a Gemini Notebook-friendly bundle containing ONLY contract text.
 
 Each <id>.md = the contract's name (H1) + its full extracted text, with page
 breaks. NO frontmatter, NO headcount/wage/sector metadata, NO workforce

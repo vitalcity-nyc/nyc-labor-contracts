@@ -1,10 +1,10 @@
-"""Export companion reference documents for the NotebookLM notebook.
+"""Export companion reference documents for the Gemini Notebook.
 
 The notebook's primary sources are the 99 contract text files
 (export_text_only.py). These companion files add the context the contract
 text alone cannot answer — which contracts exist and when they expire, what
 the union acronyms mean, who each bargaining unit covers and the verified
-wage patterns. Every file is headed with a provenance note so NotebookLM
+wage patterns. Every file is headed with a provenance note so Gemini Notebook
 citations clearly distinguish companion reference material from contract
 text.
 
