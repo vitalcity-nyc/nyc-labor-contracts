@@ -1,0 +1,29 @@
+<!-- NYC municipal labor contracts — Vital City Ghost embed.
+     Paste this whole block into a Ghost HTML card.
+     The iframe is a fixed large frame (85% of the reader's viewport, between
+     650px and 1100px); the database scrolls inside it. To make it span wider
+     than the article column, keep the outer div's negative-margin lines; to
+     keep it inside the column, delete the two margin-left/margin-right lines
+     and the max-width/width lines. -->
+<div class="vc-embed-nyc-labor-contracts" style="
+    margin:1.5em 0;
+    width:min(96vw, 1200px);
+    max-width:none;
+    margin-left:calc(50% - min(48vw, 600px));
+    margin-right:calc(50% - min(48vw, 600px));
+  ">
+  <div style="position:relative;width:100%;border:2px solid #050507;overflow:hidden;">
+    <iframe
+      src="https://vitalcity-nyc.github.io/nyc-labor-contracts/?embed=1"
+      title="NYC municipal labor contracts — searchable database"
+      loading="lazy"
+      allow="fullscreen"
+      scrolling="no"
+      style="display:block;width:100%;height:clamp(650px, 85vh, 1100px);border:0;background:#ffffff;"
+    ></iframe>
+  </div>
+  <p style="font-size:0.8em;color:#666;margin:0.5em 0 0;text-align:center;">
+    Search all 100 agreements, or click any contract to read it.
+    <a href="https://vitalcity-nyc.github.io/nyc-labor-contracts/" target="_blank" rel="noopener">Open full screen &#8599;</a>
+  </p>
+</div>

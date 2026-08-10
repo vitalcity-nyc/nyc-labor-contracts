@@ -14,6 +14,18 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<script>
+// Embed mode: ?embed=1 strips the site header and footer and turns the page
+// into a fixed-height app frame with its own internal scrolling, so it can sit
+// inside a Ghost HTML card iframe without stretching the article.
+if (new URLSearchParams(location.search).get("embed") === "1") {
+  document.documentElement.classList.add("embed");
+}
+</script>
+<div class="embed-topbar">
+  <span class="embed-topbar-title">NYC municipal labor contracts</span>
+  <a class="embed-topbar-link" href="https://vitalcity-nyc.github.io/nyc-labor-contracts/" target="_blank" rel="noopener">Open full screen &#8599;</a>
+</div>
 <header class="site-header">
   <div class="wrap">
     <p class="kicker">Public records / Labor</p>
@@ -41,7 +53,7 @@
 <main class="wrap" id="app">
   <section class="controls">
     <div class="search-row">
-      <input type="search" id="q" placeholder='Search — e.g. just cause, parental leave, or "exact phrase" in quotes' autocomplete="off" autofocus>
+      <input type="search" id="q" placeholder='Search — e.g. just cause, parental leave, or "exact phrase" in quotes' autocomplete="off">
       <button id="random-btn" type="button" title="Show me a random clause">🎲 Random clause</button>
     </div>
     <div class="filters">

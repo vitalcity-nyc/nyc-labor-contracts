@@ -911,3 +911,38 @@ mark { background: var(--vc-chartreuse); padding: 0 2px; color: var(--vc-black);
   .filters { flex-direction: column; align-items: flex-start; }
   .site-header { padding: 28px 0 20px; }
 }
+
+/* ---------- Embed mode (?embed=1) ---------- */
+/* The page becomes a fixed-height app frame: slim topbar, controls, and an
+   internally scrolling results region. The host article's iframe sets the
+   outer height; nothing here grows the parent page. */
+.embed-topbar { display: none; }
+html.embed, html.embed body { height: 100%; }
+html.embed body {
+  display: flex; flex-direction: column;
+  overflow: hidden;
+}
+html.embed .site-header, html.embed .site-footer { display: none; }
+html.embed .embed-topbar {
+  display: flex; justify-content: space-between; align-items: baseline; gap: 16px;
+  flex: 0 0 auto;
+  padding: 12px 20px;
+  background: var(--vc-bg-alt);
+  border-bottom: 2px solid var(--vc-rule);
+}
+html.embed .embed-topbar-title {
+  font-family: var(--vc-font-serif); font-weight: 200;
+  font-size: 1.25rem; line-height: 1.1;
+}
+html.embed .embed-topbar-link {
+  font-size: 0.78rem; letter-spacing: 0.04em; white-space: nowrap;
+  color: var(--vc-text-muted); text-decoration: none;
+  border-bottom: 1px dashed var(--vc-border);
+}
+html.embed .embed-topbar-link:hover { color: var(--vc-accent); border-bottom-color: var(--vc-accent); }
+html.embed main.wrap {
+  flex: 1 1 auto; overflow-y: auto;
+  max-width: none; width: 100%;
+  padding: 14px 20px 40px;
+}
+html.embed .controls { margin-top: 0; }

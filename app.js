@@ -107,6 +107,18 @@
     populateFilters();
     bindEvents();
     parseHashAndRender();
+    // Focus the search box on the standalone page only — autofocus inside an
+    // embed iframe would steal focus and scroll-jack the host article.
+    if (!document.documentElement.classList.contains("embed")) {
+      $("#q").focus();
+    } else {
+      // Keep "Open full screen" pointing at the reader's current view.
+      const fullLink = document.querySelector(".embed-topbar-link");
+      const base = "https://vitalcity-nyc.github.io/nyc-labor-contracts/";
+      const sync = () => { fullLink.href = base + location.hash; };
+      window.addEventListener("hashchange", sync);
+      sync();
+    }
   }
 
   function populateFilters() {
@@ -798,7 +810,8 @@
     $("#topic-filter").value = "";
     $("#contract-filter").value = "";
     $("#view-mode").value = "results";
-    history.replaceState(null, "", location.pathname);
+    // Keep the query string (?embed=1) so embed mode survives "back to all".
+    history.replaceState(null, "", location.pathname + location.search);
     render();
   }
 
