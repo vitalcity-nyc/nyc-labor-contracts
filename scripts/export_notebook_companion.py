@@ -71,7 +71,7 @@ Many of the source documents are scanned image PDFs with no embedded text. Each 
 - OCR text can still contain transcription mistakes, especially in signature blocks, addresses and dense wage tables. When a number matters, recommend verifying against the source PDF (each contract file links to it).
 - Contract terms in these documents are frequently retroactive: an agreement signed in 2024 may have a term that began in 2021.
 - Several uniformed unit agreements are short letters that incorporate the Uniformed Coalition Economic Agreement by reference — economic terms for those units live in that coalition document, not the unit letter.
-- The corpus reflects agreements published as of June 2026. The latest bargaining round may not be posted yet for some unions.
+- The corpus reflects agreements published as of August 2026. The latest bargaining round may not be posted yet for some unions.
 """
 
 
