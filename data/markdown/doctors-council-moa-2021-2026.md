@@ -18,9 +18,9 @@ wage_cumulative_pct: 16.21
 
 # Doctors Council Memorandum of Agreement, 2021-2026
 
-**Term:** 2021–2026
-**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf)
-**Pages:** 6 (6 OCR-reconstructed)
+**Term:** 2021–2026  
+**Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf)  
+**Pages:** 6 (6 OCR-reconstructed)  
 **Clauses extracted:** 4
 
 **Workforce:** Represents salaried physicians and dentists working for the City — at H+H, NYC DOHMH, DOC, and other agencies.
@@ -32,7 +32,8 @@ wage_cumulative_pct: 16.21
 <a id="page-1"></a>
 ## Page 1  ·  _OCR-reconstructed_
 
-2021-2026 Memorandum of Agreement between Doctors Council SEIU ("the Union"), the City of New York ("City") and NYC Health + Hospitals ("NYC H+H")
+2021-2026 Memorandum of Agreement between Doctors Council SEIU ("the
+Union"), the City of New York ("City") and NYC Health + Hospitals ("NYC H+H")
 1. Term:
 5 years and 6 months
 6/28/21 -12/27/26
@@ -54,33 +55,57 @@ General Wage Increases
 3.00% compounded
 3.25% compounded
 3. Ratification Bonus
-A lump sum cash payment in the amount of $3,000, pro-rated for other than full time employees, shall be payable as soon as practicable upon ratification of this 2021-2026 Doctors Council Memorandum of Agreement ('MOA") to those employees who are in active payroll status and in a title covered by this Agreement, as of the date of ratification. Active payroll status is defined as being in active payroll status ("B Status"), military leave with pay ("K status"), or on paid family leave. The lump sum cash payment shall be pensionable, consistent with applicable law.
-All full time per annum and full time per diem employees who were in active status on the date ot the ratification are entitled to receive the lump sum cash payment of $3,000.
-Employees who were terminated for cause, resigned, retired, or otherwise separated from service prior to the date of ratification of this MOA shall not be eligible for the lump sum cash payment.
-In no event shall any employee receive greater than $3,000 in bonus payments pursuant to this section.
+A lump sum cash payment in the amount of $3,000, pro-rated for other than full time
+employees, shall be payable as soon as practicable upon ratification of this 2021-2026
+Doctors Council Memorandum of Agreement ('MOA") to those employees who are in active
+payroll status and in a title covered by this Agreement, as of the date of ratification. Active
+payroll status is defined as being in active payroll status ("B Status"), military leave with pay
+("K status"), or on paid family leave. The lump sum cash payment shall be pensionable,
+consistent with applicable law.
+All full time per annum and full time per diem employees who were in active status on the
+date ot the ratification are entitled to receive the lump sum cash payment of $3,000.
+Employees who were terminated for cause, resigned, retired, or otherwise separated from
+service prior to the date of ratification of this MOA shall not be eligible for the lump sum
+cash payment.
+In no event shall any employee receive greater than $3,000 in bonus payments pursuant to
+this section.
 
 <a id="page-2"></a>
 ## Page 2  ·  _OCR-reconstructed_
 
 4. Additions to Gross
-Effective June 28, 2025, the general wage increase provided for in Section 2(v) shall be applied to "additions to gross." "Additions to gross" shall be defined to include uniform allowances, equipment allowances, transportation allowances, uniform maintenance allowances, assignment differentials, service increments, longevity differentials, advancement increases, assignment (level) increases, and experience, certification, educational, license, evening, or night shift differentials.
+Effective June 28, 2025, the general wage increase provided for in Section 2(v) shall be applied
+to "additions to gross." "Additions to gross" shall be defined to include uniform allowances,
+equipment allowances, transportation allowances, uniform maintenance allowances,
+assignment differentials, service increments, longevity differentials, advancement increases,
+assignment (level) increases, and experience, certification, educational, license, evening, or
+night shift differentials.
 5. Conditions of Payment
 ii.
 iii.
-The Lump sum cash payment pursuant to Section 3 of this MOA shall be payable as soon as practicable upon ratification of this MOA.
-The general wage increases pursuant to Section 2(i), (ii), (iii) and (iv) of this MOA shall be payable as soon as practicable upon the ratification of the MOA.
-The general wage increases pursuant to Section 2 (v) of this MOA shall be payable as soon as practical after the effective date of such increases of the MOA.
+The Lump sum cash payment pursuant to Section 3 of this MOA shall be payable as
+soon as practicable upon ratification of this MOA.
+The general wage increases pursuant to Section 2(i), (ii), (iii) and (iv) of this MOA
+shall be payable as soon as practicable upon the ratification of the MOA.
+The general wage increases pursuant to Section 2 (v) of this MOA shall be payable as
+soon as practical after the effective date of such increases of the MOA.
 6. OCME
 i. City Medical Examiner Teaching Differential:
-The parties agree that effective November 28, 2024 the City Medical Examiner Teaching Differential set in the parties MOA dated March 16, 2018 shall be increased to $20,876 per annum and shall be paid to all active OCME City Medical Examiners regardless of years of service.
+The parties agree that effective November 28, 2024 the City Medical Examiner Teaching
+Differential set in the parties MOA dated March 16, 2018 shall be increased to $20,876
+per annum and shall be paid to all active OCME City Medical Examiners regardless of
+years of service.
 il. City Medical Examiner Salary Schedule:
-The parties further agree that effective November 28, 2024, the salary schedule for City Medical Examiner Level I and Level II shall be adjusted as set forth in the attached Appendix A.
+The parties further agree that effective November 28, 2024, the salary schedule for City
+Medical Examiner Level I and Level II shall be adjusted as set forth in the attached
+Appendix A.
 
 <a id="page-3"></a>
 ## Page 3  ·  _OCR-reconstructed_
 
 7. Annuity Fund
-The parties agree that, effective November 28, 2024 the existing annuity contribution shall be increased by $1.83 per hour from $2.57 per hour worked to $4.40 per hour worked. As a
+The parties agree that, effective November 28, 2024 the existing annuity contribution shall be
+increased by $1.83 per hour from $2.57 per hour worked to $4.40 per hour worked. As a
 result, the new total maximum annual contributions shall be as follows:
 Hours worked
 Current Annuity
@@ -97,14 +122,22 @@ $8,613 annual maximum
 37.5 hours per week
 40 hours per week
 8. Work Flexibility Committee
-The parties agree to a remote work pilot for employees in Mayoral agencies consistent with the terms of the DC37 Remote Work Pilot dated May 31, 2023 as well as a compressed work pilot consistent with the terms of the DC37 Compressed Work Pilot dated January 11, 2024.
-The parties agree to a remote work pilot for employees at NYC Health + Hospitals consistent with the terms of the DC37 Remote Work Pilot dated December 21, 2023. The union and NYCH+H agree to meet and discuss the feasibility of a compressed work pilot.
+The parties agree to a remote work pilot for employees in Mayoral agencies consistent with
+the terms of the DC37 Remote Work Pilot dated May 31, 2023 as well as a compressed work
+pilot consistent with the terms of the DC37 Compressed Work Pilot dated January 11, 2024.
+The parties agree to a remote work pilot for employees at NYC Health + Hospitals consistent
+with the terms of the DC37 Remote Work Pilot dated December 21, 2023. The union and
+NYCH+H agree to meet and discuss the feasibility of a compressed work pilot.
 9. Prohibition of Further Economic Demands
-No party to this agreement shall make additional economic or non-economic demands during the term of this MOA.
+No party to this agreement shall make additional economic or non-economic demands during
+the term of this MOA.
 10. Continuation of Terms
-The terms of the predecessor separate unit agreements shall be continued except as modified pursuant to this MOA.
+The terms of the predecessor separate unit agreements shall be continued except as modified
+pursuant to this MOA.
 11. Payroll
-Effective upon ratification of this MOA, all employees who receive paychecks via direct deposit shall be opted out of receiving paper paystubs. Employees may choose to opt-in via NYCAPS Employee Self-Service or other appropriate method at employers not on NYCAPS.
+Effective upon ratification of this MOA, all employees who receive paychecks via direct
+deposit shall be opted out of receiving paper paystubs. Employees may choose to opt-in via
+NYCAPS Employee Self-Service or other appropriate method at employers not on NYCAPS.
 12. Approval of Agreement
 This Agreement is subject to union ratification.
 
@@ -125,7 +158,8 @@ FOR NYC HEALTH + HOSPITALS
 BY:
 anGa
 ANDREA G. COHEN
-Senior Vice-President and General Counsel December 13, 2024
+Senior Vice-President and General Counsel
+December 13, 2024
 
 <a id="page-5"></a>
 ## Page 5  ·  _OCR-reconstructed_
@@ -133,7 +167,9 @@ Senior Vice-President and General Counsel December 13, 2024
 APPENDIX A
 * CME Salary Schedule
 City Medical Examiner Level l
-City Medical Examiner Level II O- less than 5 years At least 5 years, but less than 10 years
+City Medical Examiner Level II
+O- less than 5 years
+At least 5 years, but less than 10 years
 10 years or more
 City Medical Examiner Level I
 City Medical Examiner Level l
@@ -281,7 +317,9 @@ $268,931
 <a id="page-6"></a>
 ## Page 6  ·  _OCR-reconstructed_
 
-City Medical Examiner Level I $240,304 $277,671 $277,671|
+City Medical Examiner Level I $240,304
+$277,671
+$277,671|
 
 ---
 _End of contract. Source PDF: <https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/doctors-council-public-sector-moa-2021-2026.pdf>_

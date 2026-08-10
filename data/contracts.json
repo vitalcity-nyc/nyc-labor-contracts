@@ -469,12 +469,13 @@
  },
  {
   "id": "dc37-l376-highway-repairers-moa-2021-2026",
-  "label": "DC37 L376 Highway Repairers MOA, 2021-2026",
+  "label": "DC37 L376 Highway Repairers Consent Determination, 2021-2026",
   "section": "2001-2021 Citywide Agreement",
   "source": "recent",
-  "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/highway-repairers-2021-2026-moa.pdf",
+  "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/Highway_Repairer_2021-03-01--2026-03-31.pdf",
   "term_start": 2021,
-  "term_end": 2026
+  "term_end": 2026,
+  "ocr_quality": "fair"
  },
  {
   "id": "dc37-l924-laborers-consent-determination-2021-2026",
@@ -541,12 +542,13 @@
  },
  {
   "id": "dc37-l1157-supervisor-highway-repairers-moa-2021-2026",
-  "label": "DC37 L1157 Supervisor Highway Repairers MOA, 2021-2026",
+  "label": "DC37 L1157 Supervisor Highway Repairers Consent Determination, 2021-2026",
   "section": "2001-2021 Citywide Agreement",
   "source": "recent",
-  "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/2021-2026_supervisor_highway_repairer_moa.pdf",
+  "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/Supervisor_Highway_Repairer_2021-01-31--2026-02-27.pdf",
   "term_start": 2021,
-  "term_end": 2026
+  "term_end": 2026,
+  "ocr_quality": "fair"
  },
  {
   "id": "dc-37-local-1320-sewage-treatment-workers-moa-2021-2026",
@@ -633,7 +635,7 @@
  },
  {
   "id": "ibt-l237-masons-helpers-moa-2021-2026",
-  "label": "IBT L237 Mason’s Helpers MOA, 2021-2026",
+  "label": "IBT L237 Mason\u2019s Helpers MOA, 2021-2026",
   "section": "2001-2021 Citywide Agreement",
   "source": "recent",
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/local-237-masonhelpers-fully-executed-moa-2021-2026.pdf",
@@ -689,7 +691,7 @@
  },
  {
   "id": "l3-communication-electricians-moa-20232028",
-  "label": "L3 Communication Electricians MOA, 2023–2028",
+  "label": "L3 Communication Electricians MOA, 2023\u20132028",
   "section": "2001-2021 Citywide Agreement",
   "source": "recent",
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/communication-electrician-executed-moa-2023-2028.pdf",
@@ -698,7 +700,7 @@
  },
  {
   "id": "l3-electricians-consent-determination-20232028",
-  "label": "L3 Electricians Consent Determination, 2023–2028",
+  "label": "L3 Electricians Consent Determination, 2023\u20132028",
   "section": "2001-2021 Citywide Agreement",
   "source": "recent",
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/electricians-executed-moa-2023-2028.pdf",
@@ -707,7 +709,7 @@
  },
  {
   "id": "l3-stationary-engineer-electric-moa-20202025",
-  "label": "L3 Stationary Engineer (Electric) MOA, 2020–2025",
+  "label": "L3 Stationary Engineer (Electric) MOA, 2020\u20132025",
   "section": "2001-2021 Citywide Agreement",
   "source": "recent",
   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/see-ssee-fully-executed-final-moa-2020-2025.pdf",
@@ -910,5 +912,14 @@
   "term_start": 2017,
   "term_end": 2023,
   "note": "Underlying CUNY-PSC agreement that the 2023-2027 MOA modifies. Source: CUNY HR labor contracts page."
+ },
+ {
+  "id": "deputy-sheriffs-moa-2022-2027",
+  "label": "Deputy Sheriffs MOA, 2022-2027",
+  "section": "2021-2026 Agreements",
+  "source": "recent",
+  "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/Deputy_Sheriffs_2022-2027_MOA.pdf",
+  "term_start": 2022,
+  "term_end": 2027
  }
 ]

@@ -143,6 +143,19 @@ CURATED = {
         "source_note": "USA contract: 'December 28, 2022 ... 3.25% ... December 28, 2026 ... 4.00%.' Anchored UOCEA pattern. Contract specifies a separate annual lump-sum supplemental annuity contribution (~$570/year) instead of a one-time ratification bonus.",
     },
 
+    "deputy-sheriffs-moa-2022-2027": {
+        "verified": "full",
+        "increases": [
+            {"effective": "2022-01-01", "pct": 3.25},
+            {"effective": "2023-01-01", "pct": 3.25},
+            {"effective": "2024-01-01", "pct": 3.50},
+            {"effective": "2025-01-01", "pct": 3.50},
+            {"effective": "2026-01-01", "pct": 4.00},
+        ],
+        "bonuses": [],
+        "source_note": "Deputy Sheriffs MOA Section 2: 'January 1, 2022 3.25% ... January 1, 2026 4.00% compounded.' Calendar-anchored UOCEA uniformed pattern over a 62-month term (1/1/2022-2/28/2027). No ratification bonus; the MOA instead raises the uniform allowance by $475 (to $1,042) and the welfare fund contribution by $100, both effective January 1, 2026.",
+    },
+
     "sba-unit-agreement-2021-2026": {
         "verified": "pattern",
         "increases": [

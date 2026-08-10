@@ -594,6 +594,46 @@
       </ul>
     `;
     root.appendChild(wrap);
+
+    // Visual timeline: one bar per contract, stated term start → end, with a
+    // "today" line. Sorted by end date so the next expirations rise to the top.
+    const withTerms = state.contracts.filter(c => c.term_start && c.term_end && c.term_end >= c.term_start);
+    if (withTerms.length) {
+      const minY = Math.min(...withTerms.map(c => c.term_start));
+      const maxY = Math.max(...withTerms.map(c => c.term_end)) + 1;
+      const span = maxY - minY;
+      const now = new Date();
+      const nowY = now.getFullYear() + (now.getMonth() + 0.5) / 12;
+      const tl = document.createElement("div");
+      tl.className = "term-timeline";
+      const axisTicks = [];
+      for (let y = minY; y <= maxY; y += (span > 14 ? 2 : 1)) {
+        axisTicks.push(`<span class="term-timeline-tick" style="left:${((y - minY) / span * 100).toFixed(2)}%">${y}</span>`);
+      }
+      const rows = withTerms.slice().sort((a,b) => (a.term_end - b.term_end) || (a.term_start - b.term_start) || a.label.localeCompare(b.label)).map(c => {
+        const left = ((c.term_start - minY) / span * 100).toFixed(2);
+        const width = Math.max((c.term_end + 1 - c.term_start) / span * 100, 0.8).toFixed(2);
+        const cls = c.term_end < cur ? "expired" : (c.term_end === cur ? "expiring" : "current");
+        const label = window.expandContractLabel ? window.expandContractLabel(c.label) : c.label;
+        return `
+          <a class="term-timeline-row" href="#/contract/${encodeURIComponent(c.id)}" title="${escapeHtml(label)} · ${c.term_start}–${c.term_end}">
+            <span class="term-timeline-label">${escapeHtml(label)}</span>
+            <span class="term-timeline-track"><span class="term-timeline-bar ${cls}" style="left:${left}%;width:${width}%"></span></span>
+          </a>`;
+      }).join("");
+      tl.innerHTML = `
+        <h3>Every contract's stated term</h3>
+        <p class="term-timeline-legend">
+          <span><span class="term-timeline-swatch current"></span> in stated term</span>
+          <span><span class="term-timeline-swatch expiring"></span> expires ${cur}</span>
+          <span><span class="term-timeline-swatch expired"></span> stated term expired (Triborough hold-over)</span>
+          <span><span class="term-timeline-swatch todayline"></span> today</span>
+        </p>
+        <div class="term-timeline-axis">${axisTicks.join("")}</div>
+        <div class="term-timeline-rows" style="--now-left:${((nowY - minY) / span * 100).toFixed(2)}">${rows}</div>
+      `;
+      root.appendChild(tl);
+    }
     [["Expired (Triborough hold-over)", expired], ["Expiring this year", expiring], ["Currently in stated term", current]].forEach(([title, items]) => {
       const sec = document.createElement("div");
       sec.className = "expirations";
@@ -638,6 +678,11 @@
         </div>
       </header>
 
+      <div class="doc-view-search">
+        <input type="search" id="doc-find" placeholder="Find in this contract — e.g. overtime, longevity, grievance" autocomplete="off">
+        <span id="doc-find-count"></span>
+      </div>
+
       <div class="doc-view-body">
         <aside class="doc-view-toc" aria-label="Contents">
           <h3>Contents</h3>
@@ -670,11 +715,19 @@
           ${cl.ocr ? `<span class="ocr-flag" title="This page was reconstructed via optical character recognition; verify against the source PDF">OCR</span>` : ""}
           <a class="doc-section-pdf" href="${escapeHtml(pdfUrl)}" target="_blank" rel="noopener">Open p.${cl.page} in PDF →</a>
           <a class="doc-section-permalink" href="#/clause/${encodeURIComponent(cl.id)}" title="Permalink to this section">¶ permalink</a>
+          <button type="button" class="doc-section-cite" title="Copy this section's text with a full citation">Copy quote + citation</button>
         </div>
         <h3 class="doc-section-heading">${escapeHtml(cl.heading || "Untitled")}</h3>
         ${tags ? `<div class="tags">${tags}</div>` : ""}
         <pre class="doc-section-body">${escapeHtml(cl.text)}</pre>
       `;
+      const citeBtn = sec.querySelector(".doc-section-cite");
+      citeBtn.addEventListener("click", () => {
+        navigator.clipboard.writeText(citationFor(cl)).then(() => {
+          citeBtn.textContent = "Copied!";
+          setTimeout(() => citeBtn.textContent = "Copy quote + citation", 1500);
+        });
+      });
       sec.querySelectorAll(".tag").forEach(el => el.addEventListener("click", (ev) => {
         ev.stopPropagation();
         state.topic = el.dataset.topic;
@@ -690,6 +743,29 @@
       ev.preventDefault();
       clearAll();
     });
+
+    // Find-in-contract: filter sections (and their TOC entries) to those
+    // containing every typed token; highlight matches in the visible text.
+    const findBox = wrap.querySelector("#doc-find");
+    const findCount = wrap.querySelector("#doc-find-count");
+    const sections = Array.from(content.querySelectorAll(".doc-section"));
+    const tocItems = Array.from(toc.querySelectorAll("li"));
+    findBox.addEventListener("input", debounce(() => {
+      const q = findBox.value.trim();
+      const tokens = q.toLowerCase().split(/\s+/).filter(Boolean);
+      let shown = 0;
+      sections.forEach((sec, i) => {
+        const cl = items[i];
+        const hay = ((cl.text || "") + "\n" + (cl.heading || "")).toLowerCase();
+        const hit = tokens.every(t => hay.includes(t));
+        sec.style.display = hit ? "" : "none";
+        if (tocItems[i]) tocItems[i].style.display = hit ? "" : "none";
+        const body = sec.querySelector(".doc-section-body");
+        if (body) body.innerHTML = highlight(cl.text, hit ? q : "");
+        if (hit) shown++;
+      });
+      findCount.textContent = q ? `${shown} of ${sections.length} sections` : "";
+    }, 120));
   }
 
   function renderSingleClause(id) {
@@ -774,6 +850,7 @@
       <div class="clause-actions">
         <button class="expand-btn">${expanded ? "Show less" : "Show full clause"}</button>
         <button class="copy-link">Copy permalink</button>
+        <button class="copy-cite">Copy quote + citation</button>
       </div>
     `;
     wrap.querySelector(".expand-btn").addEventListener("click", () => {
@@ -788,6 +865,12 @@
         setTimeout(() => wrap.querySelector(".copy-link").textContent = "Copy permalink", 1500);
       });
     });
+    wrap.querySelector(".copy-cite").addEventListener("click", () => {
+      navigator.clipboard.writeText(citationFor(c)).then(() => {
+        wrap.querySelector(".copy-cite").textContent = "Copied!";
+        setTimeout(() => wrap.querySelector(".copy-cite").textContent = "Copy quote + citation", 1500);
+      });
+    });
     wrap.querySelectorAll(".tag").forEach(el => el.addEventListener("click", (ev) => {
       ev.stopPropagation();
       state.topic = el.dataset.topic;
@@ -800,6 +883,25 @@
   }
 
   /* ---------- Helpers ---------- */
+  // Plain-text block a reporter can paste: the clause verbatim, then a full
+  // citation (contract, section, page, source PDF, database permalink) and an
+  // OCR caution when the text came off a scanned page.
+  function citationFor(c) {
+    const contract = state.contractById[c.contract_id];
+    const label = window.expandContractLabel ? window.expandContractLabel(contract?.label || c.contract_id) : (contract?.label || c.contract_id);
+    const permalink = `${location.origin}${location.pathname}#/clause/${encodeURIComponent(c.id)}`;
+    const pdf = contract ? `${contract.url}#page=${c.page}` : "";
+    const parts = [
+      (c.text || "").trim(),
+      "",
+      `— ${label}${c.heading && c.heading !== label ? `, ${c.heading}` : ""}, p. ${c.page}.`,
+      pdf ? `Source PDF: ${pdf}` : "",
+      `Via NYC municipal labor contracts database: ${permalink}`,
+    ];
+    if (c.ocr) parts.push("Note: this page was transcribed via OCR — verify wording against the source PDF before publication.");
+    return parts.filter(Boolean).join("\n");
+  }
+
   function escapeHtml(s) {
     return String(s == null ? "" : s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;" })[ch]);
   }

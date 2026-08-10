@@ -1093,6 +1093,9 @@
   "cumulative_pct": 18.77,
   "auto_pcts": [
    3.25,
+   3.25,
+   3.5,
+   3.5,
    4.0
   ],
   "auto_lump_sums": [],
@@ -1261,19 +1264,13 @@
  },
  {
   "contract_id": "dc37-l376-highway-repairers-moa-2021-2026",
-  "contract_label": "DC37 L376 Highway Repairers MOA, 2021-2026",
+  "contract_label": "DC37 L376 Highway Repairers Consent Determination, 2021-2026",
   "term_start": 2021,
   "term_end": 2026,
   "increases": [],
   "bonuses": [],
   "cumulative_pct": null,
-  "auto_pcts": [
-   3.0,
-   3.0,
-   3.0,
-   3.0,
-   3.25
-  ],
+  "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
   "verified": null,
@@ -1402,19 +1399,13 @@
  },
  {
   "contract_id": "dc37-l1157-supervisor-highway-repairers-moa-2021-2026",
-  "contract_label": "DC37 L1157 Supervisor Highway Repairers MOA, 2021-2026",
+  "contract_label": "DC37 L1157 Supervisor Highway Repairers Consent Determination, 2021-2026",
   "term_start": 2021,
   "term_end": 2026,
   "increases": [],
   "bonuses": [],
   "cumulative_pct": null,
-  "auto_pcts": [
-   3.0,
-   3.0,
-   3.0,
-   3.0,
-   3.25
-  ],
+  "auto_pcts": [],
   "auto_lump_sums": [],
   "curated": false,
   "verified": null,
@@ -2043,5 +2034,47 @@
   "curated": false,
   "verified": null,
   "source_note": null
+ },
+ {
+  "contract_id": "deputy-sheriffs-moa-2022-2027",
+  "contract_label": "Deputy Sheriffs MOA, 2022-2027",
+  "term_start": 2022,
+  "term_end": 2027,
+  "increases": [
+   {
+    "effective": "2022-01-01",
+    "pct": 3.25
+   },
+   {
+    "effective": "2023-01-01",
+    "pct": 3.25
+   },
+   {
+    "effective": "2024-01-01",
+    "pct": 3.5
+   },
+   {
+    "effective": "2025-01-01",
+    "pct": 3.5
+   },
+   {
+    "effective": "2026-01-01",
+    "pct": 4.0
+   }
+  ],
+  "bonuses": [],
+  "cumulative_pct": 18.77,
+  "auto_pcts": [
+   3.25,
+   3.25,
+   3.5,
+   3.5,
+   4.0,
+   3.5
+  ],
+  "auto_lump_sums": [],
+  "curated": true,
+  "verified": "full",
+  "source_note": "Deputy Sheriffs MOA Section 2: 'January 1, 2022 3.25% ... January 1, 2026 4.00% compounded.' Calendar-anchored UOCEA uniformed pattern over a 62-month term (1/1/2022-2/28/2027). No ratification bonus; the MOA instead raises the uniform allowance by $475 (to $1,042) and the welfare fund contribution by $100, both effective January 1, 2026."
  }
 ]

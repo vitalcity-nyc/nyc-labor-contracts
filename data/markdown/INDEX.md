@@ -1,6 +1,6 @@
 # NYC municipal labor contracts — Markdown export
 
-_99 contracts. Each `<id>.md` file contains the full searchable text, segmented into clauses with page numbers, with tables preserved as pipe-delimited Markdown._
+_100 contracts. Each `<id>.md` file contains the full searchable text, segmented into clauses with page numbers, with tables preserved as pipe-delimited Markdown._
 
 Source: NYC Office of Labor Relations Recent Agreements page. Many contracts were OCR-reconstructed from image-only PDFs; per-page OCR flags are preserved in the YAML frontmatter and inline meta lines.
 
@@ -24,6 +24,7 @@ Source: NYC Office of Labor Relations Recent Agreements page. Many contracts wer
 - [Council of School Supervisors and Administrators (CSA) — Memorandum of Agreement 2023-2028 amended Appendix A](csa-moa-2023-2028-amended-appendix-a.md) — 2023–2028
 - [Crane Operator 2021 2026](crane-operator-2021-2026.md) — term n/a
 - [DC 37 Local 1320 Sewage Treatment Workers Memorandum of Agreement, 2021-2026](dc-37-local-1320-sewage-treatment-workers-moa-2021-2026.md) — 2021–2026
+- [Deputy Sheriffs Memorandum of Agreement, 2022-2027](deputy-sheriffs-moa-2022-2027.md) — 2022–2027
 - [Detective Investigator Association (District Attorneys' offices) (DIA) — Memorandum of Agreement, 2023-2028](dia-moa-2023-2028.md) — 2023–2028
 - [Detectives' Endowment Association (DEA) — Unit Agreement, 2022-2027](dea-unit-agreement-2022-2027.md) — 2022–2027
 - [District Council 37 of AFSCME (DC37) — L1087 Clock Repairer Memorandum of Agreement, 2021-2026](dc37-l1087-clock-repairer-moa-2021-2026.md) — 2021–2026
@@ -31,9 +32,9 @@ Source: NYC Office of Labor Relations Recent Agreements page. Many contracts wer
 - [District Council 37 of AFSCME (DC37) — L1087 Locksmiths Consent Determination, 2021-2026](dc37-l1087-locksmiths-consent-determination-2021-2026.md) — 2021–2026
 - [District Council 37 of AFSCME (DC37) — L1087 Printing Press Operators Memorandum of Agreement, 2021-2026](dc37-l1087-printing-press-operators-moa-2021-2026.md) — 2021–2026
 - [District Council 37 of AFSCME (DC37) — L1087 Radio Repair Mechanics Memorandum of Agreement, 2021-2026](dc37-l1087-radio-repair-mechanics-moa-2021-2026.md) — 2021–2026
-- [District Council 37 of AFSCME (DC37) — L1157 Supervisor Highway Repairers Memorandum of Agreement, 2021-2026](dc37-l1157-supervisor-highway-repairers-moa-2021-2026.md) — 2021–2026
+- [District Council 37 of AFSCME (DC37) — L1157 Supervisor Highway Repairers Consent Determination, 2021-2026](dc37-l1157-supervisor-highway-repairers-moa-2021-2026.md) — 2021–2026
 - [District Council 37 of AFSCME (DC37) — L376 Construction Laborers Memorandum of Agreement, 2021-2026](dc37-l376-construction-laborers-moa-2021-2026.md) — 2021–2026
-- [District Council 37 of AFSCME (DC37) — L376 Highway Repairers Memorandum of Agreement, 2021-2026](dc37-l376-highway-repairers-moa-2021-2026.md) — 2021–2026
+- [District Council 37 of AFSCME (DC37) — L376 Highway Repairers Consent Determination, 2021-2026](dc37-l376-highway-repairers-moa-2021-2026.md) — 2021–2026
 - [District Council 37 of AFSCME (DC37) — L924 Laborers Consent Determination, 2021-2026](dc37-l924-laborers-consent-determination-2021-2026.md) — 2021–2026
 - [District Council 37 of AFSCME (DC37) — L983 High Pressure Plant Tenders Consent Determination, 2022-2027](dc37-l983-high-pressure-plant-tenders-consent-determination-2022-2027.md) — 2022–2027
 - [District Council 37 of AFSCME (DC37) — L983 Traffic Enforcement Agent Level III and IV Memorandum of Agreement, 2021-2027](dc37-l983-traffic-enforcement-agent-level-iii-and-iv-moa-2021-2027.md) — 2021–2027
