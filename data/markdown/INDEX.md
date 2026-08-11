@@ -66,7 +66,7 @@ Source: NYC Office of Labor Relations Recent Agreements page. Many contracts wer
 - [L1199 Memorandum of Agreement, 2022-2027](l1199-moa-2022-2027.md) — 2022–2027
 - [L638 Steamfitters Consent Determination, 2022-2027](l638-steamfitters-consent-determination-2022-2027.md) — 2022–2027
 - [Law Enforcement Employees Benevolent Association (LEEBA) — EPO Memorandum of Agreement, 2017-2026](leeba-epo-moa-2017-2026.md) — 2017–2026
-- [Lieutenants Benevolent Association (LBA) — 10 5 2023 Unit Bargaining Agreement](lba-10-5-2023-unit-bargaining-agreement.md) — term n/a
+- [Lieutenants Benevolent Association (LBA) — Unit Bargaining Agreement, 2022-2027](lba-10-5-2023-unit-bargaining-agreement.md) — 2022–2027
 - [Local 14/15 Gasoline Roller Engineers Wage Indenture, 2021-2026](local-14-15-gasoline-roller-engineers-wage-indenture-2021-2026.md) — 2021–2026
 - [Local 15 Welders Memorandum of Agreement, 2021-2026](local-15-welders-moa-2021-2026.md) — 2021–2026
 - [Local 15/30 Oilers, Stationary Engineer and Senior Stationary Engineer Consent Determination, 2021-2026](local-15-30-oilers-stationary-engineer-and-senior-stationary-engineer-consent-de.md) — 2021–2026
@@ -82,7 +82,7 @@ Source: NYC Office of Labor Relations Recent Agreements page. Many contracts wer
 - [Local 300, SEIU Memorandum of Agreement, 2022-2027](local-300-seiu-moa-2022-2027.md) — 2022–2027
 - [Local 306 Audiovisual Aide Technicians Memorandum of Agreement, 2022-2027](local-306-audiovisual-aide-technicians-moa-2022-2027.md) — 2022–2027
 - [Local 40 Bridge Repairer Consent Determination, 2022-2025](local-40-bridge-repairer-consent-determination-2022-2025.md) — 2022–2025
-- [Local 891 School Custodians](local-891-school-custodians.md) — term n/a
+- [Local 891 School Custodians Memorandum of Agreement, 2020-2025](local-891-school-custodians.md) — 2020–2025
 - [Marine Engineers' Beneficial Association (MEBA) — Memorandum of Agreement, 2010-2027](meba-moa-2010-2027.md) — 2010–2027
 - [Metal Work Mechanic Memorandum of Agreement, 2021-2026](metal-work-mechanic-moa-2021-2026.md) — 2021–2026
 - [New York State Nurses Association (NYSNA) — Staff Nurses, 2019-2023](nysna-staff-nurses-2019-2023.md) — 2019–2023

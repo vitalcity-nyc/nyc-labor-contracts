@@ -946,3 +946,46 @@ html.embed main.wrap {
   padding: 14px 20px 40px;
 }
 html.embed .controls { margin-top: 0; }
+
+/* ---------- Document-type grouping ---------- */
+/* Amendments and full agreements are different objects; the directory says so
+   rather than presenting them as interchangeable "contracts". */
+.doc-type-group { margin-bottom: 38px; }
+.doc-type-header { margin: 0 0 14px; }
+.doc-type-header-inline { margin-top: 34px; }
+.doc-type-header-inline:first-child { margin-top: 0; }
+.doc-type-title {
+  font-family: var(--vc-font-serif); font-weight: 200; font-synthesis: none;
+  font-size: 1.6rem; line-height: 1.1; margin: 0 0 6px;
+  display: flex; align-items: baseline; gap: 10px;
+}
+.doc-type-count {
+  font-family: var(--vc-font-sans); font-weight: 700;
+  font-size: 0.72rem; letter-spacing: 0.08em;
+  background: var(--vc-black); color: var(--vc-white);
+  padding: 2px 8px;
+}
+.doc-type-blurb {
+  margin: 0; max-width: 78ch;
+  font-size: 0.9rem; line-height: 1.5; color: var(--vc-text-muted);
+  border-left: 3px solid var(--vc-accent); padding-left: 12px;
+}
+.contract-tile-amends, .contract-card-amends {
+  display: inline-block; margin-top: 8px;
+  font-size: 0.68rem; font-weight: 700;
+  letter-spacing: 0.07em; text-transform: uppercase;
+  background: var(--vc-orange-20); color: #8a3b1f;
+  border: 1px solid var(--vc-accent); padding: 2px 7px;
+}
+.contract-card-amends { margin-top: 0; text-transform: none; letter-spacing: 0.03em; font-weight: 400; }
+.doc-view-amend-note {
+  margin: 14px 0 0; padding: 14px 16px;
+  background: var(--vc-orange-20);
+  border-left: 4px solid var(--vc-accent);
+  max-width: 78ch;
+}
+.doc-view-amend-note p { margin: 0; font-size: 0.92rem; line-height: 1.55; }
+.doc-view-amend-quote {
+  margin-top: 8px !important; font-size: 0.84rem !important;
+  color: var(--vc-text-muted); font-style: normal;
+}

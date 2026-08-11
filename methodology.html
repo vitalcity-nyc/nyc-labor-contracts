@@ -60,6 +60,17 @@
       <li><strong>Index.</strong> The frontend loads <code>data/clauses.json</code> and builds a FlexSearch full-text index in the browser. No server-side query — everything runs client-side. Searches are union-acronym aware: a query containing an acronym (PBA, DC37, CIR, &hellip;) also searches the union's full name, and vice versa, so results don't depend on which form a given contract happens to use.</li>
     </ol>
 
+    <h2 id="doc-types">What these documents are (and aren't)</h2>
+    <p>Most of what the Office of Labor Relations publishes is not a complete contract. Of the 100 documents in this corpus, <strong>63 expressly state that an underlying agreement remains in force</strong> and change only the terms written in them. Those underlying agreements are generally not published, so this database is a complete record of what the city discloses, not of everything that governs city workers.</p>
+    <p>Every document is classified by <code>scripts/classify_docs.py</code>, which reads the document text rather than trusting its file name, and records the verbatim sentence that justified the amendment flag. The four categories:</p>
+    <ul>
+      <li><strong>Full agreements (9)</strong> — self-contained contracts with a complete article structure. Median length about 127,000 characters.</li>
+      <li><strong>Consent determinations (36)</strong> — wage orders issued by the Comptroller under state Labor Law section 220 for skilled-trade titles, not bargained contracts. Most carry a full Appendix A of time and leave benefits. Median about 50,000 characters.</li>
+      <li><strong>Amendments, or memoranda of agreement (45)</strong> — documents that change specific economic terms and leave the rest of a prior agreement intact. Median about 4,800 characters.</li>
+      <li><strong>Uniformed unit agreements (10)</strong> — short letters executed under the Uniformed Officers Coalition Economic Agreement, which supplies their wage increases. Median about 3,700 characters.</li>
+    </ul>
+    <p>One consequence is visible in the topic tags: wage provisions appear in all 100 documents, but grievance and arbitration provisions appear in only 27, and no document in the corpus contains a management-rights clause. Every one of these bargaining units has a grievance procedure; those provisions simply live in documents the city does not publish.</p>
+
     <h2 id="gaps">Coverage beyond the OLR Recent Agreements page</h2>
     <p>The bulk of this corpus comes from OLR's "Recent Agreements" page, which is the authoritative list of contracts where the City of New York is the direct employer. Several major NYC public-sector unions whose contracts are not on that page are also included, sourced directly from OLR's contract download server, the City University of New York's labor relations page, and the unions themselves:</p>
     <ul>

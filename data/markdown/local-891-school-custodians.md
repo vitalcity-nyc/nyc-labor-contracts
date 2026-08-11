@@ -1,7 +1,9 @@
 ---
 contract_id: local-891-school-custodians
-label: "Local 891 School Custodians"
-expanded_label: "Local 891 School Custodians"
+label: "Local 891 School Custodians MOA, 2020-2025"
+expanded_label: "Local 891 School Custodians Memorandum of Agreement, 2020-2025"
+term_start: 2020
+term_end: 2025
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/local-891-mou-2020-2025.pdf"
 pages: 3
 ocr_pages: 2
@@ -10,14 +12,14 @@ clauses: 2
 sector: "education"
 ---
 
-# Local 891 School Custodians
+# Local 891 School Custodians Memorandum of Agreement, 2020-2025
 
-**Term:** term n/a  
+**Term:** 2020–2025  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/local-891-mou-2020-2025.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/local-891-mou-2020-2025.pdf)  
 **Pages:** 3 (2 OCR-reconstructed)  
 **Clauses extracted:** 2
 
-**Workforce:** Local 891 School Custodians — see contract for the full recognition clause defining covered titles.
+**Workforce:** Local 891 School Custodians MOA, 2020-2025 — see contract for the full recognition clause defining covered titles.
 
 > This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 

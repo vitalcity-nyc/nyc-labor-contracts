@@ -175,7 +175,11 @@ CURATED = {
         "employer": "City University of New York (CUNY)",
         "sector": "education",
         "headcount": 30000,
-        "headcount_note": "~30,000 faculty and professional staff at CUNY per PSC public statements.",
+        # Same ~30,000 PSC members as the 2023-2027 MOA entry. Both documents
+        # cover one population, so this one is excluded from the site-wide
+        # covered-employee total to avoid double-counting.
+        "headcount_duplicate_of": "psc-cuny-moa-2023-2027",
+        "headcount_note": "~30,000 faculty and professional staff at CUNY per PSC public statements. This is the same population covered by the 2023-2027 PSC-CUNY MOA, not an additional 30,000; it is counted once in the site-wide total.",
         "summary": "Underlying 2017-2023 collective bargaining agreement between CUNY and PSC, modified by the 2023-2027 MOA (also in this corpus). Provides the full text of articles on workload, academic freedom, governance, grievance, and other non-economic provisions that the MOA does not re-state.",
         "titles": ["Professor", "Associate Professor", "Assistant Professor", "Lecturer", "Adjunct Faculty", "Higher Education Officer", "College Lab Technician", "Graduate Assistant"],
     },

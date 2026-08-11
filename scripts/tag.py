@@ -31,6 +31,11 @@ TOPICS = {
     "training": [r"\btraining\b", r"\beducation reimbursement\b", r"\btuition\b"],
     "safety": [r"\bsafety\b", r"\bhealth and safety\b", r"\bunsafe\b", r"\binjur(y|ies)\b", r"\bworkers'? compensation\b"],
     "no-strike": [r"\bno[- ]strike\b", r"\bstrike\b", r"\bwork stoppage\b"],
+    # Matches zero clauses in the current corpus (verified 2026-08-10): the
+    # phrase "management rights" does not appear anywhere in the published
+    # documents. That is a real absence, not a pattern bug — management-rights
+    # articles live in the underlying unit agreements OLR does not publish.
+    # Kept so a future contract containing one is tagged rather than missed.
     "management-rights": [r"\bmanagement (rights|prerogatives?)\b"],
     "work-rules": [r"\bwork rules?\b", r"\bpersonnel rules\b"],
     "agency-shop": [r"\bagency (fee|shop)\b", r"\bdues check[- ]?off\b", r"\bdues deduction\b", r"\bunion (membership|security)\b"],
@@ -38,6 +43,7 @@ TOPICS = {
     "promotion": [r"\bpromotion\b", r"\bcivil service\b", r"\beligible list\b"],
     "telework": [r"\btelework\b", r"\bremote work\b", r"\btelecommut\b", r"\bflexible work\b"],
     "diversity": [r"\bdiscrimination\b", r"\bharassment\b", r"\bequal (employment )?opportunity\b", r"\bDEI\b"],
+    # Also matches zero clauses in the current corpus (verified 2026-08-10).
     "workforce-comp": [r"\bworkforce composition\b", r"\bcomp(osition|liance) of (the )?workforce\b"],
 }
 

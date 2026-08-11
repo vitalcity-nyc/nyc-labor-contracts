@@ -52,6 +52,30 @@
     compareSet: new Set(),
   };
 
+  // What kind of document each file actually is. Most of what OLR publishes is
+  // an amendment that changes a few terms of an underlying agreement it does
+  // not publish — so the directory groups by type instead of presenting a
+  // 2,700-character memo and a 400,000-character contract as equivalents.
+  const DOC_TYPE_ORDER = ["full-agreement", "consent-determination", "moa", "unit-agreement"];
+  const DOC_TYPE_LABELS = {
+    "full-agreement": "Full agreements",
+    "consent-determination": "Consent determinations",
+    "moa": "Amendments (memoranda of agreement)",
+    "unit-agreement": "Uniformed unit agreements",
+  };
+  const DOC_TYPE_BLURB = {
+    "full-agreement": "Self-contained collective bargaining agreements. These carry the complete article structure — recognition, grievance procedure, discipline, hours, leave — and can be read on their own.",
+    "consent-determination": "Wage orders issued by the Comptroller under state Labor Law section 220 for skilled-trade titles, rather than bargained contracts. Most include a full Appendix A of time and leave benefits.",
+    "moa": "Amendments. Each one changes specific economic terms — usually wages, welfare fund contributions and bonuses — and expressly leaves the rest of an underlying agreement in force. That underlying agreement is generally not published by the Office of Labor Relations, so these documents are not a complete statement of what governs the workers they cover.",
+    "unit-agreement": "Short letters executed under the Uniformed Officers Coalition Economic Agreement. Wage increases come from that parent agreement; these add unit-specific items only.",
+  };
+  const DOC_TYPE_SHORT = {
+    "full-agreement": "Full agreement",
+    "consent-determination": "Consent determination",
+    "moa": "Amendment",
+    "unit-agreement": "Unit agreement",
+  };
+
   const SECTOR_LABELS = {
     "uniformed-police": "Uniformed — Police",
     "uniformed-fire": "Uniformed — Fire",
@@ -298,11 +322,18 @@
   function renderUnits(root) {
     const header = document.createElement("div");
     header.className = "topic-pivot-header";
-    const totalCovered = state.units.reduce((s, u) => s + (u.headcount || 0), 0);
-    const curated = state.units.filter(u => u.curated).length;
+    // Skip units flagged as covering a population already counted under another
+    // contract (e.g. the 2017-2023 PSC-CUNY agreement and its 2023-2027 MOA are
+    // the same ~30,000 people) so the total isn't inflated by double-counting.
+    const totalCovered = state.units.reduce(
+      (s, u) => s + (u.headcount_duplicate_of ? 0 : (u.headcount || 0)), 0);
+    // Count the units actually contributing to the total, not every curated
+    // unit — some curated entries have no sourced headcount, and one is a
+    // duplicate population.
+    const counted = state.units.filter(u => u.headcount && !u.headcount_duplicate_of).length;
     header.innerHTML = `
       <h2>Bargaining units — who's covered</h2>
-      <p>${state.units.length} bargaining units across NYC government. Headcounts shown for the ${curated} largest (totaling ~${totalCovered.toLocaleString()} covered employees) where a public source is available; smaller units' headcounts are still being sourced.</p>
+      <p>${state.units.length} bargaining units across NYC government. Headcounts shown for the ${counted} largest, totaling ~${totalCovered.toLocaleString()} covered employees, where a public source is available; smaller units' headcounts are still being sourced.</p>
     `;
     root.appendChild(header);
 
@@ -410,15 +441,34 @@
       if (ua !== ub) return ub - ua;
       return a.label.localeCompare(b.label);
     });
-    $("#result-count").textContent = `${contracts.length} agreements · click any tile to read`;
+    $("#result-count").textContent = `${contracts.length} documents · click any tile to read`;
+    const nAmend = state.contracts.filter(c => c.amends_predecessor).length;
     const intro = document.createElement("div");
     intro.className = "tiles-intro";
-    intro.innerHTML = `<p>Type in the search box above to find clauses across all ${state.contracts.length} agreements at once. Or click into any single contract below to read its full text, browse its articles, and link out to the source PDF.</p>`;
+    intro.innerHTML = `<p>Type in the search box above to search all ${state.contracts.length} documents at once, or click any document below to read its full text. These are grouped by what they actually are: ${nAmend} of the ${state.contracts.length} expressly continue an underlying agreement rather than replacing it, and the Office of Labor Relations generally does not publish those underlying agreements. <a href="methodology.html#gaps">What that means for coverage</a>.</p>`;
     root.appendChild(intro);
-    const grid = document.createElement("div");
-    grid.className = "contract-tile-grid";
-    contracts.forEach(c => grid.appendChild(contractTile(c)));
-    root.appendChild(grid);
+
+    const byType = new Map();
+    contracts.forEach(c => {
+      const t = c.doc_type || "moa";
+      if (!byType.has(t)) byType.set(t, []);
+      byType.get(t).push(c);
+    });
+    DOC_TYPE_ORDER.filter(t => byType.has(t)).forEach(t => {
+      const items = byType.get(t);
+      const sec = document.createElement("section");
+      sec.className = "doc-type-group";
+      sec.innerHTML = `
+        <header class="doc-type-header">
+          <h2 class="doc-type-title">${DOC_TYPE_LABELS[t]} <span class="doc-type-count">${items.length}</span></h2>
+          <p class="doc-type-blurb">${DOC_TYPE_BLURB[t]}</p>
+        </header>
+        <div class="contract-tile-grid"></div>
+      `;
+      const grid = sec.querySelector(".contract-tile-grid");
+      items.forEach(c => grid.appendChild(contractTile(c)));
+      root.appendChild(sec);
+    });
   }
 
   function contractTile(contract) {
@@ -437,6 +487,9 @@
       : contract.ocr_quality === "fair"
       ? `<span class="contract-tile-ocr fair" title="This contract had some OCR errors. Most have been corrected; verify quotes against the source PDF.">some OCR errors</span>`
       : "";
+    const amendBadge = contract.amends_predecessor
+      ? `<span class="contract-tile-amends" title="This document expressly leaves an underlying agreement in force and changes only the terms stated in it. That underlying agreement is generally not published by OLR.">amends a prior agreement</span>`
+      : "";
     tile.innerHTML = `
       <div class="contract-tile-kicker">${escapeHtml(sector)}${headcountBadge ? " · " + headcountBadge : ""}</div>
       <h3 class="contract-tile-name">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(contract.label) : contract.label)}</h3>
@@ -445,6 +498,7 @@
         <span class="contract-tile-clauses">${clauseCount} clause${clauseCount === 1 ? "" : "s"}</span>
         ${qualityBadge}
       </div>
+      ${amendBadge}
     `;
     return tile;
   }
@@ -571,20 +625,35 @@
 
   function renderContracts(root) {
     const list = state.contracts.slice().sort((a,b)=>a.label.localeCompare(b.label));
-    $("#result-count").textContent = `${list.length} contracts`;
+    $("#result-count").textContent = `${list.length} documents`;
+    const byType = new Map();
     list.forEach(c => {
-      const card = document.createElement("div");
-      card.className = "contract-card";
-      const clauseCount = state.clauses.filter(cl => cl.contract_id === c.id).length;
-      const term = (c.term_start && c.term_end) ? `${c.term_start}–${c.term_end}` : "term n/a";
-      card.innerHTML = `
-        <div>
-          <h3><a href="#/contract/${encodeURIComponent(c.id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(c.label) : c.label)}</a></h3>
-          <div class="term">${term} · <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">source PDF</a></div>
-        </div>
-        <div class="stats">${clauseCount} clauses</div>
-      `;
-      root.appendChild(card);
+      const t = c.doc_type || "moa";
+      if (!byType.has(t)) byType.set(t, []);
+      byType.get(t).push(c);
+    });
+    DOC_TYPE_ORDER.filter(t => byType.has(t)).forEach(t => {
+      const items = byType.get(t);
+      const head = document.createElement("div");
+      head.className = "doc-type-header doc-type-header-inline";
+      head.innerHTML = `
+        <h2 class="doc-type-title">${DOC_TYPE_LABELS[t]} <span class="doc-type-count">${items.length}</span></h2>
+        <p class="doc-type-blurb">${DOC_TYPE_BLURB[t]}</p>`;
+      root.appendChild(head);
+      items.forEach(c => {
+        const card = document.createElement("div");
+        card.className = "contract-card";
+        const clauseCount = state.clauses.filter(cl => cl.contract_id === c.id).length;
+        const term = (c.term_start && c.term_end) ? `${c.term_start}–${c.term_end}` : "term n/a";
+        card.innerHTML = `
+          <div>
+            <h3><a href="#/contract/${encodeURIComponent(c.id)}">${escapeHtml(window.expandContractLabel ? window.expandContractLabel(c.label) : c.label)}</a></h3>
+            <div class="term">${term} · <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">source PDF</a>${c.amends_predecessor ? ' · <span class="contract-card-amends">amends a prior agreement</span>' : ""}</div>
+          </div>
+          <div class="stats">${clauseCount} clauses</div>
+        `;
+        root.appendChild(card);
+      });
     });
   }
 
@@ -680,7 +749,13 @@
         ${unit?.sector ? `<p class="doc-view-kicker">${SECTOR_LABELS[unit.sector] || unit.sector}${unit.headcount ? " · ~" + unit.headcount.toLocaleString() + " covered" : ""}</p>` : ""}
         <h2 class="doc-view-title">${escapeHtml(expandedLabel)}</h2>
         ${unit?.summary ? `<p class="doc-view-summary">${escapeHtml(unit.summary)}</p>` : ""}
+        ${c.amends_predecessor ? `
+          <aside class="doc-view-amend-note">
+            <p><strong>This is an amendment, not a complete contract.</strong> It changes the specific terms set out below and expressly leaves the rest of an underlying agreement in force. The Office of Labor Relations generally does not publish that underlying agreement, so provisions on grievance procedure, discipline, seniority and similar subjects may govern these workers without appearing anywhere in this document.</p>
+            ${c.amends_evidence ? `<p class="doc-view-amend-quote">Language in this document: &ldquo;${escapeHtml(c.amends_evidence)}&hellip;&rdquo;</p>` : ""}
+          </aside>` : ""}
         <div class="doc-view-meta">
+          <span><strong>Type</strong> ${DOC_TYPE_SHORT[c.doc_type] || "Document"}</span>
           <span><strong>Term</strong> ${term}</span>
           <span><strong>Pages</strong> ${totalPages}${ocrPages.size ? ` (${ocrPages.size} OCR'd)` : ""}</span>
           <span><strong>Sections</strong> ${items.length}</span>

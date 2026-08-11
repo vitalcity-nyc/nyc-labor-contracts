@@ -1,7 +1,9 @@
 ---
 contract_id: lba-10-5-2023-unit-bargaining-agreement
-label: "Lba 10 5 2023 Unit Bargaining Agreement"
-expanded_label: "Lieutenants Benevolent Association (LBA) — 10 5 2023 Unit Bargaining Agreement"
+label: "LBA Unit Bargaining Agreement, 2022-2027"
+expanded_label: "Lieutenants Benevolent Association (LBA) — Unit Bargaining Agreement, 2022-2027"
+term_start: 2022
+term_end: 2027
 source_pdf: "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/lba-10-5-2023-unit-bargaining-agreement.pdf"
 pages: 2
 ocr_pages: 2
@@ -10,14 +12,14 @@ clauses: 1
 sector: "uniformed-police"
 ---
 
-# Lieutenants Benevolent Association (LBA) — 10 5 2023 Unit Bargaining Agreement
+# Lieutenants Benevolent Association (LBA) — Unit Bargaining Agreement, 2022-2027
 
-**Term:** term n/a  
+**Term:** 2022–2027  
 **Source PDF:** [https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/lba-10-5-2023-unit-bargaining-agreement.pdf](https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/lba-10-5-2023-unit-bargaining-agreement.pdf)  
 **Pages:** 2 (2 OCR-reconstructed)  
 **Clauses extracted:** 1
 
-**Workforce:** Lba 10 5 2023 Unit Bargaining Agreement — see contract for the full recognition clause defining covered titles.
+**Workforce:** LBA Unit Bargaining Agreement, 2022-2027 — see contract for the full recognition clause defining covered titles.
 
 > This Markdown export is derived from the source PDF via `pdfplumber` text extraction with `ocrmac` (macOS Vision) OCR fallback for image-only pages. Tables were detected and rendered as pipe-delimited Markdown so column boundaries survive. Pages flagged `OCR` were reconstructed from page images and may contain minor character recognition errors — verify quotations against the source PDF before publishing.
 

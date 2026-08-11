@@ -383,16 +383,16 @@
  },
  {
   "contract_id": "lba-10-5-2023-unit-bargaining-agreement",
-  "contract_label": "Lba 10 5 2023 Unit Bargaining Agreement",
-  "term_start": null,
-  "term_end": null,
+  "contract_label": "LBA Unit Bargaining Agreement, 2022-2027",
+  "term_start": 2022,
+  "term_end": 2027,
   "sector": "uniformed-police",
   "union_full": null,
   "local": null,
   "employer": null,
   "headcount": null,
   "headcount_note": null,
-  "summary": "Lba 10 5 2023 Unit Bargaining Agreement \u2014 see contract for the full recognition clause defining covered titles.",
+  "summary": "LBA Unit Bargaining Agreement, 2022-2027 \u2014 see contract for the full recognition clause defining covered titles.",
   "titles": [],
   "curated": false
  },
@@ -488,16 +488,16 @@
  },
  {
   "contract_id": "local-891-school-custodians",
-  "contract_label": "Local 891 School Custodians",
-  "term_start": null,
-  "term_end": null,
+  "contract_label": "Local 891 School Custodians MOA, 2020-2025",
+  "term_start": 2020,
+  "term_end": 2025,
   "sector": "education",
   "union_full": null,
   "local": null,
   "employer": null,
   "headcount": null,
   "headcount_note": null,
-  "summary": "Local 891 School Custodians \u2014 see contract for the full recognition clause defining covered titles.",
+  "summary": "Local 891 School Custodians MOA, 2020-2025 \u2014 see contract for the full recognition clause defining covered titles.",
   "titles": [],
   "curated": false
  },
@@ -1558,7 +1558,7 @@
   "local": "AFT Local 2334",
   "employer": "City University of New York (CUNY)",
   "headcount": 30000,
-  "headcount_note": "~30,000 faculty and professional staff at CUNY per PSC public statements.",
+  "headcount_note": "~30,000 faculty and professional staff at CUNY per PSC public statements. This is the same population covered by the 2023-2027 PSC-CUNY MOA, not an additional 30,000; it is counted once in the site-wide total.",
   "summary": "Underlying 2017-2023 collective bargaining agreement between CUNY and PSC, modified by the 2023-2027 MOA (also in this corpus). Provides the full text of articles on workload, academic freedom, governance, grievance, and other non-economic provisions that the MOA does not re-state.",
   "titles": [
    "Professor",
@@ -1570,7 +1570,8 @@
    "College Lab Technician",
    "Graduate Assistant"
   ],
-  "curated": true
+  "curated": true,
+  "headcount_duplicate_of": "psc-cuny-moa-2023-2027"
  },
  {
   "contract_id": "deputy-sheriffs-moa-2022-2027",
