@@ -989,3 +989,23 @@ html.embed .controls { margin-top: 0; }
   margin-top: 8px !important; font-size: 0.84rem !important;
   color: var(--vc-text-muted); font-style: normal;
 }
+
+/* ---------- Predecessor agreement link ---------- */
+.doc-view-predecessor {
+  margin: 10px 0 0 !important; padding-top: 10px;
+  border-top: 1px solid rgba(0,0,0,0.12);
+  font-size: 0.92rem; line-height: 1.5;
+}
+.doc-view-predecessor a { color: var(--vc-text); font-weight: 400; }
+.doc-view-predecessor a:hover { color: #8a3b1f; }
+.doc-view-predecessor-src {
+  display: block; margin-top: 4px;
+  font-size: 0.8rem; color: var(--vc-charcoal);
+}
+.contract-tile-haspred {
+  display: inline-block; margin-top: 6px;
+  font-size: 0.66rem; font-weight: 700;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--vc-cerulean); border: 1px solid var(--vc-cerulean);
+  padding: 1px 6px;
+}

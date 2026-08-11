@@ -10,7 +10,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 4684
+  "chars": 4684,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu11-corrections-assistant-deputy-wardens-revised-030108-to-06-30-12.pdf",
+   "label": "Assistant deputy wardens underlying agreement, 2008-2012 (CBU 11)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "ale-executed-contract-2021-2027",
@@ -37,7 +43,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 3699
+  "chars": 3699,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu25-corrections-captains-121607-to-063012.pdf",
+   "label": "Correction captains underlying agreement, 2007-2012 (CBU 25)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "cea-unit-agreement-2022-2027",
@@ -50,7 +62,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 3095
+  "chars": 3095,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu17-police-captains-endowment-association-110103-to-033112.pdf",
+   "label": "CEA underlying unit agreement, 2003-2012 (CBU 17)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "cir-executed-contract-2021-2027",
@@ -77,7 +95,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 5015
+  "chars": 5015,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu27-corrections-officers-110109-to-103111.pdf",
+   "label": "Correction officers underlying agreement, 2009-2011 (CBU 27)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "csa-moa-2023-2028-amended-appendix-a",
@@ -195,7 +219,13 @@
   "doc_type": "moa",
   "amends_predecessor": true,
   "amends_evidence": "terms of the predecessor separate unit agreements shall be continued",
-  "chars": 12664
+  "chars": 12664,
+  "predecessor": {
+   "url": "https://www.dc37.net/app/uploads/dc37contracts/pdfs/2001_2021_Citywide_Agreement.pdf",
+   "label": "2001-2021 Citywide Agreement, the underlying citywide contract",
+   "publisher": "District Council 37",
+   "verified": true
+  }
  },
  {
   "id": "dea-unit-agreement-2022-2027",
@@ -209,7 +239,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 2638
+  "chars": 2638,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu29-police-detectives-endowment-association-mou-040108-to-033112.pdf",
+   "label": "DEA underlying memorandum of understanding, 2008-2012 (CBU 29)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "dia-moa-2023-2028",
@@ -314,7 +350,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 2529
+  "chars": 2529,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu59-police-lieutenants-benevolent-association-110109-to-103111.pdf",
+   "label": "LBA underlying unit agreement, 2009-2011 (CBU 59)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "leeba-epo-moa-2017-2026",
@@ -498,7 +540,13 @@
   "doc_type": "moa",
   "amends_predecessor": true,
   "amends_evidence": "terms of the predecessor separate unit agreement, including side letters, shall be continued",
-  "chars": 24386
+  "chars": 24386,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu79-police-patrolmens-benevolent-association-080106-to-073110.pdf",
+   "label": "PBA underlying unit agreement, 2006-2010 (CBU 79)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "sba-unit-agreement-2021-2026",
@@ -511,7 +559,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": true,
   "amends_evidence": "except as modified by this",
-  "chars": 2166
+  "chars": 2166,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu91-police-sergeants-benevolent-association%20-060105-to-082911.pdf",
+   "label": "SBA underlying unit agreement, 2005-2011 (CBU 91)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "soa-unit-agreement-2023-2028",
@@ -524,7 +578,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 4381
+  "chars": 4381,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu99-sanitation-officers-111307-to-070112.pdf",
+   "label": "Sanitation officers underlying agreement, 2007-2012 (CBU 99)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "supervisor-of-mechanics-l621-executed-contract-2021-2026",
@@ -550,7 +610,13 @@
   "doc_type": "moa",
   "amends_predecessor": true,
   "amends_evidence": "all other terms and conditions of employment will continue",
-  "chars": 95760
+  "chars": 95760,
+  "predecessor": {
+   "url": "https://www.uft.org/your-rights/contracts/doe-and-city-contracts-printable-versions",
+   "label": "Full UFT-DOE contracts by title (teachers, paraprofessionals, secretaries, counselors, nurses and therapists, psychologists and social workers)",
+   "publisher": "United Federation of Teachers",
+   "verified": true
+  }
  },
  {
   "id": "uniformed-coalition-economic-agreement-2022-2027",
@@ -591,7 +657,13 @@
   "doc_type": "full-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 135469
+  "chars": 135469,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu49-sanitation-workers-030207-to-092011.pdf",
+   "label": "Sanitation workers underlying agreement, 2007-2011 (CBU 49)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "usca-unit-agreement-2022-2027",
@@ -604,7 +676,13 @@
   "doc_type": "unit-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 2460
+  "chars": 2460,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu100-sanitation-chiefs-re-opner-101007-to-100911.pdf",
+   "label": "Sanitation chiefs underlying agreement, 2007-2011 (CBU 100)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "2001-2021-citywide-agreement",
@@ -1251,7 +1329,13 @@
   "doc_type": "moa",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 17624
+  "chars": 17624,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu41-fire-uniformed-080108-to-073110.pdf",
+   "label": "Uniformed firefighters underlying agreement, 2008-2010 (CBU 41)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "ufoa-fire-officers-2018-2021",
@@ -1265,7 +1349,13 @@
   "doc_type": "full-agreement",
   "amends_predecessor": false,
   "amends_evidence": null,
-  "chars": 126631
+  "chars": 126631,
+  "predecessor": {
+   "url": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/cbu43-fire-officers-032007-to-031911.pdf",
+   "label": "Fire officers underlying agreement, 2007-2011 (CBU 43)",
+   "publisher": "NYC Office of Labor Relations",
+   "verified": true
+  }
  },
  {
   "id": "nysna-staff-nurses-2019-2023",

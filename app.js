@@ -499,6 +499,7 @@
         ${qualityBadge}
       </div>
       ${amendBadge}
+      ${contract.predecessor ? `<span class="contract-tile-haspred" title="${escapeHtml(contract.predecessor.label)} — published by ${escapeHtml(contract.predecessor.publisher)}">underlying agreement linked</span>` : ""}
     `;
     return tile;
   }
@@ -751,7 +752,13 @@
         ${unit?.summary ? `<p class="doc-view-summary">${escapeHtml(unit.summary)}</p>` : ""}
         ${c.amends_predecessor ? `
           <aside class="doc-view-amend-note">
-            <p><strong>This is an amendment, not a complete contract.</strong> It changes the specific terms set out below and expressly leaves the rest of an underlying agreement in force. That underlying agreement is a public record, but it is not linked here or indexed on the Office of Labor Relations site, so provisions on grievance procedure, discipline, seniority and similar subjects may govern these workers without appearing anywhere in this document. <a href="methodology.html#doc-types">Where to find the underlying agreement</a>.</p>
+            <p><strong>This is an amendment, not a complete contract.</strong> It changes the specific terms set out below and expressly leaves the rest of an underlying agreement in force, so provisions on grievance procedure, discipline, seniority and similar subjects may govern these workers without appearing anywhere in this document. ${c.predecessor ? "" : `That underlying agreement is a public record but is not linked here or indexed on the Office of Labor Relations site. <a href="methodology.html#doc-types">Where to look for it</a>.`}</p>
+            ${c.predecessor ? `
+              <p class="doc-view-predecessor">
+                <strong>Read the underlying agreement:</strong>
+                <a href="${escapeHtml(c.predecessor.url)}" target="_blank" rel="noopener">${escapeHtml(c.predecessor.label)} &#8599;</a>
+                <span class="doc-view-predecessor-src">Published by ${escapeHtml(c.predecessor.publisher)}, and checked when this site was built. The city does not link it from this document.</span>
+              </p>` : ""}
             ${c.amends_evidence ? `<p class="doc-view-amend-quote">Language in this document: &ldquo;${escapeHtml(c.amends_evidence)}&hellip;&rdquo;</p>` : ""}
           </aside>` : ""}
         <div class="doc-view-meta">
