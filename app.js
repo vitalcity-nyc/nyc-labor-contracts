@@ -66,7 +66,7 @@
   const DOC_TYPE_BLURB = {
     "full-agreement": "Self-contained collective bargaining agreements. These carry the complete article structure — recognition, grievance procedure, discipline, hours, leave — and can be read on their own.",
     "consent-determination": "Wage orders issued by the Comptroller under state Labor Law section 220 for skilled-trade titles, rather than bargained contracts. Most include a full Appendix A of time and leave benefits.",
-    "moa": "Amendments. Each one changes specific economic terms — usually wages, welfare fund contributions and bonuses — and expressly leaves the rest of an underlying agreement in force. That underlying agreement is generally not published by the Office of Labor Relations, so these documents are not a complete statement of what governs the workers they cover.",
+    "moa": "Amendments. Each one changes specific economic terms — usually wages, welfare fund contributions and bonuses — and expressly leaves the rest of an underlying agreement in force. Those underlying agreements are public records, but they are not linked from these documents or indexed on the Office of Labor Relations site; some sit unlinked on the city's own server, others are published by the unions or by outside databases. So an amendment on its own is not a complete statement of what governs the workers it covers.",
     "unit-agreement": "Short letters executed under the Uniformed Officers Coalition Economic Agreement. Wage increases come from that parent agreement; these add unit-specific items only.",
   };
   const DOC_TYPE_SHORT = {
@@ -445,7 +445,7 @@
     const nAmend = state.contracts.filter(c => c.amends_predecessor).length;
     const intro = document.createElement("div");
     intro.className = "tiles-intro";
-    intro.innerHTML = `<p>Type in the search box above to search all ${state.contracts.length} documents at once, or click any document below to read its full text. These are grouped by what they actually are: ${nAmend} of the ${state.contracts.length} expressly continue an underlying agreement rather than replacing it, and the Office of Labor Relations generally does not publish those underlying agreements. <a href="methodology.html#gaps">What that means for coverage</a>.</p>`;
+    intro.innerHTML = `<p>Type in the search box above to search all ${state.contracts.length} documents at once, or click any document below to read its full text. These are grouped by what they actually are: ${nAmend} of the ${state.contracts.length} expressly continue an underlying agreement rather than replacing it, and those underlying agreements are not linked from these documents or indexed on the Office of Labor Relations site. <a href="methodology.html#doc-types">What that means for coverage</a>.</p>`;
     root.appendChild(intro);
 
     const byType = new Map();
@@ -488,7 +488,7 @@
       ? `<span class="contract-tile-ocr fair" title="This contract had some OCR errors. Most have been corrected; verify quotes against the source PDF.">some OCR errors</span>`
       : "";
     const amendBadge = contract.amends_predecessor
-      ? `<span class="contract-tile-amends" title="This document expressly leaves an underlying agreement in force and changes only the terms stated in it. That underlying agreement is generally not published by OLR.">amends a prior agreement</span>`
+      ? `<span class="contract-tile-amends" title="This document expressly leaves an underlying agreement in force and changes only the terms stated in it. That underlying agreement is a public record but is not linked here or indexed on the OLR site.">amends a prior agreement</span>`
       : "";
     tile.innerHTML = `
       <div class="contract-tile-kicker">${escapeHtml(sector)}${headcountBadge ? " · " + headcountBadge : ""}</div>
@@ -751,7 +751,7 @@
         ${unit?.summary ? `<p class="doc-view-summary">${escapeHtml(unit.summary)}</p>` : ""}
         ${c.amends_predecessor ? `
           <aside class="doc-view-amend-note">
-            <p><strong>This is an amendment, not a complete contract.</strong> It changes the specific terms set out below and expressly leaves the rest of an underlying agreement in force. The Office of Labor Relations generally does not publish that underlying agreement, so provisions on grievance procedure, discipline, seniority and similar subjects may govern these workers without appearing anywhere in this document.</p>
+            <p><strong>This is an amendment, not a complete contract.</strong> It changes the specific terms set out below and expressly leaves the rest of an underlying agreement in force. That underlying agreement is a public record, but it is not linked here or indexed on the Office of Labor Relations site, so provisions on grievance procedure, discipline, seniority and similar subjects may govern these workers without appearing anywhere in this document. <a href="methodology.html#doc-types">Where to find the underlying agreement</a>.</p>
             ${c.amends_evidence ? `<p class="doc-view-amend-quote">Language in this document: &ldquo;${escapeHtml(c.amends_evidence)}&hellip;&rdquo;</p>` : ""}
           </aside>` : ""}
         <div class="doc-view-meta">

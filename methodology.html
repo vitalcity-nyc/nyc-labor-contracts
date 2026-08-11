@@ -61,7 +61,15 @@
     </ol>
 
     <h2 id="doc-types">What these documents are (and aren't)</h2>
-    <p>Most of what the Office of Labor Relations publishes is not a complete contract. Of the 100 documents in this corpus, <strong>63 expressly state that an underlying agreement remains in force</strong> and change only the terms written in them. Those underlying agreements are generally not published, so this database is a complete record of what the city discloses, not of everything that governs city workers.</p>
+    <p>Most of what the Office of Labor Relations publishes is not a complete contract. Of the 100 documents in this corpus, <strong>63 expressly state that an underlying agreement remains in force</strong> and change only the terms written in them.</p>
+    <p><strong>Those underlying agreements are public records, and many are published — but they are not linked from the amendments that depend on them, and they are not indexed anywhere on the OLR site.</strong> The Recent Agreements page lists only the current bargaining round; the Past Agreements page holds exactly two documents, both citywide agreements. Predecessor unit agreements are nonetheless reachable in at least four ways:</p>
+    <ul>
+      <li><strong>Unlinked on the city's own server.</strong> Older agreements often remain live under <code>nyc.gov/assets/olr/downloads/pdf/collectivebargaining/</code> without appearing on any OLR page. The Sergeants Benevolent Association's 2018-2021 memorandum of agreement, for example, is a 4.7 MB PDF that resolves today but is not linked from either OLR index — you can only reach it if you already know the file name.</li>
+      <li><strong>From the unions.</strong> Many unions post their own contracts; the Committee of Interns and Residents and PSC-CUNY texts in this corpus come from union or CUNY copies for exactly that reason.</li>
+      <li><strong>Outside databases.</strong> The Empire Center's <a href="https://www.seethroughny.net/contracts" target="_blank" rel="noopener">SeeThroughNY contracts database</a> hosts downloadable New York public-sector agreements, including New York City ones.</li>
+      <li><strong>By records request.</strong> Executed agreements are public records obtainable under the state Freedom of Information Law, and agreements are registered with the Comptroller.</li>
+    </ul>
+    <p>So the accurate characterization is a findability problem rather than a secrecy one: a reader who starts from an amendment on the OLR site has no path from that document to the agreement it modifies. This database inherits that limitation — it covers what OLR indexes, so the predecessor agreements are outside its scope.</p>
     <p>Every document is classified by <code>scripts/classify_docs.py</code>, which reads the document text rather than trusting its file name, and records the verbatim sentence that justified the amendment flag. The four categories:</p>
     <ul>
       <li><strong>Full agreements (9)</strong> — self-contained contracts with a complete article structure. Median length about 127,000 characters.</li>
